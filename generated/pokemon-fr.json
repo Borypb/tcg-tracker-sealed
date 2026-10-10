@@ -8033,11 +8033,8 @@
   {
     "id": "pkm-fr-tcp625695",
     "kind": "collection",
-    "name": "Coffret 's Mewtwo ex",
+    "name": "Coffret Mewtwo de la Team Rocket ex",
     "lang": "fr",
-    "setIds": [
-      "pkm-base5"
-    ],
     "releasedAt": "2025-06-13",
     "image": "https://tcgplayer-cdn.tcgplayer.com/product/625695_200w.jpg",
     "imageLang": "en",
@@ -8318,31 +8315,10 @@
     }
   },
   {
-    "id": "pkm-fr-tcp656995",
-    "kind": "blister",
-    "name": "Duopack Team Rocket",
-    "lang": "fr",
-    "setIds": [
-      "pkm-base5"
-    ],
-    "editions": [
-      "Artikodin de la Team Rocket Électhor et Tyranocif"
-    ],
-    "image": "https://tcgplayer-cdn.tcgplayer.com/product/656995_200w.jpg",
-    "imageLang": "en",
-    "derived": {
-      "from": "tcgplayer:656995",
-      "en": "2-Pack Blister Pack [Team Rocket's Articuno, Zapdos & Tyranitar]"
-    }
-  },
-  {
     "id": "pkm-fr-tcp656997",
     "kind": "upc",
-    "name": "Collection Ultra Premium ’s Sulfura ex",
+    "name": "Collection Ultra Premium Sulfura de la Team Rocket ex",
     "lang": "fr",
-    "setIds": [
-      "pkm-base5"
-    ],
     "image": "https://tcgplayer-cdn.tcgplayer.com/product/656997_200w.jpg",
     "imageLang": "en",
     "derived": {
@@ -8434,6 +8410,18 @@
     "derived": {
       "from": "tcgplayer:666512",
       "en": "Reshiram ex Box"
+    }
+  },
+  {
+    "id": "pkm-fr-tcp668590",
+    "kind": "collection",
+    "name": "Coffret Jour 2026",
+    "lang": "fr",
+    "image": "https://tcgplayer-cdn.tcgplayer.com/product/668590_200w.jpg",
+    "imageLang": "en",
+    "derived": {
+      "from": "tcgplayer:668590",
+      "en": "Pokemon Day 2026 Collection"
     }
   },
   {
@@ -15691,12 +15679,14 @@
     "releasedAt": "2026-10-02",
     "editions": [
       "Mentali",
+      "Jour Pikachu",
       "Mew",
       "Lokhlass",
       "Sulfura",
       "Électhor",
       "Noctali",
       "Mewtwo",
+      "Nuit Pikachu",
       "Amphinobi"
     ],
     "image": "https://tcgplayer-cdn.tcgplayer.com/product/704176_200w.jpg",
@@ -15731,6 +15721,10 @@
       "pkm-30th"
     ],
     "releasedAt": "2026-11-06",
+    "editions": [
+      "Jour",
+      "Nuit"
+    ],
     "image": "https://tcgplayer-cdn.tcgplayer.com/product/704190_200w.jpg",
     "imageLang": "en",
     "derived": {

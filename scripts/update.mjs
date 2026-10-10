@@ -4,6 +4,7 @@ import { harvestJpOfficial } from "./harvest-jp.mjs";
 import { localize, TEMPLATES } from "./localize.mjs";
 import { build } from "./build.mjs";
 import { prices } from "./prices.mjs";
+import { fx } from "./fx.mjs";
 
 for (const [game, sources] of Object.entries(SOURCES)) {
   for (const src of sources) await harvest(game, src);
@@ -20,3 +21,9 @@ for (const [game, sources] of Object.entries(SOURCES)) {
 await build();
 // cotes du jour (fichier séparé : le catalogue ne change pas de version chaque jour)
 await prices("pokemon", "pkm");
+// taux de change BCE (secours de l'app pour convertir les prix)
+try {
+  await fx();
+} catch (e) {
+  console.warn("Taux BCE indisponibles :", e.message);
+}

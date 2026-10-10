@@ -41,6 +41,9 @@ Une GitHub Action (`.github/workflows/update.yml`) tourne chaque nuit, et à la 
    Une fiche Cardmarket de produit scellé couvre toutes les langues européennes : la cote est « toutes langues ».
    Les boîtes « 1st Edition », que Cardmarket ne distingue pas, restent sans cote plutôt qu'avec une cote fausse.
 
+5. **Taux de change** (`fx.mjs`) : taux de référence de la BCE (1 € = x devise) dans `fx.json`.
+   L'app les prend d'abord chez Frankfurter (même source BCE) et se rabat sur ce fichier si besoin.
+
 Les produits déduits portent un champ `derived` (nom anglais d'origine) ; ceux du catalogue manuel, `verified: true`.
 
 ## index.json

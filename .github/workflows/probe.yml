@@ -1,17 +1,21 @@
 name: Sonde temporaire (à supprimer)
 on: workflow_dispatch
+permissions:
+  contents: write
 jobs:
   probe:
     runs-on: ubuntu-latest
     steps:
-      - name: Liste des produits pokemon-card.com
+      - name: Pages pokemon-card.com
         run: |
+          mkdir out && cd out
           UA="Mozilla/5.0 (tcg-tracker-sealed probe)"
-          for u in "https://www.pokemon-card.com/products/" "https://www.pokemon-card.com/products/index.html" "https://www.pokemon-card.com/robots.txt"; do
-            echo "===== $u"
-            curl -sSL -A "$UA" -m 30 -o page.html -w "HTTP %{http_code} %{size_download} octets\n" "$u" || true
-            head -c 6000 page.html | tr -s ' \t' ' '
-            echo
-            grep -oE 'href="[^"]*(products|list|json)[^"]*"' page.html | sort -u | head -60 || true
-            grep -oE '"[^"]*\.json[^"]*"' page.html | sort -u | head -20 || true
-          done
+          curl -sSL -A "$UA" -m 30 -o products.html -w "%{http_code}\n" "https://www.pokemon-card.com/products/" > status.txt || true
+          curl -sSL -A "$UA" -m 30 -o robots.txt "https://www.pokemon-card.com/robots.txt" || true
+      - name: Déposer sur une branche temporaire
+        run: |
+          cd out
+          git init -q -b probe-output
+          git config user.name probe && git config user.email probe@example.invalid
+          git add -A && git commit -qm "sonde"
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" probe-output

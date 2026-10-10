@@ -1,0 +1,44 @@
+name: Sonde temporaire (à supprimer)
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fichiers publics Cardmarket et prix TCGCSV
+        run: |
+          mkdir out && cd out
+          B=https://downloads.s3.cardmarket.com/productCatalog
+          for f in priceGuide/price_guide_6.json productList/products_nonsingles_6.json productList/products_singles_6.json; do
+            n=$(basename $f)
+            curl -sSL -m 120 -o "$n" -w "$f %{http_code} %{size_download}\n" "$B/$f" >> status.txt || true
+          done
+          # extraits seulement (fichiers volumineux)
+          for n in price_guide_6.json products_nonsingles_6.json products_singles_6.json; do
+            [ -f "$n" ] && head -c 3000 "$n" > "head-$n" && python3 -c "import json,sys; d=json.load(open('$n')); print('$n', type(d).__name__, list(d)[:10] if isinstance(d,dict) else len(d))" >> status.txt 2>&1 || true
+            rm -f "$n.full"
+          done
+          python3 - <<'PY' >> status.txt 2>&1 || true
+          import json
+          ns=json.load(open('products_nonsingles_6.json'))
+          pg=json.load(open('price_guide_6.json'))
+          items=ns.get('products', ns) if isinstance(ns,dict) else ns
+          print('nonsingles', len(items)); print(json.dumps(items[:3],ensure_ascii=False)[:1500])
+          pgi=pg.get('priceGuides', pg) if isinstance(pg,dict) else pg
+          print('priceguide', len(pgi)); print(json.dumps(pgi[:2],ensure_ascii=False)[:1200])
+          ids={p.get('idProduct') for p in items}
+          etb=[p for p in items if 'Elite' in p.get('name','') or 'Dresseur' in p.get('name','')][:8]
+          print(json.dumps(etb,ensure_ascii=False)[:2000])
+          byid={x.get('idProduct'):x for x in pgi}
+          for p in etb[:5]: print(p.get('name'), byid.get(p.get('idProduct')))
+          PY
+          curl -sSL -m 60 -o tcgcsv-prices.json "https://tcgcsv.com/tcgplayer/3/23228/prices" && head -c 1500 tcgcsv-prices.json > head-tcgcsv-prices.json
+          rm -f price_guide_6.json products_nonsingles_6.json products_singles_6.json tcgcsv-prices.json
+      - name: Déposer sur une branche temporaire
+        run: |
+          cd out
+          git init -q -b probe-output
+          git config user.name probe && git config user.email probe@example.invalid
+          git add -A && git commit -qm "sonde"
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" probe-output

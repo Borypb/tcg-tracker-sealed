@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-10",
+  "kinds": {
+    "etb": "Coffret Dresseur d'Élite",
+    "booster_box": "Display",
+    "booster": "Booster",
+    "blister": "Blister / Tripack",
+    "tin": "Pokébox / Tin",
+    "mini_tin": "Mini tin",
+    "collection": "Coffret / Collection",
+    "upc": "Collection Ultra Premium",
+    "spc": "Collection Super Premium",
+    "build_battle": "Kit d'avant-première",
+    "deck": "Deck",
+    "bundle": "Bundle de boosters",
+    "binder": "Classeur / Portfolio",
+    "other": "Autre"
+  },
+  "games": {
+    "pokemon": {
+      "file": "pokemon.json",
+      "version": 1,
+      "count": 31
+    }
+  }
+}

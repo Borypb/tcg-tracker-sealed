@@ -10,8 +10,20 @@ jobs:
         run: |
           mkdir out && cd out
           UA="Mozilla/5.0 (tcg-tracker-sealed probe)"
-          curl -sSL -A "$UA" -m 30 -o products.html -w "%{http_code}\n" "https://www.pokemon-card.com/products/" > status.txt || true
-          curl -sSL -A "$UA" -m 30 -o robots.txt "https://www.pokemon-card.com/robots.txt" || true
+          B=https://www.pokemon-card.com
+          for t in expansion construction others; do
+            curl -sSL -A "$UA" -m 30 -o list-$t.html -w "$t %{http_code}\n" "$B/products/index.html?productType=$t" >> status.txt || true
+          done
+          # scripts appelés par la page de liste
+          grep -oE 'src="[^"]+\.js[^"]*"' list-expansion.html | sed 's/src="//;s/"$//' | sort -u > scripts.txt || true
+          i=0
+          while read -r js; do
+            i=$((i+1)); case "$js" in http*) u="$js";; /*) u="$B$js";; *) u="$B/products/$js";; esac
+            curl -sSL -A "$UA" -m 30 -o "script-$i.js" "$u" || true
+            echo "$i $u" >> scripts-map.txt
+          done < scripts.txt
+          # pistes d'API dans les scripts
+          grep -hoE '["'"'"'](/[a-zA-Z0-9_./-]*(api|json|list|product)[a-zA-Z0-9_./?=&-]*)["'"'"']' script-*.js list-*.html | sort -u > endpoints.txt || true
       - name: Déposer sur une branche temporaire
         run: |
           cd out

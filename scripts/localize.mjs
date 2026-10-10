@@ -40,7 +40,7 @@ const WORDS = {
     holiday: "des fêtes", calendar: "calendrier", advent: "de l'Avent", surprise: "surprise", vault: "coffre",
     kanto: "Kanto", johto: "Johto", hoenn: "Hoenn", sinnoh: "Sinnoh", unova: "Unys", kalos: "Kalos",
     alola: "Alola", galar: "Galar", paldea: "Paldea", hisui: "Hisui", first: "premier", starter: "Starter",
-    starters: "Starters", ultra: "Ultra", great: "Super", master: "Master", quick: "Rapide", heavy: "Masse"
+    starters: "Starters", day: "Jour", night: "Nuit", ultra: "Ultra", great: "Super", master: "Master", quick: "Rapide", heavy: "Masse"
   }
 };
 
@@ -117,7 +117,8 @@ function replaceSetNames(text, enSets, localSets) {
   let out = text;
   const byLength = [...enSets.entries()].filter(([, n]) => n.length >= 4).sort((a, b) => b[1].length - a[1].length);
   for (const [id, en] of byLength) {
-    const re = new RegExp(`\\b${en.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\b`, "i");
+    // « Team Rocket's Moltres » n'est pas l'extension Team Rocket
+    const re = new RegExp(`\\b${en.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\b(?!['’]s)`, "i");
     if (!re.test(out)) continue;
     const local = localSets.get(id);
     if (!local) continue;

@@ -73,7 +73,7 @@ function japanese(official, rawJa, prefix) {
     const pack = setCode ? packBySet.get(setCode.toLowerCase()) : undefined;
     out.push({
       ...p,
-      name: pack ? `${pack.title} BOX` : p.name,
+      name: pack ? `${pack.title.replace(/\s*「/g, "「")} BOX` : p.name,
       aliases: pack ? [p.name] : undefined,
       contents: undefined
     });

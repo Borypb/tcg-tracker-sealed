@@ -79,7 +79,7 @@ export async function harvestJpOfficial() {
       const json = await getJson(`${API}?productType=${type}&page=${page}`, { delay: 800 });
       maxPage = json.maxPage ?? 1;
       for (const p of json.products ?? []) {
-        const title = clean(p.productTitle).replace(/^「(.*)」$/, "$1").replace(/\s+/g, " ").trim();
+        const title = clean(p.productTitle).replace(/^「(.*)」$/, "$1").replace(/\s+/g, " ").replace(/\s*「/g, "「").trim();
         if (!title) continue;
         const releasedAt = parseJpDate(p.releaseDate);
         products.push({

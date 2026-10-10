@@ -24,9 +24,14 @@ Une GitHub Action (`.github/workflows/update.yml`) tourne chaque nuit, et à la 
 
 1. **Récolte** (`harvest.mjs`) : produits scellés du catalogue TCGplayer via [TCGCSV](https://tcgcsv.com) (anglais et japonais),
    rattachés aux extensions TCGdex. Seules les extensions modifiées depuis la veille sont retéléchargées.
+   **Japonais** (`harvest-jp.mjs`) : catalogue officiel de [pokemon-card.com](https://www.pokemon-card.com/products/)
+   (noms japonais officiels, dates, prix en yens, contenu). TCGplayer ne sert plus qu'aux BOX, absentes du site officiel.
 2. **Déclinaison** (`localize.mjs`) : à partir de la récolte anglaise, propose l'équivalent français de chaque produit :
    nom de l'extension traduit par TCGdex, gabarit par type (« Coffret Dresseur d'Élite … »), Pokémon traduits via PokeAPI.
-   Les exclusivités d'enseignes américaines sont écartées. Ce qui ne se traduit pas proprement va dans `review/`.
+   Les exclusivités d'enseignes américaines, cartons de distribution et présentoirs sont écartés.
+   Les produits que les règles ne savent pas nommer sont traduits un par un dans `curated/translations-fr.json`
+   (généré par `scripts/data/translations-fr.py`, noms de Pokémon tirés de la table officielle PokeAPI).
+   Ce qui reste sans traduction va dans `review/`.
 3. **Assemblage** (`build.mjs`) : fusionne `curated/` (prioritaire), `generated/` et `raw/`,
    et n'incrémente la version d'un fichier que si son contenu a changé.
 

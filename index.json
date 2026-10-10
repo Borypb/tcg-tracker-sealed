@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 10,
   "updatedAt": "2026-10-10",
   "kinds": {
     "etb": "Coffret Dresseur d'Élite",
@@ -15,25 +15,28 @@
     "deck": "Deck",
     "bundle": "Bundle de boosters",
     "binder": "Classeur / Portfolio",
-    "other": "Autre"
+    "other": "Autre",
+    "premium_trainer_box": "Premium Trainer Box (JP)",
+    "deck_build_box": "Deck Build Box (JP)",
+    "case": "Carton"
   },
   "games": {
     "pokemon": {
       "files": {
         "fr": {
           "file": "pokemon-fr.json",
-          "version": 4,
-          "count": 804
+          "version": 9,
+          "count": 1224
         },
         "en": {
           "file": "pokemon-en.json",
-          "version": 1,
-          "count": 2782
+          "version": 3,
+          "count": 2333
         },
         "ja": {
           "file": "pokemon-ja.json",
-          "version": 1,
-          "count": 369
+          "version": 2,
+          "count": 368
         }
       }
     }

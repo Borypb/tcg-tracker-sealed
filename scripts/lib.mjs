@@ -55,7 +55,12 @@ export function norm(s) {
  */
 export function classify(name) {
   const n = name.toLowerCase();
-  if (/\bcase\b/.test(n) && /(booster box|elite trainer box|display|bundle|tin)/.test(n)) return "case";
+  // cartons de distribution (« … Collection Case ») — pas « On the Case » ni « Case File »
+  if (/\bcase\b/.test(n) && !/on the case|case file/.test(n)) return "case";
+  // présentoirs de magasin (« Mini Tin Display », « Theme Deck Display »…) — mais pas les displays de boosters
+  if (/\bdisplay\b/.test(n) && !/booster display/.test(n)) return "case";
+  // lots revendeurs TCGplayer (« Art Bundle [Set of 4] ») : pas un produit officiel
+  if (/art bundle|\[set of \d+\]/.test(n) && !/collection/.test(n)) return null;
   if (/code card/.test(n)) return null;
   if (/elite trainer box/.test(n)) return "etb";
   if (/ultra[- ]premium collection/.test(n)) return "upc";
@@ -66,7 +71,7 @@ export function classify(name) {
   if (/mini tin/.test(n)) return "mini_tin";
   if (/\btin\b/.test(n)) return "tin";
   if (/blister|\b(2|3)[- ]pack\b|checklane/.test(n)) return "blister";
-  if (/theme deck|battle deck|starter deck|trainer kit|league battle|deck box/.test(n) && !/collection/.test(n)) return "deck";
+  if (/theme deck|battle deck|starter deck|trainer kit|league battle|deck box/.test(n) && !/collection|premium/.test(n)) return "deck";
   if (/binder|portfolio|pocket/.test(n)) return "binder";
   if (/booster pack|sleeved booster|^.*\bbooster$/.test(n)) return "booster";
   if (/collection|box\b|chest|bundle|calendar/.test(n)) return "collection";
@@ -74,4 +79,5 @@ export function classify(name) {
 }
 
 /** produits réservés aux enseignes américaines : pas d'équivalent européen probable */
-export const US_ONLY = /\b(target|walmart|costco|sam'?s club|best buy|gamestop|meijer|kmart|toys ?r ?us|dollar general|staples|bj'?s|pokemon center|pokémon center|exclusive)\b/i;
+export const US_ONLY =
+  /\b(target|walmart|costco|sam'?s club|best buy|gamestop|meijer|kmart|toys ?r ?us|dollar general|staples|bj'?s|pokemon center|pokémon center|exclusive|checklane|\d-tab|mcdonald'?s|trick or trade|general mills)\b/i;

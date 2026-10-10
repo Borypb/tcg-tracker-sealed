@@ -2,7 +2,7 @@
 // Pour chaque produit anglais, on cherche son équivalent probable : même extension
 // (nom traduit par TCGdex), même type (gabarit de nom par langue), Pokémon traduits
 // (PokeAPI). Ce qui ne se traduit pas proprement part dans review/ au lieu d'être inventé.
-import { getJson, getText, norm, readJson, US_ONLY, writeJson } from "./lib.mjs";
+import { classify, getJson, getText, norm, readJson, US_ONLY, writeJson } from "./lib.mjs";
 
 const TCGDEX = "https://api.tcgdex.net/v2";
 const SPECIES_CSV = "https://raw.githubusercontent.com/PokeAPI/pokeapi/master/data/v2/csv/pokemon_species_names.csv";
@@ -21,8 +21,14 @@ export const TEMPLATES = {
     mini_tin: "Mini Pokébox {subject}",
     blister: "{blister} {subject}",
     collection: "Coffret {subject}",
-    booster: "Booster {set}"
+    booster: "Booster {set}",
+    deck: "Deck {subject}"
   }
+};
+
+/** noms locaux connus quand TCGdex ne les a pas (extensions bien sorties dans la langue) */
+const SET_NAME_FALLBACK = {
+  fr: { "swsh3.5": "La Voie du Maître", pl4: "Arceus", "30th": "30ᵉ Anniversaire", gym1: "Gym Heroes", gym2: "Gym Challenge" }
 };
 
 /** mots courants des noms de produits, traduits ; les autres mots anglais bloquent la traduction */
@@ -55,7 +61,26 @@ const PHRASES = {
     [/\bstacking\b/gi, "empilable"],
     [/\bpin collection\b/gi, "avec pin's"],
     [/\bfigure collection\b/gi, "avec figurine"],
-    [/\bcollector'?s? chest\b/gi, "coffre collector"]
+    [/\bcollector'?s? chest\b/gi, "coffre collector"],
+    // formes et noms composés absents de la table des espèces
+    [/\bsingle strike urshifu\b/gi, "Shifours Poing Final"],
+    [/\brapid strike urshifu\b/gi, "Shifours Mille Poings"],
+    [/\bshadow rider calyrex\b/gi, "Sylveroy Cavalier d'Effroi"],
+    [/\bice rider calyrex\b/gi, "Sylveroy Cavalier du Froid"],
+    [/\borigin forme dialga\b/gi, "Dialga Originel"],
+    [/\borigin forme palkia\b/gi, "Palkia Originel"],
+    [/\borigin forme giratina\b/gi, "Giratina Originel"],
+    [/\bdawn wings necrozma\b/gi, "Necrozma Ailes de l'Aurore"],
+    [/\bdusk mane necrozma\b/gi, "Necrozma Crinière du Couchant"],
+    [/\bultra necrozma\b/gi, "Ultra-Necrozma"],
+    [/\bpikachu libre\b/gi, "Pikachu Catcheur"],
+    [/\bbloodmoon ursaluna\b/gi, "Ursaking Lune Vermeille"],
+    [/\bblack kyurem\b/gi, "Kyurem Noir"],
+    [/\bwhite kyurem\b/gi, "Kyurem Blanc"],
+    [/\bash-greninja\b/gi, "Amphinobi de Sacha"],
+    [/\bprimal groudon\b/gi, "Primo-Groudon"],
+    [/\bprimal kyogre\b/gi, "Primo-Kyogre"],
+    [/\bradiant\b/gi, "radieux"]
   ]
 };
 
@@ -185,34 +210,112 @@ export function translateSubject(raw, lang, species) {
   return out.join(" ").replace(/\s+/g, " ").trim();
 }
 
+const INTL = /\s*\(international(?: version)?\)/i;
+
+/** dresseurs cités dans les noms de produits */
+const TRAINERS_FR = { marnie: "Rosemary", steven: "Pierre Rochard", cynthia: "Cynthia", iono: "Mashynn", cyrus: "Hélio", lillie: "Lilie" };
+
+/**
+ * Decks : chaque famille a sa formule, et la mascotte fait partie du nom
+ * (deux decks de Ligue différents sont deux produits à suivre séparément).
+ */
+function deckName(name, setName, lang, species) {
+  if (lang !== "fr") return null;
+  const tr = (x) => (x ? translateSubject(x.replace(/\s*\/\s*/g, " / "), lang, species) : null);
+  const inner = name.match(/\[([^\]]+)\]/)?.[1] ?? name.match(/\(([^)]*\b(?:ex|V|VMAX|VSTAR|GX)\b[^)]*)\)/)?.[1];
+  const quoted = name.match(/["“]([^"”]+)["”]/)?.[1] ?? name.match(/Theme Deck - ([^[(]+)/i)?.[1]?.trim();
+  const rival = name.match(/rival battle deck \[(\w+)\]/i);
+  if (rival) return TRAINERS_FR[rival[1].toLowerCase()] ? { name: `Deck de combat Rival – ${TRAINERS_FR[rival[1].toLowerCase()]}` } : null;
+  const mascot = inner ? tr(inner) : null;
+  if (inner && !mascot) return null;
+  const join = (label, extra) => ({ name: [label, extra].filter(Boolean).join(" – ") });
+  if (/theme deck/i.test(name)) {
+    const label = /let'?s play/i.test(name) ? "Deck à thème Jouons" : `Deck à thème ${setName ?? ""}`.trim();
+    return join(label, mascot ?? (quoted ? `« ${quoted} »` : null));
+  }
+  if (/trainer kit/i.test(name)) {
+    const pair = inner ?? name.split(":")[1]?.trim();
+    const p = pair ? tr(pair) : setName;
+    return p ? { name: `Kit du Dresseur ${p}` } : null;
+  }
+  const families = [
+    [/league battle deck/i, "Deck de Combat de Ligue"],
+    [/deluxe battle deck/i, "Deck de combat Deluxe"],
+    [/v battle deck bundle/i, "Lot de 2 decks de combat V"],
+    [/legendary battle deck/i, "Deck de combat légendaire"],
+    [/\bv battle deck/i, "Deck de combat V"],
+    [/\bex battle deck/i, "Deck de combat ex"],
+    [/mega battle deck/i, "Deck de combat Méga"],
+    [/30th celebration battle deck/i, "Deck de combat 30ᵉ Anniversaire"],
+    [/deluxe .*starter deck/i, `Deck de démarrage Deluxe ${setName ?? ""}`.trim()],
+    [/starter deck/i, `Deck de démarrage ${setName ?? ""}`.trim()]
+  ];
+  for (const [re, label] of families) if (re.test(name)) return join(label, mascot);
+  return null;
+}
+
 export async function localize(game, lang) {
   const raw = await readJson(`raw/${game}-en.json`, null);
   if (!raw) throw new Error(`raw/${game}-en.json absent : lance d'abord harvest.mjs`);
   const templates = TEMPLATES[lang];
   const species = await speciesTable(lang);
   const enSets = new Map((await getJson(`${TCGDEX}/en/sets`, { delay: 0 })).map((s) => [s.id, s.name]));
-  const localSets = new Map((await getJson(`${TCGDEX}/${lang}/sets`, { delay: 0 })).map((s) => [s.id, s.name]));
+  const localSets = new Map(Object.entries(SET_NAME_FALLBACK[lang] ?? {}));
+  for (const s of await getJson(`${TCGDEX}/${lang}/sets`, { delay: 0 })) localSets.set(s.id, s.name);
 
+  // traductions relues produit par produit (prioritaires sur les gabarits)
+  const overrides = await readJson(`curated/translations-${lang}.json`, {});
   const products = new Map();
   const review = [];
+  const skipped = { "hors France": 0, [`extension non sortie en ${lang}`]: 0, "écarté à la relecture": 0 };
   for (const group of Object.values(raw.groups)) {
-    for (const p of group.products) {
-      const template = templates[p.kind];
+    const international = new Set(
+      group.products.filter((p) => INTL.test(p.name)).map((p) => norm(p.name.replace(INTL, "")))
+    );
+    for (const pRaw of group.products) {
+      // les règles de classement évoluent : on reclasse à chaque passage
+      const p0 = { ...pRaw, kind: classify(pRaw.name) };
+      if (!p0.kind) continue;
+      const template = templates[overrides[p0.tcgplayerId]?.kind ?? p0.kind];
       if (!template) continue;
-      if (US_ONLY.test(p.name)) continue;
+      const o = overrides[p0.tcgplayerId];
+      if (o?.skip) {
+        skipped["écarté à la relecture"]++;
+        continue;
+      }
+      if (!o && US_ONLY.test(p0.name)) {
+        skipped["hors France"]++;
+        continue;
+      }
+      // version américaine d'un produit qui a une « International Version » (celle vendue en Europe)
+      if (!INTL.test(p0.name) && international.has(norm(p0.name))) continue;
+      const p = { ...p0, name: p0.name.replace(INTL, "").replace(/\s*\(retail version\)/i, "").trim(), kind: o?.kind ?? p0.kind };
       // extension citée dans le titre quand le groupe TCGplayer n'en est pas une
       const cited = replaceSetNames(p.name, enSets, localSets);
       const setCode = group.setCode ?? cited.setCode;
       const setName = setCode ? localSets.get(setCode) : undefined;
       const needsSet = template.includes("{set}");
-      if (needsSet && !setName) {
-        review.push({ reason: setCode ? `extension absente en ${lang}` : "extension inconnue", ...p, group: group.name });
+      const future = group.publishedOn && group.publishedOn > new Date().toISOString().slice(0, 10);
+      if (!setName && future && !o?.name) {
+        skipped[`extension non sortie en ${lang}`]++;
+        continue;
+      }
+      const deck = p.kind === "deck" && !o?.name ? deckName(p.name, setName, lang, species) : null;
+      if (p.kind === "deck" && !o?.name && !deck) {
+        review.push({ reason: "deck non reconnu", ...p, group: group.name });
+        continue;
+      }
+      if (needsSet && !setName && !o?.name) {
+        // TCGdex n'a pas de nom local : l'extension n'est pas sortie dans cette langue (ou pas encore)
+        if (setCode || (group.publishedOn && group.publishedOn > new Date().toISOString().slice(0, 10)))
+          skipped[`extension non sortie en ${lang}`]++;
+        else review.push({ reason: "extension inconnue", ...p, group: group.name });
         continue;
       }
       // éditions : contenu entre crochets (« [Koraidon] »)
       const bracket = p.name.match(/\[([^\]]+)\]/)?.[1];
       let subject = "";
-      if (template.includes("{subject}")) {
+      if (template.includes("{subject}") && !o?.name && !deck) {
         const enSet = setCode ? enSets.get(setCode) ?? "" : "";
         const withoutOwnSet = p.name
           .replace(/\[[^\]]*\]/g, " ")
@@ -232,13 +335,13 @@ export async function localize(game, lang) {
           continue;
         }
       }
-      const name = template
+      const name = o?.name ?? deck?.name ?? template
         .replace("{blister}", BLISTER[lang]?.(p.name) ?? "Blister")
         .replace("{set}", setName ?? "")
         .replace("{subject}", subject)
         .replace(/\s+/g, " ")
         .trim();
-      const edition = bracket ? translateSubject(bracket, lang, species) : undefined;
+      const edition = o?.edition ?? (deck ? undefined : bracket ? translateSubject(bracket, lang, species) : undefined);
       // un seul ETB / display… par extension, et un seul produit par nom :
       // les éditions visuelles (« [Day] », « [Night] ») sont regroupées
       const byName = !needsSet && [...products.values()].find((x) => x.name === name && x.kind === p.kind);
@@ -260,13 +363,13 @@ export async function localize(game, lang) {
         editions: edition ? [edition] : undefined,
         image: p.image,
         imageLang: "en",
-        derived: { from: `tcgplayer:${p.tcgplayerId}`, en: p.name }
+        derived: { from: `tcgplayer:${p.tcgplayerId}`, en: p0.name, ...(o?.name ? { by: "relecture" } : {}) }
       });
     }
   }
   await writeJson(`generated/${game}-${lang}.json`, [...products.values()]);
   await writeJson(`review/${game}-${lang}.json`, review);
-  console.log(`${game}/${lang} : ${products.size} produits déduits, ${review.length} à revoir`);
+  console.log(`${game}/${lang} : ${products.size} produits déduits, ${review.length} à revoir, écartés :`, skipped);
 }
 
 if (import.meta.url === `file://${process.argv[1]}`) {

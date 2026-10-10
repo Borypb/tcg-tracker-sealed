@@ -3,7 +3,7 @@
 //    Une fiche Cardmarket couvre toutes les langues européennes : la cote est « toutes langues ».
 //  - TCGplayer (via TCGCSV) : prix du marché américain, en $.
 // Sortie : prices-pokemon.json (fichier séparé : il change tous les jours, pas le catalogue).
-import { readFile } from "node:fs/promises";
+import { readFile, writeFile } from "node:fs/promises";
 import { getJson, readJson, writeJson } from "./lib.mjs";
 
 const CM = "https://downloads.s3.cardmarket.com/productCatalog";
@@ -191,7 +191,8 @@ export async function prices(game = "pokemon", prefix = "pkm") {
   }
 
   const today = new Date().toISOString().slice(0, 10);
-  await writeJson(`prices-${game}.json`, { date: today, cardmarketAt: cmAt, items: out });
+  // compact : le fichier est téléchargé chaque jour par les apps
+  await writeFile(`prices-${game}.json`, JSON.stringify({ date: today, cardmarketAt: cmAt, items: out }));
   const index = await readJson("index.json", {});
   index.prices = { ...(index.prices ?? {}), [game]: { file: `prices-${game}.json`, date: today, count: Object.keys(out).length } };
   await writeJson("index.json", index);

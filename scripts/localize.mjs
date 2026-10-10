@@ -19,7 +19,7 @@ export const TEMPLATES = {
     build_battle: "Kit d'avant-première {set}",
     tin: "Pokébox {subject}",
     mini_tin: "Mini Pokébox {subject}",
-    blister: "Tripack {subject}",
+    blister: "{blister} {subject}",
     collection: "Coffret {subject}",
     booster: "Booster {set}"
   }
@@ -32,12 +32,56 @@ const WORDS = {
     mega: "Méga", collection: "", box: "", tin: "", ex: "ex", v: "V", vmax: "VMAX",
     vstar: "VSTAR", gx: "GX", "tag team": "TAG TEAM", radiant: "radieux", ancient: "Antique", future: "Futur",
     league: "Ligue", battle: "combat", deck: "deck", trainer: "Dresseur", oversized: "jumbo", card: "carte",
-    and: "et", with: "avec", "&": "et"
+    and: "et", with: "avec", "&": "et", international: "International", collector: "Collector", version: "version",
+    power: "Puissance", powers: "Puissances", team: "Team", legends: "Légendes", of: "de", go: "GO",
+    celebration: "Célébration", celebrations: "Célébrations", illustration: "Illustration", tournament: "Tournoi",
+    mythical: "fabuleux", legendary: "légendaire", friends: "Amis", partners: "Partenaires", three: "trois",
+    two: "deux", triple: "triple", fall: "automne", rocket: "Rocket", challenge: "défi", s: "", gift: "cadeau",
+    holiday: "des fêtes", calendar: "calendrier", advent: "de l'Avent", surprise: "surprise", vault: "coffre",
+    kanto: "Kanto", johto: "Johto", hoenn: "Hoenn", sinnoh: "Sinnoh", unova: "Unys", kalos: "Kalos",
+    alola: "Alola", galar: "Galar", paldea: "Paldea", hisui: "Hisui", first: "premier", starter: "Starter",
+    starters: "Starters", ultra: "Ultra", great: "Super", master: "Master", quick: "Rapide", heavy: "Masse"
   }
 };
 
+/** expressions de plusieurs mots, traduites avant le découpage en mots */
+const PHRASES = {
+  fr: [
+    [/\bpok[eé] ball\b/gi, "Poké Ball"],
+    [/\bknock out\b/gi, "K.O."],
+    [/\bback to school\b/gi, "rentrée"],
+    [/\btag team\b/gi, "TAG TEAM"],
+    [/\btech sticker\b/gi, "avec autocollants"],
+    [/\bstacking\b/gi, "empilable"],
+    [/\bpin collection\b/gi, "avec pin's"],
+    [/\bfigure collection\b/gi, "avec figurine"],
+    [/\bcollector'?s? chest\b/gi, "coffre collector"]
+  ]
+};
+
 /** qualificatifs placés avant le Pokémon en anglais, après en français */
-const REGIONS = { fr: { alolan: "d'Alola", galarian: "de Galar", hisuian: "d'Hisui", paldean: "de Paldea", shiny: "chromatique" } };
+const REGIONS = {
+  fr: {
+    alolan: "d'Alola",
+    galarian: "de Galar",
+    hisuian: "d'Hisui",
+    paldean: "de Paldea",
+    shiny: "chromatique",
+    teamrocketof: "de la Team Rocket"
+  }
+};
+
+/** nom du blister selon le nombre de boosters */
+const BLISTER = {
+  fr: (en) =>
+    /\b(single|1)[- ]?pack\b|single blister/i.test(en)
+      ? "Blister"
+      : /\b(2|two)[- ]?pack\b/i.test(en)
+        ? "Duopack"
+        : /\b(3|three)[- ]?pack\b/i.test(en)
+          ? "Tripack"
+          : "Blister"
+};
 
 /** boosters contenus, quand la règle est stable pour une époque */
 function boosterCount(kind, setCode) {
@@ -65,7 +109,23 @@ async function speciesTable(lang) {
 }
 
 const KIND_WORDS =
-  /\b(elite trainer box|ultra[- ]premium collection|super[- ]premium collection|premium collection|booster bundle|booster box|booster display|build (?:&|and) battle (?:box|stadium)|mini tin|tin|3[- ]pack blister|blister|booster pack|sleeved booster|collection|box)\b/gi;
+  /\b(elite trainer box|ultra[- ]premium collection|super[- ]premium collection|premium collection|booster bundle|booster box|booster display|display|build (?:&|and) battle (?:box|stadium)|mini tins?|tins?|(?:single|sleeved|checklane|\d)[- ]pack blisters?|blisters?|checklane|single pack|booster packs?|sleeved booster|collections?|box|chest|pack|single|mini)\b/gi;
+
+/** remplace les noms d'extensions anglais cités dans un titre par leur nom local (protégé) */
+function replaceSetNames(text, enSets, localSets) {
+  let found;
+  let out = text;
+  const byLength = [...enSets.entries()].filter(([, n]) => n.length >= 4).sort((a, b) => b[1].length - a[1].length);
+  for (const [id, en] of byLength) {
+    const re = new RegExp(`\\b${en.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\b`, "i");
+    if (!re.test(out)) continue;
+    const local = localSets.get(id);
+    if (!local) continue;
+    out = out.replace(re, ` §${local.replace(/\s/g, "_")} `);
+    found ??= id;
+  }
+  return { text: out, setCode: found };
+}
 
 /**
  * Traduit le « sujet » d'un nom (ce qui reste une fois l'extension et le type retirés).
@@ -74,12 +134,18 @@ const KIND_WORDS =
 export function translateSubject(raw, lang, species) {
   const words = WORDS[lang];
   const regions = REGIONS[lang];
-  const tokens = raw
+  let text = raw.replace(/\bteam rocket['’]s\b/gi, " teamrocketof ");
+  for (const [re, fr] of PHRASES[lang] ?? []) text = text.replace(re, ` §${fr.replace(/\s/g, "_")} `);
+  const tokens = text
     .replace(/[()[\],:]/g, " ")
     .split(/\s+/)
     .filter(Boolean);
   const out = [];
   for (let i = 0; i < tokens.length; i++) {
+    if (tokens[i].startsWith("§")) {
+      out.push(tokens[i].slice(1).replace(/_/g, " "));
+      continue;
+    }
     let matched = false;
     // espèces sur 1 à 3 mots (« Mr. Mime », « Tapu Koko »…), la plus longue d'abord
     for (let len = 3; len >= 1 && !matched; len--) {
@@ -100,6 +166,11 @@ export function translateSubject(raw, lang, species) {
       continue;
     }
     if (/^\d+$/.test(t) || /^[a-z]$/.test(t)) {
+      out.push(tokens[i]);
+      continue;
+    }
+    // suffixes de cartes : on garde la casse d'origine (EX de l'époque XY, ex d'Écarlate et Violet)
+    if (/^(ex|gx|v|vmax|vstar|break|lv\.x)$/i.test(tokens[i])) {
       out.push(tokens[i]);
       continue;
     }
@@ -128,22 +199,26 @@ export async function localize(game, lang) {
       const template = templates[p.kind];
       if (!template) continue;
       if (US_ONLY.test(p.name)) continue;
-      const setName = group.setCode ? localSets.get(group.setCode) : undefined;
+      // extension citée dans le titre quand le groupe TCGplayer n'en est pas une
+      const cited = replaceSetNames(p.name, enSets, localSets);
+      const setCode = group.setCode ?? cited.setCode;
+      const setName = setCode ? localSets.get(setCode) : undefined;
       const needsSet = template.includes("{set}");
       if (needsSet && !setName) {
-        review.push({ reason: group.setCode ? `extension absente en ${lang}` : "extension inconnue", ...p, group: group.name });
+        review.push({ reason: setCode ? `extension absente en ${lang}` : "extension inconnue", ...p, group: group.name });
         continue;
       }
       // éditions : contenu entre crochets (« [Koraidon] »)
       const bracket = p.name.match(/\[([^\]]+)\]/)?.[1];
       let subject = "";
       if (template.includes("{subject}")) {
-        const enSet = group.setCode ? enSets.get(group.setCode) ?? "" : "";
-        const stripped = p.name
+        const enSet = setCode ? enSets.get(setCode) ?? "" : "";
+        const withoutOwnSet = p.name
           .replace(/\[[^\]]*\]/g, " ")
           .replace(/^[A-Z]{1,4}\d*[a-z]?:\s*/, "")
-          .replace(new RegExp(enSet.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"), "i"), " ")
-          .replace(/\bpok[eé]mon( tcg)?\b|\btcg\b|\bscarlet (?:&|and) violet\b|\bsword (?:&|and) shield\b|\bmega evolution\b/gi, " ")
+          .replace(new RegExp(`\\b${enSet.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\b`, "i"), " ");
+        const stripped = replaceSetNames(withoutOwnSet, enSets, localSets).text
+          .replace(/\bpok[eé]mon(?! go)( tcg)?\b|\btcg\b|\bscarlet (?:&|and) violet\b|\bsword (?:&|and) shield\b|\bmega evolution\b/gi, " ")
           .replace(KIND_WORDS, " ");
         const tr = translateSubject(stripped, lang, species);
         if (tr === null) {
@@ -156,26 +231,31 @@ export async function localize(game, lang) {
           continue;
         }
       }
-      const name = template.replace("{set}", setName ?? "").replace("{subject}", subject).replace(/\s+/g, " ").trim();
+      const name = template
+        .replace("{blister}", BLISTER[lang]?.(p.name) ?? "Blister")
+        .replace("{set}", setName ?? "")
+        .replace("{subject}", subject)
+        .replace(/\s+/g, " ")
+        .trim();
       const edition = bracket ? translateSubject(bracket, lang, species) : undefined;
-      // un seul ETB / display… par extension : les éditions visuelles sont regroupées
-      const id = needsSet
-        ? `pkm-${lang}-${group.setCode}-${p.kind}`
-        : `pkm-${lang}-tcp${p.tcgplayerId}`;
+      // un seul ETB / display… par extension, et un seul produit par nom :
+      // les éditions visuelles (« [Day] », « [Night] ») sont regroupées
+      const byName = !needsSet && [...products.values()].find((x) => x.name === name && x.kind === p.kind);
+      const id = needsSet ? `pkm-${lang}-${setCode}-${p.kind}` : byName ? byName.id : `pkm-${lang}-tcp${p.tcgplayerId}`;
       const prev = products.get(id);
       if (prev) {
         if (edition && !prev.editions?.includes(edition)) prev.editions = [...(prev.editions ?? []), edition];
         continue;
       }
-      const qty = boosterCount(p.kind, group.setCode);
+      const qty = boosterCount(p.kind, setCode);
       products.set(id, {
         id,
         kind: p.kind,
         name,
         lang,
-        setIds: group.setCode ? [`pkm-${group.setCode}`] : undefined,
+        setIds: setCode ? [`pkm-${setCode}`] : undefined,
         releasedAt: p.releasedOn,
-        contents: qty && group.setCode ? [{ type: "booster", setId: `pkm-${group.setCode}`, qty }] : undefined,
+        contents: qty && setCode ? [{ type: "booster", setId: `pkm-${setCode}`, qty }] : undefined,
         editions: edition ? [edition] : undefined,
         image: p.image,
         imageLang: "en",

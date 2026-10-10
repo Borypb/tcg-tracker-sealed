@@ -53,7 +53,14 @@ export async function build() {
       const raw = fromRaw(await readJson(`raw/${game}-${lang}.json`, null), cfg.prefix);
       const merged = new Map();
       for (const p of [...raw, ...generated]) merged.set(p.id, p);
-      for (const p of curated?.products ?? []) merged.set(p.id, { ...merged.get(p.id), ...p, verified: true });
+      for (const p of curated?.products ?? []) {
+        // un produit déduit du même type et de la même extension est le même produit
+        const twins = [...merged.values()].filter(
+          (x) => x.id !== p.id && x.derived && x.kind === p.kind && p.setIds?.[0] && x.setIds?.[0] === p.setIds[0]
+        );
+        if (twins.length === 1) merged.delete(twins[0].id);
+        merged.set(p.id, { ...merged.get(p.id), ...p, verified: true });
+      }
       const products = clean(
         [...merged.values()].sort((a, b) => (b.releasedAt ?? "").localeCompare(a.releasedAt ?? "") || a.id.localeCompare(b.id))
       );

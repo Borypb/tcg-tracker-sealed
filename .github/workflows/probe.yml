@@ -6,26 +6,15 @@ jobs:
   probe:
     runs-on: ubuntu-latest
     steps:
-      - name: Pages pokemon-card.com
+      - name: API produits pokemon-card.com
         run: |
           mkdir out && cd out
           UA="Mozilla/5.0 (tcg-tracker-sealed probe)"
-          B=https://www.pokemon-card.com
-          for t in expansion construction others; do
-            curl -sSL -A "$UA" -m 30 -o list-$t.html -w "$t %{http_code}\n" "$B/products/index.html?productType=$t" >> status.txt || true
+          B=https://www.pokemon-card.com/products/resultAPI.php
+          for q in "productType=expansion&page=1" "productType=expansion&page=2" "productType=construction&page=1" "productType=others&page=1" "page=1"; do
+            f=$(echo "$q" | tr '=&' '-_').json
+            curl -sSL -A "$UA" -e "https://www.pokemon-card.com/products/index.html" -m 30 -o "$f" -w "$q %{http_code} %{size_download}\n" "$B?$q" >> status.txt || true
           done
-          # scripts appelés par la page de liste
-          grep -oE 'src="[^"]+\.js[^"]*"' list-expansion.html | sed 's/src="//;s/"$//' | sort -u > scripts.txt || true
-          i=0
-          while read -r js; do
-            i=$((i+1)); case "$js" in http*) u="$js";; /*) u="$B$js";; *) u="$B/products/$js";; esac
-            curl -sSL -A "$UA" -m 30 -o "script-$i.js" "$u" || true
-            echo "$i $u" >> scripts-map.txt
-          done < scripts.txt
-          curl -sSL -A "$UA" -m 30 -o bundle.js "$B/assets/js/products/bundle.js" || true
-          # pistes d'API dans les scripts
-          grep -hoE '["'"'"'](/[a-zA-Z0-9_./-]*(api|json|list|product)[a-zA-Z0-9_./?=&-]*)["'"'"']' script-*.js list-*.html bundle.js | sort -u > endpoints.txt || true
-          grep -oE '.{120}(fetch|axios|ajax|XMLHttpRequest|\.get\(|url:).{200}' bundle.js | head -40 > calls.txt || true
       - name: Déposer sur une branche temporaire
         run: |
           cd out

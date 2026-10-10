@@ -1,0 +1,42 @@
+name: Sonde temporaire (à supprimer)
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: CORS des sources
+        run: |
+          mkdir out && cd out
+          while read -r url; do
+            h=$(curl -s -m 40 -D - -o /dev/null -H "Origin: https://tcg-tracker.example" "$url")
+            code=$(echo "$h" | head -1 | tr -d '\r')
+            acao=$(echo "$h" | grep -i '^access-control-allow-origin' | tr -d '\r')
+            echo "$url | $code | ${acao:-AUCUN en-tête CORS}" >> cors.txt
+          done <<'URLS'
+          https://api.tcgdex.net/v2/fr/sets
+          https://api.tcgdex.net/v2/fr/cards/sv03-125
+          https://assets.tcgdex.net/fr/sv/sv03/125/low.webp
+          https://api.scryfall.com/sets/woe
+          https://cards.scryfall.io/small/front/0/0/00008d7c-d7ec-4e93-8b65-74ba45e8da2e.jpg
+          https://db.ygoprodeck.com/api/v7/cardsets.php
+          https://images.ygoprodeck.com/images/cards_small/46986414.jpg
+          https://api.lorcast.com/v0/sets
+          https://api.riftcodex.com/sets
+          https://raw.githubusercontent.com/buhbbl/punk-records/main/english/packs.json
+          https://en.onepiece-cardgame.com/images/cardlist/card/OP01-001.png
+          https://raw.githubusercontent.com/Borypb/tcg-tracker-sealed/main/index.json
+          https://tcgcsv.com/tcgplayer/3/23228/prices
+          https://downloads.s3.cardmarket.com/productCatalog/priceGuide/price_guide_6.json
+          https://www.pokemon-card.com/products/resultAPI.php?productType=expansion&page=1
+          https://www.pokemon-card.com/products/2026/images/stormemeralda.jpg
+          URLS
+          curl -s -m 30 https://api.tcgdex.net/v2/fr/cards/sv03-125 | python3 -c "import json,sys; d=json.load(sys.stdin); print(json.dumps({k:d.get(k) for k in ['updated','pricing']})[:1500])" > tcgdex-card.json || true
+      - name: Déposer sur une branche temporaire
+        run: |
+          cd out
+          git init -q -b probe-output
+          git config user.name probe && git config user.email probe@example.invalid
+          git add -A && git commit -qm "sonde"
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" probe-output

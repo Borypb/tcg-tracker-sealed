@@ -40,5 +40,12 @@
         }
       }
     }
+  },
+  "prices": {
+    "pokemon": {
+      "file": "prices-pokemon.json",
+      "date": "2026-10-10",
+      "count": 3244
+    }
   }
 }

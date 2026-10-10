@@ -22,8 +22,10 @@ jobs:
             curl -sSL -A "$UA" -m 30 -o "script-$i.js" "$u" || true
             echo "$i $u" >> scripts-map.txt
           done < scripts.txt
+          curl -sSL -A "$UA" -m 30 -o bundle.js "$B/assets/js/products/bundle.js" || true
           # pistes d'API dans les scripts
-          grep -hoE '["'"'"'](/[a-zA-Z0-9_./-]*(api|json|list|product)[a-zA-Z0-9_./?=&-]*)["'"'"']' script-*.js list-*.html | sort -u > endpoints.txt || true
+          grep -hoE '["'"'"'](/[a-zA-Z0-9_./-]*(api|json|list|product)[a-zA-Z0-9_./?=&-]*)["'"'"']' script-*.js list-*.html bundle.js | sort -u > endpoints.txt || true
+          grep -oE '.{120}(fetch|axios|ajax|XMLHttpRequest|\.get\(|url:).{200}' bundle.js | head -40 > calls.txt || true
       - name: Déposer sur une branche temporaire
         run: |
           cd out

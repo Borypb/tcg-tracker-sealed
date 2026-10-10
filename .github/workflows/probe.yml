@@ -1,0 +1,17 @@
+name: Sonde temporaire (à supprimer)
+on: workflow_dispatch
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Liste des produits pokemon-card.com
+        run: |
+          UA="Mozilla/5.0 (tcg-tracker-sealed probe)"
+          for u in "https://www.pokemon-card.com/products/" "https://www.pokemon-card.com/products/index.html" "https://www.pokemon-card.com/robots.txt"; do
+            echo "===== $u"
+            curl -sSL -A "$UA" -m 30 -o page.html -w "HTTP %{http_code} %{size_download} octets\n" "$u" || true
+            head -c 6000 page.html | tr -s ' \t' ' '
+            echo
+            grep -oE 'href="[^"]*(products|list|json)[^"]*"' page.html | sort -u | head -60 || true
+            grep -oE '"[^"]*\.json[^"]*"' page.html | sort -u | head -20 || true
+          done

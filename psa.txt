@@ -1,0 +1,15 @@
+== https://api.psacard.com/publicapi/cert/GetByCertNumber/00000000
+HTTP/2 200 
+access-control-allow-origin: *
+access-control-allow-headers: authorization, Content-Type, cache-control, postman-token
+access-control-allow-methods: GET, POST, OPTIONS
+HTTP/2 429 
+access-control-allow-origin: *
+access-control-allow-headers: authorization, Content-Type, cache-control, postman-token
+access-control-allow-methods: GET, POST, OPTIONS
+server: cloudflare
+"API calls quota exceeded! maximum admitted 100 per Day. Please contact collectors-apis@collectors.com"
+== https://api.gemrate.com/v1/certs/psa/00000000
+HTTP/2 401 
+HTTP/2 401 
+{"error":{"code":"invalid_api_key","message":"The API key is missing, disabled, or invalid. Pass a valid key in the x-api-key header."},"meta":{"request_id":"78221fcf-9b78-483c-82b2-360b5de1980c"}}

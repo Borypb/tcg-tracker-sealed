@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "updatedAt": "2026-10-10",
   "kinds": {
     "etb": "Coffret Dresseur d'Élite",
@@ -22,8 +22,18 @@
       "files": {
         "fr": {
           "file": "pokemon-fr.json",
+          "version": 2,
+          "count": 811
+        },
+        "en": {
+          "file": "pokemon-en.json",
           "version": 1,
-          "count": 31
+          "count": 2782
+        },
+        "ja": {
+          "file": "pokemon-ja.json",
+          "version": 1,
+          "count": 369
         }
       }
     }

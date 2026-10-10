@@ -1,0 +1,45 @@
+name: Sonde temporaire (à supprimer)
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Cardmarket (tous les jeux) et catégories TCGplayer
+        run: |
+          mkdir out && cd out
+          B=https://downloads.s3.cardmarket.com/productCatalog
+          for g in $(seq 1 30); do
+            code=$(curl -s -o pg.json -w "%{http_code}" -m 60 "$B/priceGuide/price_guide_$g.json")
+            if [ "$code" = "200" ]; then
+              curl -s -o ns.json -m 60 "$B/productList/products_nonsingles_$g.json"
+              curl -s -o si.json -m 120 "$B/productList/products_singles_$g.json"
+              python3 - "$g" >> cardmarket.txt <<'PY'
+          import json,sys
+          g=sys.argv[1]
+          def load(f):
+              try: return json.load(open(f))
+              except Exception: return {}
+          pg=load('pg.json'); ns=load('ns.json'); si=load('si.json')
+          nsp=ns.get('products',[]); sip=si.get('products',[])
+          ex=(sip[:2] or nsp[:2])
+          print(f"jeu {g}: cotes {len(pg.get('priceGuides',[]))} · scellés {len(nsp)} · cartes {len(sip)} · ex: {[p.get('name') for p in ex]} · champs: {list(sip[0]) if sip else ''}")
+          PY
+            fi
+          done
+          curl -s -m 60 -o cats.json https://tcgcsv.com/tcgplayer/categories
+          python3 -c "
+          import json; d=json.load(open('cats.json'))['results']
+          for c in d:
+              n=c['name'].lower()
+              if any(k in n for k in ['digimon','dragon','one piece','lorcana','palworld','riftbound','pokemon','yugioh','yu-gi','magic','gundam','union']): print(c['categoryId'], c['name'], '|', c.get('displayName'))
+          " > tcgplayer.txt
+          rm -f pg.json ns.json si.json cats.json
+      - name: Déposer sur une branche temporaire
+        run: |
+          cd out
+          git init -q -b probe-output
+          git config user.name probe && git config user.email probe@example.invalid
+          git add -A && git commit -qm "sonde"
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" probe-output

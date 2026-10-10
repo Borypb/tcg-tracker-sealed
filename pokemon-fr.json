@@ -1,0 +1,908 @@
+{
+  "version": 1,
+  "game": "pokemon",
+  "lang": "fr",
+  "products": [
+    {
+      "id": "pkm-fr-me02-display",
+      "kind": "booster_box",
+      "name": "Display Flammes Fantasmagoriques (36 boosters)",
+      "lang": "fr",
+      "setIds": [
+        "pkm-me02"
+      ],
+      "releasedAt": "2025-11-14",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-me02",
+          "qty": 36
+        }
+      ],
+      "aliases": [
+        "display",
+        "booster box",
+        "boite de boosters",
+        "flammes fantasmagoriques"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pkm-fr-me02-etb",
+      "kind": "etb",
+      "name": "Coffret Dresseur d'Élite Flammes Fantasmagoriques",
+      "lang": "fr",
+      "setIds": [
+        "pkm-me02"
+      ],
+      "releasedAt": "2025-11-14",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-me02",
+          "qty": 9
+        }
+      ],
+      "extras": [
+        "1 carte promo",
+        "65 protège-cartes",
+        "45 cartes Énergie",
+        "Guide du joueur",
+        "Dés et marqueurs",
+        "Boîte de rangement"
+      ],
+      "aliases": [
+        "etb",
+        "coffret dresseur d'elite",
+        "elite trainer box",
+        "flammes fantasmagoriques"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pkm-fr-me01-display",
+      "kind": "booster_box",
+      "name": "Display Méga-Évolution (36 boosters)",
+      "lang": "fr",
+      "setIds": [
+        "pkm-me01"
+      ],
+      "releasedAt": "2025-09-26",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-me01",
+          "qty": 36
+        }
+      ],
+      "aliases": [
+        "display",
+        "booster box",
+        "boite de boosters",
+        "méga-évolution"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pkm-fr-me01-etb",
+      "kind": "etb",
+      "name": "Coffret Dresseur d'Élite Méga-Évolution",
+      "lang": "fr",
+      "setIds": [
+        "pkm-me01"
+      ],
+      "releasedAt": "2025-09-26",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-me01",
+          "qty": 9
+        }
+      ],
+      "extras": [
+        "1 carte promo",
+        "65 protège-cartes",
+        "45 cartes Énergie",
+        "Guide du joueur",
+        "Dés et marqueurs",
+        "Boîte de rangement"
+      ],
+      "aliases": [
+        "etb",
+        "coffret dresseur d'elite",
+        "elite trainer box",
+        "méga-évolution"
+      ],
+      "editions": [
+        "Méga-Gardevoir",
+        "Méga-Lucario"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pkm-fr-sv10.5b-etb",
+      "kind": "etb",
+      "name": "Coffret Dresseur d'Élite Foudre Noire",
+      "lang": "fr",
+      "setIds": [
+        "pkm-sv10.5b"
+      ],
+      "releasedAt": "2025-07-17",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-sv10.5b",
+          "qty": 9
+        }
+      ],
+      "extras": [
+        "1 carte promo",
+        "65 protège-cartes",
+        "45 cartes Énergie",
+        "Guide du joueur",
+        "Dés et marqueurs",
+        "Boîte de rangement"
+      ],
+      "aliases": [
+        "etb",
+        "coffret dresseur d'elite",
+        "elite trainer box",
+        "foudre noire"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pkm-fr-sv10.5w-etb",
+      "kind": "etb",
+      "name": "Coffret Dresseur d'Élite Flamme Blanche",
+      "lang": "fr",
+      "setIds": [
+        "pkm-sv10.5w"
+      ],
+      "releasedAt": "2025-07-17",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-sv10.5w",
+          "qty": 9
+        }
+      ],
+      "extras": [
+        "1 carte promo",
+        "65 protège-cartes",
+        "45 cartes Énergie",
+        "Guide du joueur",
+        "Dés et marqueurs",
+        "Boîte de rangement"
+      ],
+      "aliases": [
+        "etb",
+        "coffret dresseur d'elite",
+        "elite trainer box",
+        "flamme blanche"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pkm-fr-sv10-display",
+      "kind": "booster_box",
+      "name": "Display Rivalités Destinées (36 boosters)",
+      "lang": "fr",
+      "setIds": [
+        "pkm-sv10"
+      ],
+      "releasedAt": "2025-05-30",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-sv10",
+          "qty": 36
+        }
+      ],
+      "aliases": [
+        "display",
+        "booster box",
+        "boite de boosters",
+        "rivalités destinées"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pkm-fr-sv10-etb",
+      "kind": "etb",
+      "name": "Coffret Dresseur d'Élite Rivalités Destinées",
+      "lang": "fr",
+      "setIds": [
+        "pkm-sv10"
+      ],
+      "releasedAt": "2025-05-30",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-sv10",
+          "qty": 9
+        }
+      ],
+      "extras": [
+        "1 carte promo",
+        "65 protège-cartes",
+        "45 cartes Énergie",
+        "Guide du joueur",
+        "Dés et marqueurs",
+        "Boîte de rangement"
+      ],
+      "aliases": [
+        "etb",
+        "coffret dresseur d'elite",
+        "elite trainer box",
+        "rivalités destinées"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pkm-fr-sv09-display",
+      "kind": "booster_box",
+      "name": "Display Aventures Ensemble (36 boosters)",
+      "lang": "fr",
+      "setIds": [
+        "pkm-sv09"
+      ],
+      "releasedAt": "2025-03-28",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-sv09",
+          "qty": 36
+        }
+      ],
+      "aliases": [
+        "display",
+        "booster box",
+        "boite de boosters",
+        "aventures ensemble"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pkm-fr-sv09-etb",
+      "kind": "etb",
+      "name": "Coffret Dresseur d'Élite Aventures Ensemble",
+      "lang": "fr",
+      "setIds": [
+        "pkm-sv09"
+      ],
+      "releasedAt": "2025-03-28",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-sv09",
+          "qty": 9
+        }
+      ],
+      "extras": [
+        "1 carte promo",
+        "65 protège-cartes",
+        "45 cartes Énergie",
+        "Guide du joueur",
+        "Dés et marqueurs",
+        "Boîte de rangement"
+      ],
+      "aliases": [
+        "etb",
+        "coffret dresseur d'elite",
+        "elite trainer box",
+        "aventures ensemble"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pkm-fr-sv08.5-etb",
+      "kind": "etb",
+      "name": "Coffret Dresseur d'Élite Évolutions Prismatiques",
+      "lang": "fr",
+      "setIds": [
+        "pkm-sv08.5"
+      ],
+      "releasedAt": "2025-01-17",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-sv08.5",
+          "qty": 9
+        }
+      ],
+      "extras": [
+        "1 carte promo",
+        "65 protège-cartes",
+        "45 cartes Énergie",
+        "Guide du joueur",
+        "Dés et marqueurs",
+        "Boîte de rangement"
+      ],
+      "aliases": [
+        "etb",
+        "coffret dresseur d'elite",
+        "elite trainer box",
+        "évolutions prismatiques"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pkm-fr-sv08-display",
+      "kind": "booster_box",
+      "name": "Display Étincelles Déferlantes (36 boosters)",
+      "lang": "fr",
+      "setIds": [
+        "pkm-sv08"
+      ],
+      "releasedAt": "2024-11-08",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-sv08",
+          "qty": 36
+        }
+      ],
+      "aliases": [
+        "display",
+        "booster box",
+        "boite de boosters",
+        "étincelles déferlantes"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pkm-fr-sv08-etb",
+      "kind": "etb",
+      "name": "Coffret Dresseur d'Élite Étincelles Déferlantes",
+      "lang": "fr",
+      "setIds": [
+        "pkm-sv08"
+      ],
+      "releasedAt": "2024-11-08",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-sv08",
+          "qty": 9
+        }
+      ],
+      "extras": [
+        "1 carte promo",
+        "65 protège-cartes",
+        "45 cartes Énergie",
+        "Guide du joueur",
+        "Dés et marqueurs",
+        "Boîte de rangement"
+      ],
+      "aliases": [
+        "etb",
+        "coffret dresseur d'elite",
+        "elite trainer box",
+        "étincelles déferlantes"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pkm-fr-sv07-display",
+      "kind": "booster_box",
+      "name": "Display Couronne Stellaire (36 boosters)",
+      "lang": "fr",
+      "setIds": [
+        "pkm-sv07"
+      ],
+      "releasedAt": "2024-09-13",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-sv07",
+          "qty": 36
+        }
+      ],
+      "aliases": [
+        "display",
+        "booster box",
+        "boite de boosters",
+        "couronne stellaire"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pkm-fr-sv07-etb",
+      "kind": "etb",
+      "name": "Coffret Dresseur d'Élite Couronne Stellaire",
+      "lang": "fr",
+      "setIds": [
+        "pkm-sv07"
+      ],
+      "releasedAt": "2024-09-13",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-sv07",
+          "qty": 9
+        }
+      ],
+      "extras": [
+        "1 carte promo",
+        "65 protège-cartes",
+        "45 cartes Énergie",
+        "Guide du joueur",
+        "Dés et marqueurs",
+        "Boîte de rangement"
+      ],
+      "aliases": [
+        "etb",
+        "coffret dresseur d'elite",
+        "elite trainer box",
+        "couronne stellaire"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pkm-fr-sv06.5-etb",
+      "kind": "etb",
+      "name": "Coffret Dresseur d'Élite Fable Nébuleuse",
+      "lang": "fr",
+      "setIds": [
+        "pkm-sv06.5"
+      ],
+      "releasedAt": "2024-08-02",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-sv06.5",
+          "qty": 9
+        }
+      ],
+      "extras": [
+        "1 carte promo",
+        "65 protège-cartes",
+        "45 cartes Énergie",
+        "Guide du joueur",
+        "Dés et marqueurs",
+        "Boîte de rangement"
+      ],
+      "aliases": [
+        "etb",
+        "coffret dresseur d'elite",
+        "elite trainer box",
+        "fable nébuleuse"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pkm-fr-sv06-display",
+      "kind": "booster_box",
+      "name": "Display Mascarade Crépusculaire (36 boosters)",
+      "lang": "fr",
+      "setIds": [
+        "pkm-sv06"
+      ],
+      "releasedAt": "2024-05-24",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-sv06",
+          "qty": 36
+        }
+      ],
+      "aliases": [
+        "display",
+        "booster box",
+        "boite de boosters",
+        "mascarade crépusculaire"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pkm-fr-sv06-etb",
+      "kind": "etb",
+      "name": "Coffret Dresseur d'Élite Mascarade Crépusculaire",
+      "lang": "fr",
+      "setIds": [
+        "pkm-sv06"
+      ],
+      "releasedAt": "2024-05-24",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-sv06",
+          "qty": 9
+        }
+      ],
+      "extras": [
+        "1 carte promo",
+        "65 protège-cartes",
+        "45 cartes Énergie",
+        "Guide du joueur",
+        "Dés et marqueurs",
+        "Boîte de rangement"
+      ],
+      "aliases": [
+        "etb",
+        "coffret dresseur d'elite",
+        "elite trainer box",
+        "mascarade crépusculaire"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pkm-fr-sv05-display",
+      "kind": "booster_box",
+      "name": "Display Forces Temporelles (36 boosters)",
+      "lang": "fr",
+      "setIds": [
+        "pkm-sv05"
+      ],
+      "releasedAt": "2024-03-22",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-sv05",
+          "qty": 36
+        }
+      ],
+      "aliases": [
+        "display",
+        "booster box",
+        "boite de boosters",
+        "forces temporelles"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pkm-fr-sv05-etb",
+      "kind": "etb",
+      "name": "Coffret Dresseur d'Élite Forces Temporelles",
+      "lang": "fr",
+      "setIds": [
+        "pkm-sv05"
+      ],
+      "releasedAt": "2024-03-22",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-sv05",
+          "qty": 9
+        }
+      ],
+      "extras": [
+        "1 carte promo",
+        "65 protège-cartes",
+        "45 cartes Énergie",
+        "Guide du joueur",
+        "Dés et marqueurs",
+        "Boîte de rangement"
+      ],
+      "aliases": [
+        "etb",
+        "coffret dresseur d'elite",
+        "elite trainer box",
+        "forces temporelles"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pkm-fr-sv04.5-etb",
+      "kind": "etb",
+      "name": "Coffret Dresseur d'Élite Destinées de Paldea",
+      "lang": "fr",
+      "setIds": [
+        "pkm-sv04.5"
+      ],
+      "releasedAt": "2024-01-26",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-sv04.5",
+          "qty": 9
+        }
+      ],
+      "extras": [
+        "1 carte promo",
+        "65 protège-cartes",
+        "45 cartes Énergie",
+        "Guide du joueur",
+        "Dés et marqueurs",
+        "Boîte de rangement"
+      ],
+      "aliases": [
+        "etb",
+        "coffret dresseur d'elite",
+        "elite trainer box",
+        "destinées de paldea"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pkm-fr-sv04-display",
+      "kind": "booster_box",
+      "name": "Display Faille Paradoxe (36 boosters)",
+      "lang": "fr",
+      "setIds": [
+        "pkm-sv04"
+      ],
+      "releasedAt": "2023-11-03",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-sv04",
+          "qty": 36
+        }
+      ],
+      "aliases": [
+        "display",
+        "booster box",
+        "boite de boosters",
+        "faille paradoxe"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pkm-fr-sv04-etb",
+      "kind": "etb",
+      "name": "Coffret Dresseur d'Élite Faille Paradoxe",
+      "lang": "fr",
+      "setIds": [
+        "pkm-sv04"
+      ],
+      "releasedAt": "2023-11-03",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-sv04",
+          "qty": 9
+        }
+      ],
+      "extras": [
+        "1 carte promo",
+        "65 protège-cartes",
+        "45 cartes Énergie",
+        "Guide du joueur",
+        "Dés et marqueurs",
+        "Boîte de rangement"
+      ],
+      "aliases": [
+        "etb",
+        "coffret dresseur d'elite",
+        "elite trainer box",
+        "faille paradoxe"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pkm-fr-sv03.5-upc",
+      "kind": "upc",
+      "name": "Collection Ultra Premium 151 (Mew-ex)",
+      "lang": "fr",
+      "setIds": [
+        "pkm-sv03.5"
+      ],
+      "releasedAt": "2023-10-06",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-sv03.5",
+          "qty": 16
+        }
+      ],
+      "extras": [
+        "Cartes promo dont Mew-ex",
+        "Carte métal",
+        "Accessoires de jeu"
+      ],
+      "aliases": [
+        "upc",
+        "ultra premium",
+        "151",
+        "mew"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pkm-fr-sv03.5-etb",
+      "kind": "etb",
+      "name": "Coffret Dresseur d'Élite 151",
+      "lang": "fr",
+      "setIds": [
+        "pkm-sv03.5"
+      ],
+      "releasedAt": "2023-09-22",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-sv03.5",
+          "qty": 9
+        }
+      ],
+      "extras": [
+        "1 carte promo",
+        "65 protège-cartes",
+        "45 cartes Énergie",
+        "Guide du joueur",
+        "Dés et marqueurs",
+        "Boîte de rangement"
+      ],
+      "aliases": [
+        "etb",
+        "coffret dresseur d'elite",
+        "elite trainer box",
+        "151"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pkm-fr-sv03-display",
+      "kind": "booster_box",
+      "name": "Display Flammes Obsidiennes (36 boosters)",
+      "lang": "fr",
+      "setIds": [
+        "pkm-sv03"
+      ],
+      "releasedAt": "2023-08-11",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-sv03",
+          "qty": 36
+        }
+      ],
+      "aliases": [
+        "display",
+        "booster box",
+        "boite de boosters",
+        "flammes obsidiennes"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pkm-fr-sv03-etb",
+      "kind": "etb",
+      "name": "Coffret Dresseur d'Élite Flammes Obsidiennes",
+      "lang": "fr",
+      "setIds": [
+        "pkm-sv03"
+      ],
+      "releasedAt": "2023-08-11",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-sv03",
+          "qty": 9
+        }
+      ],
+      "extras": [
+        "1 carte promo",
+        "65 protège-cartes",
+        "45 cartes Énergie",
+        "Guide du joueur",
+        "Dés et marqueurs",
+        "Boîte de rangement"
+      ],
+      "aliases": [
+        "etb",
+        "coffret dresseur d'elite",
+        "elite trainer box",
+        "flammes obsidiennes"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pkm-fr-sv02-display",
+      "kind": "booster_box",
+      "name": "Display Évolutions à Paldea (36 boosters)",
+      "lang": "fr",
+      "setIds": [
+        "pkm-sv02"
+      ],
+      "releasedAt": "2023-06-09",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-sv02",
+          "qty": 36
+        }
+      ],
+      "aliases": [
+        "display",
+        "booster box",
+        "boite de boosters",
+        "évolutions à paldea"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pkm-fr-sv02-etb",
+      "kind": "etb",
+      "name": "Coffret Dresseur d'Élite Évolutions à Paldea",
+      "lang": "fr",
+      "setIds": [
+        "pkm-sv02"
+      ],
+      "releasedAt": "2023-06-09",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-sv02",
+          "qty": 9
+        }
+      ],
+      "extras": [
+        "1 carte promo",
+        "65 protège-cartes",
+        "45 cartes Énergie",
+        "Guide du joueur",
+        "Dés et marqueurs",
+        "Boîte de rangement"
+      ],
+      "aliases": [
+        "etb",
+        "coffret dresseur d'elite",
+        "elite trainer box",
+        "évolutions à paldea"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pkm-fr-sv01-display",
+      "kind": "booster_box",
+      "name": "Display Écarlate et Violet (36 boosters)",
+      "lang": "fr",
+      "setIds": [
+        "pkm-sv01"
+      ],
+      "releasedAt": "2023-03-31",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-sv01",
+          "qty": 36
+        }
+      ],
+      "aliases": [
+        "display",
+        "booster box",
+        "boite de boosters",
+        "écarlate et violet"
+      ],
+      "verified": true
+    },
+    {
+      "id": "pkm-fr-sv01-etb",
+      "kind": "etb",
+      "name": "Coffret Dresseur d'Élite Écarlate et Violet",
+      "lang": "fr",
+      "setIds": [
+        "pkm-sv01"
+      ],
+      "releasedAt": "2023-03-31",
+      "contents": [
+        {
+          "type": "booster",
+          "setId": "pkm-sv01",
+          "qty": 9
+        }
+      ],
+      "extras": [
+        "1 carte promo",
+        "65 protège-cartes",
+        "45 cartes Énergie",
+        "Guide du joueur",
+        "Dés et marqueurs",
+        "Boîte de rangement"
+      ],
+      "aliases": [
+        "etb",
+        "coffret dresseur d'elite",
+        "elite trainer box",
+        "écarlate et violet"
+      ],
+      "editions": [
+        "Koraidon",
+        "Miraidon"
+      ],
+      "verified": true
+    }
+  ]
+}

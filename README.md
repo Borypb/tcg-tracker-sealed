@@ -7,10 +7,30 @@ L'app lit ce dépôt en lecture seule. Elle ne lui envoie rien, et ta collection
 ## Structure
 
 ```
-index.json      # version globale, libellés des types, un fichier par licence
-pokemon.json    # produits Pokémon
-images/         # (optionnel) visuels des produits, <id>.webp
+index.json             # versions, libellés des types, un fichier par licence et par langue
+pokemon-fr.json        # fichiers lus par l'app (générés, ne pas modifier à la main)
+pokemon-en.json
+pokemon-ja.json
+curated/               # catalogue vérifié à la main : prioritaire sur tout le reste
+raw/                   # récolte brute (script 1)
+generated/             # produits déduits dans d'autres langues (script 2)
+review/                # produits que le script 2 n'a pas su traduire, à compléter à la main
+scripts/               # harvest.mjs → localize.mjs → build.mjs (update.mjs enchaîne les trois)
 ```
+
+## Mise à jour automatique
+
+Une GitHub Action (`.github/workflows/update.yml`) tourne chaque nuit, et à la demande depuis l'onglet Actions :
+
+1. **Récolte** (`harvest.mjs`) : produits scellés du catalogue TCGplayer via [TCGCSV](https://tcgcsv.com) (anglais et japonais),
+   rattachés aux extensions TCGdex. Seules les extensions modifiées depuis la veille sont retéléchargées.
+2. **Déclinaison** (`localize.mjs`) : à partir de la récolte anglaise, propose l'équivalent français de chaque produit :
+   nom de l'extension traduit par TCGdex, gabarit par type (« Coffret Dresseur d'Élite … »), Pokémon traduits via PokeAPI.
+   Les exclusivités d'enseignes américaines sont écartées. Ce qui ne se traduit pas proprement va dans `review/`.
+3. **Assemblage** (`build.mjs`) : fusionne `curated/` (prioritaire), `generated/` et `raw/`,
+   et n'incrémente la version d'un fichier que si son contenu a changé.
+
+Les produits déduits portent un champ `derived` (nom anglais d'origine) ; ceux du catalogue manuel, `verified: true`.
 
 ## index.json
 
@@ -20,13 +40,19 @@ images/         # (optionnel) visuels des produits, <id>.webp
   "updatedAt": "2026-10-10",
   "kinds": { "etb": "Coffret Dresseur d'Élite", "booster_box": "Display" },
   "games": {
-    "pokemon": { "file": "pokemon.json", "version": 1, "count": 31 }
+    "pokemon": {
+      "files": {
+        "fr": { "file": "pokemon-fr.json", "version": 3, "count": 412 },
+        "en": { "file": "pokemon-en.json", "version": 7, "count": 2180 }
+      }
+    }
   }
 }
 ```
 
-L'app télécharge `index.json` (une fois par jour au plus), puis seulement les fichiers de licence dont la `version` a changé.
-**Quand tu modifies `pokemon.json`, incrémente sa `version` ici, sinon les apps ne verront pas la mise à jour.**
+L'app télécharge `index.json` (une fois par jour au plus), puis seulement les fichiers dont la `version` a changé.
+Les versions sont gérées par `build.mjs` : pour corriger un produit, modifie `curated/` puis lance `node scripts/build.mjs`
+(ou laisse l'Action de la nuit s'en charger).
 
 ## Format d'un produit
 
@@ -67,7 +93,8 @@ L'app télécharge `index.json` (une fois par jour au plus), puis seulement les 
 
 ## Couverture
 
-- Pokémon (FR) : coffrets Dresseur d'Élite et displays des blocs Écarlate et Violet et Méga-Évolution, Collection Ultra Premium 151.
-- À compléter : Pokébox, tripacks, coffrets collection, autres blocs, autres licences.
+- Pokémon : tout le catalogue scellé TCGplayer en anglais et en japonais ; en français, les équivalents déduits
+  plus le catalogue vérifié (ETB et displays Écarlate et Violet / Méga-Évolution, Collection Ultra Premium 151).
+- À venir : autres licences, autres langues européennes.
 
 Non affilié à Nintendo, The Pokémon Company, Bandai, Wizards of the Coast, Konami, Ravensburger, Riot Games, Pocketpair.

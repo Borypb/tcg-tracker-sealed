@@ -35,6 +35,12 @@ Une GitHub Action (`.github/workflows/update.yml`) tourne chaque nuit, et à la 
 3. **Assemblage** (`build.mjs`) : fusionne `curated/` (prioritaire), `generated/` et `raw/`,
    et n'incrémente la version d'un fichier que si son contenu a changé.
 
+4. **Cotes** (`prices.mjs`) : cote du marché secondaire, distincte du prix de sortie (`msrp`).
+   Cardmarket (fichiers publics du jour, en €) et TCGplayer (via TCGCSV, en $), dans `prices-pokemon.json`,
+   un fichier à part qui change chaque jour sans faire changer la version du catalogue.
+   Une fiche Cardmarket de produit scellé couvre toutes les langues européennes : la cote est « toutes langues ».
+   Les boîtes « 1st Edition », que Cardmarket ne distingue pas, restent sans cote plutôt qu'avec une cote fausse.
+
 Les produits déduits portent un champ `derived` (nom anglais d'origine) ; ceux du catalogue manuel, `verified: true`.
 
 ## index.json

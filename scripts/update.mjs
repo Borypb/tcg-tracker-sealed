@@ -3,6 +3,7 @@ import { harvest, SOURCES } from "./harvest.mjs";
 import { harvestJpOfficial } from "./harvest-jp.mjs";
 import { localize, TEMPLATES } from "./localize.mjs";
 import { build } from "./build.mjs";
+import { prices } from "./prices.mjs";
 
 for (const [game, sources] of Object.entries(SOURCES)) {
   for (const src of sources) await harvest(game, src);
@@ -17,3 +18,5 @@ for (const [game, sources] of Object.entries(SOURCES)) {
   for (const lang of Object.keys(TEMPLATES)) await localize(game, lang);
 }
 await build();
+// cotes du jour (fichier séparé : le catalogue ne change pas de version chaque jour)
+await prices("pokemon", "pkm");

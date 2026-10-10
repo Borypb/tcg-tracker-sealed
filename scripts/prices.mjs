@@ -162,7 +162,16 @@ export async function prices(game = "pokemon", prefix = "pkm") {
     const c = guide.get(tcpToCm.get(tcgplayerId));
     const t = tcp.get(tcgplayerId);
     const res = {};
-    if (c && (c.trend || c.avg || c.low)) res.cm = { id: c.idProduct, name: cmName.get(c.idProduct), trend: round(c.trend), avg: round(c.avg), low: round(c.low) };
+    if (c && (c.trend || c.avg || c.low)) res.cm = {
+        id: c.idProduct,
+        name: cmName.get(c.idProduct),
+        trend: round(c.trend),
+        avg: round(c.avg),
+        low: round(c.low),
+        avg1: round(c.avg1),
+        avg7: round(c.avg7),
+        avg30: round(c.avg30)
+      };
     if (t && (t.market || t.low)) res.tp = t;
     return Object.keys(res).length ? res : undefined;
   };

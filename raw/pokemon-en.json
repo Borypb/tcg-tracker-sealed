@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "en",
   "categoryId": 3,
-  "harvestedAt": "2026-10-10T14:02:47.708Z",
+  "harvestedAt": "2026-10-11T10:20:30.962Z",
   "groups": {
     "604": {
       "name": "Base Set",
@@ -19084,7 +19084,7 @@
     },
     "22880": {
       "name": "Prize Pack Series Cards",
-      "modifiedOn": "2026-10-07T05:20:33.127",
+      "modifiedOn": "2026-10-09T20:41:44.517",
       "publishedOn": "2022-11-30",
       "products": [
         {
@@ -19171,7 +19171,7 @@
     "23120": {
       "name": "SV02: Paldea Evolved",
       "abbreviation": "PAL",
-      "modifiedOn": "2026-09-23T01:03:34.18",
+      "modifiedOn": "2026-10-10T05:48:14.047",
       "publishedOn": "2023-06-09",
       "setCode": "sv02",
       "products": [
@@ -19248,28 +19248,12 @@
           "url": "https://www.tcgplayer.com/product/496905/pokemon-sv02-paldea-evolved-paldea-evolved-booster-box-case"
         },
         {
-          "tcgplayerId": 496908,
-          "name": "Paldea Evolved 3 Pack Blister [Set of 2]",
-          "kind": "blister",
-          "releasedOn": "2023-06-09",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/496908_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/496908/pokemon-sv02-paldea-evolved-paldea-evolved-3-pack-blister-set-of-2"
-        },
-        {
           "tcgplayerId": 496911,
           "name": "Paldea Evolved Elite Trainer Box Case",
           "kind": "case",
           "releasedOn": "2023-06-09",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/496911_200w.jpg",
           "url": "https://www.tcgplayer.com/product/496911/pokemon-sv02-paldea-evolved-paldea-evolved-elite-trainer-box-case"
-        },
-        {
-          "tcgplayerId": 496913,
-          "name": "Paldea Evolved Booster Pack Art Bundle [Set of 5]",
-          "kind": "booster",
-          "releasedOn": "2023-06-09",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/496913_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/496913/pokemon-sv02-paldea-evolved-paldea-evolved-booster-pack-art-bundle-set-of-5"
         },
         {
           "tcgplayerId": 496914,
@@ -19298,7 +19282,7 @@
         {
           "tcgplayerId": 496931,
           "name": "Paldea Evolved Build & Battle Box Display",
-          "kind": "build_battle",
+          "kind": "case",
           "releasedOn": "2023-06-09",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/496931_200w.jpg",
           "url": "https://www.tcgplayer.com/product/496931/pokemon-sv02-paldea-evolved-paldea-evolved-build-and-battle-box-display"
@@ -19310,14 +19294,6 @@
           "releasedOn": "2023-06-09",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/496935_200w.jpg",
           "url": "https://www.tcgplayer.com/product/496935/pokemon-sv02-paldea-evolved-paldea-evolved-build-and-battle-stadium"
-        },
-        {
-          "tcgplayerId": 502480,
-          "name": "Paldea Evolved Sleeved Booster Pack Art Bundle [Set of 5]",
-          "kind": "booster",
-          "releasedOn": "2023-06-09",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/502480_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/502480/pokemon-sv02-paldea-evolved-paldea-evolved-sleeved-booster-pack-art-bundle-set-of-5"
         },
         {
           "tcgplayerId": 530106,
@@ -19338,7 +19314,7 @@
         {
           "tcgplayerId": 609027,
           "name": "Paldea Evolved Sleeved Booster Case",
-          "kind": "booster",
+          "kind": "case",
           "releasedOn": "2023-06-09",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/609027_200w.jpg",
           "url": "https://www.tcgplayer.com/product/609027/pokemon-sv02-paldea-evolved-paldea-evolved-sleeved-booster-case"
@@ -23307,7 +23283,7 @@
     "24451": {
       "name": "ME: Mega Evolution Promo",
       "abbreviation": "MEP",
-      "modifiedOn": "2026-10-05T13:17:00.443",
+      "modifiedOn": "2026-10-09T20:39:41.99",
       "publishedOn": "2025-09-26",
       "setCode": "mep",
       "products": []

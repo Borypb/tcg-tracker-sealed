@@ -5,6 +5,7 @@ import { localize, TEMPLATES } from "./localize.mjs";
 import { build } from "./build.mjs";
 import { prices } from "./prices.mjs";
 import { fx } from "./fx.mjs";
+import { cards } from "./cards.mjs";
 
 for (const [game, sources] of Object.entries(SOURCES)) {
   for (const src of sources) await harvest(game, src);
@@ -26,4 +27,10 @@ try {
   await fx();
 } catch (e) {
   console.warn("Taux BCE indisponibles :", e.message);
+}
+// cartes des licences sans API publique (Dragon Ball Fusion World, Palworld, Digimon)
+try {
+  await cards();
+} catch (e) {
+  console.warn("Cartes TCGplayer indisponibles :", e.message);
 }

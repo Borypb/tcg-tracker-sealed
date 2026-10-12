@@ -6,6 +6,10 @@ on:
     # 3 h 50 UTC = 5 h 50 à Paris l'été, 4 h 50 l'hiver.
     - cron: "50 3 * * *"
   workflow_dispatch:
+  # une modification des scripts relance la chaîne aussitôt
+  push:
+    branches: [main]
+    paths: ["scripts/**"]
 
 permissions:
   contents: write

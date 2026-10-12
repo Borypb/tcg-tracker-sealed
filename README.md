@@ -112,3 +112,7 @@ Les versions sont gérées par `build.mjs` : pour corriger un produit, modifie `
 - À venir : autres licences, autres langues européennes.
 
 Non affilié à Nintendo, The Pokémon Company, Bandai, Wizards of the Coast, Konami, Ravensburger, Riot Games, Pocketpair.
+
+5. **Cartes** (`cards.mjs`) : cartes des licences sans API publique — Dragon Ball Super Fusion World, Palworld, Digimon —
+   depuis le catalogue TCGplayer (TCGCSV), avec images du CDN TCGplayer et cote du jour en $.
+   `cards/index.json` liste les extensions ; une extension = un fichier `cards/<licence>/<groupId>.json`.

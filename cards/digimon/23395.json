@@ -1,0 +1,2331 @@
+{
+  "groupId": 23395,
+  "cards": [
+    {
+      "id": 546678,
+      "name": "Poromon",
+      "number": "BT16-001 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/546678_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/546678/digimon-card-game-beginning-observer-poromon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 546679,
+      "name": "DemiVeemon",
+      "number": "BT16-002 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/546679_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/546679/digimon-card-game-beginning-observer-demiveemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.32
+        }
+      ]
+    },
+    {
+      "id": 546680,
+      "name": "Minomon",
+      "number": "BT16-004 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/546680_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/546680/digimon-card-game-beginning-observer-minomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.21
+        }
+      ]
+    },
+    {
+      "id": 546681,
+      "name": "Hawkmon",
+      "number": "BT16-007 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/546681_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/546681/digimon-card-game-beginning-observer-hawkmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 546682,
+      "name": "Aquilamon",
+      "number": "BT16-008 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/546682_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/546682/digimon-card-game-beginning-observer-aquilamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 546683,
+      "name": "Silphymon",
+      "number": "BT16-012 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/546683_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/546683/digimon-card-game-beginning-observer-silphymon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.15
+        }
+      ]
+    },
+    {
+      "id": 546684,
+      "name": "Veemon",
+      "number": "BT16-017 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/546684_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/546684/digimon-card-game-beginning-observer-veemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.37
+        }
+      ]
+    },
+    {
+      "id": 546685,
+      "name": "ExVeemon",
+      "number": "BT16-018 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/546685_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/546685/digimon-card-game-beginning-observer-exveemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 546686,
+      "name": "Imperialdramon: Dragon Mode",
+      "number": "BT16-028 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/546686_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/546686/digimon-card-game-beginning-observer-imperialdramon-dragon-mode",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.66
+        }
+      ]
+    },
+    {
+      "id": 546687,
+      "name": "Salamon",
+      "number": "BT16-030 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/546687_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/546687/digimon-card-game-beginning-observer-salamon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.71
+        }
+      ]
+    },
+    {
+      "id": 546688,
+      "name": "Gatomon",
+      "number": "BT16-031 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/546688_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/546688/digimon-card-game-beginning-observer-gatomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.39
+        }
+      ]
+    },
+    {
+      "id": 546689,
+      "name": "Wormmon",
+      "number": "BT16-040 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/546689_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/546689/digimon-card-game-beginning-observer-wormmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.67
+        }
+      ]
+    },
+    {
+      "id": 546690,
+      "name": "Stingmon",
+      "number": "BT16-041 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/546690_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/546690/digimon-card-game-beginning-observer-stingmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23
+        }
+      ]
+    },
+    {
+      "id": 546691,
+      "name": "GranKuwagamon ACE",
+      "number": "BT16-046 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/546691_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/546691/digimon-card-game-beginning-observer-grankuwagamon-ace",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.47
+        }
+      ]
+    },
+    {
+      "id": 546692,
+      "name": "Dinobeemon",
+      "number": "BT16-077 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/546692_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/546692/digimon-card-game-beginning-observer-dinobeemon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.7
+        }
+      ]
+    },
+    {
+      "id": 546693,
+      "name": "Davis Motomiya & Ken Ichijoji",
+      "number": "BT16-085 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/546693_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/546693/digimon-card-game-beginning-observer-davis-motomiya-and-ken-ichijoji",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.55
+        }
+      ]
+    },
+    {
+      "id": 546694,
+      "name": "Invincible Dragon-Insect Fusion",
+      "number": "BT16-092 U",
+      "rarity": "Uncommon",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/546694_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/546694/digimon-card-game-beginning-observer-invincible-dragon-insect-fusion",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16
+        }
+      ]
+    },
+    {
+      "id": 546756,
+      "name": "Beastly Storm Dance of Affection",
+      "number": "BT16-091 U",
+      "rarity": "Uncommon",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/546756_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/546756/digimon-card-game-beginning-observer-beastly-storm-dance-of-affection",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 546757,
+      "name": "Yolei Inoue & Kari Kamiya",
+      "number": "BT16-084 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/546757_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/546757/digimon-card-game-beginning-observer-yolei-inoue-and-kari-kamiya",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.21
+        }
+      ]
+    },
+    {
+      "id": 546758,
+      "name": "Valkyrimon ACE",
+      "number": "BT16-013 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/546758_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/546758/digimon-card-game-beginning-observer-valkyrimon-ace",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.68
+        }
+      ]
+    },
+    {
+      "id": 546759,
+      "name": "Upamon",
+      "number": "BT16-003 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/546759_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/546759/digimon-card-game-beginning-observer-upamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24
+        }
+      ]
+    },
+    {
+      "id": 547162,
+      "name": "Ankylomon",
+      "number": "BT16-053 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547162_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/547162/digimon-card-game-beginning-observer-ankylomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 547163,
+      "name": "Angemon",
+      "number": "BT16-019 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547163_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/547163/digimon-card-game-beginning-observer-angemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2
+        }
+      ]
+    },
+    {
+      "id": 547164,
+      "name": "Armadillomon",
+      "number": "BT16-049 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547164_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/547164/digimon-card-game-beginning-observer-armadillomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 547165,
+      "name": "Patamon",
+      "number": "BT16-016 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547165_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/547165/digimon-card-game-beginning-observer-patamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 547166,
+      "name": "MagnaAngemon",
+      "number": "BT16-024 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547166_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/547166/digimon-card-game-beginning-observer-magnaangemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3
+        }
+      ]
+    },
+    {
+      "id": 547167,
+      "name": "Shakkoumon",
+      "number": "BT16-063 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547167_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/547167/digimon-card-game-beginning-observer-shakkoumon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.37
+        }
+      ]
+    },
+    {
+      "id": 547184,
+      "name": "Vikemon ACE",
+      "number": "BT16-026 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547184_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/547184/digimon-card-game-beginning-observer-vikemon-ace",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.45
+        }
+      ]
+    },
+    {
+      "id": 547185,
+      "name": "SlashAngemon",
+      "number": "BT16-035 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547185_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/547185/digimon-card-game-beginning-observer-slashangemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 547186,
+      "name": "Cody Hida & T.K. Takaishi",
+      "number": "BT16-088 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547186_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/547186/digimon-card-game-beginning-observer-cody-hida-and-tk-takaishi",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.27
+        }
+      ]
+    },
+    {
+      "id": 547187,
+      "name": "Advent of the Ancient Steel Angel",
+      "number": "BT16-097 U",
+      "rarity": "Uncommon",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547187_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/547187/digimon-card-game-beginning-observer-advent-of-the-ancient-steel-angel",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 547188,
+      "name": "Ukkomon",
+      "number": "BT16-082 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547188_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/547188/digimon-card-game-beginning-observer-ukkomon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.78
+        }
+      ]
+    },
+    {
+      "id": 547666,
+      "name": "BigUkkomon",
+      "number": "BT16-083 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547666_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/547666/digimon-card-game-beginning-observer-bigukkomon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.26
+        }
+      ]
+    },
+    {
+      "id": 547667,
+      "name": "Lui Ohwada",
+      "number": "BT16-090 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547667_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/547667/digimon-card-game-beginning-observer-lui-ohwada",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 547668,
+      "name": "Sethmon",
+      "number": "BT16-070 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547668_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/547668/digimon-card-game-beginning-observer-sethmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 547669,
+      "name": "Togemogumon",
+      "number": "BT16-021 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547669_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/547669/digimon-card-game-beginning-observer-togemogumon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16
+        }
+      ]
+    },
+    {
+      "id": 547670,
+      "name": "Lynxmon",
+      "number": "BT16-009 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547670_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/547670/digimon-card-game-beginning-observer-lynxmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 547671,
+      "name": "Harpymon",
+      "number": "BT16-033 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547671_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/547671/digimon-card-game-beginning-observer-harpymon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 547673,
+      "name": "Sheepmon",
+      "number": "BT16-032 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547673_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/547673/digimon-card-game-beginning-observer-sheepmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 547674,
+      "name": "Mantaraymon",
+      "number": "BT16-022 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547674_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/547674/digimon-card-game-beginning-observer-mantaraymon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 547675,
+      "name": "Arukenimon",
+      "number": "BT16-072 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547675_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/547675/digimon-card-game-beginning-observer-arukenimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25
+        }
+      ]
+    },
+    {
+      "id": 547676,
+      "name": "Mummymon",
+      "number": "BT16-073 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547676_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/547676/digimon-card-game-beginning-observer-mummymon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 547677,
+      "name": "Terriermon",
+      "label": "X Antibody",
+      "number": "BT16-038 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547677_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/547677/digimon-card-game-beginning-observer-terriermon-x-antibody",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.76
+        }
+      ]
+    },
+    {
+      "id": 547678,
+      "name": "Lopmon",
+      "label": "X Antibody",
+      "number": "BT16-067 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547678_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/547678/digimon-card-game-beginning-observer-lopmon-x-antibody",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 547680,
+      "name": "Rapidmon",
+      "label": "X Antibody",
+      "number": "BT16-101 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547680_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/547680/digimon-card-game-beginning-observer-rapidmon-x-antibody",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 9.68
+        }
+      ]
+    },
+    {
+      "id": 547682,
+      "name": "The Sparkle of Fate!",
+      "number": "BT16-093 R",
+      "rarity": "Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547682_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/547682/digimon-card-game-beginning-observer-the-sparkle-of-fate",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 547684,
+      "name": "Magnamon",
+      "label": "X Antibody",
+      "number": "BT16-102 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547684_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/547684/digimon-card-game-beginning-observer-magnamon-x-antibody",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 29.47
+        }
+      ]
+    },
+    {
+      "id": 547685,
+      "name": "Cherubimon",
+      "label": "X Antibody",
+      "number": "BT16-079 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547685_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/547685/digimon-card-game-beginning-observer-cherubimon-x-antibody",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.23
+        }
+      ]
+    },
+    {
+      "id": 547686,
+      "name": "Arukenimon & Mummymon",
+      "number": "BT16-089 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547686_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/547686/digimon-card-game-beginning-observer-arukenimon-and-mummymon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.86
+        }
+      ]
+    },
+    {
+      "id": 547744,
+      "name": "Helloogarmon",
+      "number": "BT16-010 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547744_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/547744/digimon-card-game-beginning-observer-helloogarmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 547745,
+      "name": "Soloogarmon",
+      "number": "BT16-076 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547745_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/547745/digimon-card-game-beginning-observer-soloogarmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.26
+        }
+      ]
+    },
+    {
+      "id": 547746,
+      "name": "MaloMyotismon",
+      "number": "BT16-081 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547746_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/547746/digimon-card-game-beginning-observer-malomyotismon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.75
+        }
+      ]
+    },
+    {
+      "id": 547747,
+      "name": "The Demon Wolf of the Castle of Nine Wolves",
+      "number": "BT16-099 R",
+      "rarity": "Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547747_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/547747/digimon-card-game-beginning-observer-the-demon-wolf-of-the-castle-of-nine-wolves",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.32
+        }
+      ]
+    },
+    {
+      "id": 547792,
+      "name": "Dorumon",
+      "number": "BT16-051 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547792_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/547792/digimon-card-game-beginning-observer-dorumon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.61
+        }
+      ]
+    },
+    {
+      "id": 547793,
+      "name": "Dorimon",
+      "number": "BT16-005 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547793_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/547793/digimon-card-game-beginning-observer-dorimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.27
+        }
+      ]
+    },
+    {
+      "id": 547794,
+      "name": "Kosuke Kisakata",
+      "number": "BT16-087 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547794_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/547794/digimon-card-game-beginning-observer-kosuke-kisakata",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.53
+        }
+      ]
+    },
+    {
+      "id": 548174,
+      "name": "Dorugamon",
+      "number": "BT16-058 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548174_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548174/digimon-card-game-beginning-observer-dorugamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28
+        }
+      ]
+    },
+    {
+      "id": 548175,
+      "name": "DoruGreymon",
+      "number": "BT16-061 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548175_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548175/digimon-card-game-beginning-observer-dorugreymon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.36
+        }
+      ]
+    },
+    {
+      "id": 548176,
+      "name": "DORU-Din",
+      "number": "BT16-098 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548176_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548176/digimon-card-game-beginning-observer-doru-din",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 548177,
+      "name": "Dorugoramon",
+      "number": "BT16-064 R",
+      "rarity": "Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548177_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548177/digimon-card-game-beginning-observer-dorugoramon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.54
+        }
+      ]
+    },
+    {
+      "id": 548356,
+      "name": "Commandramon",
+      "number": "BT16-050 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548356_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548356/digimon-card-game-beginning-observer-commandramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 548358,
+      "name": "Sealsdramon",
+      "number": "BT16-054 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548358_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548358/digimon-card-game-beginning-observer-sealsdramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23
+        }
+      ]
+    },
+    {
+      "id": 548366,
+      "name": "Mekanorimon",
+      "number": "BT16-057 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548366_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548366/digimon-card-game-beginning-observer-mekanorimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 548371,
+      "name": "Tankdramon",
+      "number": "BT16-060 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548371_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548371/digimon-card-game-beginning-observer-tankdramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22
+        }
+      ]
+    },
+    {
+      "id": 548396,
+      "name": "Namakemon",
+      "number": "BT16-055 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548396_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548396/digimon-card-game-beginning-observer-namakemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.31
+        }
+      ]
+    },
+    {
+      "id": 548398,
+      "name": "Divemon",
+      "number": "BT16-023 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548398_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548398/digimon-card-game-beginning-observer-divemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 548399,
+      "name": "Shootmon",
+      "number": "BT16-059 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548399_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548399/digimon-card-game-beginning-observer-shootmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 548401,
+      "name": "Climbmon",
+      "number": "BT16-074 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548401_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548401/digimon-card-game-beginning-observer-climbmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 548403,
+      "name": "Pulsemon",
+      "number": "BT16-039 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548403_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548403/digimon-card-game-beginning-observer-pulsemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 548406,
+      "name": "Hacker Judge",
+      "number": "BT16-086 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548406_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548406/digimon-card-game-beginning-observer-hacker-judge",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.17
+        }
+      ]
+    },
+    {
+      "id": 548407,
+      "name": "Darkdramon",
+      "number": "BT16-065 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548407_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548407/digimon-card-game-beginning-observer-darkdramon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.24
+        }
+      ]
+    },
+    {
+      "id": 548408,
+      "name": "Runnermon",
+      "number": "BT16-043 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548408_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548408/digimon-card-game-beginning-observer-runnermon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 548409,
+      "name": "Tempomon",
+      "number": "BT16-034 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548409_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548409/digimon-card-game-beginning-observer-tempomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 548411,
+      "name": "Pistmon",
+      "number": "BT16-044 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548411_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548411/digimon-card-game-beginning-observer-pistmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 548430,
+      "name": "Achillesmon",
+      "number": "BT16-047 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548430_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548430/digimon-card-game-beginning-observer-achillesmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 548431,
+      "name": "Thunderflame Crusher",
+      "number": "BT16-100 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548431_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548431/digimon-card-game-beginning-observer-thunderflame-crusher",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 548432,
+      "name": "Shroudmon",
+      "number": "BT16-080 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548432_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548432/digimon-card-game-beginning-observer-shroudmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.31
+        }
+      ]
+    },
+    {
+      "id": 548538,
+      "name": "Dragon's Breath",
+      "number": "BT16-094 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548538_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548538/digimon-card-game-beginning-observer-dragons-breath",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 548539,
+      "name": "Chaosmon",
+      "number": "BT16-036 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548539_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548539/digimon-card-game-beginning-observer-chaosmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.21
+        }
+      ]
+    },
+    {
+      "id": 548557,
+      "name": "Metropolitan Police Department, Community Safety Bureau, Cyber Crime Division, Investigation Unit 11...",
+      "number": "BT16-096 R",
+      "rarity": "Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548557_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548557/digimon-card-game-beginning-observer-metropolitan-police-department-community-safety-bureau-cyber-crime-division-investigation-unit-11",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.59
+        }
+      ]
+    },
+    {
+      "id": 548558,
+      "name": "KoKabuterimon",
+      "number": "BT16-037 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548558_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548558/digimon-card-game-beginning-observer-kokabuterimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 548559,
+      "name": "BladeKuwagamon",
+      "number": "BT16-042 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548559_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548559/digimon-card-game-beginning-observer-bladekuwagamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 548560,
+      "name": "MetallifeKuwagamon",
+      "number": "BT16-045 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548560_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548560/digimon-card-game-beginning-observer-metallifekuwagamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25
+        }
+      ]
+    },
+    {
+      "id": 548600,
+      "name": "Cupimon",
+      "number": "BT16-006 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548600_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548600/digimon-card-game-beginning-observer-cupimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.64
+        }
+      ]
+    },
+    {
+      "id": 548601,
+      "name": "Garudamon",
+      "label": "X Antibody",
+      "number": "BT16-011 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548601_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548601/digimon-card-game-beginning-observer-garudamon-x-antibody",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16
+        }
+      ]
+    },
+    {
+      "id": 548603,
+      "name": "Goldramon",
+      "label": "X Antibody",
+      "number": "BT16-014 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548603_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548603/digimon-card-game-beginning-observer-goldramon-x-antibody",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 548604,
+      "name": "Phoenixmon",
+      "label": "X Antibody",
+      "number": "BT16-015 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548604_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548604/digimon-card-game-beginning-observer-phoenixmon-x-antibody",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.26
+        }
+      ]
+    },
+    {
+      "id": 548607,
+      "name": "GaoGamon",
+      "number": "BT16-020 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548607_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548607/digimon-card-game-beginning-observer-gaogamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5
+        }
+      ]
+    },
+    {
+      "id": 548613,
+      "name": "Paildramon",
+      "number": "BT16-025 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548613_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548613/digimon-card-game-beginning-observer-paildramon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.76
+        }
+      ]
+    },
+    {
+      "id": 548620,
+      "name": "Imperialdramon: Fighter Mode ACE",
+      "number": "BT16-027 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548620_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548620/digimon-card-game-beginning-observer-imperialdramon-fighter-mode-ace",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.7
+        }
+      ]
+    },
+    {
+      "id": 548623,
+      "name": "Agumon",
+      "number": "BT16-029 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548623_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548623/digimon-card-game-beginning-observer-agumon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.27
+        }
+      ]
+    },
+    {
+      "id": 548631,
+      "name": "TyrantKabuterimon",
+      "number": "BT16-048 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548631_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548631/digimon-card-game-beginning-observer-tyrantkabuterimon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 6.18
+        }
+      ]
+    },
+    {
+      "id": 548635,
+      "name": "Hagurumon",
+      "label": "X Antibody",
+      "number": "BT16-052 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548635_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548635/digimon-card-game-beginning-observer-hagurumon-x-antibody",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17
+        }
+      ]
+    },
+    {
+      "id": 548639,
+      "name": "Publimon",
+      "number": "BT16-056 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548639_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548639/digimon-card-game-beginning-observer-publimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 548640,
+      "name": "Zanmetsumon",
+      "number": "BT16-062 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548640_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548640/digimon-card-game-beginning-observer-zanmetsumon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 548641,
+      "name": "Syakomon",
+      "label": "X Antibody",
+      "number": "BT16-066 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548641_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548641/digimon-card-game-beginning-observer-syakomon-x-antibody",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 548642,
+      "name": "Dobermon",
+      "number": "BT16-068 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548642_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548642/digimon-card-game-beginning-observer-dobermon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 548643,
+      "name": "Gesomon",
+      "label": "X Antibody",
+      "number": "BT16-069 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548643_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548643/digimon-card-game-beginning-observer-gesomon-x-antibody",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 548649,
+      "name": "MadLeomon",
+      "number": "BT16-071 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548649_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548649/digimon-card-game-beginning-observer-madleomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22
+        }
+      ]
+    },
+    {
+      "id": 548652,
+      "name": "Cerberusmon",
+      "number": "BT16-075 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548652_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548652/digimon-card-game-beginning-observer-cerberusmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.85
+        }
+      ]
+    },
+    {
+      "id": 548657,
+      "name": "Pharaohmon",
+      "number": "BT16-078 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548657_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548657/digimon-card-game-beginning-observer-pharaohmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 548660,
+      "name": "Shine of Bee",
+      "number": "BT16-095 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548660_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548660/digimon-card-game-beginning-observer-shine-of-bee",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 548662,
+      "name": "Silphymon",
+      "label": "Alternate Art",
+      "number": "BT16-012 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548662_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548662/digimon-card-game-beginning-observer-silphymon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 15.27
+        }
+      ]
+    },
+    {
+      "id": 548663,
+      "name": "Valkyrimon ACE",
+      "label": "Alternate Art",
+      "number": "BT16-013 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548663_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548663/digimon-card-game-beginning-observer-valkyrimon-ace-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 7.96
+        }
+      ]
+    },
+    {
+      "id": 548664,
+      "name": "Valkyrimon ACE",
+      "label": "Textured",
+      "number": "BT16-013 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548664_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548664/digimon-card-game-beginning-observer-valkyrimon-ace-textured",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 100
+        }
+      ]
+    },
+    {
+      "id": 548665,
+      "name": "Paildramon",
+      "label": "Alternate Art",
+      "number": "BT16-025 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548665_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548665/digimon-card-game-beginning-observer-paildramon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 93.34
+        }
+      ]
+    },
+    {
+      "id": 548666,
+      "name": "Vikemon ACE",
+      "label": "Alternate Art",
+      "number": "BT16-026 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548666_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548666/digimon-card-game-beginning-observer-vikemon-ace-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.47
+        }
+      ]
+    },
+    {
+      "id": 548667,
+      "name": "Vikemon ACE",
+      "label": "Textured",
+      "number": "BT16-026 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548667_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548667/digimon-card-game-beginning-observer-vikemon-ace-textured",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 65
+        }
+      ]
+    },
+    {
+      "id": 548668,
+      "name": "Imperialdramon: Fighter Mode ACE",
+      "label": "Alternate Art",
+      "number": "BT16-027 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548668_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548668/digimon-card-game-beginning-observer-imperialdramon-fighter-mode-ace-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 8.45
+        }
+      ]
+    },
+    {
+      "id": 548669,
+      "name": "Imperialdramon: Fighter Mode ACE",
+      "label": "Textured",
+      "number": "BT16-027 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548669_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548669/digimon-card-game-beginning-observer-imperialdramon-fighter-mode-ace-textured",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 175.98
+        }
+      ]
+    },
+    {
+      "id": 548670,
+      "name": "Chaosmon",
+      "label": "Alternate Art",
+      "number": "BT16-036 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548670_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548670/digimon-card-game-beginning-observer-chaosmon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 9.75
+        }
+      ]
+    },
+    {
+      "id": 548671,
+      "name": "GranKuwagamon ACE",
+      "label": "Textured",
+      "number": "BT16-046 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548671_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548671/digimon-card-game-beginning-observer-grankuwagamon-ace-textured",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 60.93
+        }
+      ]
+    },
+    {
+      "id": 548672,
+      "name": "TyrantKabuterimon",
+      "label": "Alternate Art",
+      "number": "BT16-048 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548672_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548672/digimon-card-game-beginning-observer-tyrantkabuterimon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 15.23
+        }
+      ]
+    },
+    {
+      "id": 548673,
+      "name": "Dorumon",
+      "label": "Alternate Art",
+      "number": "BT16-051 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548673_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548673/digimon-card-game-beginning-observer-dorumon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 21.27
+        }
+      ]
+    },
+    {
+      "id": 548674,
+      "name": "Shakkoumon",
+      "label": "Alternate Art",
+      "number": "BT16-063 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548674_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548674/digimon-card-game-beginning-observer-shakkoumon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 12.45
+        }
+      ]
+    },
+    {
+      "id": 548675,
+      "name": "Dinobeemon",
+      "label": "Alternate Art",
+      "number": "BT16-077 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548675_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548675/digimon-card-game-beginning-observer-dinobeemon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 28.95
+        }
+      ]
+    },
+    {
+      "id": 548989,
+      "name": "Imperialdramon: Dragon Mode",
+      "label": "Alternate Art",
+      "number": "BT16-028 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/548989_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/548989/digimon-card-game-beginning-observer-imperialdramon-dragon-mode-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 200
+        }
+      ]
+    },
+    {
+      "id": 549216,
+      "name": "Magnamon",
+      "label": "X Antibody · Alternate Art",
+      "number": "BT16-102 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549216_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549216/digimon-card-game-beginning-observer-magnamon-x-antibody-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 45.01
+        }
+      ]
+    },
+    {
+      "id": 549217,
+      "name": "Magnamon",
+      "label": "X Antibody · Textured",
+      "number": "BT16-102 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549217_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549217/digimon-card-game-beginning-observer-magnamon-x-antibody-textured",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1344.94
+        }
+      ]
+    },
+    {
+      "id": 549218,
+      "name": "Rapidmon",
+      "label": "X Antibody · Alternate Art",
+      "number": "BT16-101 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549218_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549218/digimon-card-game-beginning-observer-rapidmon-x-antibody-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 18.55
+        }
+      ]
+    },
+    {
+      "id": 549219,
+      "name": "Lui Ohwada",
+      "label": "Alternate Art",
+      "number": "BT16-090 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549219_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549219/digimon-card-game-beginning-observer-lui-ohwada-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.1
+        }
+      ]
+    },
+    {
+      "id": 549220,
+      "name": "Cody Hida & T.K. Takaishi",
+      "label": "Alternate Art",
+      "number": "BT16-088 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549220_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549220/digimon-card-game-beginning-observer-cody-hida-and-tk-takaishi-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 18.31
+        }
+      ]
+    },
+    {
+      "id": 549221,
+      "name": "Kosuke Kisakata",
+      "label": "Alternate Art",
+      "number": "BT16-087 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549221_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549221/digimon-card-game-beginning-observer-kosuke-kisakata-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 12.33
+        }
+      ]
+    },
+    {
+      "id": 549222,
+      "name": "Davis Motomiya & Ken Ichijoji",
+      "label": "Alternate Art",
+      "number": "BT16-085 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549222_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549222/digimon-card-game-beginning-observer-davis-motomiya-and-ken-ichijoji-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 67.3
+        }
+      ]
+    },
+    {
+      "id": 549223,
+      "name": "Yolei Inoue & Kari Kamiya",
+      "label": "Alternate Art",
+      "number": "BT16-084 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549223_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549223/digimon-card-game-beginning-observer-yolei-inoue-and-kari-kamiya-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 16.81
+        }
+      ]
+    },
+    {
+      "id": 549224,
+      "name": "Shroudmon",
+      "label": "Alternate Art",
+      "number": "BT16-080 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549224_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549224/digimon-card-game-beginning-observer-shroudmon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.95
+        }
+      ]
+    },
+    {
+      "id": 549225,
+      "name": "MaloMyotismon",
+      "label": "Alternate Art",
+      "number": "BT16-081 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549225_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549225/digimon-card-game-beginning-observer-malomyotismon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 9.29
+        }
+      ]
+    },
+    {
+      "id": 549226,
+      "name": "Ukkomon",
+      "label": "Alternate Art",
+      "number": "BT16-082 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549226_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549226/digimon-card-game-beginning-observer-ukkomon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 48.37
+        }
+      ]
+    },
+    {
+      "id": 549227,
+      "name": "BigUkkomon",
+      "label": "Alternate Art",
+      "number": "BT16-083 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549227_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549227/digimon-card-game-beginning-observer-bigukkomon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.68
+        }
+      ]
+    },
+    {
+      "id": 549228,
+      "name": "Poromon",
+      "label": "Box Promotion Pack: Beginning Observer",
+      "number": "BT16-001 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549228_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549228/digimon-card-game-beginning-observer-poromon-box-promotion-pack-beginning-observer",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.6
+        }
+      ]
+    },
+    {
+      "id": 549229,
+      "name": "DemiVeemon",
+      "label": "Box Promotion Pack: Beginning Observer",
+      "number": "BT16-002 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549229_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549229/digimon-card-game-beginning-observer-demiveemon-box-promotion-pack-beginning-observer",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.32
+        }
+      ]
+    },
+    {
+      "id": 549230,
+      "name": "Upamon",
+      "label": "Box Promotion Pack: Beginning Observer",
+      "number": "BT16-003 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549230_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549230/digimon-card-game-beginning-observer-upamon-box-promotion-pack-beginning-observer",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.72
+        }
+      ]
+    },
+    {
+      "id": 549231,
+      "name": "Minomon",
+      "label": "Box Promotion Pack: Beginning Observer",
+      "number": "BT16-004 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549231_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549231/digimon-card-game-beginning-observer-minomon-box-promotion-pack-beginning-observer",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.11
+        }
+      ]
+    },
+    {
+      "id": 549232,
+      "name": "Dorimon",
+      "label": "Box Promotion Pack: Beginning Observer",
+      "number": "BT16-005 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549232_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549232/digimon-card-game-beginning-observer-dorimon-box-promotion-pack-beginning-observer",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.95
+        }
+      ]
+    },
+    {
+      "id": 549233,
+      "name": "Cupimon",
+      "label": "Box Promotion Pack: Beginning Observer",
+      "number": "BT16-006 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549233_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549233/digimon-card-game-beginning-observer-cupimon-box-promotion-pack-beginning-observer",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.55
+        }
+      ]
+    },
+    {
+      "id": 575182,
+      "name": "Veemon",
+      "label": "Legend Pack 2024",
+      "number": "BT16-017 U",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/575182_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/575182/digimon-card-game-beginning-observer-veemon-legend-pack-2024",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.46
+        }
+      ]
+    },
+    {
+      "id": 575183,
+      "name": "Pulsemon",
+      "label": "Legend Pack 2024",
+      "number": "BT16-039 C",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/575183_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/575183/digimon-card-game-beginning-observer-pulsemon-legend-pack-2024",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.45
+        }
+      ]
+    },
+    {
+      "id": 576565,
+      "name": "Imperialdramon: Dragon Mode",
+      "label": "2024 Regionals Participant",
+      "number": "BT16-028 R",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/576565_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/576565/digimon-card-game-beginning-observer-imperialdramon-dragon-mode-2024-regionals-participant",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.8
+        }
+      ]
+    },
+    {
+      "id": 576566,
+      "name": "Imperialdramon: Dragon Mode",
+      "label": "2024 Regionals Finalist",
+      "number": "BT16-028 R",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/576566_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/576566/digimon-card-game-beginning-observer-imperialdramon-dragon-mode-2024-regionals-finalist",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.51
+        }
+      ]
+    },
+    {
+      "id": 576567,
+      "name": "Imperialdramon: Dragon Mode",
+      "label": "2024 Regionals Champion",
+      "number": "BT16-028 R",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/576567_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/576567/digimon-card-game-beginning-observer-imperialdramon-dragon-mode-2024-regionals-champion",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 75
+        }
+      ]
+    },
+    {
+      "id": 576568,
+      "name": "Ukkomon",
+      "label": "2024 Regionals Participant",
+      "number": "BT16-082 R",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/576568_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/576568/digimon-card-game-beginning-observer-ukkomon-2024-regionals-participant",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5.39
+        }
+      ]
+    },
+    {
+      "id": 576569,
+      "name": "Ukkomon",
+      "label": "2024 Regionals Finalist",
+      "number": "BT16-082 R",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/576569_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/576569/digimon-card-game-beginning-observer-ukkomon-2024-regionals-finalist",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 17.83
+        }
+      ]
+    },
+    {
+      "id": 576570,
+      "name": "Ukkomon",
+      "label": "2024 Regionals Champion",
+      "number": "BT16-082 R",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/576570_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/576570/digimon-card-game-beginning-observer-ukkomon-2024-regionals-champion",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 147.3
+        }
+      ]
+    },
+    {
+      "id": 576588,
+      "name": "Soloogarmon",
+      "label": "Event Pack 7",
+      "number": "BT16-076 U",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/576588_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/576588/digimon-card-game-beginning-observer-soloogarmon-event-pack-7",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.18
+        }
+      ]
+    },
+    {
+      "id": 576597,
+      "name": "Hacker Judge",
+      "label": "Judge Pack 6",
+      "number": "BT16-086 R",
+      "rarity": "Promo",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/576597_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/576597/digimon-card-game-beginning-observer-hacker-judge-judge-pack-6",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.31
+        }
+      ]
+    },
+    {
+      "id": 576598,
+      "name": "Kosuke Kisakata",
+      "label": "Judge Pack 6",
+      "number": "BT16-087 R",
+      "rarity": "Promo",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/576598_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/576598/digimon-card-game-beginning-observer-kosuke-kisakata-judge-pack-6",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.31
+        }
+      ]
+    },
+    {
+      "id": 576599,
+      "name": "Metropolitan Police Department, Community Safety Bureau, Cyber Crime Division...",
+      "label": "Judge Pack 6",
+      "number": "BT16-096 R",
+      "rarity": "Promo",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/576599_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/576599/digimon-card-game-beginning-observer-metropolitan-police-department-community-safety-bureau-cyber-crime-division-judge-pack-6",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.88
+        }
+      ]
+    },
+    {
+      "id": 576600,
+      "name": "The Demon Wolf of the Castle of Nine Wolves",
+      "label": "Judge Pack 6",
+      "number": "BT16-099 R",
+      "rarity": "Promo",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/576600_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/576600/digimon-card-game-beginning-observer-the-demon-wolf-of-the-castle-of-nine-wolves-judge-pack-6",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.27
+        }
+      ]
+    },
+    {
+      "id": 594724,
+      "name": "Gatomon",
+      "label": "Winter Holiday Event 2024",
+      "number": "BT16-031 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/594724_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/594724/digimon-card-game-beginning-observer-gatomon-winter-holiday-event-2024",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 7.3
+        }
+      ]
+    },
+    {
+      "id": 607867,
+      "name": "Soloogarmon",
+      "label": "Championship 2024 Tamers Pack",
+      "number": "BT16-076 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607867_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607867/digimon-card-game-beginning-observer-soloogarmon-championship-2024-tamers-pack",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 21.78
+        }
+      ]
+    },
+    {
+      "id": 629744,
+      "name": "Magnamon",
+      "label": "X Antibody · Tamer's Evolution Box -Rise of Digimon-",
+      "number": "BT16-102 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/629744_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/629744/digimon-card-game-beginning-observer-magnamon-x-antibody-tamers-evolution-box-rise-of-digimon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 28.11
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-10-12"
+}

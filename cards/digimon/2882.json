@@ -1,0 +1,464 @@
+{
+  "groupId": 2882,
+  "cards": [
+    {
+      "id": 247594,
+      "name": "Lightning Joust",
+      "number": "ST7-11 U",
+      "rarity": "Uncommon",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/247594_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/247594/digimon-card-game-starter-deck-07-gallantmon-lightning-joust",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.31
+        }
+      ]
+    },
+    {
+      "id": 247595,
+      "name": "Gigimon",
+      "number": "ST7-01 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/247595_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/247595/digimon-card-game-starter-deck-07-gallantmon-gigimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05
+        }
+      ]
+    },
+    {
+      "id": 247596,
+      "name": "Guilmon",
+      "number": "ST7-03 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/247596_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/247596/digimon-card-game-starter-deck-07-gallantmon-guilmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.24
+        }
+      ]
+    },
+    {
+      "id": 247597,
+      "name": "Gallantmon",
+      "number": "ST7-09 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/247597_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/247597/digimon-card-game-starter-deck-07-gallantmon-gallantmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.23
+        }
+      ]
+    },
+    {
+      "id": 247605,
+      "name": "Monodramon - BT1-009",
+      "label": "Alternate Art",
+      "number": "BT1-009 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/247605_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/247605/digimon-card-game-starter-deck-07-gallantmon-monodramon-bt1-009-alternate-art",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 247606,
+      "name": "DarkTyrannomon - BT1-019",
+      "label": "Alternate Art",
+      "number": "BT1-019 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/247606_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/247606/digimon-card-game-starter-deck-07-gallantmon-darktyrannomon-bt1-019-alternate-art",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05
+        }
+      ]
+    },
+    {
+      "id": 247607,
+      "name": "Groundramon - BT1-020",
+      "label": "Alternate Art",
+      "number": "BT1-020 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/247607_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/247607/digimon-card-game-starter-deck-07-gallantmon-groundramon-bt1-020-alternate-art",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 247616,
+      "name": "GeoGreymon",
+      "number": "ST7-06 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/247616_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/247616/digimon-card-game-starter-deck-07-gallantmon-geogreymon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 247617,
+      "name": "Growlmon",
+      "number": "ST7-05 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/247617_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/247617/digimon-card-game-starter-deck-07-gallantmon-growlmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.56
+        }
+      ]
+    },
+    {
+      "id": 247618,
+      "name": "Biyomon",
+      "number": "ST7-04 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/247618_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/247618/digimon-card-game-starter-deck-07-gallantmon-biyomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 247619,
+      "name": "Agumon",
+      "number": "ST7-02 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/247619_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/247619/digimon-card-game-starter-deck-07-gallantmon-agumon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 247621,
+      "name": "Gaia Force - ST1-16",
+      "label": "Alternate Art",
+      "number": "ST1-16 U",
+      "rarity": "Uncommon",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/247621_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/247621/digimon-card-game-starter-deck-07-gallantmon-gaia-force-st1-16-alternate-art",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 247691,
+      "name": "RizeGreymon",
+      "number": "ST7-07 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/247691_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/247691/digimon-card-game-starter-deck-07-gallantmon-rizegreymon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 247692,
+      "name": "WarGrowlmon",
+      "number": "ST7-08 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/247692_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/247692/digimon-card-game-starter-deck-07-gallantmon-wargrowlmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 247693,
+      "name": "ShineGreymon",
+      "number": "ST7-10 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/247693_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/247693/digimon-card-game-starter-deck-07-gallantmon-shinegreymon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 247694,
+      "name": "Atomic Blaster",
+      "number": "ST7-12 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/247694_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/247694/digimon-card-game-starter-deck-07-gallantmon-atomic-blaster",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 265745,
+      "name": "Guilmon",
+      "label": "Tamer's Evolution Box 2",
+      "number": "ST7-03 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/265745_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/265745/digimon-card-game-starter-deck-07-gallantmon-guilmon-tamers-evolution-box-2",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.7
+        }
+      ]
+    },
+    {
+      "id": 266767,
+      "name": "GeoGreymon",
+      "label": "Digimon Card Game Fest 2022",
+      "number": "ST7-06 U",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/266767_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/266767/digimon-card-game-starter-deck-07-gallantmon-geogreymon-digimon-card-game-fest-2022",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.29
+        }
+      ]
+    },
+    {
+      "id": 272015,
+      "name": "Gallantmon",
+      "label": "Tamer's Card Set 1",
+      "number": "ST7-09 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/272015_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/272015/digimon-card-game-starter-deck-07-gallantmon-gallantmon-tamers-card-set-1",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.65
+        }
+      ]
+    },
+    {
+      "id": 277636,
+      "name": "Guilmon",
+      "label": "2022 Store Participant",
+      "number": "ST7-03 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/277636_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/277636/digimon-card-game-starter-deck-07-gallantmon-guilmon-2022-store-participant",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.6
+        }
+      ]
+    },
+    {
+      "id": 277637,
+      "name": "Guilmon",
+      "label": "2022 Store Champion",
+      "number": "ST7-03 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/277637_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/277637/digimon-card-game-starter-deck-07-gallantmon-guilmon-2022-store-champion",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 16.34
+        }
+      ]
+    },
+    {
+      "id": 278769,
+      "name": "Growlmon",
+      "label": "Gen Con 2022",
+      "number": "ST7-05 R",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/278769_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/278769/digimon-card-game-starter-deck-07-gallantmon-growlmon-gen-con-2022",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 103.9
+        }
+      ]
+    },
+    {
+      "id": 278770,
+      "name": "WarGrowlmon",
+      "label": "Gen Con 2022",
+      "number": "ST7-08 R",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/278770_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/278770/digimon-card-game-starter-deck-07-gallantmon-wargrowlmon-gen-con-2022",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 22.89
+        }
+      ]
+    },
+    {
+      "id": 278858,
+      "name": "GeoGreymon [Online Champion]",
+      "label": "2022 Championship Offline Regional",
+      "number": "ST7-06 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/278858_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/278858/digimon-card-game-starter-deck-07-gallantmon-geogreymon-2022-championship-offline-regional-online-champion",
+      "prices": []
+    },
+    {
+      "id": 278859,
+      "name": "GeoGreymon [Online Finalist]",
+      "label": "2022 Championship Offline Regional",
+      "number": "ST7-06 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/278859_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/278859/digimon-card-game-starter-deck-07-gallantmon-geogreymon-2022-championship-offline-regional-online-finalist",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.27
+        }
+      ]
+    },
+    {
+      "id": 278861,
+      "name": "GeoGreymon [Online Participant]",
+      "label": "2022 Championship Offline Regional",
+      "number": "ST7-06 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/278861_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/278861/digimon-card-game-starter-deck-07-gallantmon-geogreymon-2022-championship-offline-regional-online-participant",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.33
+        }
+      ]
+    },
+    {
+      "id": 450582,
+      "name": "Gigimon",
+      "label": "Judge Pack 2",
+      "number": "ST7-01 U",
+      "rarity": "Promo",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/450582_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/450582/digimon-card-game-starter-deck-07-gallantmon-gigimon-judge-pack-2",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.35
+        }
+      ]
+    },
+    {
+      "id": 451151,
+      "name": "Lightning Joust",
+      "label": "DC-1 2022 Stamped",
+      "number": "ST7-11 U",
+      "rarity": "Promo",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/451151_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/451151/digimon-card-game-starter-deck-07-gallantmon-lightning-joust-dc-1-2022-stamped",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.92
+        }
+      ]
+    },
+    {
+      "id": 479443,
+      "name": "Agumon",
+      "label": "Official Tournament Pack Vol.8",
+      "number": "ST7-02 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/479443_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/479443/digimon-card-game-starter-deck-07-gallantmon-agumon-official-tournament-pack-vol8",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.2
+        }
+      ]
+    },
+    {
+      "id": 485914,
+      "name": "Gallantmon",
+      "label": "2022 Championship Finals Digimon Tamers Pack",
+      "number": "ST7-09 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/485914_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/485914/digimon-card-game-starter-deck-07-gallantmon-gallantmon-2022-championship-finals-digimon-tamers-pack",
+      "prices": []
+    }
+  ],
+  "pricesAt": "2026-10-12"
+}

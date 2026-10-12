@@ -1,0 +1,822 @@
+{
+  "groupId": 24390,
+  "cards": [
+    {
+      "id": 268271,
+      "name": "BlackWarGreymon",
+      "label": "Demo Deck Exclusive",
+      "number": "BT5-069 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/268271_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/268271/digimon-card-game-digimon-demo-deck-exclusive-cards-blackwargreymon-demo-deck-exclusive",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.38
+        }
+      ]
+    },
+    {
+      "id": 272899,
+      "name": "WaruMonzaemon",
+      "label": "Demo Deck Exclusive",
+      "number": "BT5-066 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/272899_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/272899/digimon-card-game-digimon-demo-deck-exclusive-cards-warumonzaemon-demo-deck-exclusive",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 520365,
+      "name": "Imperialdramon: Dragon Mode ACE - P-109",
+      "label": "NYCC 2023 Demo Deck",
+      "number": "P-109 P",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/520365_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/520365/digimon-card-game-digimon-demo-deck-exclusive-cards-imperialdramon-dragon-mode-ace-p-109-nycc-2023-demo-deck",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22
+        }
+      ]
+    },
+    {
+      "id": 520367,
+      "name": "Veemon - P-117",
+      "label": "NYCC 2023 Demo Deck",
+      "number": "P-117 P",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/520367_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/520367/digimon-card-game-digimon-demo-deck-exclusive-cards-veemon-p-117-nycc-2023-demo-deck",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.63
+        }
+      ]
+    },
+    {
+      "id": 520368,
+      "name": "Davis Motomiya - P-124",
+      "label": "NYCC 2023 Demo Deck",
+      "number": "P-124 P",
+      "rarity": "Promo",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/520368_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/520368/digimon-card-game-digimon-demo-deck-exclusive-cards-davis-motomiya-p-124-nycc-2023-demo-deck",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.46
+        }
+      ]
+    },
+    {
+      "id": 520764,
+      "name": "Ukkomon - P-123",
+      "label": "NYCC 2023 Demo Deck",
+      "number": "P-123 P",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/520764_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/520764/digimon-card-game-digimon-demo-deck-exclusive-cards-ukkomon-p-123-nycc-2023-demo-deck",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.63
+        }
+      ]
+    },
+    {
+      "id": 520859,
+      "name": "Lui Ohwada - P-130",
+      "label": "NYCC 2023 Demo Deck",
+      "number": "P-130 P",
+      "rarity": "Promo",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/520859_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/520859/digimon-card-game-digimon-demo-deck-exclusive-cards-lui-ohwada-p-130-nycc-2023-demo-deck",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.31
+        }
+      ]
+    },
+    {
+      "id": 520906,
+      "name": "Blue Memory Boost!",
+      "label": "NYCC 2023 Demo Deck",
+      "number": "P-036 P",
+      "rarity": "Promo",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/520906_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/520906/digimon-card-game-digimon-demo-deck-exclusive-cards-blue-memory-boost-nycc-2023-demo-deck",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.52
+        }
+      ]
+    },
+    {
+      "id": 525065,
+      "name": "DemiVeemon",
+      "label": "NYCC 2023 Demo Deck",
+      "number": "BT12-002 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/525065_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/525065/digimon-card-game-digimon-demo-deck-exclusive-cards-demiveemon-nycc-2023-demo-deck",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 525066,
+      "name": "Paildramon",
+      "label": "BT3-027 · NYCC 2023 Demo Deck",
+      "number": "BT3-027 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/525066_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/525066/digimon-card-game-digimon-demo-deck-exclusive-cards-paildramon-bt3-027-nycc-2023-demo-deck",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 525067,
+      "name": "Veemon",
+      "label": "NYCC 2023 Demo Deck",
+      "number": "BT12-021 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/525067_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/525067/digimon-card-game-digimon-demo-deck-exclusive-cards-veemon-nycc-2023-demo-deck",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 525068,
+      "name": "ExVeemon",
+      "label": "NYCC 2023 Demo Deck",
+      "number": "BT12-022 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/525068_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/525068/digimon-card-game-digimon-demo-deck-exclusive-cards-exveemon-nycc-2023-demo-deck",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 525069,
+      "name": "Paildramon",
+      "label": "NYCC 2023 Demo Deck",
+      "number": "BT12-028 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/525069_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/525069/digimon-card-game-digimon-demo-deck-exclusive-cards-paildramon-nycc-2023-demo-deck",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 525070,
+      "name": "Stingmon",
+      "label": "NYCC 2023 Demo Deck",
+      "number": "BT12-050 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/525070_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/525070/digimon-card-game-digimon-demo-deck-exclusive-cards-stingmon-nycc-2023-demo-deck",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 525071,
+      "name": "Veemon",
+      "label": "ST9-02 · NYCC 2023 Demo Deck",
+      "number": "ST9-02 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/525071_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/525071/digimon-card-game-digimon-demo-deck-exclusive-cards-veemon-st9-02-nycc-2023-demo-deck",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16
+        }
+      ]
+    },
+    {
+      "id": 525072,
+      "name": "ExVeemon",
+      "label": "ST9-04 · NYCC 2023 Demo Deck",
+      "number": "ST9-04 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/525072_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/525072/digimon-card-game-digimon-demo-deck-exclusive-cards-exveemon-st9-04-nycc-2023-demo-deck",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 525073,
+      "name": "Wormmon",
+      "label": "NYCC 2023 Demo Deck",
+      "number": "ST9-08 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/525073_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/525073/digimon-card-game-digimon-demo-deck-exclusive-cards-wormmon-nycc-2023-demo-deck",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 525074,
+      "name": "Stingmon",
+      "label": "ST9-09 · NYCC 2023 Demo Deck",
+      "number": "ST9-09 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/525074_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/525074/digimon-card-game-digimon-demo-deck-exclusive-cards-stingmon-st9-09-nycc-2023-demo-deck",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 547731,
+      "name": "Agumon",
+      "label": "Demo Deck Exclusive",
+      "number": "ST15-02 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547731_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/547731/digimon-card-game-digimon-demo-deck-exclusive-cards-agumon-demo-deck-exclusive",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.75
+        }
+      ]
+    },
+    {
+      "id": 547785,
+      "name": "Gabumon",
+      "label": "Demo Deck Exclusive",
+      "number": "ST16-03 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/547785_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/547785/digimon-card-game-digimon-demo-deck-exclusive-cards-gabumon-demo-deck-exclusive",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2
+        }
+      ]
+    },
+    {
+      "id": 549393,
+      "name": "MetalGarurumon ACE",
+      "label": "Demo Deck Exclusive",
+      "number": "ST16-12 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549393_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549393/digimon-card-game-digimon-demo-deck-exclusive-cards-metalgarurumon-ace-demo-deck-exclusive",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 549394,
+      "name": "Tai Kamiya",
+      "label": "Demo Deck Exclusive",
+      "number": "ST15-14 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549394_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549394/digimon-card-game-digimon-demo-deck-exclusive-cards-tai-kamiya-demo-deck-exclusive",
+      "prices": []
+    },
+    {
+      "id": 549395,
+      "name": "Trident Arm",
+      "label": "Demo Deck Exclusive",
+      "number": "ST15-16 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549395_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549395/digimon-card-game-digimon-demo-deck-exclusive-cards-trident-arm-demo-deck-exclusive",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28
+        }
+      ]
+    },
+    {
+      "id": 549396,
+      "name": "Tsunomon",
+      "label": "Demo Deck Exclusive",
+      "number": "ST16-01 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549396_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549396/digimon-card-game-digimon-demo-deck-exclusive-cards-tsunomon-demo-deck-exclusive",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2
+        }
+      ]
+    },
+    {
+      "id": 549397,
+      "name": "WarGreymon ACE",
+      "label": "Demo Deck Exclusive",
+      "number": "ST15-12 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549397_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549397/digimon-card-game-digimon-demo-deck-exclusive-cards-wargreymon-ace-demo-deck-exclusive",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.26
+        }
+      ]
+    },
+    {
+      "id": 549398,
+      "name": "WereGarurumon",
+      "label": "Demo Deck Exclusive",
+      "number": "ST16-11 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549398_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549398/digimon-card-game-digimon-demo-deck-exclusive-cards-weregarurumon-demo-deck-exclusive",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2
+        }
+      ]
+    },
+    {
+      "id": 549399,
+      "name": "Matt Ishida",
+      "label": "Demo Deck Exclusive",
+      "number": "ST16-14 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549399_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549399/digimon-card-game-digimon-demo-deck-exclusive-cards-matt-ishida-demo-deck-exclusive",
+      "prices": []
+    },
+    {
+      "id": 549400,
+      "name": "MetalGreymon",
+      "label": "Demo Deck Exclusive",
+      "number": "ST15-11 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549400_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549400/digimon-card-game-digimon-demo-deck-exclusive-cards-metalgreymon-demo-deck-exclusive",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.27
+        }
+      ]
+    },
+    {
+      "id": 549741,
+      "name": "Elecmon",
+      "label": "Demo Deck Exclusive",
+      "number": "ST16-02 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549741_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549741/digimon-card-game-digimon-demo-deck-exclusive-cards-elecmon-demo-deck-exclusive",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 549742,
+      "name": "Greymon",
+      "label": "Demo Deck Exclusive",
+      "number": "ST15-08 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549742_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549742/digimon-card-game-digimon-demo-deck-exclusive-cards-greymon-demo-deck-exclusive",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.46
+        }
+      ]
+    },
+    {
+      "id": 549743,
+      "name": "Lament of Friendship",
+      "label": "Demo Deck Exclusive",
+      "number": "ST16-15 U",
+      "rarity": "Uncommon",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549743_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549743/digimon-card-game-digimon-demo-deck-exclusive-cards-lament-of-friendship-demo-deck-exclusive",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25
+        }
+      ]
+    },
+    {
+      "id": 549744,
+      "name": "Baldy Blow",
+      "label": "Demo Deck Exclusive",
+      "number": "ST16-16 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549744_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549744/digimon-card-game-digimon-demo-deck-exclusive-cards-baldy-blow-demo-deck-exclusive",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 549745,
+      "name": "Koromon",
+      "label": "Demo Deck Exclusive",
+      "number": "ST15-01 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549745_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549745/digimon-card-game-digimon-demo-deck-exclusive-cards-koromon-demo-deck-exclusive",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 549746,
+      "name": "Garurumon",
+      "label": "Demo Deck Exclusive",
+      "number": "ST16-08 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/549746_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/549746/digimon-card-game-digimon-demo-deck-exclusive-cards-garurumon-demo-deck-exclusive",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.78
+        }
+      ]
+    },
+    {
+      "id": 646878,
+      "name": "Wanyamon",
+      "label": "Time Stranger Demo Deck",
+      "number": "BT18-003 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646878_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646878/digimon-card-game-digimon-demo-deck-exclusive-cards-wanyamon-time-stranger-demo-deck",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23
+        }
+      ]
+    },
+    {
+      "id": 646879,
+      "name": "Elecmon",
+      "label": "EX1-023 · Time Stranger Demo Deck",
+      "number": "EX1-023 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646879_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646879/digimon-card-game-digimon-demo-deck-exclusive-cards-elecmon-ex1-023-time-stranger-demo-deck",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.62
+        }
+      ]
+    },
+    {
+      "id": 646880,
+      "name": "Elecmon",
+      "label": "BT14-031 · Time Stranger Demo Deck",
+      "number": "BT14-031 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646880_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646880/digimon-card-game-digimon-demo-deck-exclusive-cards-elecmon-bt14-031-time-stranger-demo-deck",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25
+        }
+      ]
+    },
+    {
+      "id": 646881,
+      "name": "Salamon",
+      "label": "Time Stranger Demo Deck",
+      "number": "BT15-034 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646881_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646881/digimon-card-game-digimon-demo-deck-exclusive-cards-salamon-time-stranger-demo-deck",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24
+        }
+      ]
+    },
+    {
+      "id": 646882,
+      "name": "Gatomon",
+      "label": "Time Stranger Demo Deck",
+      "number": "EX1-026 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646882_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646882/digimon-card-game-digimon-demo-deck-exclusive-cards-gatomon-time-stranger-demo-deck",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.4
+        }
+      ]
+    },
+    {
+      "id": 646883,
+      "name": "Turuiemon",
+      "label": "Time Stranger Demo Deck",
+      "number": "BT3-037 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646883_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646883/digimon-card-game-digimon-demo-deck-exclusive-cards-turuiemon-time-stranger-demo-deck",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.4
+        }
+      ]
+    },
+    {
+      "id": 646884,
+      "name": "BlackGatomon",
+      "label": "Time Stranger Demo Deck",
+      "number": "BT8-077 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646884_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646884/digimon-card-game-digimon-demo-deck-exclusive-cards-blackgatomon-time-stranger-demo-deck",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.33
+        }
+      ]
+    },
+    {
+      "id": 646885,
+      "name": "Sirenmon",
+      "label": "Time Stranger Demo Deck",
+      "number": "BT1-057 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646885_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646885/digimon-card-game-digimon-demo-deck-exclusive-cards-sirenmon-time-stranger-demo-deck",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25
+        }
+      ]
+    },
+    {
+      "id": 646886,
+      "name": "Angewomon",
+      "label": "Time Stranger Demo Deck",
+      "number": "BT3-039 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646886_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646886/digimon-card-game-digimon-demo-deck-exclusive-cards-angewomon-time-stranger-demo-deck",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.7
+        }
+      ]
+    },
+    {
+      "id": 646887,
+      "name": "Piximon",
+      "label": "Time Stranger Demo Deck",
+      "number": "EX7-028 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646887_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646887/digimon-card-game-digimon-demo-deck-exclusive-cards-piximon-time-stranger-demo-deck",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.51
+        }
+      ]
+    },
+    {
+      "id": 646888,
+      "name": "Junomon",
+      "label": "Time Stranger Demo Deck",
+      "number": "ST10-13 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646888_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646888/digimon-card-game-digimon-demo-deck-exclusive-cards-junomon-time-stranger-demo-deck",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.74
+        }
+      ]
+    },
+    {
+      "id": 646889,
+      "name": "Apollomon ACE",
+      "label": "Time Stranger Demo Deck",
+      "number": "P-191 P",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646889_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646889/digimon-card-game-digimon-demo-deck-exclusive-cards-apollomon-ace-time-stranger-demo-deck",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.41
+        }
+      ]
+    },
+    {
+      "id": 646890,
+      "name": "Aegiomon",
+      "label": "Time Stranger Demo Deck",
+      "number": "P-194 P",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646890_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646890/digimon-card-game-digimon-demo-deck-exclusive-cards-aegiomon-time-stranger-demo-deck",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.49
+        }
+      ]
+    },
+    {
+      "id": 646891,
+      "name": "Inori Misono",
+      "label": "Time Stranger Demo Deck",
+      "number": "P-195 P",
+      "rarity": "Promo",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646891_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646891/digimon-card-game-digimon-demo-deck-exclusive-cards-inori-misono-time-stranger-demo-deck",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.51
+        }
+      ]
+    },
+    {
+      "id": 646892,
+      "name": "Yellow Memory Boost!",
+      "label": "Time Stranger Demo Deck",
+      "number": "P-037 SR",
+      "rarity": "Super Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646892_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646892/digimon-card-game-digimon-demo-deck-exclusive-cards-yellow-memory-boost-time-stranger-demo-deck",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.71
+        }
+      ]
+    },
+    {
+      "id": 692920,
+      "name": "Sakuyamon",
+      "label": "Demo Deck Exclusive",
+      "number": "EX2-024 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/692920_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/692920/digimon-card-game-digimon-demo-deck-exclusive-cards-sakuyamon-demo-deck-exclusive",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.56
+        }
+      ]
+    },
+    {
+      "id": 696588,
+      "name": "Andromon",
+      "number": "EX12-055 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/696588_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/696588/digimon-card-game-digimon-demo-deck-exclusive-cards-andromon",
+      "prices": []
+    },
+    {
+      "id": 704487,
+      "name": "Renamon",
+      "label": "Demo Deck Exclusive",
+      "number": "EX2-019 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/704487_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/704487/digimon-card-game-digimon-demo-deck-exclusive-cards-renamon-demo-deck-exclusive",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.38
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-10-12"
+}

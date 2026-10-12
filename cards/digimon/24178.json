@@ -1,0 +1,3822 @@
+{
+  "groupId": 24178,
+  "cards": [
+    {
+      "id": 607262,
+      "name": "Viximon",
+      "number": "BT19-003 C",
+      "rarity": "Common",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607262_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607262/digimon-card-game-release-special-booster-25-viximon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 607263,
+      "name": "Renamon",
+      "number": "BT19-030 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607263_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607263/digimon-card-game-release-special-booster-25-renamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.33
+        }
+      ]
+    },
+    {
+      "id": 607264,
+      "name": "Kyubimon",
+      "number": "BT19-034 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607264_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607264/digimon-card-game-release-special-booster-25-kyubimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 607265,
+      "name": "Rika Nonaka",
+      "number": "BT19-083 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607265_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607265/digimon-card-game-release-special-booster-25-rika-nonaka",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.38
+        }
+      ]
+    },
+    {
+      "id": 607266,
+      "name": "Taomon ACE",
+      "number": "BT19-037 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607266_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607266/digimon-card-game-release-special-booster-25-taomon-ace",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.39
+        }
+      ]
+    },
+    {
+      "id": 607267,
+      "name": "Sakuyamon",
+      "number": "BT19-040 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607267_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607267/digimon-card-game-release-special-booster-25-sakuyamon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.47
+        }
+      ]
+    },
+    {
+      "id": 607268,
+      "name": "Terriermon",
+      "number": "BT19-044 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607268_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607268/digimon-card-game-release-special-booster-25-terriermon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 607269,
+      "name": "Gargomon",
+      "number": "BT19-049 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607269_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607269/digimon-card-game-release-special-booster-25-gargomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 607270,
+      "name": "Henry Wong",
+      "number": "BT19-085 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607270_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607270/digimon-card-game-release-special-booster-25-henry-wong",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 607271,
+      "name": "Rapidmon ACE",
+      "number": "BT19-050 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607271_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607271/digimon-card-game-release-special-booster-25-rapidmon-ace",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.23
+        }
+      ]
+    },
+    {
+      "id": 607272,
+      "name": "MegaGargomon",
+      "number": "BT19-054 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607272_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607272/digimon-card-game-release-special-booster-25-megagargomon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.2
+        }
+      ]
+    },
+    {
+      "id": 607273,
+      "name": "Cool Boy",
+      "number": "BT20-091 SR",
+      "rarity": "Super Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607273_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607273/digimon-card-game-release-special-booster-25-cool-boy",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.5
+        }
+      ]
+    },
+    {
+      "id": 607274,
+      "name": "ADR-01 Jeri",
+      "number": "BT19-078 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607274_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607274/digimon-card-game-release-special-booster-25-adr-01-jeri",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 607275,
+      "name": "D-Reaper Zone",
+      "number": "BT19-100 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607275_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607275/digimon-card-game-release-special-booster-25-d-reaper-zone",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 607276,
+      "name": "Beelzemon: Blast Mode ACE",
+      "number": "BT19-074 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607276_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607276/digimon-card-game-release-special-booster-25-beelzemon-blast-mode-ace",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.81
+        }
+      ]
+    },
+    {
+      "id": 607277,
+      "name": "Impmon - BT19-067",
+      "number": "BT19-067 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607277_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607277/digimon-card-game-release-special-booster-25-impmon-bt19-067",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.82
+        }
+      ]
+    },
+    {
+      "id": 607278,
+      "name": "Beelzemon",
+      "number": "BT19-071 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607278_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607278/digimon-card-game-release-special-booster-25-beelzemon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.25
+        }
+      ]
+    },
+    {
+      "id": 607279,
+      "name": "Ai & Mako",
+      "number": "BT19-088 U",
+      "rarity": "Uncommon",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607279_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607279/digimon-card-game-release-special-booster-25-ai-and-mako",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16
+        }
+      ]
+    },
+    {
+      "id": 607280,
+      "name": "Bonds of True Love",
+      "number": "BT19-097 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607280_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607280/digimon-card-game-release-special-booster-25-bonds-of-true-love",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 607281,
+      "name": "Red Card",
+      "number": "BT19-089 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607281_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607281/digimon-card-game-release-special-booster-25-red-card",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 607282,
+      "name": "Ryo Akiyama",
+      "number": "BT19-086 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607282_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607282/digimon-card-game-release-special-booster-25-ryo-akiyama",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 607283,
+      "name": "Queen Device",
+      "number": "BT19-093 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607283_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607283/digimon-card-game-release-special-booster-25-queen-device",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 607284,
+      "name": "Knight Device",
+      "number": "BT19-095 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607284_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607284/digimon-card-game-release-special-booster-25-knight-device",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 607285,
+      "name": "King Device",
+      "number": "BT19-098 U",
+      "rarity": "Uncommon",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607285_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607285/digimon-card-game-release-special-booster-25-king-device",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 607286,
+      "name": "Justimon: Blitz Arm ACE",
+      "number": "BT19-064 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607286_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607286/digimon-card-game-release-special-booster-25-justimon-blitz-arm-ace",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.38
+        }
+      ]
+    },
+    {
+      "id": 607287,
+      "name": "Hopmon",
+      "number": "BT19-005 C",
+      "rarity": "Common",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607287_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607287/digimon-card-game-release-special-booster-25-hopmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 607288,
+      "name": "Monodramon",
+      "number": "BT19-056 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607288_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607288/digimon-card-game-release-special-booster-25-monodramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 607289,
+      "name": "Strikedramon",
+      "number": "BT19-060 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607289_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607289/digimon-card-game-release-special-booster-25-strikedramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 607290,
+      "name": "Cyberdramon",
+      "number": "BT19-062 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607290_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607290/digimon-card-game-release-special-booster-25-cyberdramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 607291,
+      "name": "Calumon",
+      "number": "BT19-077 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607291_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607291/digimon-card-game-release-special-booster-25-calumon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.27
+        }
+      ]
+    },
+    {
+      "id": 607292,
+      "name": "Trinity Burst!",
+      "number": "BT19-091 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607292_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607292/digimon-card-game-release-special-booster-25-trinity-burst",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 607293,
+      "name": "Shoutmon",
+      "number": "BT19-008 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607293_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607293/digimon-card-game-release-special-booster-25-shoutmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25
+        }
+      ]
+    },
+    {
+      "id": 607294,
+      "name": "OmniShoutmon",
+      "number": "BT19-012 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607294_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607294/digimon-card-game-release-special-booster-25-omnishoutmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.23
+        }
+      ]
+    },
+    {
+      "id": 607295,
+      "name": "Ballistamon",
+      "number": "BT19-047 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607295_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607295/digimon-card-game-release-special-booster-25-ballistamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 607296,
+      "name": "AtlurBallistamon",
+      "number": "BT19-051 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607296_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607296/digimon-card-game-release-special-booster-25-atlurballistamon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.47
+        }
+      ]
+    },
+    {
+      "id": 607297,
+      "name": "Dorulumon",
+      "number": "BT19-033 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607297_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607297/digimon-card-game-release-special-booster-25-dorulumon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 607298,
+      "name": "JaegerDorulumon",
+      "number": "BT19-038 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607298_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607298/digimon-card-game-release-special-booster-25-jaegerdorulumon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.6
+        }
+      ]
+    },
+    {
+      "id": 607299,
+      "name": "Sparrowmon",
+      "number": "BT19-057 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607299_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607299/digimon-card-game-release-special-booster-25-sparrowmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 607300,
+      "name": "RaptorSparrowmon",
+      "number": "BT19-061 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607300_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607300/digimon-card-game-release-special-booster-25-raptorsparrowmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.34
+        }
+      ]
+    },
+    {
+      "id": 607301,
+      "name": "Pickmons",
+      "number": "BT19-001 C",
+      "rarity": "Common",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607301_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607301/digimon-card-game-release-special-booster-25-pickmons",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 607302,
+      "name": "Starmons",
+      "number": "BT19-031 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607302_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607302/digimon-card-game-release-special-booster-25-starmons",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 607303,
+      "name": "ShootingStarmon",
+      "number": "BT19-035 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607303_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607303/digimon-card-game-release-special-booster-25-shootingstarmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.47
+        }
+      ]
+    },
+    {
+      "id": 607304,
+      "name": "Shoutmon X4",
+      "number": "BT19-010 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607304_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607304/digimon-card-game-release-special-booster-25-shoutmon-x4",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 607305,
+      "name": "Shoutmon X5",
+      "number": "BT19-013 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607305_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607305/digimon-card-game-release-special-booster-25-shoutmon-x5",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 607306,
+      "name": "Taiki Kudo",
+      "number": "BT19-079 U",
+      "rarity": "Uncommon",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607306_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607306/digimon-card-game-release-special-booster-25-taiki-kudo",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17
+        }
+      ]
+    },
+    {
+      "id": 607307,
+      "name": "Gaossmon",
+      "number": "BT19-016 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607307_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607307/digimon-card-game-release-special-booster-25-gaossmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 607308,
+      "name": "Greymon",
+      "number": "BT19-020 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607308_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607308/digimon-card-game-release-special-booster-25-greymon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 607309,
+      "name": "MailBirdramon",
+      "number": "BT19-022 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607309_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607309/digimon-card-game-release-special-booster-25-mailbirdramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 607310,
+      "name": "MetalGreymon",
+      "number": "BT19-025 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607310_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607310/digimon-card-game-release-special-booster-25-metalgreymon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.44
+        }
+      ]
+    },
+    {
+      "id": 607311,
+      "name": "ZeigGreymon",
+      "number": "BT19-026 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607311_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607311/digimon-card-game-release-special-booster-25-zeiggreymon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.93
+        }
+      ]
+    },
+    {
+      "id": 607312,
+      "name": "Kiriha Aonuma",
+      "number": "BT19-081 U",
+      "rarity": "Uncommon",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607312_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607312/digimon-card-game-release-special-booster-25-kiriha-aonuma",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 607313,
+      "name": "Shoutmon EX6",
+      "number": "BT19-014 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607313_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607313/digimon-card-game-release-special-booster-25-shoutmon-ex6",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.96
+        }
+      ]
+    },
+    {
+      "id": 607314,
+      "name": "Meteor Rock Soul",
+      "number": "BT19-090 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607314_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607314/digimon-card-game-release-special-booster-25-meteor-rock-soul",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 607315,
+      "name": "Luminamon",
+      "label": "Nene Version",
+      "number": "BT19-102 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607315_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607315/digimon-card-game-release-special-booster-25-luminamon-nene-version",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.5
+        }
+      ]
+    },
+    {
+      "id": 607316,
+      "name": "Shademon",
+      "number": "BT19-068 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607316_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607316/digimon-card-game-release-special-booster-25-shademon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17
+        }
+      ]
+    },
+    {
+      "id": 607317,
+      "name": "Luminamon",
+      "number": "BT19-076 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607317_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607317/digimon-card-game-release-special-booster-25-luminamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 607318,
+      "name": "Guilmon",
+      "number": "BT19-007 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607318_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607318/digimon-card-game-release-special-booster-25-guilmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3
+        }
+      ]
+    },
+    {
+      "id": 607319,
+      "name": "Growlmon",
+      "number": "BT19-009 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607319_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607319/digimon-card-game-release-special-booster-25-growlmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25
+        }
+      ]
+    },
+    {
+      "id": 607320,
+      "name": "Takato Matsuki",
+      "number": "BT19-080 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607320_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607320/digimon-card-game-release-special-booster-25-takato-matsuki",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.88
+        }
+      ]
+    },
+    {
+      "id": 607321,
+      "name": "WarGrowlmon ACE",
+      "number": "BT19-011 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607321_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607321/digimon-card-game-release-special-booster-25-wargrowlmon-ace",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.46
+        }
+      ]
+    },
+    {
+      "id": 607322,
+      "name": "Gallantmon",
+      "number": "BT19-015 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607322_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607322/digimon-card-game-release-special-booster-25-gallantmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.26
+        }
+      ]
+    },
+    {
+      "id": 607323,
+      "name": "Ginryumon",
+      "number": "BT20-012 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607323_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607323/digimon-card-game-release-special-booster-25-ginryumon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23
+        }
+      ]
+    },
+    {
+      "id": 607324,
+      "name": "Raptordramon",
+      "number": "BT20-051 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607324_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607324/digimon-card-game-release-special-booster-25-raptordramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35
+        }
+      ]
+    },
+    {
+      "id": 607325,
+      "name": "Bulkmon",
+      "number": "BT20-032 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607325_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607325/digimon-card-game-release-special-booster-25-bulkmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 607326,
+      "name": "Loogarmon",
+      "number": "BT20-070 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607326_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607326/digimon-card-game-release-special-booster-25-loogarmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 607327,
+      "name": "Kapurimon",
+      "number": "BT20-005 C",
+      "rarity": "Common",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607327_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607327/digimon-card-game-release-special-booster-25-kapurimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 607328,
+      "name": "Espimon",
+      "number": "BT20-046 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607328_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607328/digimon-card-game-release-special-booster-25-espimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 607329,
+      "name": "HoverEspimon",
+      "number": "BT20-050 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607329_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607329/digimon-card-game-release-special-booster-25-hoverespimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 607330,
+      "name": "Liollmon - BT20-030",
+      "number": "BT20-030 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607330_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607330/digimon-card-game-release-special-booster-25-liollmon-bt20-030",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17
+        }
+      ]
+    },
+    {
+      "id": 607331,
+      "name": "Falcomon",
+      "number": "BT20-038 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607331_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607331/digimon-card-game-release-special-booster-25-falcomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 607332,
+      "name": "Chaosmon: Valdur Arm",
+      "number": "BT20-037 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607332_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607332/digimon-card-game-release-special-booster-25-chaosmon-valdur-arm",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.41
+        }
+      ]
+    },
+    {
+      "id": 607333,
+      "name": "Singularity of Chaos",
+      "number": "BT20-099 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607333_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607333/digimon-card-game-release-special-booster-25-singularity-of-chaos",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 607334,
+      "name": "Coredramon - BT20-040",
+      "number": "BT20-040 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607334_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607334/digimon-card-game-release-special-booster-25-coredramon-bt20-040",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25
+        }
+      ]
+    },
+    {
+      "id": 607335,
+      "name": "Coredramon - BT20-023",
+      "number": "BT20-023 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607335_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607335/digimon-card-game-release-special-booster-25-coredramon-bt20-023",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24
+        }
+      ]
+    },
+    {
+      "id": 607336,
+      "name": "Gankoomon",
+      "label": "X Antibody",
+      "number": "BT20-059 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607336_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607336/digimon-card-game-release-special-booster-25-gankoomon-x-antibody",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.37
+        }
+      ]
+    },
+    {
+      "id": 607337,
+      "name": "Jesmon",
+      "label": "X Antibody",
+      "number": "BT20-019 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607337_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607337/digimon-card-game-release-special-booster-25-jesmon-x-antibody",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.8
+        }
+      ]
+    },
+    {
+      "id": 607338,
+      "name": "Jesmon GX ACE",
+      "number": "BT20-021 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607338_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607338/digimon-card-game-release-special-booster-25-jesmon-gx-ace",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.58
+        }
+      ]
+    },
+    {
+      "id": 607339,
+      "name": "Shoto Kazama",
+      "number": "BT20-085 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607339_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607339/digimon-card-game-release-special-booster-25-shoto-kazama",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.32
+        }
+      ]
+    },
+    {
+      "id": 607340,
+      "name": "Yuuki",
+      "number": "BT20-090 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607340_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607340/digimon-card-game-release-special-booster-25-yuuki",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.5
+        }
+      ]
+    },
+    {
+      "id": 607341,
+      "name": "Black Sabbath",
+      "number": "BT20-096 U",
+      "rarity": "Uncommon",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607341_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607341/digimon-card-game-release-special-booster-25-black-sabbath",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25
+        }
+      ]
+    },
+    {
+      "id": 607342,
+      "name": "Boutmon",
+      "number": "BT20-034 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607342_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607342/digimon-card-game-release-special-booster-25-boutmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 607343,
+      "name": "Soloogarmon",
+      "number": "BT20-071 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607343_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607343/digimon-card-game-release-special-booster-25-soloogarmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 607344,
+      "name": "Fenriloogamon: Takemikazuchi ACE",
+      "number": "BT20-081 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607344_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607344/digimon-card-game-release-special-booster-25-fenriloogamon-takemikazuchi-ace",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.47
+        }
+      ]
+    },
+    {
+      "id": 607345,
+      "name": "Hisyaryumon",
+      "number": "BT20-015 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607345_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607345/digimon-card-game-release-special-booster-25-hisyaryumon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.18
+        }
+      ]
+    },
+    {
+      "id": 607346,
+      "name": "Grademon",
+      "number": "BT20-053 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607346_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607346/digimon-card-game-release-special-booster-25-grademon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.84
+        }
+      ]
+    },
+    {
+      "id": 607347,
+      "name": "Solarmon",
+      "number": "BT20-047 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607347_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607347/digimon-card-game-release-special-booster-25-solarmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 607348,
+      "name": "Blimpmon",
+      "number": "BT20-049 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607348_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607348/digimon-card-game-release-special-booster-25-blimpmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 607349,
+      "name": "Candlemon - BT20-062",
+      "number": "BT20-062 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607349_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607349/digimon-card-game-release-special-booster-25-candlemon-bt20-062",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 607350,
+      "name": "Soulmon",
+      "number": "BT20-067 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607350_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607350/digimon-card-game-release-special-booster-25-soulmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 607351,
+      "name": "Wingdramon",
+      "number": "BT20-025 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607351_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607351/digimon-card-game-release-special-booster-25-wingdramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.09
+        }
+      ]
+    },
+    {
+      "id": 607352,
+      "name": "Groundramon",
+      "number": "BT20-042 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607352_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607352/digimon-card-game-release-special-booster-25-groundramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.9
+        }
+      ]
+    },
+    {
+      "id": 607353,
+      "name": "Liamon",
+      "number": "BT20-031 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607353_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607353/digimon-card-game-release-special-booster-25-liamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 607354,
+      "name": "Diatrymon",
+      "number": "BT20-039 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607354_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607354/digimon-card-game-release-special-booster-25-diatrymon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 607355,
+      "name": "BaoHuckmon",
+      "number": "BT20-013 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607355_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607355/digimon-card-game-release-special-booster-25-baohuckmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.6
+        }
+      ]
+    },
+    {
+      "id": 607356,
+      "name": "SaviorHuckmon",
+      "number": "BT20-014 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607356_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607356/digimon-card-game-release-special-booster-25-saviorhuckmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.76
+        }
+      ]
+    },
+    {
+      "id": 607357,
+      "name": "Veemon",
+      "number": "BT20-009 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607357_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607357/digimon-card-game-release-special-booster-25-veemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 607358,
+      "name": "Wormmon",
+      "number": "BT20-065 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607358_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607358/digimon-card-game-release-special-booster-25-wormmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 607359,
+      "name": "Imperialdramon: Fighter Mode",
+      "number": "BT20-020 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607359_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607359/digimon-card-game-release-special-booster-25-imperialdramon-fighter-mode",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.16
+        }
+      ]
+    },
+    {
+      "id": 607360,
+      "name": "Examon ACE",
+      "number": "BT20-045 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607360_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607360/digimon-card-game-release-special-booster-25-examon-ace",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.87
+        }
+      ]
+    },
+    {
+      "id": 607361,
+      "name": "HeavyMetaldramon ACE",
+      "number": "BT20-077 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607361_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607361/digimon-card-game-release-special-booster-25-heavymetaldramon-ace",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.48
+        }
+      ]
+    },
+    {
+      "id": 607362,
+      "name": "AvengeKidmon",
+      "label": "Update Pack 2025",
+      "number": "P-170 P",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607362_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607362/digimon-card-game-release-special-booster-25-avengekidmon-update-pack-2025",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.12
+        }
+      ]
+    },
+    {
+      "id": 607363,
+      "name": "Pukumon",
+      "label": "Update Pack 2025",
+      "number": "P-171 P",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607363_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607363/digimon-card-game-release-special-booster-25-pukumon-update-pack-2025",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.69
+        }
+      ]
+    },
+    {
+      "id": 607364,
+      "name": "Magnadramon",
+      "label": "Update Pack 2025",
+      "number": "P-172 P",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607364_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607364/digimon-card-game-release-special-booster-25-magnadramon-update-pack-2025",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.94
+        }
+      ]
+    },
+    {
+      "id": 607365,
+      "name": "RustTyrannomon",
+      "label": "Update Pack 2025",
+      "number": "P-173 P",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607365_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607365/digimon-card-game-release-special-booster-25-rusttyrannomon-update-pack-2025",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.41
+        }
+      ]
+    },
+    {
+      "id": 607366,
+      "name": "Boltmon",
+      "label": "Update Pack 2025",
+      "number": "P-174 P",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607366_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607366/digimon-card-game-release-special-booster-25-boltmon-update-pack-2025",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.75
+        }
+      ]
+    },
+    {
+      "id": 607367,
+      "name": "Hina Kurihara",
+      "label": "Update Pack 2025",
+      "number": "P-175 P",
+      "rarity": "Promo",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607367_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607367/digimon-card-game-release-special-booster-25-hina-kurihara-update-pack-2025",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.22
+        }
+      ]
+    },
+    {
+      "id": 607806,
+      "name": "Bakemon",
+      "number": "BT20-068 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607806_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607806/digimon-card-game-release-special-booster-25-bakemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35
+        }
+      ]
+    },
+    {
+      "id": 607807,
+      "name": "DemiMeramon - BT20-006",
+      "number": "BT20-006 C",
+      "rarity": "Common",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607807_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607807/digimon-card-game-release-special-booster-25-demimeramon-bt20-006",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25
+        }
+      ]
+    },
+    {
+      "id": 607808,
+      "name": "Ghostmon",
+      "number": "BT20-063 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607808_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607808/digimon-card-game-release-special-booster-25-ghostmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.39
+        }
+      ]
+    },
+    {
+      "id": 609547,
+      "name": "Huckmon",
+      "number": "BT20-008 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609547_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609547/digimon-card-game-release-special-booster-25-huckmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.39
+        }
+      ]
+    },
+    {
+      "id": 609548,
+      "name": "Sistermon Ciel",
+      "label": "Awakened",
+      "number": "BT20-084 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609548_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609548/digimon-card-game-release-special-booster-25-sistermon-ciel-awakened",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.52
+        }
+      ]
+    },
+    {
+      "id": 609549,
+      "name": "Crabmon",
+      "label": "X Antibody",
+      "number": "BT20-022 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609549_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609549/digimon-card-game-release-special-booster-25-crabmon-x-antibody",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 609550,
+      "name": "Slayerdramon",
+      "number": "BT20-027 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609550_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609550/digimon-card-game-release-special-booster-25-slayerdramon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.59
+        }
+      ]
+    },
+    {
+      "id": 609551,
+      "name": "Breakdramon",
+      "number": "BT20-044 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609551_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609551/digimon-card-game-release-special-booster-25-breakdramon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1
+        }
+      ]
+    },
+    {
+      "id": 609552,
+      "name": "Unleash the Dragon Gene",
+      "number": "BT20-093 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609552_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609552/digimon-card-game-release-special-booster-25-unleash-the-dragon-gene",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28
+        }
+      ]
+    },
+    {
+      "id": 609553,
+      "name": "Pulsemon",
+      "number": "BT20-029 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609553_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609553/digimon-card-game-release-special-booster-25-pulsemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 609554,
+      "name": "Loogamon",
+      "number": "BT20-064 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609554_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609554/digimon-card-game-release-special-booster-25-loogamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24
+        }
+      ]
+    },
+    {
+      "id": 609555,
+      "name": "Pinamon",
+      "number": "BT20-004 C",
+      "rarity": "Common",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609555_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609555/digimon-card-game-release-special-booster-25-pinamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 609556,
+      "name": "LoaderLeomon",
+      "number": "BT20-033 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609556_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609556/digimon-card-game-release-special-booster-25-loaderleomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 609557,
+      "name": "Crowmon",
+      "number": "BT20-041 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609557_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609557/digimon-card-game-release-special-booster-25-crowmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 609558,
+      "name": "Kazuchimon",
+      "number": "BT20-035 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609558_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609558/digimon-card-game-release-special-booster-25-kazuchimon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.56
+        }
+      ]
+    },
+    {
+      "id": 609559,
+      "name": "Fenriloogamon",
+      "number": "BT20-080 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609559_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609559/digimon-card-game-release-special-booster-25-fenriloogamon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.3
+        }
+      ]
+    },
+    {
+      "id": 609560,
+      "name": "BanchoLeomon",
+      "number": "BT20-036 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609560_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609560/digimon-card-game-release-special-booster-25-bancholeomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 609561,
+      "name": "Varodurumon",
+      "number": "BT20-043 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609561_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609561/digimon-card-game-release-special-booster-25-varodurumon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24
+        }
+      ]
+    },
+    {
+      "id": 609562,
+      "name": "Kota Domoto & Yuji Musya",
+      "number": "BT20-087 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609562_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609562/digimon-card-game-release-special-booster-25-kota-domoto-and-yuji-musya",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5.94
+        }
+      ]
+    },
+    {
+      "id": 609563,
+      "name": "Fellowship of Hope's Keepers",
+      "number": "BT20-095 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609563_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609563/digimon-card-game-release-special-booster-25-fellowship-of-hopes-keepers",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16
+        }
+      ]
+    },
+    {
+      "id": 609564,
+      "name": "Impmon - BT20-061",
+      "number": "BT20-061 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609564_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609564/digimon-card-game-release-special-booster-25-impmon-bt20-061",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.1
+        }
+      ]
+    },
+    {
+      "id": 609565,
+      "name": "Punkmon",
+      "number": "BT20-069 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609565_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609565/digimon-card-game-release-special-booster-25-punkmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22
+        }
+      ]
+    },
+    {
+      "id": 609566,
+      "name": "Loudmon",
+      "number": "BT20-075 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609566_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609566/digimon-card-game-release-special-booster-25-loudmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.49
+        }
+      ]
+    },
+    {
+      "id": 609567,
+      "name": "DemiVeemon",
+      "number": "BT20-001 C",
+      "rarity": "Common",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609567_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609567/digimon-card-game-release-special-booster-25-demiveemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 609568,
+      "name": "Battle NPC",
+      "number": "BT20-092 U",
+      "rarity": "Uncommon",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609568_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609568/digimon-card-game-release-special-booster-25-battle-npc",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 609569,
+      "name": "Emperor Dragon of Calamity",
+      "number": "BT20-094 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609569_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609569/digimon-card-game-release-special-booster-25-emperor-dragon-of-calamity",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 609570,
+      "name": "Seadramon",
+      "label": "X Antibody",
+      "number": "BT20-024 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609570_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609570/digimon-card-game-release-special-booster-25-seadramon-x-antibody",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 609571,
+      "name": "MegaSeadramon",
+      "label": "X Antibody",
+      "number": "BT20-026 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609571_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609571/digimon-card-game-release-special-booster-25-megaseadramon-x-antibody",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.53
+        }
+      ]
+    },
+    {
+      "id": 609572,
+      "name": "GigaSeadramon",
+      "number": "BT20-028 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609572_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609572/digimon-card-game-release-special-booster-25-gigaseadramon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.59
+        }
+      ]
+    },
+    {
+      "id": 609573,
+      "name": "Jesmon",
+      "number": "BT20-017 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609573_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609573/digimon-card-game-release-special-booster-25-jesmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.52
+        }
+      ]
+    },
+    {
+      "id": 609574,
+      "name": "Gankoomon",
+      "number": "BT20-057 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609574_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609574/digimon-card-game-release-special-booster-25-gankoomon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.27
+        }
+      ]
+    },
+    {
+      "id": 609598,
+      "name": "Ouryumon",
+      "number": "BT20-018 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609598_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609598/digimon-card-game-release-special-booster-25-ouryumon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1
+        }
+      ]
+    },
+    {
+      "id": 609600,
+      "name": "Alphamon",
+      "number": "BT20-056 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609600_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609600/digimon-card-game-release-special-booster-25-alphamon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.74
+        }
+      ]
+    },
+    {
+      "id": 609604,
+      "name": "DeathXmon",
+      "number": "BT20-082 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609604_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609604/digimon-card-game-release-special-booster-25-deathxmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.26
+        }
+      ]
+    },
+    {
+      "id": 609608,
+      "name": "The Apostle of Doom Descends!",
+      "number": "BT20-097 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609608_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609608/digimon-card-game-release-special-booster-25-the-apostle-of-doom-descends",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 609643,
+      "name": "Bibimon",
+      "number": "BT20-003 C",
+      "rarity": "Common",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609643_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609643/digimon-card-game-release-special-booster-25-bibimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 609644,
+      "name": "Code Cracker Fang & Hacker Judge",
+      "number": "BT20-089 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609644_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609644/digimon-card-game-release-special-booster-25-code-cracker-fang-and-hacker-judge",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.99
+        }
+      ]
+    },
+    {
+      "id": 609720,
+      "name": "Oblivimon",
+      "number": "BT20-052 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609720_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609720/digimon-card-game-release-special-booster-25-oblivimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22
+        }
+      ]
+    },
+    {
+      "id": 609721,
+      "name": "Invisimon",
+      "number": "BT20-055 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609721_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609721/digimon-card-game-release-special-booster-25-invisimon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.06
+        }
+      ]
+    },
+    {
+      "id": 609722,
+      "name": "Invisimon",
+      "label": "Alternate Art",
+      "number": "BT20-055 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609722_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609722/digimon-card-game-release-special-booster-25-invisimon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 8.91
+        }
+      ]
+    },
+    {
+      "id": 609723,
+      "name": "Altea",
+      "number": "BT20-086 U",
+      "rarity": "Uncommon",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/609723_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/609723/digimon-card-game-release-special-booster-25-altea",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 610128,
+      "name": "Bebydomon",
+      "number": "BT20-002 C",
+      "rarity": "Common",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610128_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610128/digimon-card-game-release-special-booster-25-bebydomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 610129,
+      "name": "Dracomon",
+      "number": "BT20-007 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610129_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610129/digimon-card-game-release-special-booster-25-dracomon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5.55
+        }
+      ]
+    },
+    {
+      "id": 610130,
+      "name": "Ryudamon",
+      "number": "BT20-010 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610130_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610130/digimon-card-game-release-special-booster-25-ryudamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.15
+        }
+      ]
+    },
+    {
+      "id": 610131,
+      "name": "Dorumon",
+      "number": "BT20-048 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610131_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610131/digimon-card-game-release-special-booster-25-dorumon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.74
+        }
+      ]
+    },
+    {
+      "id": 610132,
+      "name": "Impmon - BT19-067",
+      "label": "Alternate Art",
+      "number": "BT19-067 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610132_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610132/digimon-card-game-release-special-booster-25-impmon-bt19-067-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 64.04
+        }
+      ]
+    },
+    {
+      "id": 610134,
+      "name": "Zephagamon ACE",
+      "number": "BT20-101 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610134_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610134/digimon-card-game-release-special-booster-25-zephagamon-ace",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.73
+        }
+      ]
+    },
+    {
+      "id": 610137,
+      "name": "Alphamon: Ouryuken ACE",
+      "number": "BT20-060 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610137_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610137/digimon-card-game-release-special-booster-25-alphamon-ouryuken-ace",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.87
+        }
+      ]
+    },
+    {
+      "id": 610355,
+      "name": "Bulbmon",
+      "number": "BT20-054 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610355_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610355/digimon-card-game-release-special-booster-25-bulbmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 610705,
+      "name": "Raidenmon",
+      "number": "BT20-058 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610705_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610705/digimon-card-game-release-special-booster-25-raidenmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 610706,
+      "name": "Paildramon",
+      "number": "BT20-016 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610706_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610706/digimon-card-game-release-special-booster-25-paildramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.43
+        }
+      ]
+    },
+    {
+      "id": 610707,
+      "name": "Dinobeemon",
+      "number": "BT20-074 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610707_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610707/digimon-card-game-release-special-booster-25-dinobeemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 610725,
+      "name": "MetalPhantomon",
+      "number": "BT20-073 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610725_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610725/digimon-card-game-release-special-booster-25-metalphantomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22
+        }
+      ]
+    },
+    {
+      "id": 610726,
+      "name": "Reapermon",
+      "number": "BT20-078 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610726_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610726/digimon-card-game-release-special-booster-25-reapermon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16
+        }
+      ]
+    },
+    {
+      "id": 610727,
+      "name": "Imperialdramon: Dragon Mode ACE",
+      "number": "BT20-076 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610727_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610727/digimon-card-game-release-special-booster-25-imperialdramon-dragon-mode-ace",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.37
+        }
+      ]
+    },
+    {
+      "id": 610754,
+      "name": "The Last Guardian",
+      "number": "BT20-100 U",
+      "rarity": "Uncommon",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610754_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610754/digimon-card-game-release-special-booster-25-the-last-guardian",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17
+        }
+      ]
+    },
+    {
+      "id": 610755,
+      "name": "Omekamon",
+      "number": "BT20-083 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610755_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610755/digimon-card-game-release-special-booster-25-omekamon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.59
+        }
+      ]
+    },
+    {
+      "id": 610756,
+      "name": "Omnimon",
+      "label": "X Antibody",
+      "number": "BT20-102 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610756_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610756/digimon-card-game-release-special-booster-25-omnimon-x-antibody",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 11.08
+        }
+      ]
+    },
+    {
+      "id": 610959,
+      "name": "ExVeemon",
+      "number": "BT20-011 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610959_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610959/digimon-card-game-release-special-booster-25-exveemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16
+        }
+      ]
+    },
+    {
+      "id": 610960,
+      "name": "Stingmon",
+      "number": "BT20-066 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610960_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610960/digimon-card-game-release-special-booster-25-stingmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 610966,
+      "name": "WarGrowlmon ACE",
+      "label": "Alternate Art",
+      "number": "BT19-011 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610966_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610966/digimon-card-game-release-special-booster-25-wargrowlmon-ace-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.99
+        }
+      ]
+    },
+    {
+      "id": 610968,
+      "name": "WarGrowlmon ACE",
+      "label": "Textured",
+      "number": "BT19-011 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610968_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610968/digimon-card-game-release-special-booster-25-wargrowlmon-ace-textured",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 93.54
+        }
+      ]
+    },
+    {
+      "id": 610969,
+      "name": "Shoutmon EX6",
+      "label": "Alternate Art",
+      "number": "BT19-014 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610969_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610969/digimon-card-game-release-special-booster-25-shoutmon-ex6-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 18.89
+        }
+      ]
+    },
+    {
+      "id": 610971,
+      "name": "Taomon ACE",
+      "label": "Alternate Art",
+      "number": "BT19-037 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610971_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610971/digimon-card-game-release-special-booster-25-taomon-ace-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.76
+        }
+      ]
+    },
+    {
+      "id": 610972,
+      "name": "Taomon ACE",
+      "label": "Textured",
+      "number": "BT19-037 SR",
+      "rarity": "Special Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610972_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610972/digimon-card-game-release-special-booster-25-taomon-ace-textured",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 71.25
+        }
+      ]
+    },
+    {
+      "id": 610973,
+      "name": "Rapidmon ACE",
+      "label": "Alternate Art",
+      "number": "BT19-050 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610973_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610973/digimon-card-game-release-special-booster-25-rapidmon-ace-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.23
+        }
+      ]
+    },
+    {
+      "id": 610974,
+      "name": "Rapidmon ACE",
+      "label": "Textured",
+      "number": "BT19-050 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610974_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610974/digimon-card-game-release-special-booster-25-rapidmon-ace-textured",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 55.98
+        }
+      ]
+    },
+    {
+      "id": 610976,
+      "name": "Justimon: Blitz Arm ACE",
+      "label": "Alternate Art",
+      "number": "BT19-064 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610976_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610976/digimon-card-game-release-special-booster-25-justimon-blitz-arm-ace-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 6.72
+        }
+      ]
+    },
+    {
+      "id": 610977,
+      "name": "Justimon: Blitz Arm ACE",
+      "label": "Textured",
+      "number": "BT19-064 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610977_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610977/digimon-card-game-release-special-booster-25-justimon-blitz-arm-ace-textured",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 63.13
+        }
+      ]
+    },
+    {
+      "id": 610978,
+      "name": "Beelzemon: Blast Mode ACE",
+      "label": "Alternate Art",
+      "number": "BT19-074 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610978_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610978/digimon-card-game-release-special-booster-25-beelzemon-blast-mode-ace-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5.85
+        }
+      ]
+    },
+    {
+      "id": 610979,
+      "name": "Beelzemon: Blast Mode ACE",
+      "label": "Textured",
+      "number": "BT19-074 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610979_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610979/digimon-card-game-release-special-booster-25-beelzemon-blast-mode-ace-textured",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 219.24
+        }
+      ]
+    },
+    {
+      "id": 610980,
+      "name": "Taiki Kudo",
+      "label": "Alternate Art",
+      "number": "BT19-079 U",
+      "rarity": "Uncommon",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610980_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610980/digimon-card-game-release-special-booster-25-taiki-kudo-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.93
+        }
+      ]
+    },
+    {
+      "id": 610981,
+      "name": "Kiriha Aonuma",
+      "label": "Alternate Art",
+      "number": "BT19-081 U",
+      "rarity": "Uncommon",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610981_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610981/digimon-card-game-release-special-booster-25-kiriha-aonuma-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5.48
+        }
+      ]
+    },
+    {
+      "id": 610982,
+      "name": "Luminamon",
+      "label": "Nene Version · Alternate Art",
+      "number": "BT19-102 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610982_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610982/digimon-card-game-release-special-booster-25-luminamon-nene-version-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.89
+        }
+      ]
+    },
+    {
+      "id": 610984,
+      "name": "Imperialdramon: Fighter Mode",
+      "label": "Alternate Art",
+      "number": "BT20-020 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610984_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610984/digimon-card-game-release-special-booster-25-imperialdramon-fighter-mode-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 21.44
+        }
+      ]
+    },
+    {
+      "id": 610985,
+      "name": "Jesmon GX ACE",
+      "label": "Alternate Art",
+      "number": "BT20-021 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610985_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610985/digimon-card-game-release-special-booster-25-jesmon-gx-ace-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 7.74
+        }
+      ]
+    },
+    {
+      "id": 610986,
+      "name": "Jesmon GX ACE",
+      "label": "Textured",
+      "number": "BT20-021 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610986_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610986/digimon-card-game-release-special-booster-25-jesmon-gx-ace-textured",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 160
+        }
+      ]
+    },
+    {
+      "id": 610987,
+      "name": "Chaosmon: Valdur Arm",
+      "label": "Alternate Art",
+      "number": "BT20-037 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610987_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610987/digimon-card-game-release-special-booster-25-chaosmon-valdur-arm-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 15.47
+        }
+      ]
+    },
+    {
+      "id": 610988,
+      "name": "Examon ACE",
+      "label": "Alternate Art",
+      "number": "BT20-045 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610988_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610988/digimon-card-game-release-special-booster-25-examon-ace-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 6.39
+        }
+      ]
+    },
+    {
+      "id": 610989,
+      "name": "Examon ACE",
+      "label": "Textured",
+      "number": "BT20-045 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610989_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610989/digimon-card-game-release-special-booster-25-examon-ace-textured",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 143.66
+        }
+      ]
+    },
+    {
+      "id": 610990,
+      "name": "Alphamon: Ouryuken ACE",
+      "label": "Alternate Art",
+      "number": "BT20-060 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610990_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610990/digimon-card-game-release-special-booster-25-alphamon-ouryuken-ace-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 19.08
+        }
+      ]
+    },
+    {
+      "id": 610991,
+      "name": "Alphamon: Ouryuken ACE",
+      "label": "Textured",
+      "number": "BT20-060 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610991_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610991/digimon-card-game-release-special-booster-25-alphamon-ouryuken-ace-textured",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 688.49
+        }
+      ]
+    },
+    {
+      "id": 610992,
+      "name": "Ghostmon",
+      "label": "Alternate Art",
+      "number": "BT20-063 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610992_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610992/digimon-card-game-release-special-booster-25-ghostmon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 17.52
+        }
+      ]
+    },
+    {
+      "id": 610994,
+      "name": "HeavyMetaldramon ACE",
+      "label": "Alternate Art",
+      "number": "BT20-077 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610994_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610994/digimon-card-game-release-special-booster-25-heavymetaldramon-ace-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 12.54
+        }
+      ]
+    },
+    {
+      "id": 610995,
+      "name": "HeavyMetaldramon ACE",
+      "label": "Textured",
+      "number": "BT20-077 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/610995_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/610995/digimon-card-game-release-special-booster-25-heavymetaldramon-ace-textured",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 175
+        }
+      ]
+    },
+    {
+      "id": 611074,
+      "name": "Fenriloogamon: Takemikazuchi ACE",
+      "label": "Alternate Art",
+      "number": "BT20-081 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611074_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611074/digimon-card-game-release-special-booster-25-fenriloogamon-takemikazuchi-ace-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.47
+        }
+      ]
+    },
+    {
+      "id": 611075,
+      "name": "Fenriloogamon: Takemikazuchi ACE",
+      "label": "Textured",
+      "number": "BT20-081 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611075_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611075/digimon-card-game-release-special-booster-25-fenriloogamon-takemikazuchi-ace-textured",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 59.99
+        }
+      ]
+    },
+    {
+      "id": 611076,
+      "name": "DeathXmon",
+      "label": "Alternate Art",
+      "number": "BT20-082 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611076_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611076/digimon-card-game-release-special-booster-25-deathxmon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.43
+        }
+      ]
+    },
+    {
+      "id": 611078,
+      "name": "Shoto Kazama",
+      "label": "Alternate Art",
+      "number": "BT20-085 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611078_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611078/digimon-card-game-release-special-booster-25-shoto-kazama-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5.52
+        }
+      ]
+    },
+    {
+      "id": 611079,
+      "name": "Altea",
+      "label": "Alternate Art",
+      "number": "BT20-086 U",
+      "rarity": "Uncommon",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611079_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611079/digimon-card-game-release-special-booster-25-altea-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.35
+        }
+      ]
+    },
+    {
+      "id": 611080,
+      "name": "Kota Domoto & Yuji Musya",
+      "label": "Alternate Art",
+      "number": "BT20-087 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611080_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611080/digimon-card-game-release-special-booster-25-kota-domoto-and-yuji-musya-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 19.4
+        }
+      ]
+    },
+    {
+      "id": 611081,
+      "name": "Code Cracker Fang & Hacker Judge",
+      "label": "Alternate Art",
+      "number": "BT20-089 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611081_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611081/digimon-card-game-release-special-booster-25-code-cracker-fang-and-hacker-judge-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 9.52
+        }
+      ]
+    },
+    {
+      "id": 611082,
+      "name": "Cool Boy",
+      "label": "Alternate Art",
+      "number": "BT20-091 SR",
+      "rarity": "Super Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611082_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611082/digimon-card-game-release-special-booster-25-cool-boy-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 10.44
+        }
+      ]
+    },
+    {
+      "id": 611083,
+      "name": "Zephagamon ACE",
+      "label": "Alternate Art",
+      "number": "BT20-101 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611083_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611083/digimon-card-game-release-special-booster-25-zephagamon-ace-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 9.19
+        }
+      ]
+    },
+    {
+      "id": 611084,
+      "name": "Zephagamon ACE",
+      "label": "Textured",
+      "number": "BT20-101 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611084_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611084/digimon-card-game-release-special-booster-25-zephagamon-ace-textured",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 298.61
+        }
+      ]
+    },
+    {
+      "id": 611085,
+      "name": "Omnimon",
+      "label": "X Antibody · Alternate Art",
+      "number": "BT20-102 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611085_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611085/digimon-card-game-release-special-booster-25-omnimon-x-antibody-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 45.5
+        }
+      ]
+    },
+    {
+      "id": 611086,
+      "name": "Omnimon",
+      "label": "X Antibody · Textured",
+      "number": "BT20-102 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611086_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611086/digimon-card-game-release-special-booster-25-omnimon-x-antibody-textured",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 635.8
+        }
+      ]
+    },
+    {
+      "id": 611098,
+      "name": "Apparition Legion",
+      "number": "BT20-098 U",
+      "rarity": "Uncommon",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611098_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611098/digimon-card-game-release-special-booster-25-apparition-legion",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17
+        }
+      ]
+    },
+    {
+      "id": 611099,
+      "name": "Violet Inboots - BT20-088",
+      "number": "BT20-088 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611099_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611099/digimon-card-game-release-special-booster-25-violet-inboots-bt20-088",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.62
+        }
+      ]
+    },
+    {
+      "id": 611100,
+      "name": "Violet Inboots - BT20-088",
+      "label": "Alternate Art",
+      "number": "BT20-088 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611100_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611100/digimon-card-game-release-special-booster-25-violet-inboots-bt20-088-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 9.19
+        }
+      ]
+    },
+    {
+      "id": 611101,
+      "name": "Necromon",
+      "number": "BT20-079 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611101_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611101/digimon-card-game-release-special-booster-25-necromon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.97
+        }
+      ]
+    },
+    {
+      "id": 611102,
+      "name": "Necromon",
+      "label": "Alternate Art",
+      "number": "BT20-079 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611102_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611102/digimon-card-game-release-special-booster-25-necromon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.65
+        }
+      ]
+    },
+    {
+      "id": 611103,
+      "name": "Phantomon",
+      "number": "BT20-072 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/611103_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/611103/digimon-card-game-release-special-booster-25-phantomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.12
+        }
+      ]
+    },
+    {
+      "id": 614534,
+      "name": "Imperialdramon: Fighter Mode",
+      "label": "Textured",
+      "number": "BT20-020 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/614534_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/614534/digimon-card-game-release-special-booster-25-imperialdramon-fighter-mode-textured",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 346.57
+        }
+      ]
+    },
+    {
+      "id": 615302,
+      "name": "DemiVeemon",
+      "label": "Release Special Booster 2.5: Box Promotion Pack",
+      "number": "BT20-001 C",
+      "rarity": "Common",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/615302_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/615302/digimon-card-game-release-special-booster-25-demiveemon-release-special-booster-25-box-promotion-pack",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.78
+        }
+      ]
+    },
+    {
+      "id": 615303,
+      "name": "Bebydomon",
+      "label": "Release Special Booster 2.5: Box Promotion Pack",
+      "number": "BT20-002 C",
+      "rarity": "Common",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/615303_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/615303/digimon-card-game-release-special-booster-25-bebydomon-release-special-booster-25-box-promotion-pack",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.56
+        }
+      ]
+    },
+    {
+      "id": 615304,
+      "name": "Bibimon",
+      "label": "Release Special Booster 2.5: Box Promotion Pack",
+      "number": "BT20-003 C",
+      "rarity": "Common",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/615304_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/615304/digimon-card-game-release-special-booster-25-bibimon-release-special-booster-25-box-promotion-pack",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.23
+        }
+      ]
+    },
+    {
+      "id": 615305,
+      "name": "Pinamon",
+      "label": "Release Special Booster 2.5: Box Promotion Pack",
+      "number": "BT20-004 C",
+      "rarity": "Common",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/615305_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/615305/digimon-card-game-release-special-booster-25-pinamon-release-special-booster-25-box-promotion-pack",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.06
+        }
+      ]
+    },
+    {
+      "id": 615306,
+      "name": "Kapurimon",
+      "label": "Release Special Booster 2.5: Box Promotion Pack",
+      "number": "BT20-005 C",
+      "rarity": "Common",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/615306_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/615306/digimon-card-game-release-special-booster-25-kapurimon-release-special-booster-25-box-promotion-pack",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.71
+        }
+      ]
+    },
+    {
+      "id": 615307,
+      "name": "DemiMeramon - BT20-006",
+      "label": "Release Special Booster 2.5: Box Promotion Pack",
+      "number": "BT20-006 C",
+      "rarity": "Common",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/615307_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/615307/digimon-card-game-release-special-booster-25-demimeramon-bt20-006-release-special-booster-25-box-promotion-pack",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.49
+        }
+      ]
+    },
+    {
+      "id": 615763,
+      "name": "MetalGarurumon",
+      "label": "Rare Pull",
+      "number": "BT15-101 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/615763_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/615763/digimon-card-game-release-special-booster-25-metalgarurumon-rare-pull",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1700
+        }
+      ]
+    },
+    {
+      "id": 615765,
+      "name": "WarGreymon",
+      "label": "Rare Pull",
+      "number": "BT14-101 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/615765_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/615765/digimon-card-game-release-special-booster-25-wargreymon-rare-pull",
+      "prices": []
+    },
+    {
+      "id": 616367,
+      "name": "Calumon",
+      "label": "Release Special Booster 2.5: Box Promotion Pack",
+      "number": "BT19-077 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616367_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616367/digimon-card-game-release-special-booster-25-calumon-release-special-booster-25-box-promotion-pack",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.43
+        }
+      ]
+    },
+    {
+      "id": 616368,
+      "name": "Takato Matsuki",
+      "label": "Release Special Booster 2.5: Box Promotion Pack",
+      "number": "BT19-080 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616368_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616368/digimon-card-game-release-special-booster-25-takato-matsuki-release-special-booster-25-box-promotion-pack",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.05
+        }
+      ]
+    },
+    {
+      "id": 616369,
+      "name": "Rika Nonaka",
+      "label": "Release Special Booster 2.5: Box Promotion Pack",
+      "number": "BT19-083 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616369_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616369/digimon-card-game-release-special-booster-25-rika-nonaka-release-special-booster-25-box-promotion-pack",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.01
+        }
+      ]
+    },
+    {
+      "id": 616370,
+      "name": "Henry Wong",
+      "label": "Release Special Booster 2.5: Box Promotion Pack",
+      "number": "BT19-085 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616370_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616370/digimon-card-game-release-special-booster-25-henry-wong-release-special-booster-25-box-promotion-pack",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.26
+        }
+      ]
+    },
+    {
+      "id": 616371,
+      "name": "Ryo Akiyama",
+      "label": "Release Special Booster 2.5: Box Promotion Pack",
+      "number": "BT19-086 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616371_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616371/digimon-card-game-release-special-booster-25-ryo-akiyama-release-special-booster-25-box-promotion-pack",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.47
+        }
+      ]
+    },
+    {
+      "id": 616372,
+      "name": "Ai & Mako",
+      "label": "Release Special Booster 2.5: Box Promotion Pack",
+      "number": "BT19-088 U",
+      "rarity": "Uncommon",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/616372_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/616372/digimon-card-game-release-special-booster-25-ai-and-mako-release-special-booster-25-box-promotion-pack",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.55
+        }
+      ]
+    },
+    {
+      "id": 617825,
+      "name": "GigaSeadramon",
+      "label": "Alternate Art",
+      "number": "BT20-028 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/617825_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/617825/digimon-card-game-release-special-booster-25-gigaseadramon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 7.03
+        }
+      ]
+    },
+    {
+      "id": 619103,
+      "name": "Bakemon",
+      "label": "Judge Pack 2025 Wave 1",
+      "number": "BT20-068 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/619103_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/619103/digimon-card-game-release-special-booster-25-bakemon-judge-pack-2025-wave-1",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.43
+        }
+      ]
+    },
+    {
+      "id": 619104,
+      "name": "Punkmon",
+      "label": "Judge Pack 2025 Wave 1",
+      "number": "BT20-069 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/619104_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/619104/digimon-card-game-release-special-booster-25-punkmon-judge-pack-2025-wave-1",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.43
+        }
+      ]
+    },
+    {
+      "id": 619105,
+      "name": "Omekamon",
+      "label": "Judge Pack 2025 Wave 1",
+      "number": "BT20-083 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/619105_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/619105/digimon-card-game-release-special-booster-25-omekamon-judge-pack-2025-wave-1",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.53
+        }
+      ]
+    },
+    {
+      "id": 622314,
+      "name": "Shoutmon",
+      "label": "Ultimate Cup 25-26 Season 1",
+      "number": "BT19-008 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/622314_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/622314/digimon-card-game-release-special-booster-25-shoutmon-ultimate-cup-25-26-season-1",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 18.18
+        }
+      ]
+    },
+    {
+      "id": 622316,
+      "name": "Shoutmon X4",
+      "label": "Ultimate Cup 25-26 Season 1",
+      "number": "BT19-010 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/622316_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/622316/digimon-card-game-release-special-booster-25-shoutmon-x4-ultimate-cup-25-26-season-1",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 19.19
+        }
+      ]
+    },
+    {
+      "id": 625641,
+      "name": "Bulkmon",
+      "label": "Regionals 25-26 Champion Card Set Season 1",
+      "number": "BT20-032 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/625641_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/625641/digimon-card-game-release-special-booster-25-bulkmon-regionals-25-26-champion-card-set-season-1",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 17.67
+        }
+      ]
+    },
+    {
+      "id": 625642,
+      "name": "Pulsemon",
+      "label": "Regionals 25-26 Champion Card Set Season 1",
+      "number": "BT20-029 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/625642_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/625642/digimon-card-game-release-special-booster-25-pulsemon-regionals-25-26-champion-card-set-season-1",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 24.26
+        }
+      ]
+    },
+    {
+      "id": 625643,
+      "name": "Bibimon",
+      "label": "Regionals 25-26 Champion Card Set Season 1",
+      "number": "BT20-003 C",
+      "rarity": "Common",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/625643_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/625643/digimon-card-game-release-special-booster-25-bibimon-regionals-25-26-champion-card-set-season-1",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.58
+        }
+      ]
+    },
+    {
+      "id": 639829,
+      "name": "Invisimon",
+      "label": "Digimon Liberator Debuggers Set",
+      "number": "BT20-055 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/639829_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/639829/digimon-card-game-release-special-booster-25-invisimon-digimon-liberator-debuggers-set",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.36
+        }
+      ]
+    },
+    {
+      "id": 639832,
+      "name": "Altea",
+      "label": "Digimon Liberator Debuggers Set",
+      "number": "BT20-086 U",
+      "rarity": "Uncommon",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/639832_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/639832/digimon-card-game-release-special-booster-25-altea-digimon-liberator-debuggers-set",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.06
+        }
+      ]
+    },
+    {
+      "id": 639881,
+      "name": "Necromon",
+      "label": "Digimon Liberator Debuggers Set",
+      "number": "BT20-079 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/639881_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/639881/digimon-card-game-release-special-booster-25-necromon-digimon-liberator-debuggers-set",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.16
+        }
+      ]
+    },
+    {
+      "id": 639882,
+      "name": "Violet Inboots - BT20-088",
+      "label": "Digimon Liberator Debuggers Set",
+      "number": "BT20-088 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/639882_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/639882/digimon-card-game-release-special-booster-25-violet-inboots-bt20-088-digimon-liberator-debuggers-set",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 7.62
+        }
+      ]
+    },
+    {
+      "id": 645557,
+      "name": "Loogamon",
+      "label": "Regionals 25-26 Season 2",
+      "number": "BT20-064 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/645557_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/645557/digimon-card-game-release-special-booster-25-loogamon-regionals-25-26-season-2",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 29.81
+        }
+      ]
+    },
+    {
+      "id": 645559,
+      "name": "Loogarmon",
+      "label": "Regionals 25-26 Season 2 Champion",
+      "number": "BT20-070 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/645559_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/645559/digimon-card-game-release-special-booster-25-loogarmon-regionals-25-26-season-2-champion",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 150.96
+        }
+      ]
+    },
+    {
+      "id": 649165,
+      "name": "Boutmon",
+      "label": "Championship 25-26 Finals",
+      "number": "BT20-034 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/649165_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/649165/digimon-card-game-release-special-booster-25-boutmon-championship-25-26-finals",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 144.7
+        }
+      ]
+    },
+    {
+      "id": 668749,
+      "name": "Paildramon",
+      "label": "Digimon Card Game Playmat & Card Set",
+      "number": "BT20-016 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/668749_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/668749/digimon-card-game-release-special-booster-25-paildramon-digimon-card-game-playmat-and-card-set",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 41.57
+        }
+      ]
+    },
+    {
+      "id": 668750,
+      "name": "Dinobeemon",
+      "label": "Digimon Card Game Playmat & Card Set",
+      "number": "BT20-074 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/668750_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/668750/digimon-card-game-release-special-booster-25-dinobeemon-digimon-card-game-playmat-and-card-set",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 21.9
+        }
+      ]
+    },
+    {
+      "id": 673691,
+      "name": "Kazuchimon",
+      "label": "Championship 25-26 Finals Season 2 1st Place Trophy Card",
+      "number": "BT20-080 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/673691_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/673691/digimon-card-game-release-special-booster-25-kazuchimon-championship-25-26-finals-season-2-1st-place-trophy-card",
+      "prices": []
+    },
+    {
+      "id": 673692,
+      "name": "Kazuchimon",
+      "label": "Championship 25-26 Finals Season 2 2nd Place Trophy Card",
+      "number": "BT20-080 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/673692_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/673692/digimon-card-game-release-special-booster-25-kazuchimon-championship-25-26-finals-season-2-2nd-place-trophy-card",
+      "prices": []
+    },
+    {
+      "id": 673694,
+      "name": "Kazuchimon",
+      "label": "Championship 25-26 Finals Season 2 3rd Place Trophy Card",
+      "number": "BT20-080 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/673694_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/673694/digimon-card-game-release-special-booster-25-kazuchimon-championship-25-26-finals-season-2-3rd-place-trophy-card",
+      "prices": []
+    },
+    {
+      "id": 673696,
+      "name": "Kazuchimon",
+      "label": "Championship 25-26 Finals Season 2 Top 16 Trophy Card",
+      "number": "BT20-080 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/673696_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/673696/digimon-card-game-release-special-booster-25-kazuchimon-championship-25-26-finals-season-2-top-16-trophy-card",
+      "prices": []
+    },
+    {
+      "id": 677444,
+      "name": "Phantomon",
+      "label": "Regionals 26-27 Season 1 Finalist",
+      "number": "BT20-072 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/677444_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/677444/digimon-card-game-release-special-booster-25-phantomon-regionals-26-27-season-1-finalist",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 13.66
+        }
+      ]
+    },
+    {
+      "id": 677450,
+      "name": "Phantomon",
+      "label": "Regionals 26-27 Season 1 Participant",
+      "number": "BT20-072 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/677450_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/677450/digimon-card-game-release-special-booster-25-phantomon-regionals-26-27-season-1-participant",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5.08
+        }
+      ]
+    },
+    {
+      "id": 677461,
+      "name": "Phantomon",
+      "label": "Regionals 26-27 Season 1 Champion",
+      "number": "BT20-072 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/677461_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/677461/digimon-card-game-release-special-booster-25-phantomon-regionals-26-27-season-1-champion",
+      "prices": []
+    },
+    {
+      "id": 686297,
+      "name": "Soloogarmon",
+      "label": "Championship 25-26 Finals Season 2",
+      "number": "BT20-071 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/686297_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/686297/digimon-card-game-release-special-booster-25-soloogarmon-championship-25-26-finals-season-2",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 449
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-10-12"
+}

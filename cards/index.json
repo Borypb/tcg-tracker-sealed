@@ -1,0 +1,1573 @@
+{
+  "version": 1,
+  "games": {
+    "dragonball": {
+      "categoryId": 80,
+      "category": "Dragon Ball Super Fusion World",
+      "sets": [
+        {
+          "groupId": 24716,
+          "name": "Brightness of Hope",
+          "code": "FB11",
+          "releasedAt": "2026-10-16",
+          "modifiedOn": "2026-09-18T17:23:34.243",
+          "count": 162,
+          "file": "cards/dragonball/24716.json",
+          "version": "dd12d65afa21"
+        },
+        {
+          "groupId": 24680,
+          "name": "Story Booster 01",
+          "code": "ST01",
+          "releasedAt": "2026-08-21",
+          "modifiedOn": "2026-08-24T11:38:46.6",
+          "count": 148,
+          "file": "cards/dragonball/24680.json",
+          "version": "412f5a4f6e0a"
+        },
+        {
+          "groupId": 24604,
+          "name": "Cross Force",
+          "code": "FB10",
+          "releasedAt": "2026-06-19",
+          "modifiedOn": "2026-07-28T14:01:32.78",
+          "count": 163,
+          "file": "cards/dragonball/24604.json",
+          "version": "0fcc345eeb80"
+        },
+        {
+          "groupId": 24733,
+          "name": "Cross Force Release Event Cards",
+          "code": "FB10_PR",
+          "releasedAt": "2026-06-12",
+          "modifiedOn": "2026-07-22T19:56:44.387",
+          "count": 75,
+          "file": "cards/dragonball/24733.json",
+          "version": "b5d089dca5f4"
+        },
+        {
+          "groupId": 24569,
+          "name": "Dual Evolution",
+          "code": "FB09",
+          "releasedAt": "2026-03-13",
+          "modifiedOn": "2026-07-28T14:01:44.72",
+          "count": 165,
+          "file": "cards/dragonball/24569.json",
+          "version": "112c7c09a06a"
+        },
+        {
+          "groupId": 24663,
+          "name": "Dual Evolution Release Event Cards",
+          "code": "FB09_PR",
+          "releasedAt": "2026-03-13",
+          "modifiedOn": "2026-04-03T19:46:36.427",
+          "count": 75,
+          "file": "cards/dragonball/24663.json",
+          "version": "a53446a5ce65"
+        },
+        {
+          "groupId": 24571,
+          "name": "Starter Deck EX: The Beat of Ki",
+          "code": "FS12",
+          "releasedAt": "2026-03-13",
+          "modifiedOn": "2026-07-28T14:02:02.077",
+          "count": 37,
+          "file": "cards/dragonball/24571.json",
+          "version": "13f38832791e"
+        },
+        {
+          "groupId": 24570,
+          "name": "Starter Deck EX: The Phase of Evolution",
+          "code": "FS11",
+          "releasedAt": "2026-03-13",
+          "modifiedOn": "2026-07-28T14:02:06.57",
+          "count": 37,
+          "file": "cards/dragonball/24570.json",
+          "version": "f6fece9a4930"
+        },
+        {
+          "groupId": 24518,
+          "name": "Saiyan's Pride Release Event Cards",
+          "code": "FB08_PR",
+          "releasedAt": "2025-12-19",
+          "modifiedOn": "2026-04-03T19:25:26.393",
+          "count": 70,
+          "file": "cards/dragonball/24518.json",
+          "version": "222de31c8c3d"
+        },
+        {
+          "groupId": 24450,
+          "name": "Saiyan's Pride",
+          "code": "FB08",
+          "releasedAt": "2025-12-12",
+          "modifiedOn": "2026-07-28T14:02:19.313",
+          "count": 156,
+          "file": "cards/dragonball/24450.json",
+          "version": "6fef41d11cf1"
+        },
+        {
+          "groupId": 24288,
+          "name": "Manga Booster 02",
+          "code": "SB02",
+          "releasedAt": "2025-11-14",
+          "modifiedOn": "2026-07-28T14:02:37.147",
+          "count": 136,
+          "file": "cards/dragonball/24288.json",
+          "version": "c8a8c6a708d9"
+        },
+        {
+          "groupId": 24492,
+          "name": "Manga Booster 02 Release Event Cards",
+          "code": "SB02_RE",
+          "releasedAt": "2025-11-14",
+          "modifiedOn": "2025-11-14T18:54:06.083",
+          "count": 69,
+          "file": "cards/dragonball/24492.json",
+          "version": "82f9eb6652ab"
+        },
+        {
+          "groupId": 24397,
+          "name": "Wish For Shenron",
+          "code": "FB07",
+          "releasedAt": "2025-09-19",
+          "modifiedOn": "2026-07-28T14:02:50.47",
+          "count": 156,
+          "file": "cards/dragonball/24397.json",
+          "version": "0c00d474604c"
+        },
+        {
+          "groupId": 24419,
+          "name": "Wish For Shenron Release Event Cards",
+          "code": "FB07_PR",
+          "releasedAt": "2025-09-12",
+          "modifiedOn": "2025-09-12T12:16:28.703",
+          "count": 70,
+          "file": "cards/dragonball/24419.json",
+          "version": "e3c59d86a3cc"
+        },
+        {
+          "groupId": 24335,
+          "name": "Manga Booster 01",
+          "code": "SB01",
+          "releasedAt": "2025-06-27",
+          "modifiedOn": "2025-09-25T17:48:42.827",
+          "count": 136,
+          "file": "cards/dragonball/24335.json",
+          "version": "9e0e9b3bd559"
+        },
+        {
+          "groupId": 24368,
+          "name": "Manga Booster 01 Release Event Cards",
+          "code": "SB01_PR",
+          "releasedAt": "2025-06-27",
+          "modifiedOn": "2025-09-25T16:36:50.563",
+          "count": 69,
+          "file": "cards/dragonball/24368.json",
+          "version": "521073bfe78c"
+        },
+        {
+          "groupId": 24336,
+          "name": "Starter Deck 10: Giblet",
+          "code": "FS10",
+          "releasedAt": "2025-06-13",
+          "modifiedOn": "2026-09-29T13:43:23.117",
+          "count": 37,
+          "file": "cards/dragonball/24336.json",
+          "version": "b0c5b8601a06"
+        },
+        {
+          "groupId": 24251,
+          "name": "Starter Deck 9: Shallot",
+          "code": "FS09",
+          "releasedAt": "2025-06-13",
+          "modifiedOn": "2026-09-22T12:34:22.103",
+          "count": 37,
+          "file": "cards/dragonball/24251.json",
+          "version": "68c65f634fc7"
+        },
+        {
+          "groupId": 24311,
+          "name": "New Adventure Alternate Art Reprints",
+          "code": "FB03_AR",
+          "releasedAt": "2025-05-02",
+          "modifiedOn": "2025-04-18T15:04:51.54",
+          "count": 1,
+          "file": "cards/dragonball/24311.json",
+          "version": "1a5865081c9b"
+        },
+        {
+          "groupId": 24247,
+          "name": "Rivals Clash",
+          "code": "FB06",
+          "releasedAt": "2025-05-02",
+          "modifiedOn": "2026-09-21T17:52:41.49",
+          "count": 141,
+          "file": "cards/dragonball/24247.json",
+          "version": "4b2fe0d8f764"
+        },
+        {
+          "groupId": 24248,
+          "name": "Rivals Clash Release Event Cards",
+          "code": "FB06_PR",
+          "releasedAt": "2025-04-25",
+          "modifiedOn": "2026-03-17T16:15:28.593",
+          "count": 76,
+          "file": "cards/dragonball/24248.json",
+          "version": "01e9706583a2"
+        },
+        {
+          "groupId": 24239,
+          "name": "Starter Deck 8: Vegeta (Mini) Super Saiyan 3",
+          "code": "FS08",
+          "releasedAt": "2025-04-25",
+          "modifiedOn": "2026-03-10T11:59:32.797",
+          "count": 24,
+          "file": "cards/dragonball/24239.json",
+          "version": "dd7810d80246"
+        },
+        {
+          "groupId": 24183,
+          "name": "Blazing Aura Alternate Art Reprints",
+          "code": "FB02_AR",
+          "releasedAt": "2025-02-14",
+          "modifiedOn": "2025-12-05T12:58:00.817",
+          "count": 6,
+          "file": "cards/dragonball/24183.json",
+          "version": "545b8037ca3c"
+        },
+        {
+          "groupId": 23928,
+          "name": "New Adventure",
+          "code": "FB05",
+          "releasedAt": "2025-02-14",
+          "modifiedOn": "2025-07-03T16:10:50.793",
+          "count": 142,
+          "file": "cards/dragonball/23928.json",
+          "version": "8b34b6f766e8"
+        },
+        {
+          "groupId": 24185,
+          "name": "Starter Deck 5: Bardock Alternate Art Reprints",
+          "code": "FS05_AR",
+          "releasedAt": "2025-02-14",
+          "modifiedOn": "2025-08-29T16:50:04.887",
+          "count": 2,
+          "file": "cards/dragonball/24185.json",
+          "version": "71ee365d3a40"
+        },
+        {
+          "groupId": 24184,
+          "name": "Ultra Limit Alternate Art Reprints",
+          "code": "FB04_AR",
+          "releasedAt": "2025-02-14",
+          "modifiedOn": "2025-12-04T13:00:17.457",
+          "count": 5,
+          "file": "cards/dragonball/24184.json",
+          "version": "4a2a18e7c1ce"
+        },
+        {
+          "groupId": 24186,
+          "name": "New Adventure Release Event Cards",
+          "code": "FB05_PR",
+          "releasedAt": "2025-02-07",
+          "modifiedOn": "2025-02-07T14:30:23.957",
+          "count": 71,
+          "file": "cards/dragonball/24186.json",
+          "version": "8d285c9e44ef"
+        },
+        {
+          "groupId": 23823,
+          "name": "Raging Roar Alternate Art Reprints",
+          "code": "FB03_AR",
+          "releasedAt": "2024-11-15",
+          "modifiedOn": "2025-08-13T12:59:03",
+          "count": 8,
+          "file": "cards/dragonball/23823.json",
+          "version": "f348afa40e4b"
+        },
+        {
+          "groupId": 23658,
+          "name": "Ultra Limit",
+          "code": "FB04",
+          "releasedAt": "2024-11-15",
+          "modifiedOn": "2025-12-05T20:48:11.823",
+          "count": 156,
+          "file": "cards/dragonball/23658.json",
+          "version": "7b86f8654b17"
+        },
+        {
+          "groupId": 23654,
+          "name": "Starter Deck 6: Son Goku (Mini)",
+          "code": "FS06",
+          "releasedAt": "2024-11-08",
+          "modifiedOn": "2024-11-13T15:42:28.23",
+          "count": 19,
+          "file": "cards/dragonball/23654.json",
+          "version": "39c35beac43f"
+        },
+        {
+          "groupId": 23655,
+          "name": "Starter Deck 7: Vegeta (Mini)",
+          "code": "FS07",
+          "releasedAt": "2024-11-08",
+          "modifiedOn": "2024-11-13T15:44:29.693",
+          "count": 19,
+          "file": "cards/dragonball/23655.json",
+          "version": "b73d75486e08"
+        },
+        {
+          "groupId": 23769,
+          "name": "Ultra Limit Release Event Cards",
+          "code": "FB04_PR",
+          "releasedAt": "2024-11-08",
+          "modifiedOn": "2024-11-13T21:46:40.337",
+          "count": 81,
+          "file": "cards/dragonball/23769.json",
+          "version": "7f2500223e9b"
+        },
+        {
+          "groupId": 23517,
+          "name": "Raging Roar",
+          "code": "FB03",
+          "releasedAt": "2024-08-16",
+          "modifiedOn": "2024-08-20T15:30:57.113",
+          "count": 161,
+          "file": "cards/dragonball/23517.json",
+          "version": "f9617558a8ef"
+        },
+        {
+          "groupId": 23581,
+          "name": "Starter Deck 4: Frieza Alternate Art Reprints",
+          "code": "FS04_AR",
+          "releasedAt": "2024-08-16",
+          "modifiedOn": "2024-08-07T18:51:15.92",
+          "count": 2,
+          "file": "cards/dragonball/23581.json",
+          "version": "27f90504b79c"
+        },
+        {
+          "groupId": 23518,
+          "name": "Raging Roar Release Event Cards",
+          "code": "FB03_PR",
+          "releasedAt": "2024-08-09",
+          "modifiedOn": "2024-11-06T21:22:56.987",
+          "count": 91,
+          "file": "cards/dragonball/23518.json",
+          "version": "810e38fd2db9"
+        },
+        {
+          "groupId": 23519,
+          "name": "Starter Deck 5: Bardock",
+          "code": "FS05",
+          "releasedAt": "2024-08-09",
+          "modifiedOn": "2025-03-14T18:46:23.033",
+          "count": 24,
+          "file": "cards/dragonball/23519.json",
+          "version": "74569936aca4"
+        },
+        {
+          "groupId": 23505,
+          "name": "Awakened Pulse Alternate Art Reprints",
+          "code": "FB01_AR",
+          "releasedAt": "2024-05-10",
+          "modifiedOn": "2025-01-29T15:27:58.317",
+          "count": 6,
+          "file": "cards/dragonball/23505.json",
+          "version": "cd33dc653618"
+        },
+        {
+          "groupId": 23470,
+          "name": "Blazing Aura",
+          "code": "FB02",
+          "releasedAt": "2024-05-10",
+          "modifiedOn": "2025-12-04T12:59:05.787",
+          "count": 160,
+          "file": "cards/dragonball/23470.json",
+          "version": "76c7ff51cb11"
+        },
+        {
+          "groupId": 23582,
+          "name": "Starter Deck 1: Son Goku Alternate Art Reprints",
+          "code": "FS01_AR",
+          "releasedAt": "2024-05-10",
+          "modifiedOn": "2024-08-07T18:49:04.383",
+          "count": 1,
+          "file": "cards/dragonball/23582.json",
+          "version": "66789b3c8bf4"
+        },
+        {
+          "groupId": 23583,
+          "name": "Starter Deck 3: Broly Alternate Art Reprints",
+          "code": "FS03_AR",
+          "releasedAt": "2024-05-10",
+          "modifiedOn": "2024-08-07T18:48:41.7",
+          "count": 1,
+          "file": "cards/dragonball/23583.json",
+          "version": "c436324135f1"
+        },
+        {
+          "groupId": 23471,
+          "name": "Blazing Aura Release Event Cards",
+          "code": "FB02_PR",
+          "releasedAt": "2024-05-03",
+          "modifiedOn": "2024-10-10T20:07:19.48",
+          "count": 92,
+          "file": "cards/dragonball/23471.json",
+          "version": "8e317f01080b"
+        },
+        {
+          "groupId": 23401,
+          "name": "Awakened Pulse",
+          "code": "FB01",
+          "releasedAt": "2024-02-23",
+          "modifiedOn": "2025-07-21T13:32:34.987",
+          "count": 164,
+          "file": "cards/dragonball/23401.json",
+          "version": "710a7b2ee9d8"
+        },
+        {
+          "groupId": 23407,
+          "name": "Awakened Pulse Pre-Release Cards",
+          "code": "FB01_PR",
+          "releasedAt": "2024-02-16",
+          "modifiedOn": "2025-03-04T14:42:50.56",
+          "count": 88,
+          "file": "cards/dragonball/23407.json",
+          "version": "3c13ec8b0a95"
+        },
+        {
+          "groupId": 23408,
+          "name": "Starter Deck 1: Son Goku",
+          "code": "FS01",
+          "releasedAt": "2024-02-16",
+          "modifiedOn": "2024-08-05T20:53:18.173",
+          "count": 24,
+          "file": "cards/dragonball/23408.json",
+          "version": "1278ef4cbdc5"
+        },
+        {
+          "groupId": 23409,
+          "name": "Starter Deck 2: Vegeta",
+          "code": "FS02",
+          "releasedAt": "2024-02-16",
+          "modifiedOn": "2024-06-25T20:48:25.48",
+          "count": 24,
+          "file": "cards/dragonball/23409.json",
+          "version": "a6fe023aa5c7"
+        },
+        {
+          "groupId": 23410,
+          "name": "Starter Deck 3: Broly",
+          "code": "FS03",
+          "releasedAt": "2024-02-16",
+          "modifiedOn": "2025-07-10T12:56:18.773",
+          "count": 25,
+          "file": "cards/dragonball/23410.json",
+          "version": "956087d4754f"
+        },
+        {
+          "groupId": 23411,
+          "name": "Starter Deck 4: Frieza",
+          "code": "FS04",
+          "releasedAt": "2024-02-16",
+          "modifiedOn": "2024-03-05T21:21:37.057",
+          "count": 24,
+          "file": "cards/dragonball/23411.json",
+          "version": "a75de00dc3b8"
+        },
+        {
+          "groupId": 23430,
+          "name": "Fusion World Energy Markers",
+          "code": "DBSFW_EM",
+          "releasedAt": "2024-02-14",
+          "modifiedOn": "2026-08-21T20:13:04.687",
+          "count": 310,
+          "file": "cards/dragonball/23430.json",
+          "version": "48237f77f256"
+        },
+        {
+          "groupId": 23428,
+          "name": "Fusion World Promotion Cards and Packs",
+          "code": "DBSFW_PR",
+          "releasedAt": "2024-02-14",
+          "modifiedOn": "2026-09-18T17:27:04.6",
+          "count": 114,
+          "file": "cards/dragonball/23428.json",
+          "version": "2a4fc23ae7fb"
+        },
+        {
+          "groupId": 23429,
+          "name": "Tournament and Championship Promos",
+          "code": "DBSFW_TPR",
+          "releasedAt": "2024-02-14",
+          "modifiedOn": "2026-10-01T14:46:16.87",
+          "count": 445,
+          "file": "cards/dragonball/23429.json",
+          "version": "98d110aebe83"
+        }
+      ]
+    },
+    "palworld": {
+      "categoryId": 91,
+      "category": "Palworld OFFICIAL CARD GAME",
+      "sets": [
+        {
+          "groupId": 24842,
+          "name": "BP01: Dawn of Palpagos",
+          "code": "BP01",
+          "releasedAt": "2026-07-30",
+          "modifiedOn": "2026-10-02T15:37:49.13",
+          "count": 162,
+          "file": "cards/palworld/24842.json",
+          "version": "defc39ddf408"
+        },
+        {
+          "groupId": 24851,
+          "name": "Palworld Promo Cards",
+          "code": "PR",
+          "releasedAt": "2026-07-30",
+          "modifiedOn": "2026-10-08T17:32:45.913",
+          "count": 26,
+          "file": "cards/palworld/24851.json",
+          "version": "1bc2c1150b4d"
+        },
+        {
+          "groupId": 24876,
+          "name": "Palworld Prototype Cards",
+          "code": "PW_PC",
+          "releasedAt": "2026-07-30",
+          "modifiedOn": "2026-10-07T13:54:52.95",
+          "count": 15,
+          "file": "cards/palworld/24876.json",
+          "version": "c4f292399c83"
+        },
+        {
+          "groupId": 24843,
+          "name": "TD01: Dawn of Palpagos Red•Blue",
+          "code": "TD01",
+          "releasedAt": "2026-07-30",
+          "modifiedOn": "2026-10-08T15:09:35.36",
+          "count": 39,
+          "file": "cards/palworld/24843.json",
+          "version": "d662dc11f40a"
+        },
+        {
+          "groupId": 24844,
+          "name": "TD02: Dawn of Palpagos Green•Purple",
+          "code": "TD02",
+          "releasedAt": "2026-07-30",
+          "modifiedOn": "2026-10-08T15:09:38.257",
+          "count": 38,
+          "file": "cards/palworld/24844.json",
+          "version": "4436028825ea"
+        }
+      ]
+    },
+    "digimon": {
+      "categoryId": 63,
+      "category": "Digimon Card Game",
+      "sets": [
+        {
+          "groupId": 24635,
+          "name": "Chivalrous XIII",
+          "code": "EX-13",
+          "releasedAt": "2026-10-02",
+          "modifiedOn": "2026-09-21T19:31:17.033",
+          "count": 164,
+          "file": "cards/digimon/24635.json",
+          "version": "3fceca636261"
+        },
+        {
+          "groupId": 24623,
+          "name": "Timeless Bonds",
+          "code": "BT-26",
+          "releasedAt": "2026-09-04",
+          "modifiedOn": "2026-09-03T12:27:09.467",
+          "count": 136,
+          "file": "cards/digimon/24623.json",
+          "version": "c8cfd0957918"
+        },
+        {
+          "groupId": 24824,
+          "name": "Timeless Bonds Release Event Cards",
+          "code": "BT-26",
+          "releasedAt": "2026-08-28",
+          "modifiedOn": "2026-09-04T12:52:49.797",
+          "count": 49,
+          "file": "cards/digimon/24824.json",
+          "version": "673d9a2021d7"
+        },
+        {
+          "groupId": 24631,
+          "name": "Limited Card Pack -Final Crest-",
+          "code": "LM-08",
+          "releasedAt": "2026-08-07",
+          "modifiedOn": "2026-08-10T14:23:17.887",
+          "count": 34,
+          "file": "cards/digimon/24631.json",
+          "version": "65659a9af2e9"
+        },
+        {
+          "groupId": 24630,
+          "name": "Digital World Shambala",
+          "code": "EX-12",
+          "releasedAt": "2026-07-03",
+          "modifiedOn": "2026-08-18T18:05:55.32",
+          "count": 156,
+          "file": "cards/digimon/24630.json",
+          "version": "382dac69e7ed"
+        },
+        {
+          "groupId": 24574,
+          "name": "Dual Revolution",
+          "code": "BT-25",
+          "releasedAt": "2026-05-22",
+          "modifiedOn": "2026-08-18T18:07:42.2",
+          "count": 152,
+          "file": "cards/digimon/24574.json",
+          "version": "9ae51af473bb"
+        },
+        {
+          "groupId": 24627,
+          "name": "Dual Revolution Release Event Cards",
+          "code": "BT-25_PR",
+          "releasedAt": "2026-05-15",
+          "modifiedOn": "2026-07-16T18:29:23.08",
+          "count": 49,
+          "file": "cards/digimon/24627.json",
+          "version": "2869d3a73984"
+        },
+        {
+          "groupId": 24618,
+          "name": "Starter Deck 23: Beatbreak",
+          "code": "ST-23",
+          "releasedAt": "2026-05-15",
+          "modifiedOn": "2026-08-05T21:53:30.6",
+          "count": 25,
+          "file": "cards/digimon/24618.json",
+          "version": "b8bdfab13fb1"
+        },
+        {
+          "groupId": 24619,
+          "name": "Starter Deck 24: Data Squad",
+          "code": "ST-24",
+          "releasedAt": "2026-05-15",
+          "modifiedOn": "2026-08-05T21:56:03.1",
+          "count": 16,
+          "file": "cards/digimon/24619.json",
+          "version": "ad998622d925"
+        },
+        {
+          "groupId": 24628,
+          "name": "Starter Deck 23: Beatbreak Release Event Cards",
+          "code": "ST-23_PR",
+          "releasedAt": "2026-05-08",
+          "modifiedOn": "2026-06-29T18:53:02.323",
+          "count": 12,
+          "file": "cards/digimon/24628.json",
+          "version": "f137903f8eb7"
+        },
+        {
+          "groupId": 24629,
+          "name": "Starter Deck 24: Data Squad Release Event Cards",
+          "code": "ST-24_PR",
+          "releasedAt": "2026-05-08",
+          "modifiedOn": "2026-06-29T18:53:21.39",
+          "count": 12,
+          "file": "cards/digimon/24629.json",
+          "version": "e922c0204368"
+        },
+        {
+          "groupId": 24561,
+          "name": "Advanced Booster Digimon Generation",
+          "code": "AD-01",
+          "releasedAt": "2026-03-27",
+          "modifiedOn": "2026-09-18T15:17:05.887",
+          "count": 296,
+          "file": "cards/digimon/24561.json",
+          "version": "381ab19ce3ab"
+        },
+        {
+          "groupId": 24428,
+          "name": "Limited Card Pack -Another Knight-",
+          "code": "LM-07",
+          "releasedAt": "2026-03-06",
+          "modifiedOn": "2026-03-20T17:57:07.697",
+          "count": 33,
+          "file": "cards/digimon/24428.json",
+          "version": "8adfb9db2768"
+        },
+        {
+          "groupId": 24490,
+          "name": "Dawn of Liberator",
+          "code": "EX-11",
+          "releasedAt": "2026-02-13",
+          "modifiedOn": "2026-08-05T21:49:35.81",
+          "count": 164,
+          "file": "cards/digimon/24490.json",
+          "version": "ac7c6a453710"
+        },
+        {
+          "groupId": 24531,
+          "name": "Time Stranger",
+          "code": "BT-24",
+          "releasedAt": "2026-01-23",
+          "modifiedOn": "2026-10-02T11:26:50.653",
+          "count": 147,
+          "file": "cards/digimon/24531.json",
+          "version": "3522212ee1f3"
+        },
+        {
+          "groupId": 24595,
+          "name": "Time Stranger Release Event Cards",
+          "code": "BT-24_PR",
+          "releasedAt": "2026-01-16",
+          "modifiedOn": "2026-02-24T14:06:05.137",
+          "count": 50,
+          "file": "cards/digimon/24595.json",
+          "version": "40b295e45087"
+        },
+        {
+          "groupId": 24456,
+          "name": "Starter Deck 22: Amethyst Mandala Advanced Deck Set",
+          "code": "ST-22",
+          "releasedAt": "2025-12-05",
+          "modifiedOn": "2026-05-08T13:39:31.2",
+          "count": 29,
+          "file": "cards/digimon/24456.json",
+          "version": "466f359a4fef"
+        },
+        {
+          "groupId": 24491,
+          "name": "Starter Deck 22: Amethyst Mandala Advanced Deck Set Release Event Cards",
+          "code": "ST-22_PR",
+          "releasedAt": "2025-12-05",
+          "modifiedOn": "2026-02-23T18:43:48.853",
+          "count": 5,
+          "file": "cards/digimon/24491.json",
+          "version": "a0913ff49c57"
+        },
+        {
+          "groupId": 24426,
+          "name": "Limited Card Pack -Billion Bullet-",
+          "code": "LM-06",
+          "releasedAt": "2025-10-31",
+          "modifiedOn": "2026-02-22T21:23:24.29",
+          "count": 34,
+          "file": "cards/digimon/24426.json",
+          "version": "6b3070e624dd"
+        },
+        {
+          "groupId": 24430,
+          "name": "Hackers' Slumber",
+          "code": "BT-23",
+          "releasedAt": "2025-10-24",
+          "modifiedOn": "2026-08-05T22:00:03.07",
+          "count": 139,
+          "file": "cards/digimon/24430.json",
+          "version": "b79b0319bc23"
+        },
+        {
+          "groupId": 24488,
+          "name": "Hackers' Slumber Release Event Cards",
+          "code": "BT-23_PR",
+          "releasedAt": "2025-10-17",
+          "modifiedOn": "2026-02-24T17:57:32.963",
+          "count": 50,
+          "file": "cards/digimon/24488.json",
+          "version": "674cd4ec706f"
+        },
+        {
+          "groupId": 24089,
+          "name": "Sinister Order",
+          "code": "EX-10",
+          "releasedAt": "2025-09-19",
+          "modifiedOn": "2026-06-26T13:49:15.41",
+          "count": 143,
+          "file": "cards/digimon/24089.json",
+          "version": "8a1cccf3e2a7"
+        },
+        {
+          "groupId": 24078,
+          "name": "Cyber Eden",
+          "code": "BT-22",
+          "releasedAt": "2025-07-25",
+          "modifiedOn": "2026-06-01T13:35:37.193",
+          "count": 160,
+          "file": "cards/digimon/24078.json",
+          "version": "8b979109d3bf"
+        },
+        {
+          "groupId": 24079,
+          "name": "Cyber Eden Release Event Cards",
+          "code": "BT-22_PR",
+          "releasedAt": "2025-07-18",
+          "modifiedOn": "2026-02-22T18:26:55.043",
+          "count": 48,
+          "file": "cards/digimon/24079.json",
+          "version": "38be071a58e1"
+        },
+        {
+          "groupId": 24077,
+          "name": "Versus Monsters",
+          "code": "EX-09",
+          "releasedAt": "2025-06-26",
+          "modifiedOn": "2026-04-24T19:36:56.167",
+          "count": 151,
+          "file": "cards/digimon/24077.json",
+          "version": "a0182413535c"
+        },
+        {
+          "groupId": 24049,
+          "name": "World Convergence",
+          "code": "BT-21",
+          "releasedAt": "2025-04-25",
+          "modifiedOn": "2026-07-30T18:08:05.443",
+          "count": 177,
+          "file": "cards/digimon/24049.json",
+          "version": "a6def0e07868"
+        },
+        {
+          "groupId": 23992,
+          "name": "Starter Deck 20: Protector of Light",
+          "code": "ST-20",
+          "releasedAt": "2025-04-18",
+          "modifiedOn": "2026-04-24T19:54:09.417",
+          "count": 24,
+          "file": "cards/digimon/23992.json",
+          "version": "32498212f94a"
+        },
+        {
+          "groupId": 24292,
+          "name": "Starter Deck 20: Protector of Light Release Event Cards",
+          "code": "ST-20_PR",
+          "releasedAt": "2025-04-18",
+          "modifiedOn": "2025-10-13T18:22:34.813",
+          "count": 11,
+          "file": "cards/digimon/24292.json",
+          "version": "5be017c19707"
+        },
+        {
+          "groupId": 23993,
+          "name": "Starter Deck 21: Hero of Hope",
+          "code": "ST-21",
+          "releasedAt": "2025-04-18",
+          "modifiedOn": "2026-09-18T15:15:08.6",
+          "count": 27,
+          "file": "cards/digimon/23993.json",
+          "version": "2b60b032d070"
+        },
+        {
+          "groupId": 24271,
+          "name": "Starter Deck 21: Hero of Hope Release Event Cards",
+          "code": "ST-21_PR",
+          "releasedAt": "2025-04-18",
+          "modifiedOn": "2025-04-18T16:39:34.483",
+          "count": 11,
+          "file": "cards/digimon/24271.json",
+          "version": "4ed1b3499c65"
+        },
+        {
+          "groupId": 24061,
+          "name": "World Convergence Release Event Cards",
+          "code": "BT-21_PR",
+          "releasedAt": "2025-04-18",
+          "modifiedOn": "2026-02-22T18:39:18.51",
+          "count": 50,
+          "file": "cards/digimon/24061.json",
+          "version": "3ae9158cd664"
+        },
+        {
+          "groupId": 24178,
+          "name": "Release Special Booster 2.5",
+          "code": "BT19-20",
+          "releasedAt": "2025-02-28",
+          "modifiedOn": "2026-04-24T19:42:10.043",
+          "count": 250,
+          "file": "cards/digimon/24178.json",
+          "version": "643f40851669"
+        },
+        {
+          "groupId": 24179,
+          "name": "Release Special Booster 2.5 Celebration Event Cards",
+          "code": "BT19-20_PR",
+          "releasedAt": "2025-02-21",
+          "modifiedOn": "2025-08-08T13:32:25.373",
+          "count": 79,
+          "file": "cards/digimon/24179.json",
+          "version": "3ed89b03d5cb"
+        },
+        {
+          "groupId": 23775,
+          "name": "Chain of Liberation",
+          "code": "EX-08",
+          "releasedAt": "2025-01-10",
+          "modifiedOn": "2026-07-23T14:29:03.527",
+          "count": 160,
+          "file": "cards/digimon/23775.json",
+          "version": "0d73fa8e93ef"
+        },
+        {
+          "groupId": 23850,
+          "name": "Special Limited Set",
+          "code": "LM-01-05",
+          "releasedAt": "2024-12-13",
+          "modifiedOn": "2026-04-24T14:01:57.807",
+          "count": 37,
+          "file": "cards/digimon/23850.json",
+          "version": "4dba6d778ea8"
+        },
+        {
+          "groupId": 23767,
+          "name": "Release Special Booster 2.0",
+          "code": "BT18-19",
+          "releasedAt": "2024-11-01",
+          "modifiedOn": "2026-07-30T17:17:11.727",
+          "count": 224,
+          "file": "cards/digimon/23767.json",
+          "version": "3df1041bd4d9"
+        },
+        {
+          "groupId": 23787,
+          "name": "Release Special Booster 2.0 Celebration Event Cards",
+          "code": "BT18-19_PR",
+          "releasedAt": "2024-10-25",
+          "modifiedOn": "2025-02-24T16:55:38.293",
+          "count": 69,
+          "file": "cards/digimon/23787.json",
+          "version": "4179405ba828"
+        },
+        {
+          "groupId": 23587,
+          "name": "Digimon LIBERATOR",
+          "code": "EX-07",
+          "releasedAt": "2024-09-20",
+          "modifiedOn": "2026-06-26T13:49:06.07",
+          "count": 158,
+          "file": "cards/digimon/23587.json",
+          "version": "833326c0e617"
+        },
+        {
+          "groupId": 23586,
+          "name": "Starter Deck 18: Guardian Vortex",
+          "code": "ST-18",
+          "releasedAt": "2024-09-20",
+          "modifiedOn": "2026-01-22T14:40:02.21",
+          "count": 21,
+          "file": "cards/digimon/23586.json",
+          "version": "b641806cea8b"
+        },
+        {
+          "groupId": 23585,
+          "name": "Starter Deck 19: Fable Waltz",
+          "code": "ST-19",
+          "releasedAt": "2024-09-20",
+          "modifiedOn": "2026-04-26T13:02:32.74",
+          "count": 17,
+          "file": "cards/digimon/23585.json",
+          "version": "82217dd49868"
+        },
+        {
+          "groupId": 23557,
+          "name": "Secret Crisis",
+          "code": "BT-17",
+          "releasedAt": "2024-08-09",
+          "modifiedOn": "2026-02-22T18:33:28.243",
+          "count": 164,
+          "file": "cards/digimon/23557.json",
+          "version": "b80fde5d3738"
+        },
+        {
+          "groupId": 23559,
+          "name": "Secret Crisis Pre-Release Cards",
+          "code": "BT-17_PR",
+          "releasedAt": "2024-08-02",
+          "modifiedOn": "2026-02-22T18:34:09.64",
+          "count": 50,
+          "file": "cards/digimon/23559.json",
+          "version": "eb43b650d18a"
+        },
+        {
+          "groupId": 23414,
+          "name": "Infernal Ascension",
+          "code": "EX-06",
+          "releasedAt": "2024-06-28",
+          "modifiedOn": "2026-04-26T12:59:31.453",
+          "count": 113,
+          "file": "cards/digimon/23414.json",
+          "version": "bf5721f306a8"
+        },
+        {
+          "groupId": 23395,
+          "name": "Beginning Observer",
+          "code": "BT-16",
+          "releasedAt": "2024-05-24",
+          "modifiedOn": "2026-02-22T18:23:41.06",
+          "count": 151,
+          "file": "cards/digimon/23395.json",
+          "version": "6f744f5ef9d2"
+        },
+        {
+          "groupId": 23413,
+          "name": "Beginning Observer Pre-Release Cards",
+          "code": "BT-16_PR",
+          "releasedAt": "2024-05-17",
+          "modifiedOn": "2026-02-22T18:23:46.193",
+          "count": 48,
+          "file": "cards/digimon/23413.json",
+          "version": "9c9e7829c15e"
+        },
+        {
+          "groupId": 23259,
+          "name": "Starter Deck 17: Double Typhoon Advanced Deck Set",
+          "code": "ST-17",
+          "releasedAt": "2024-03-08",
+          "modifiedOn": "2025-04-24T16:30:37.337",
+          "count": 38,
+          "file": "cards/digimon/23259.json",
+          "version": "ad5fe65934b6"
+        },
+        {
+          "groupId": 23450,
+          "name": "Starter Deck 17: Double Typhoon Advanced Deck Set Pre-Release Cards",
+          "code": "ST-17_PR",
+          "releasedAt": "2024-03-01",
+          "modifiedOn": "2026-02-22T18:22:32.9",
+          "count": 13,
+          "file": "cards/digimon/23450.json",
+          "version": "9511ded3a7e5"
+        },
+        {
+          "groupId": 23254,
+          "name": "Exceed Apocalypse",
+          "code": "BT-15",
+          "releasedAt": "2024-02-16",
+          "modifiedOn": "2026-02-22T18:29:53.197",
+          "count": 178,
+          "file": "cards/digimon/23254.json",
+          "version": "486a6c848460"
+        },
+        {
+          "groupId": 23324,
+          "name": "Exceed Apocalypse Pre-Release Cards",
+          "code": "BT-15_PR",
+          "releasedAt": "2024-02-09",
+          "modifiedOn": "2026-02-22T18:29:59.75",
+          "count": 58,
+          "file": "cards/digimon/23324.json",
+          "version": "84378a808041"
+        },
+        {
+          "groupId": 23247,
+          "name": "Animal Colosseum",
+          "code": "EX-05",
+          "releasedAt": "2024-01-19",
+          "modifiedOn": "2026-04-26T12:56:55.127",
+          "count": 119,
+          "file": "cards/digimon/23247.json",
+          "version": "74dd8a90c100"
+        },
+        {
+          "groupId": 23178,
+          "name": "Blast Ace",
+          "code": "BT-14",
+          "releasedAt": "2023-11-17",
+          "modifiedOn": "2026-02-22T18:23:52.88",
+          "count": 163,
+          "file": "cards/digimon/23178.json",
+          "version": "0a2ec60a91e0"
+        },
+        {
+          "groupId": 23179,
+          "name": "Blast Ace Pre-Release Cards",
+          "code": "BT-14_PR",
+          "releasedAt": "2023-11-10",
+          "modifiedOn": "2026-02-22T18:24:04.94",
+          "count": 48,
+          "file": "cards/digimon/23179.json",
+          "version": "bfb978e77aca"
+        },
+        {
+          "groupId": 23189,
+          "name": "Starter Deck 15: Dragon of Courage",
+          "code": "ST-15",
+          "releasedAt": "2023-10-13",
+          "modifiedOn": "2024-09-23T15:03:56.177",
+          "count": 19,
+          "file": "cards/digimon/23189.json",
+          "version": "c0cebdcdd5c6"
+        },
+        {
+          "groupId": 23188,
+          "name": "Starter Deck 16: Wolf of Friendship",
+          "code": "ST-16",
+          "releasedAt": "2023-10-13",
+          "modifiedOn": "2025-04-24T16:27:22.693",
+          "count": 20,
+          "file": "cards/digimon/23188.json",
+          "version": "4ddefe78d6f6"
+        },
+        {
+          "groupId": 23327,
+          "name": "Starter Deck 15: Dragon of Courage Pre-Release Cards",
+          "code": "ST-15_PR",
+          "releasedAt": "2023-10-06",
+          "modifiedOn": "2023-10-10T17:16:37.497",
+          "count": 14,
+          "file": "cards/digimon/23327.json",
+          "version": "6fd6a39c45ad"
+        },
+        {
+          "groupId": 23328,
+          "name": "Starter Deck 16: Wolf of Friendship Pre-Release Cards",
+          "code": "ST-16_PR",
+          "releasedAt": "2023-10-06",
+          "modifiedOn": "2023-12-14T14:19:14.937",
+          "count": 14,
+          "file": "cards/digimon/23328.json",
+          "version": "d81dd5c35db9"
+        },
+        {
+          "groupId": 23017,
+          "name": "Resurgence Booster",
+          "code": "RB-01",
+          "releasedAt": "2023-09-29",
+          "modifiedOn": "2026-04-20T15:29:00.833",
+          "count": 142,
+          "file": "cards/digimon/23017.json",
+          "version": "e2c5e90599df"
+        },
+        {
+          "groupId": 23148,
+          "name": "Versus Royal Knights",
+          "code": "BT-13",
+          "releasedAt": "2023-07-21",
+          "modifiedOn": "2026-10-07T14:21:28.247",
+          "count": 171,
+          "file": "cards/digimon/23148.json",
+          "version": "71cf0324fbc8"
+        },
+        {
+          "groupId": 23149,
+          "name": "Versus Royal Knights Pre-Release Cards",
+          "code": "BT-13_PR",
+          "releasedAt": "2023-07-21",
+          "modifiedOn": "2026-02-22T18:39:06.93",
+          "count": 56,
+          "file": "cards/digimon/23149.json",
+          "version": "4c0fabd83b21"
+        },
+        {
+          "groupId": 23147,
+          "name": "Alternative Being Booster",
+          "code": "EX-04",
+          "releasedAt": "2023-06-23",
+          "modifiedOn": "2026-07-30T17:16:53.177",
+          "count": 115,
+          "file": "cards/digimon/23147.json",
+          "version": "220f9940c45f"
+        },
+        {
+          "groupId": 23012,
+          "name": "Across Time",
+          "code": "BT-12",
+          "releasedAt": "2023-04-28",
+          "modifiedOn": "2026-02-22T18:23:06.333",
+          "count": 192,
+          "file": "cards/digimon/23012.json",
+          "version": "7d593347fb57"
+        },
+        {
+          "groupId": 23013,
+          "name": "Across Time Pre-Release Cards",
+          "code": "BT-12_PR",
+          "releasedAt": "2023-04-28",
+          "modifiedOn": "2026-02-22T18:23:11.467",
+          "count": 56,
+          "file": "cards/digimon/23013.json",
+          "version": "29921be4db85"
+        },
+        {
+          "groupId": 17703,
+          "name": "Starter Deck 14: Beelzemon Advanced Deck Set",
+          "code": "ST-14",
+          "releasedAt": "2023-03-24",
+          "modifiedOn": "2026-04-26T13:02:20.037",
+          "count": 34,
+          "file": "cards/digimon/17703.json",
+          "version": "e41528138c55"
+        },
+        {
+          "groupId": 23074,
+          "name": "Starter Deck 14: Beelzemon Advanced Deck Set Pre-Release Cards",
+          "code": "ST-14_PR",
+          "releasedAt": "2023-03-17",
+          "modifiedOn": "2026-03-02T15:32:15.23",
+          "count": 17,
+          "file": "cards/digimon/23074.json",
+          "version": "53116780ed06"
+        },
+        {
+          "groupId": 17691,
+          "name": "Dimensional Phase",
+          "code": "BT-11",
+          "releasedAt": "2023-02-17",
+          "modifiedOn": "2026-04-26T12:58:38.66",
+          "count": 184,
+          "file": "cards/digimon/17691.json",
+          "version": "95e618c63a7b"
+        },
+        {
+          "groupId": 17702,
+          "name": "Dimensional Phase Pre-Release Cards",
+          "code": "BT-11_PR",
+          "releasedAt": "2023-02-10",
+          "modifiedOn": "2026-02-22T18:27:30.233",
+          "count": 56,
+          "file": "cards/digimon/17702.json",
+          "version": "f65202e5f62c"
+        },
+        {
+          "groupId": 3163,
+          "name": "Draconic Roar",
+          "code": "EX-03",
+          "releasedAt": "2022-11-11",
+          "modifiedOn": "2026-04-26T12:58:53.977",
+          "count": 109,
+          "file": "cards/digimon/3163.json",
+          "version": "38c2d4cad911"
+        },
+        {
+          "groupId": 3112,
+          "name": "Xros Encounter",
+          "code": "BT-10",
+          "releasedAt": "2022-10-21",
+          "modifiedOn": "2026-02-22T18:41:13.01",
+          "count": 180,
+          "file": "cards/digimon/3112.json",
+          "version": "2f4a11754888"
+        },
+        {
+          "groupId": 3133,
+          "name": "Starter Deck 12: Jesmon",
+          "code": "ST-12",
+          "releasedAt": "2022-10-14",
+          "modifiedOn": "2024-09-13T14:20:26.713",
+          "count": 24,
+          "file": "cards/digimon/3133.json",
+          "version": "f64dc2a47cd0"
+        },
+        {
+          "groupId": 3134,
+          "name": "Starter Deck 13: Ragnaloardmon",
+          "code": "ST-13",
+          "releasedAt": "2022-10-14",
+          "modifiedOn": "2025-11-17T23:35:04.313",
+          "count": 22,
+          "file": "cards/digimon/3134.json",
+          "version": "865af76807a2"
+        },
+        {
+          "groupId": 3182,
+          "name": "Xros Encounter Pre-Release Cards",
+          "code": "BT-10_PR",
+          "releasedAt": "2022-10-14",
+          "modifiedOn": "2026-02-22T18:41:25.483",
+          "count": 56,
+          "file": "cards/digimon/3182.json",
+          "version": "bfe025569a57"
+        },
+        {
+          "groupId": 3103,
+          "name": "X Record",
+          "code": "BT-09",
+          "releasedAt": "2022-07-29",
+          "modifiedOn": "2026-02-22T18:40:58.98",
+          "count": 165,
+          "file": "cards/digimon/3103.json",
+          "version": "5bd8f4d502d8"
+        },
+        {
+          "groupId": 3128,
+          "name": "X Record Pre-Release Cards",
+          "code": "BT-09_PR",
+          "releasedAt": "2022-07-22",
+          "modifiedOn": "2026-02-22T18:41:05.05",
+          "count": 58,
+          "file": "cards/digimon/3128.json",
+          "version": "46e1b2c1842a"
+        },
+        {
+          "groupId": 3072,
+          "name": "Digital Hazard",
+          "code": "EX-02",
+          "releasedAt": "2022-06-24",
+          "modifiedOn": "2026-06-11T16:56:24.223",
+          "count": 129,
+          "file": "cards/digimon/3072.json",
+          "version": "2bffaa52cee0"
+        },
+        {
+          "groupId": 3045,
+          "name": "Starter Deck 09: Ultimate Ancient Dragon",
+          "code": "ST-9",
+          "releasedAt": "2022-05-27",
+          "modifiedOn": "2026-02-28T21:38:36.867",
+          "count": 30,
+          "file": "cards/digimon/3045.json",
+          "version": "f9d7fc9a087d"
+        },
+        {
+          "groupId": 3046,
+          "name": "Starter Deck 10: Parallel World Tactician",
+          "code": "ST-10",
+          "releasedAt": "2022-05-27",
+          "modifiedOn": "2026-04-26T13:01:40.37",
+          "count": 27,
+          "file": "cards/digimon/3046.json",
+          "version": "72d71d4fc0cf"
+        },
+        {
+          "groupId": 3069,
+          "name": "New Awakening Pre-Release Cards",
+          "code": "BT-08_PR",
+          "releasedAt": "2022-05-20",
+          "modifiedOn": "2026-02-22T18:32:43.02",
+          "count": 58,
+          "file": "cards/digimon/3069.json",
+          "version": "040e0e54c1e7"
+        },
+        {
+          "groupId": 3035,
+          "name": "New Awakening",
+          "code": "BT-08",
+          "releasedAt": "2022-05-13",
+          "modifiedOn": "2026-04-26T12:59:43.887",
+          "count": 198,
+          "file": "cards/digimon/3035.json",
+          "version": "cf1e4e14be61"
+        },
+        {
+          "groupId": 24390,
+          "name": "Digimon Demo Deck Exclusive Cards",
+          "code": "DEMO",
+          "releasedAt": "2022-04-06",
+          "modifiedOn": "2026-07-02T12:55:18.037",
+          "count": 52,
+          "file": "cards/digimon/24390.json",
+          "version": "3103bbe75118"
+        },
+        {
+          "groupId": 2945,
+          "name": "Next Adventure",
+          "code": "BT-07",
+          "releasedAt": "2022-03-04",
+          "modifiedOn": "2026-02-22T18:32:52.16",
+          "count": 207,
+          "file": "cards/digimon/2945.json",
+          "version": "5b7c41bd5bdd"
+        },
+        {
+          "groupId": 3024,
+          "name": "Next Adventure Pre-Release Cards",
+          "code": "BT-07_PR",
+          "releasedAt": "2022-02-25",
+          "modifiedOn": "2026-02-22T18:32:57.81",
+          "count": 56,
+          "file": "cards/digimon/3024.json",
+          "version": "84d5746e817a"
+        },
+        {
+          "groupId": 2924,
+          "name": "Classic Collection",
+          "code": "EX-01",
+          "releasedAt": "2022-01-21",
+          "modifiedOn": "2026-02-22T18:26:44.41",
+          "count": 128,
+          "file": "cards/digimon/2924.json",
+          "version": "10e0c44b147e"
+        },
+        {
+          "groupId": 2955,
+          "name": "Double Diamond Pre-Release Cards",
+          "code": "BT-06_PR",
+          "releasedAt": "2021-11-19",
+          "modifiedOn": "2026-02-22T18:29:28.823",
+          "count": 56,
+          "file": "cards/digimon/2955.json",
+          "version": "7d690c65250a"
+        },
+        {
+          "groupId": 2880,
+          "name": "Double Diamond",
+          "code": "BT-06",
+          "releasedAt": "2021-10-08",
+          "modifiedOn": "2026-02-28T22:03:42.947",
+          "count": 182,
+          "file": "cards/digimon/2880.json",
+          "version": "5315079460f3"
+        },
+        {
+          "groupId": 2882,
+          "name": "Starter Deck 07: Gallantmon",
+          "code": "ST-7",
+          "releasedAt": "2021-10-08",
+          "modifiedOn": "2024-05-07T19:49:20.09",
+          "count": 30,
+          "file": "cards/digimon/2882.json",
+          "version": "b45b64418663"
+        },
+        {
+          "groupId": 2883,
+          "name": "Starter Deck 08: Ulforce Veedramon",
+          "code": "ST-8",
+          "releasedAt": "2021-10-08",
+          "modifiedOn": "2025-03-17T19:06:22.623",
+          "count": 26,
+          "file": "cards/digimon/2883.json",
+          "version": "dfec89267160"
+        },
+        {
+          "groupId": 2838,
+          "name": "Battle of Omni",
+          "code": "BT-05",
+          "releasedAt": "2021-08-06",
+          "modifiedOn": "2026-04-26T12:57:17.03",
+          "count": 187,
+          "file": "cards/digimon/2838.json",
+          "version": "2c1bef013e49"
+        },
+        {
+          "groupId": 2886,
+          "name": "Battle of Omni Pre-Release Cards",
+          "code": "BT-05_PR",
+          "releasedAt": "2021-07-30",
+          "modifiedOn": "2026-02-22T18:23:36.093",
+          "count": 56,
+          "file": "cards/digimon/2886.json",
+          "version": "ef8b274772f9"
+        },
+        {
+          "groupId": 2832,
+          "name": "Great Legend Pre-Release Cards",
+          "code": "BT-04_PR",
+          "releasedAt": "2021-06-05",
+          "modifiedOn": "2026-02-22T18:30:32.167",
+          "count": 56,
+          "file": "cards/digimon/2832.json",
+          "version": "b0953a4a2339"
+        },
+        {
+          "groupId": 2763,
+          "name": "Great Legend",
+          "code": "BT-04",
+          "releasedAt": "2021-05-07",
+          "modifiedOn": "2026-02-22T18:30:26.713",
+          "count": 172,
+          "file": "cards/digimon/2763.json",
+          "version": "f1356ab8e0b0"
+        },
+        {
+          "groupId": 2793,
+          "name": "Starter Deck 04: Giga Green",
+          "code": "ST-4",
+          "releasedAt": "2021-05-07",
+          "modifiedOn": "2024-05-07T19:48:27.413",
+          "count": 27,
+          "file": "cards/digimon/2793.json",
+          "version": "6a6d17c1b58f"
+        },
+        {
+          "groupId": 2794,
+          "name": "Starter Deck 05: Machine Black",
+          "code": "ST-5",
+          "releasedAt": "2021-05-07",
+          "modifiedOn": "2024-05-07T19:48:21.297",
+          "count": 20,
+          "file": "cards/digimon/2794.json",
+          "version": "ef420acbf685"
+        },
+        {
+          "groupId": 2795,
+          "name": "Starter Deck 06: Venomous Violet",
+          "code": "ST-6",
+          "releasedAt": "2021-05-07",
+          "modifiedOn": "2025-04-24T16:28:02.507",
+          "count": 22,
+          "file": "cards/digimon/2795.json",
+          "version": "6e489192ace5"
+        },
+        {
+          "groupId": 24182,
+          "name": "Release Special Booster 1.5",
+          "code": "BT01-03B",
+          "releasedAt": "2021-03-12",
+          "modifiedOn": "2025-05-06T19:22:28.81",
+          "count": 189,
+          "file": "cards/digimon/24182.json",
+          "version": "8de1875e425d"
+        },
+        {
+          "groupId": 2737,
+          "name": "Digimon Promotion Cards",
+          "code": "D-PR",
+          "releasedAt": "2020-01-24",
+          "modifiedOn": "2026-10-02T11:31:57.137",
+          "count": 508,
+          "file": "cards/digimon/2737.json",
+          "version": "d971aa3d638b"
+        },
+        {
+          "groupId": 2733,
+          "name": "Release Special Booster 1.0",
+          "code": "BT01-03A",
+          "releasedAt": "2020-01-24",
+          "modifiedOn": "2025-10-21T20:01:40.077",
+          "count": 396,
+          "file": "cards/digimon/2733.json",
+          "version": "2837c313ef68"
+        },
+        {
+          "groupId": 2734,
+          "name": "Starter Deck 01: Gaia Red",
+          "code": "ST-1",
+          "releasedAt": "2020-01-24",
+          "modifiedOn": "2024-05-07T19:48:45.303",
+          "count": 46,
+          "file": "cards/digimon/2734.json",
+          "version": "4f33587308e9"
+        },
+        {
+          "groupId": 2735,
+          "name": "Starter Deck 02: Cocytus Blue",
+          "code": "ST-2",
+          "releasedAt": "2020-01-24",
+          "modifiedOn": "2024-05-07T19:48:39.77",
+          "count": 32,
+          "file": "cards/digimon/2735.json",
+          "version": "948de57c32bb"
+        },
+        {
+          "groupId": 2736,
+          "name": "Starter Deck 03: Heaven's Yellow",
+          "code": "ST-3",
+          "releasedAt": "2020-01-24",
+          "modifiedOn": "2024-05-07T19:48:35.07",
+          "count": 35,
+          "file": "cards/digimon/2736.json",
+          "version": "2b24f41490ea"
+        },
+        {
+          "groupId": 2987,
+          "name": "Revision Pack Cards",
+          "code": "RPC",
+          "modifiedOn": "2026-04-14T15:39:58.3",
+          "count": 54,
+          "file": "cards/digimon/2987.json",
+          "version": "00bd2d0f8686"
+        }
+      ]
+    }
+  },
+  "updatedAt": "2026-10-12"
+}

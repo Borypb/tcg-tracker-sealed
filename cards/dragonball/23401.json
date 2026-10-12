@@ -1,0 +1,2488 @@
+{
+  "groupId": 23401,
+  "cards": [
+    {
+      "id": 536821,
+      "name": "Son Goku",
+      "number": "FB01-001",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536821_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536821/dragon-ball-super-fusion-world-awakened-pulse-son-goku-fb01-001",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28
+        }
+      ]
+    },
+    {
+      "id": 536822,
+      "name": "Beerus",
+      "number": "FB01-002",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536822_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536822/dragon-ball-super-fusion-world-awakened-pulse-beerus-fb01-002",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28
+        }
+      ]
+    },
+    {
+      "id": 536823,
+      "name": "Vados",
+      "number": "FB01-003",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536823_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536823/dragon-ball-super-fusion-world-awakened-pulse-vados",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 536824,
+      "name": "Whis",
+      "number": "FB01-004",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536824_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536824/dragon-ball-super-fusion-world-awakened-pulse-whis",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.17
+        }
+      ]
+    },
+    {
+      "id": 536825,
+      "name": "Master Roshi",
+      "number": "FB01-005",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536825_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536825/dragon-ball-super-fusion-world-awakened-pulse-master-roshi",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 536826,
+      "name": "Caulifla",
+      "number": "FB01-006",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536826_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536826/dragon-ball-super-fusion-world-awakened-pulse-caulifla",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 536827,
+      "name": "Cabba",
+      "number": "FB01-007",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536827_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536827/dragon-ball-super-fusion-world-awakened-pulse-cabba",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 536828,
+      "name": "Krillin",
+      "number": "FB01-008",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536828_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536828/dragon-ball-super-fusion-world-awakened-pulse-krillin-fb01-008",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 536829,
+      "name": "Kale",
+      "number": "FB01-009",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536829_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536829/dragon-ball-super-fusion-world-awakened-pulse-kale",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 536830,
+      "name": "Saonel",
+      "number": "FB01-010",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536830_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536830/dragon-ball-super-fusion-world-awakened-pulse-saonel",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 536831,
+      "name": "Champa",
+      "number": "FB01-011",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536831_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536831/dragon-ball-super-fusion-world-awakened-pulse-champa",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 536832,
+      "name": "Shin",
+      "number": "FB01-012",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536832_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536832/dragon-ball-super-fusion-world-awakened-pulse-shin",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17
+        }
+      ]
+    },
+    {
+      "id": 536833,
+      "name": "Android 17",
+      "number": "FB01-013",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536833_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536833/dragon-ball-super-fusion-world-awakened-pulse-android-17-fb01-013",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 536834,
+      "name": "Android 18",
+      "number": "FB01-014",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536834_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536834/dragon-ball-super-fusion-world-awakened-pulse-android-18-fb01-014",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 536835,
+      "name": "Son Gohan : Adolescence",
+      "number": "FB01-016",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536835_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536835/dragon-ball-super-fusion-world-awakened-pulse-son-gohan-adolescence",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.37
+        }
+      ]
+    },
+    {
+      "id": 536836,
+      "name": "Great Priest",
+      "number": "FB01-017",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536836_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536836/dragon-ball-super-fusion-world-awakened-pulse-great-priest",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 536837,
+      "name": "Tien Shinhan",
+      "number": "FB01-018",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536837_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536837/dragon-ball-super-fusion-world-awakened-pulse-tien-shinhan-fb01-018",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 536838,
+      "name": "Dr. Rota",
+      "number": "FB01-019",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536838_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536838/dragon-ball-super-fusion-world-awakened-pulse-dr-rota",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 536839,
+      "name": "Piccolo",
+      "number": "FB01-020",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536839_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536839/dragon-ball-super-fusion-world-awakened-pulse-piccolo-fb01-020",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 536840,
+      "name": "Hit",
+      "number": "FB01-021",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536840_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536840/dragon-ball-super-fusion-world-awakened-pulse-hit",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.64
+        }
+      ]
+    },
+    {
+      "id": 536841,
+      "name": "Pirina",
+      "number": "FB01-022",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536841_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536841/dragon-ball-super-fusion-world-awakened-pulse-pirina",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 536842,
+      "name": "Beerus",
+      "number": "FB01-023",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536842_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536842/dragon-ball-super-fusion-world-awakened-pulse-beerus-fb01-023",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.58
+        }
+      ]
+    },
+    {
+      "id": 536843,
+      "name": "Frieza",
+      "number": "FB01-024",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536843_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536843/dragon-ball-super-fusion-world-awakened-pulse-frieza-fb01-024",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 536844,
+      "name": "Frost",
+      "number": "FB01-025",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536844_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536844/dragon-ball-super-fusion-world-awakened-pulse-frost",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.2
+        }
+      ]
+    },
+    {
+      "id": 536845,
+      "name": "Fuwa",
+      "number": "FB01-026",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536845_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536845/dragon-ball-super-fusion-world-awakened-pulse-fuwa",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.62
+        }
+      ]
+    },
+    {
+      "id": 536846,
+      "name": "Vegeta",
+      "number": "FB01-027",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536846_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536846/dragon-ball-super-fusion-world-awakened-pulse-vegeta-fb01-027",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.2
+        }
+      ]
+    },
+    {
+      "id": 536847,
+      "name": "Botamo",
+      "number": "FB01-028",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536847_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536847/dragon-ball-super-fusion-world-awakened-pulse-botamo",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 536848,
+      "name": "Magetta",
+      "number": "FB01-029",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536848_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536848/dragon-ball-super-fusion-world-awakened-pulse-magetta",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 536849,
+      "name": "Assemble, Representatives of Universe 7!",
+      "number": "FB01-030",
+      "rarity": "Common",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536849_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536849/dragon-ball-super-fusion-world-awakened-pulse-assemble-representatives-of-universe-7",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 536850,
+      "name": "Strong Warriors of Universe 6",
+      "number": "FB01-031",
+      "rarity": "Common",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536850_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536850/dragon-ball-super-fusion-world-awakened-pulse-strong-warriors-of-universe-6",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 536851,
+      "name": "Tournament of Power Arena",
+      "number": "FB01-032",
+      "rarity": "Rare",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536851_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536851/dragon-ball-super-fusion-world-awakened-pulse-tournament-of-power-arena",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 3.11
+        }
+      ]
+    },
+    {
+      "id": 536852,
+      "name": "Time-Skip",
+      "number": "FB01-033",
+      "rarity": "Common",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536852_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536852/dragon-ball-super-fusion-world-awakened-pulse-time-skip",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 536853,
+      "name": "Mafuba",
+      "number": "FB01-034",
+      "rarity": "Common",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536853_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536853/dragon-ball-super-fusion-world-awakened-pulse-mafuba",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 536854,
+      "name": "Goku Black",
+      "number": "FB01-035",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536854_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536854/dragon-ball-super-fusion-world-awakened-pulse-goku-black-fb01-035",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.46
+        }
+      ]
+    },
+    {
+      "id": 536855,
+      "name": "Trunks : Future",
+      "number": "FB01-036",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536855_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536855/dragon-ball-super-fusion-world-awakened-pulse-trunks-future-fb01-036",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.26
+        }
+      ]
+    },
+    {
+      "id": 536856,
+      "name": "Goku Black",
+      "number": "FB01-037",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536856_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536856/dragon-ball-super-fusion-world-awakened-pulse-goku-black-fb01-037",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.24
+        }
+      ]
+    },
+    {
+      "id": 536857,
+      "name": "Goku Black",
+      "number": "FB01-038",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536857_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536857/dragon-ball-super-fusion-world-awakened-pulse-goku-black-fb01-038",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 536858,
+      "name": "Goku Black",
+      "number": "FB01-039",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536858_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536858/dragon-ball-super-fusion-world-awakened-pulse-goku-black-fb01-039",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.9
+        }
+      ]
+    },
+    {
+      "id": 536859,
+      "name": "Gowasu",
+      "number": "FB01-040",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536859_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536859/dragon-ball-super-fusion-world-awakened-pulse-gowasu-fb01-040",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 536860,
+      "name": "Gowasu",
+      "number": "FB01-041",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536860_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536860/dragon-ball-super-fusion-world-awakened-pulse-gowasu-fb01-041",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 536861,
+      "name": "Zamasu",
+      "number": "FB01-042",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536861_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536861/dragon-ball-super-fusion-world-awakened-pulse-zamasu-fb01-042",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.56
+        }
+      ]
+    },
+    {
+      "id": 536862,
+      "name": "Zamasu",
+      "number": "FB01-043",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536862_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536862/dragon-ball-super-fusion-world-awakened-pulse-zamasu-fb01-043",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 536863,
+      "name": "Zamasu",
+      "number": "FB01-044",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536863_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536863/dragon-ball-super-fusion-world-awakened-pulse-zamasu-fb01-044",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 536864,
+      "name": "Shu",
+      "number": "FB01-045",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536864_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536864/dragon-ball-super-fusion-world-awakened-pulse-shu",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 536865,
+      "name": "Son Goku",
+      "number": "FB01-046",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536865_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536865/dragon-ball-super-fusion-world-awakened-pulse-son-goku-fb01-046",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 536866,
+      "name": "Son Goku",
+      "number": "FB01-047",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536866_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536866/dragon-ball-super-fusion-world-awakened-pulse-son-goku-fb01-047",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 536867,
+      "name": "Son Goku",
+      "number": "FB01-048",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536867_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536867/dragon-ball-super-fusion-world-awakened-pulse-son-goku-fb01-048",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 536868,
+      "name": "Trunks : Future",
+      "number": "FB01-049",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536868_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536868/dragon-ball-super-fusion-world-awakened-pulse-trunks-future-fb01-049",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.16
+        }
+      ]
+    },
+    {
+      "id": 536869,
+      "name": "Trunks : Future",
+      "number": "FB01-050",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536869_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536869/dragon-ball-super-fusion-world-awakened-pulse-trunks-future-fb01-050",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.43
+        }
+      ]
+    },
+    {
+      "id": 536870,
+      "name": "Trunks : Future",
+      "number": "FB01-051",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536870_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536870/dragon-ball-super-fusion-world-awakened-pulse-trunks-future-fb01-051",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.17
+        }
+      ]
+    },
+    {
+      "id": 536871,
+      "name": "Trunks : Youth",
+      "number": "FB01-052",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536871_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536871/dragon-ball-super-fusion-world-awakened-pulse-trunks-youth",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 536872,
+      "name": "Babarian",
+      "number": "FB01-053",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536872_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536872/dragon-ball-super-fusion-world-awakened-pulse-babarian",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 536873,
+      "name": "Haru/Maki",
+      "number": "FB01-054",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536873_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536873/dragon-ball-super-fusion-world-awakened-pulse-haru-maki",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 536874,
+      "name": "Pan",
+      "number": "FB01-055",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536874_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536874/dragon-ball-super-fusion-world-awakened-pulse-pan",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25
+        }
+      ]
+    },
+    {
+      "id": 536875,
+      "name": "Pilaf",
+      "number": "FB01-056",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536875_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536875/dragon-ball-super-fusion-world-awakened-pulse-pilaf",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.21
+        }
+      ]
+    },
+    {
+      "id": 536876,
+      "name": "Bulma",
+      "number": "FB01-057",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536876_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536876/dragon-ball-super-fusion-world-awakened-pulse-bulma",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 536877,
+      "name": "Vegeta",
+      "number": "FB01-058",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536877_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536877/dragon-ball-super-fusion-world-awakened-pulse-vegeta-fb01-058",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 536878,
+      "name": "Vegeta",
+      "number": "FB01-059",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536878_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536878/dragon-ball-super-fusion-world-awakened-pulse-vegeta-fb01-059",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.23
+        }
+      ]
+    },
+    {
+      "id": 536879,
+      "name": "Vegeta",
+      "number": "FB01-060",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536879_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536879/dragon-ball-super-fusion-world-awakened-pulse-vegeta-fb01-060",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 536880,
+      "name": "Mai : Future",
+      "number": "FB01-061",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536880_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536880/dragon-ball-super-fusion-world-awakened-pulse-mai-future-fb01-061",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 536881,
+      "name": "Mai : Future",
+      "number": "FB01-062",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536881_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536881/dragon-ball-super-fusion-world-awakened-pulse-mai-future-fb01-062",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.95
+        }
+      ]
+    },
+    {
+      "id": 536882,
+      "name": "Yajirobe : Future",
+      "number": "FB01-063",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536882_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536882/dragon-ball-super-fusion-world-awakened-pulse-yajirobe-future",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22
+        }
+      ]
+    },
+    {
+      "id": 536883,
+      "name": "Blade of Despair",
+      "number": "FB01-064",
+      "rarity": "Uncommon",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536883_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536883/dragon-ball-super-fusion-world-awakened-pulse-blade-of-despair",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 536884,
+      "name": "Time Machine",
+      "number": "FB01-065",
+      "rarity": "Uncommon",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536884_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536884/dragon-ball-super-fusion-world-awakened-pulse-time-machine",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.29
+        }
+      ]
+    },
+    {
+      "id": 536885,
+      "name": "Final Hope Slash",
+      "number": "FB01-066",
+      "rarity": "Rare",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536885_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536885/dragon-ball-super-fusion-world-awakened-pulse-final-hope-slash",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.41
+        }
+      ]
+    },
+    {
+      "id": 536886,
+      "name": "Black Kamehameha",
+      "number": "FB01-067",
+      "rarity": "Uncommon",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536886_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536886/dragon-ball-super-fusion-world-awakened-pulse-black-kamehameha",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 536887,
+      "name": "Sinister Sickle",
+      "number": "FB01-068",
+      "rarity": "Rare",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536887_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536887/dragon-ball-super-fusion-world-awakened-pulse-sinister-sickle",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.09
+        }
+      ]
+    },
+    {
+      "id": 536888,
+      "name": "Sinister Shadows",
+      "number": "FB01-069",
+      "rarity": "Rare",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536888_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536888/dragon-ball-super-fusion-world-awakened-pulse-sinister-shadows",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.17
+        }
+      ]
+    },
+    {
+      "id": 536889,
+      "name": "Android 17",
+      "number": "FB01-070",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536889_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536889/dragon-ball-super-fusion-world-awakened-pulse-android-17-fb01-070",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.39
+        }
+      ]
+    },
+    {
+      "id": 536897,
+      "name": "Son Gohan : Childhood",
+      "number": "FB01-071",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536897_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536897/dragon-ball-super-fusion-world-awakened-pulse-son-gohan-childhood-fb01-071",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28
+        }
+      ]
+    },
+    {
+      "id": 536898,
+      "name": "Krillin",
+      "number": "FB01-072",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536898_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536898/dragon-ball-super-fusion-world-awakened-pulse-krillin-fb01-072",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 536899,
+      "name": "Android 16",
+      "number": "FB01-073",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536899_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536899/dragon-ball-super-fusion-world-awakened-pulse-android-16-fb01-073",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22
+        }
+      ]
+    },
+    {
+      "id": 536900,
+      "name": "Android 16",
+      "number": "FB01-074",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536900_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536900/dragon-ball-super-fusion-world-awakened-pulse-android-16-fb01-074",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24
+        }
+      ]
+    },
+    {
+      "id": 536901,
+      "name": "Android 17",
+      "number": "FB01-075",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536901_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536901/dragon-ball-super-fusion-world-awakened-pulse-android-17-fb01-075",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 536902,
+      "name": "Android 17",
+      "number": "FB01-076",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536902_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536902/dragon-ball-super-fusion-world-awakened-pulse-android-17-fb01-076",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 536903,
+      "name": "Android 17",
+      "number": "FB01-077",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536903_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536903/dragon-ball-super-fusion-world-awakened-pulse-android-17-fb01-077",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 536904,
+      "name": "Android 17 / Android 18",
+      "number": "FB01-078",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536904_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536904/dragon-ball-super-fusion-world-awakened-pulse-android-17-android-18",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.79
+        }
+      ]
+    },
+    {
+      "id": 536905,
+      "name": "Android 18",
+      "number": "FB01-079",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536905_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536905/dragon-ball-super-fusion-world-awakened-pulse-android-18-fb01-079",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.31
+        }
+      ]
+    },
+    {
+      "id": 536906,
+      "name": "Android 18",
+      "number": "FB01-080",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536906_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536906/dragon-ball-super-fusion-world-awakened-pulse-android-18-fb01-080",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 536907,
+      "name": "Android 18",
+      "number": "FB01-081",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536907_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536907/dragon-ball-super-fusion-world-awakened-pulse-android-18-fb01-081",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.21
+        }
+      ]
+    },
+    {
+      "id": 536908,
+      "name": "Android 19",
+      "number": "FB01-082",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536908_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536908/dragon-ball-super-fusion-world-awakened-pulse-android-19",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 536909,
+      "name": "Android 20",
+      "number": "FB01-083",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536909_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536909/dragon-ball-super-fusion-world-awakened-pulse-android-20-fb01-083",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 536910,
+      "name": "Android 20",
+      "number": "FB01-084",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536910_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536910/dragon-ball-super-fusion-world-awakened-pulse-android-20-fb01-084",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 536911,
+      "name": "Son Goku",
+      "number": "FB01-085",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536911_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536911/dragon-ball-super-fusion-world-awakened-pulse-son-goku-fb01-085",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24
+        }
+      ]
+    },
+    {
+      "id": 536912,
+      "name": "Son Goku",
+      "number": "FB01-086",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536912_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536912/dragon-ball-super-fusion-world-awakened-pulse-son-goku-fb01-086",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17
+        }
+      ]
+    },
+    {
+      "id": 536913,
+      "name": "Son Goku",
+      "number": "FB01-087",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536913_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536913/dragon-ball-super-fusion-world-awakened-pulse-son-goku-fb01-087",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.25
+        }
+      ]
+    },
+    {
+      "id": 536914,
+      "name": "Son Gohan : Childhood",
+      "number": "FB01-088",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536914_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536914/dragon-ball-super-fusion-world-awakened-pulse-son-gohan-childhood-fb01-088",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.21
+        }
+      ]
+    },
+    {
+      "id": 536915,
+      "name": "Son Gohan : Childhood",
+      "number": "FB01-089",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536915_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536915/dragon-ball-super-fusion-world-awakened-pulse-son-gohan-childhood-fb01-089",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.49
+        }
+      ]
+    },
+    {
+      "id": 536916,
+      "name": "Son Gohan : Childhood",
+      "number": "FB01-090",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536916_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536916/dragon-ball-super-fusion-world-awakened-pulse-son-gohan-childhood-fb01-090",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.24
+        }
+      ]
+    },
+    {
+      "id": 536917,
+      "name": "Tien Shinhan",
+      "number": "FB01-091",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536917_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536917/dragon-ball-super-fusion-world-awakened-pulse-tien-shinhan-fb01-091",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 536918,
+      "name": "Trunks : Future",
+      "number": "FB01-092",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536918_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536918/dragon-ball-super-fusion-world-awakened-pulse-trunks-future-fb01-092",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.23
+        }
+      ]
+    },
+    {
+      "id": 536919,
+      "name": "Trunks : Future",
+      "number": "FB01-093",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536919_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536919/dragon-ball-super-fusion-world-awakened-pulse-trunks-future-fb01-093",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24
+        }
+      ]
+    },
+    {
+      "id": 536920,
+      "name": "Piccolo",
+      "number": "FB01-094",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536920_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536920/dragon-ball-super-fusion-world-awakened-pulse-piccolo-fb01-094",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 536921,
+      "name": "Vegeta",
+      "number": "FB01-095",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536921_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536921/dragon-ball-super-fusion-world-awakened-pulse-vegeta-fb01-095",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 536922,
+      "name": "Vegeta",
+      "number": "FB01-096",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536922_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536922/dragon-ball-super-fusion-world-awakened-pulse-vegeta-fb01-096",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.19
+        }
+      ]
+    },
+    {
+      "id": 536923,
+      "name": "Hercule",
+      "number": "FB01-097",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536923_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536923/dragon-ball-super-fusion-world-awakened-pulse-hercule",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 536924,
+      "name": "Yamcha",
+      "number": "FB01-098",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536924_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536924/dragon-ball-super-fusion-world-awakened-pulse-yamcha",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 536925,
+      "name": "Eye Beam",
+      "number": "FB01-099",
+      "rarity": "Uncommon",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536925_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536925/dragon-ball-super-fusion-world-awakened-pulse-eye-beam",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16
+        }
+      ]
+    },
+    {
+      "id": 536926,
+      "name": "Brother-Sister Combination",
+      "number": "FB01-100",
+      "rarity": "Uncommon",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536926_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536926/dragon-ball-super-fusion-world-awakened-pulse-brother-sister-combination",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 536927,
+      "name": "Instant Kamehameha",
+      "number": "FB01-101",
+      "rarity": "Common",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536927_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536927/dragon-ball-super-fusion-world-awakened-pulse-instant-kamehameha",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.26
+        }
+      ]
+    },
+    {
+      "id": 536928,
+      "name": "Dr. Gero's Lab",
+      "number": "FB01-102",
+      "rarity": "Rare",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536928_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536928/dragon-ball-super-fusion-world-awakened-pulse-dr-geros-lab",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.22
+        }
+      ]
+    },
+    {
+      "id": 536929,
+      "name": "Big Bang Attack",
+      "number": "FB01-103",
+      "rarity": "Uncommon",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536929_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536929/dragon-ball-super-fusion-world-awakened-pulse-big-bang-attack",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23
+        }
+      ]
+    },
+    {
+      "id": 536930,
+      "name": "Ginyu",
+      "number": "FB01-104",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536930_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536930/dragon-ball-super-fusion-world-awakened-pulse-ginyu-fb01-104",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2
+        }
+      ]
+    },
+    {
+      "id": 536931,
+      "name": "Cooler",
+      "number": "FB01-105",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536931_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536931/dragon-ball-super-fusion-world-awakened-pulse-cooler-fb01-105",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24
+        }
+      ]
+    },
+    {
+      "id": 536932,
+      "name": "Appule",
+      "number": "FB01-106",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536932_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536932/dragon-ball-super-fusion-world-awakened-pulse-appule",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 536933,
+      "name": "Ginyu",
+      "number": "FB01-107",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536933_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536933/dragon-ball-super-fusion-world-awakened-pulse-ginyu-fb01-107",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3
+        }
+      ]
+    },
+    {
+      "id": 536934,
+      "name": "Ginyu",
+      "number": "FB01-108",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536934_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536934/dragon-ball-super-fusion-world-awakened-pulse-ginyu-fb01-108",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.2
+        }
+      ]
+    },
+    {
+      "id": 536935,
+      "name": "Ginyu",
+      "number": "FB01-109",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536935_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536935/dragon-ball-super-fusion-world-awakened-pulse-ginyu-fb01-109",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.82
+        }
+      ]
+    },
+    {
+      "id": 536936,
+      "name": "Ginyu",
+      "number": "FB01-110",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536936_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536936/dragon-ball-super-fusion-world-awakened-pulse-ginyu-fb01-110",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 536937,
+      "name": "Cui",
+      "number": "FB01-111",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536937_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536937/dragon-ball-super-fusion-world-awakened-pulse-cui",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.33
+        }
+      ]
+    },
+    {
+      "id": 536938,
+      "name": "Cooler",
+      "number": "FB01-112",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536938_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536938/dragon-ball-super-fusion-world-awakened-pulse-cooler-fb01-112",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 536939,
+      "name": "Cooler",
+      "number": "FB01-113",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536939_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536939/dragon-ball-super-fusion-world-awakened-pulse-cooler-fb01-113",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.66
+        }
+      ]
+    },
+    {
+      "id": 536940,
+      "name": "Guldo",
+      "number": "FB01-114",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536940_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536940/dragon-ball-super-fusion-world-awakened-pulse-guldo",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 536941,
+      "name": "King Cold",
+      "number": "FB01-115",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536941_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536941/dragon-ball-super-fusion-world-awakened-pulse-king-cold",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 536942,
+      "name": "Zarbon",
+      "number": "FB01-116",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536942_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536942/dragon-ball-super-fusion-world-awakened-pulse-zarbon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 536943,
+      "name": "Salza",
+      "number": "FB01-117",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536943_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536943/dragon-ball-super-fusion-world-awakened-pulse-salza-fb01-117",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 536944,
+      "name": "Salza",
+      "number": "FB01-118",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536944_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536944/dragon-ball-super-fusion-world-awakened-pulse-salza-fb01-118",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 536945,
+      "name": "Jeice",
+      "number": "FB01-119",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536945_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536945/dragon-ball-super-fusion-world-awakened-pulse-jeice",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 536946,
+      "name": "Sui",
+      "number": "FB01-120",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536946_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536946/dragon-ball-super-fusion-world-awakened-pulse-sui",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 536947,
+      "name": "Chilled",
+      "number": "FB01-121",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536947_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536947/dragon-ball-super-fusion-world-awakened-pulse-chilled",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 536948,
+      "name": "Dore",
+      "number": "FB01-122",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536948_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536948/dragon-ball-super-fusion-world-awakened-pulse-dore",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 536949,
+      "name": "Dodoria",
+      "number": "FB01-123",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536949_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536949/dragon-ball-super-fusion-world-awakened-pulse-dodoria",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 536950,
+      "name": "Neiz",
+      "number": "FB01-124",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536950_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536950/dragon-ball-super-fusion-world-awakened-pulse-neiz",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25
+        }
+      ]
+    },
+    {
+      "id": 536951,
+      "name": "Nail",
+      "number": "FB01-125",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536951_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536951/dragon-ball-super-fusion-world-awakened-pulse-nail",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 536952,
+      "name": "Burter",
+      "number": "FB01-126",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536952_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536952/dragon-ball-super-fusion-world-awakened-pulse-burter",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 536953,
+      "name": "Banan",
+      "number": "FB01-127",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536953_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536953/dragon-ball-super-fusion-world-awakened-pulse-banan",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16
+        }
+      ]
+    },
+    {
+      "id": 536954,
+      "name": "Frieza",
+      "number": "FB01-128",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536954_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536954/dragon-ball-super-fusion-world-awakened-pulse-frieza-fb01-128",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 536955,
+      "name": "Frieza",
+      "number": "FB01-129",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536955_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536955/dragon-ball-super-fusion-world-awakened-pulse-frieza-fb01-129",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.27
+        }
+      ]
+    },
+    {
+      "id": 536956,
+      "name": "Mecha Frieza",
+      "number": "FB01-130",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536956_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536956/dragon-ball-super-fusion-world-awakened-pulse-mecha-frieza",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.23
+        }
+      ]
+    },
+    {
+      "id": 536957,
+      "name": "Meta-Cooler",
+      "number": "FB01-131",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536957_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536957/dragon-ball-super-fusion-world-awakened-pulse-meta-cooler",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23
+        }
+      ]
+    },
+    {
+      "id": 536958,
+      "name": "Recoome",
+      "number": "FB01-132",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536958_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536958/dragon-ball-super-fusion-world-awakened-pulse-recoome",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.36
+        }
+      ]
+    },
+    {
+      "id": 536959,
+      "name": "Bonds of the Ginyu Force",
+      "number": "FB01-133",
+      "rarity": "Rare",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536959_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536959/dragon-ball-super-fusion-world-awakened-pulse-bonds-of-the-ginyu-force",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.21
+        }
+      ]
+    },
+    {
+      "id": 536960,
+      "name": "We Are Cooler's Armored Squadron!",
+      "number": "FB01-134",
+      "rarity": "Common",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536960_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536960/dragon-ball-super-fusion-world-awakened-pulse-we-are-coolers-armored-squadron",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 536961,
+      "name": "Crusher Ball",
+      "number": "FB01-135",
+      "rarity": "Uncommon",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536961_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536961/dragon-ball-super-fusion-world-awakened-pulse-crusher-ball",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 536962,
+      "name": "Supernova",
+      "number": "FB01-136",
+      "rarity": "Rare",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536962_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536962/dragon-ball-super-fusion-world-awakened-pulse-supernova",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.23
+        }
+      ]
+    },
+    {
+      "id": 536963,
+      "name": "Body Change",
+      "number": "FB01-137",
+      "rarity": "Rare",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536963_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536963/dragon-ball-super-fusion-world-awakened-pulse-body-change",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 536964,
+      "name": "Now You See The Power of the Ginyu Force!",
+      "number": "FB01-138",
+      "rarity": "Common",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536964_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536964/dragon-ball-super-fusion-world-awakened-pulse-now-you-see-the-power-of-the-ginyu-force",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16
+        }
+      ]
+    },
+    {
+      "id": 536965,
+      "name": "Son Goku",
+      "number": "FB01-139",
+      "rarity": "Secret Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536965_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536965/dragon-ball-super-fusion-world-awakened-pulse-son-goku-fb01-139",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 11.39
+        }
+      ]
+    },
+    {
+      "id": 536966,
+      "name": "Son Gohan : Childhood",
+      "number": "FB01-140",
+      "rarity": "Secret Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/536966_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/536966/dragon-ball-super-fusion-world-awakened-pulse-son-gohan-childhood-fb01-140",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 9.74
+        }
+      ]
+    },
+    {
+      "id": 539376,
+      "name": "Son Goku",
+      "label": "Alternate Art",
+      "number": "FB01-001",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/539376_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/539376/dragon-ball-super-fusion-world-awakened-pulse-son-goku-fb01-001-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 38.96
+        }
+      ]
+    },
+    {
+      "id": 539377,
+      "name": "Beerus",
+      "label": "Alternate Art",
+      "number": "FB01-002",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/539377_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/539377/dragon-ball-super-fusion-world-awakened-pulse-beerus-fb01-002-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 28.9
+        }
+      ]
+    },
+    {
+      "id": 539381,
+      "name": "Hit",
+      "label": "Alternate Art",
+      "number": "FB01-021",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/539381_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/539381/dragon-ball-super-fusion-world-awakened-pulse-hit-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 3.04
+        }
+      ]
+    },
+    {
+      "id": 539382,
+      "name": "Beerus",
+      "label": "Alternate Art",
+      "number": "FB01-023",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/539382_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/539382/dragon-ball-super-fusion-world-awakened-pulse-beerus-fb01-023-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 9.35
+        }
+      ]
+    },
+    {
+      "id": 539404,
+      "name": "Goku Black",
+      "label": "Alternate Art",
+      "number": "FB01-035",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/539404_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/539404/dragon-ball-super-fusion-world-awakened-pulse-goku-black-fb01-035-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 82.44
+        }
+      ]
+    },
+    {
+      "id": 539406,
+      "name": "Trunks : Future",
+      "label": "Alternate Art",
+      "number": "FB01-036",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/539406_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/539406/dragon-ball-super-fusion-world-awakened-pulse-trunks-future-fb01-036-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 46.94
+        }
+      ]
+    },
+    {
+      "id": 539411,
+      "name": "Goku Black",
+      "label": "Alternate Art",
+      "number": "FB01-039",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/539411_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/539411/dragon-ball-super-fusion-world-awakened-pulse-goku-black-fb01-039-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 10.9
+        }
+      ]
+    },
+    {
+      "id": 539412,
+      "name": "Trunks : Future",
+      "label": "Alternate Art",
+      "number": "FB01-050",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/539412_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/539412/dragon-ball-super-fusion-world-awakened-pulse-trunks-future-fb01-050-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 8.42
+        }
+      ]
+    },
+    {
+      "id": 539413,
+      "name": "Mai : Future",
+      "label": "Alternate Art",
+      "number": "FB01-062",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/539413_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/539413/dragon-ball-super-fusion-world-awakened-pulse-mai-future-fb01-062-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 3.29
+        }
+      ]
+    },
+    {
+      "id": 539414,
+      "name": "Android 17",
+      "label": "Alternate Art",
+      "number": "FB01-070",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/539414_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/539414/dragon-ball-super-fusion-world-awakened-pulse-android-17-fb01-070-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 26.98
+        }
+      ]
+    },
+    {
+      "id": 539416,
+      "name": "Son Gohan : Childhood",
+      "label": "Alternate Art",
+      "number": "FB01-071",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/539416_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/539416/dragon-ball-super-fusion-world-awakened-pulse-son-gohan-childhood-fb01-071-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 110.16
+        }
+      ]
+    },
+    {
+      "id": 539417,
+      "name": "Android 17 / Android 18",
+      "label": "Alternate Art",
+      "number": "FB01-078",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/539417_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/539417/dragon-ball-super-fusion-world-awakened-pulse-android-17-android-18-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 6.86
+        }
+      ]
+    },
+    {
+      "id": 539418,
+      "name": "Android 18",
+      "label": "Alternate Art",
+      "number": "FB01-079",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/539418_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/539418/dragon-ball-super-fusion-world-awakened-pulse-android-18-fb01-079-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 7.95
+        }
+      ]
+    },
+    {
+      "id": 539420,
+      "name": "Vegeta",
+      "label": "Alternate Art",
+      "number": "FB01-096",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/539420_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/539420/dragon-ball-super-fusion-world-awakened-pulse-vegeta-fb01-096-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 24.67
+        }
+      ]
+    },
+    {
+      "id": 539422,
+      "name": "Ginyu",
+      "label": "Alternate Art",
+      "number": "FB01-104",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/539422_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/539422/dragon-ball-super-fusion-world-awakened-pulse-ginyu-fb01-104-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 17.95
+        }
+      ]
+    },
+    {
+      "id": 539424,
+      "name": "Cooler",
+      "label": "Alternate Art",
+      "number": "FB01-105",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/539424_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/539424/dragon-ball-super-fusion-world-awakened-pulse-cooler-fb01-105-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 25.55
+        }
+      ]
+    },
+    {
+      "id": 539426,
+      "name": "Ginyu",
+      "label": "Alternate Art",
+      "number": "FB01-109",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/539426_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/539426/dragon-ball-super-fusion-world-awakened-pulse-ginyu-fb01-109-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 11.66
+        }
+      ]
+    },
+    {
+      "id": 539431,
+      "name": "Cooler",
+      "label": "Alternate Art",
+      "number": "FB01-113",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/539431_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/539431/dragon-ball-super-fusion-world-awakened-pulse-cooler-fb01-113-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 7.06
+        }
+      ]
+    },
+    {
+      "id": 539432,
+      "name": "Frieza",
+      "label": "Alternate Art",
+      "number": "FB01-129",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/539432_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/539432/dragon-ball-super-fusion-world-awakened-pulse-frieza-fb01-129-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 4
+        }
+      ]
+    },
+    {
+      "id": 539434,
+      "name": "Son Goku",
+      "label": "Alternate Art",
+      "number": "FB01-139",
+      "rarity": "Secret Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/539434_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/539434/dragon-ball-super-fusion-world-awakened-pulse-son-goku-fb01-139-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 79.58
+        }
+      ]
+    },
+    {
+      "id": 539435,
+      "name": "Son Goku",
+      "label": "Super Alternate Art",
+      "number": "FB01-139",
+      "rarity": "Secret Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/539435_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/539435/dragon-ball-super-fusion-world-awakened-pulse-son-goku-fb01-139-super-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1487.5
+        }
+      ]
+    },
+    {
+      "id": 539436,
+      "name": "Son Gohan : Childhood",
+      "label": "Alternate Art",
+      "number": "FB01-140",
+      "rarity": "Secret Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/539436_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/539436/dragon-ball-super-fusion-world-awakened-pulse-son-gohan-childhood-fb01-140-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 152.89
+        }
+      ]
+    },
+    {
+      "id": 541018,
+      "name": "Son Goku",
+      "number": "FB01-015",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/541018_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/541018/dragon-ball-super-fusion-world-awakened-pulse-son-goku-fb01-015",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.52
+        }
+      ]
+    },
+    {
+      "id": 541019,
+      "name": "Son Goku",
+      "label": "Alternate Art",
+      "number": "FB01-015",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/541019_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/541019/dragon-ball-super-fusion-world-awakened-pulse-son-goku-fb01-015-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 8.91
+        }
+      ]
+    },
+    {
+      "id": 541181,
+      "name": "Code Card - Awakened Pulse Booster",
+      "label": "FB01",
+      "rarity": "Code Card",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/541181_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/541181/dragon-ball-super-fusion-world-awakened-pulse-code-card-awakened-pulse-booster-fb01",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.31
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-10-12"
+}

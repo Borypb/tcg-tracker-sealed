@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "en",
   "categoryId": 3,
-  "harvestedAt": "2026-10-12T11:21:20.703Z",
+  "harvestedAt": "2026-10-12T22:50:12.738Z",
   "groups": {
     "604": {
       "name": "Base Set",
@@ -2933,7 +2933,7 @@
     "1441": {
       "name": "Gym Heroes",
       "abbreviation": "G1",
-      "modifiedOn": "2026-10-06T13:00:41.043",
+      "modifiedOn": "2026-10-12T13:30:25.363",
       "publishedOn": "2000-10-14",
       "setCode": "gym1",
       "products": [
@@ -8242,7 +8242,7 @@
     "2374": {
       "name": "Miscellaneous Cards & Products",
       "abbreviation": "MCAP",
-      "modifiedOn": "2026-10-09T14:42:18.81",
+      "modifiedOn": "2026-10-12T18:08:11.69",
       "products": [
         {
           "tcgplayerId": 179376,
@@ -8691,16 +8691,9 @@
         {
           "tcgplayerId": 207991,
           "name": "Galar Pal Mini Tin Display",
-          "kind": "mini_tin",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/207991_200w.jpg",
           "url": "https://www.tcgplayer.com/product/207991/pokemon-miscellaneous-cards-and-products-galar-pal-mini-tin-display"
-        },
-        {
-          "tcgplayerId": 207992,
-          "name": "Galar Pal Mini Tin [Set of 5]",
-          "kind": "mini_tin",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/207992_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/207992/pokemon-miscellaneous-cards-and-products-galar-pal-mini-tin-set-of-5"
         },
         {
           "tcgplayerId": 209322,
@@ -8791,14 +8784,6 @@
           "url": "https://www.tcgplayer.com/product/214270/pokemon-miscellaneous-cards-and-products-league-battle-decks-reshiram-and-charizard-gx"
         },
         {
-          "tcgplayerId": 214271,
-          "name": "League Battle Decks [Set of 2]",
-          "kind": "deck",
-          "releasedOn": "2020-05-22",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/214271_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/214271/pokemon-miscellaneous-cards-and-products-league-battle-decks-set-of-2"
-        },
-        {
           "tcgplayerId": 214360,
           "name": "Pokemon TCG: Trainer's Toolkit (2020)",
           "kind": "other",
@@ -8822,7 +8807,7 @@
         {
           "tcgplayerId": 218853,
           "name": "Galar Power Mini Tin Display",
-          "kind": "mini_tin",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/218853_200w.jpg",
           "url": "https://www.tcgplayer.com/product/218853/pokemon-miscellaneous-cards-and-products-galar-power-mini-tin-display"
         },
@@ -8887,13 +8872,6 @@
           "url": "https://www.tcgplayer.com/product/220291/pokemon-miscellaneous-cards-and-products-galar-challengers-tin-toxtricity-v"
         },
         {
-          "tcgplayerId": 220292,
-          "name": "Galar Challengers Tin [Set of 3]",
-          "kind": "tin",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/220292_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/220292/pokemon-miscellaneous-cards-and-products-galar-challengers-tin-set-of-3"
-        },
-        {
           "tcgplayerId": 220308,
           "name": "V Powers Tin [Pikachu V]",
           "kind": "tin",
@@ -8918,24 +8896,16 @@
           "url": "https://www.tcgplayer.com/product/220311/pokemon-miscellaneous-cards-and-products-v-powers-tin-eternatus-v"
         },
         {
-          "tcgplayerId": 221761,
-          "name": "V Powers Tin [Set of 3]",
-          "kind": "tin",
-          "releasedOn": "2020-09-04",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/221761_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/221761/pokemon-miscellaneous-cards-and-products-v-powers-tin-set-of-3"
-        },
-        {
           "tcgplayerId": 224741,
           "name": "Kanto Power Mini Tin Display",
-          "kind": "mini_tin",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/224741_200w.jpg",
           "url": "https://www.tcgplayer.com/product/224741/pokemon-miscellaneous-cards-and-products-kanto-power-mini-tin-display"
         },
         {
           "tcgplayerId": 224742,
           "name": "Kanto Friends Mini Tin Display",
-          "kind": "mini_tin",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/224742_200w.jpg",
           "url": "https://www.tcgplayer.com/product/224742/pokemon-miscellaneous-cards-and-products-kanto-friends-mini-tin-display"
         },
@@ -9008,7 +8978,7 @@
         {
           "tcgplayerId": 230393,
           "name": "V Battle Deck Display [Venusaur V/Blastoise V]",
-          "kind": "deck",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/230393_200w.jpg",
           "url": "https://www.tcgplayer.com/product/230393/pokemon-miscellaneous-cards-and-products-v-battle-deck-display-venusaur-v-blastoise-v"
         },
@@ -9036,7 +9006,7 @@
         {
           "tcgplayerId": 230399,
           "name": "V Forces Tin Display",
-          "kind": "tin",
+          "kind": "case",
           "releasedOn": "2021-02-19",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/230399_200w.jpg",
           "url": "https://www.tcgplayer.com/product/230399/pokemon-miscellaneous-cards-and-products-v-forces-tin-display"
@@ -9064,14 +9034,6 @@
           "releasedOn": "2021-02-19",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/230402_200w.jpg",
           "url": "https://www.tcgplayer.com/product/230402/pokemon-miscellaneous-cards-and-products-v-forces-tin-mew-v"
-        },
-        {
-          "tcgplayerId": 230403,
-          "name": "V Forces Tin [Set of 3]",
-          "kind": "tin",
-          "releasedOn": "2021-02-19",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/230403_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/230403/pokemon-miscellaneous-cards-and-products-v-forces-tin-set-of-3"
         },
         {
           "tcgplayerId": 230426,
@@ -9126,7 +9088,7 @@
         {
           "tcgplayerId": 233355,
           "name": "V Battle Deck Display [Victini V/Gardevoir V]",
-          "kind": "deck",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/233355_200w.jpg",
           "url": "https://www.tcgplayer.com/product/233355/pokemon-miscellaneous-cards-and-products-v-battle-deck-display-victini-v-gardevoir-v"
         },
@@ -9202,20 +9164,6 @@
           "url": "https://www.tcgplayer.com/product/237106/pokemon-miscellaneous-cards-and-products-checklane-2-mini-pack-blister-machamp"
         },
         {
-          "tcgplayerId": 239236,
-          "name": "Gardevoir V/Victini V Battle Decks [Set of 2]",
-          "kind": "deck",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/239236_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/239236/pokemon-miscellaneous-cards-and-products-gardevoir-v-victini-v-battle-decks-set-of-2"
-        },
-        {
-          "tcgplayerId": 239237,
-          "name": "Blastoise V/Venusaur V Battle Decks [Set of 2]",
-          "kind": "deck",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/239237_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/239237/pokemon-miscellaneous-cards-and-products-blastoise-v-venusaur-v-battle-decks-set-of-2"
-        },
-        {
           "tcgplayerId": 241093,
           "name": "Marnie Premium Tournament Collection Box",
           "kind": "collection",
@@ -9251,13 +9199,6 @@
           "kind": "tin",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/243562_200w.jpg",
           "url": "https://www.tcgplayer.com/product/243562/pokemon-miscellaneous-cards-and-products-eevee-evolutions-tin-flareon-v"
-        },
-        {
-          "tcgplayerId": 243571,
-          "name": "Eevee Evolutions Tin [Set of 3]",
-          "kind": "tin",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/243571_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/243571/pokemon-miscellaneous-cards-and-products-eevee-evolutions-tin-set-of-3"
         },
         {
           "tcgplayerId": 243573,
@@ -9317,14 +9258,6 @@
           "url": "https://www.tcgplayer.com/product/245728/pokemon-miscellaneous-cards-and-products-v-battle-deck-bundle-rayquaza-v-noivern-v"
         },
         {
-          "tcgplayerId": 245731,
-          "name": "Rayquaza V / Noivern V Battle Decks [Set of 2]",
-          "kind": "deck",
-          "releasedOn": "2021-10-08",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/245731_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/245731/pokemon-miscellaneous-cards-and-products-rayquaza-v-noivern-v-battle-decks-set-of-2"
-        },
-        {
           "tcgplayerId": 245732,
           "name": "V Battle Deck [Rayquaza V]",
           "kind": "deck",
@@ -9374,13 +9307,6 @@
           "kind": "deck",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/248072_200w.jpg",
           "url": "https://www.tcgplayer.com/product/248072/pokemon-miscellaneous-cards-and-products-league-battle-deck-rapid-strike-urshifu-vmax"
-        },
-        {
-          "tcgplayerId": 248073,
-          "name": "League Battle Deck [Rapid/Single Strike Urshifu VMAX] [Set of 2]",
-          "kind": "deck",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/248073_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/248073/pokemon-miscellaneous-cards-and-products-league-battle-deck-rapid-single-strike-urshifu-vmax-set-of-2"
         },
         {
           "tcgplayerId": 248205,
@@ -9483,58 +9409,51 @@
           "url": "https://www.tcgplayer.com/product/256832/pokemon-miscellaneous-cards-and-products-v-powers-tin-eternatus-v-international-version"
         },
         {
-          "tcgplayerId": 256833,
-          "name": "V Powers Tin [Set of 3] (International Version)",
-          "kind": "tin",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/256833_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/256833/pokemon-miscellaneous-cards-and-products-v-powers-tin-set-of-3-international-version"
-        },
-        {
           "tcgplayerId": 257712,
           "name": "Poke Ball Tin Display (Q4 2018)",
-          "kind": "tin",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/257712_200w.jpg",
           "url": "https://www.tcgplayer.com/product/257712/pokemon-miscellaneous-cards-and-products-poke-ball-tin-display-q4-2018"
         },
         {
           "tcgplayerId": 257713,
           "name": "Poke Ball Tin Display (Q1 2019)",
-          "kind": "tin",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/257713_200w.jpg",
           "url": "https://www.tcgplayer.com/product/257713/pokemon-miscellaneous-cards-and-products-poke-ball-tin-display-q1-2019"
         },
         {
           "tcgplayerId": 257714,
           "name": "Poke Ball Tin Display (Q3 2019)",
-          "kind": "tin",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/257714_200w.jpg",
           "url": "https://www.tcgplayer.com/product/257714/pokemon-miscellaneous-cards-and-products-poke-ball-tin-display-q3-2019"
         },
         {
           "tcgplayerId": 257715,
           "name": "Poke Ball Tin Display (Q1 2020)",
-          "kind": "tin",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/257715_200w.jpg",
           "url": "https://www.tcgplayer.com/product/257715/pokemon-miscellaneous-cards-and-products-poke-ball-tin-display-q1-2020"
         },
         {
           "tcgplayerId": 257716,
           "name": "Poke Ball Tin Display (Q2 2020)",
-          "kind": "tin",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/257716_200w.jpg",
           "url": "https://www.tcgplayer.com/product/257716/pokemon-miscellaneous-cards-and-products-poke-ball-tin-display-q2-2020"
         },
         {
           "tcgplayerId": 257717,
           "name": "Poke Ball Tin Display (Q1 2021)",
-          "kind": "tin",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/257717_200w.jpg",
           "url": "https://www.tcgplayer.com/product/257717/pokemon-miscellaneous-cards-and-products-poke-ball-tin-display-q1-2021"
         },
         {
           "tcgplayerId": 257718,
           "name": "Poke Ball Tin Display (Q4 2021)",
-          "kind": "tin",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/257718_200w.jpg",
           "url": "https://www.tcgplayer.com/product/257718/pokemon-miscellaneous-cards-and-products-poke-ball-tin-display-q4-2021"
         },
@@ -9565,20 +9484,6 @@
           "kind": "tin",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/260867_200w.jpg",
           "url": "https://www.tcgplayer.com/product/260867/pokemon-miscellaneous-cards-and-products-pokemon-stacking-tin-electric"
-        },
-        {
-          "tcgplayerId": 260868,
-          "name": "Pokemon Stacking Tins [Set of 6]",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/260868_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/260868/pokemon-miscellaneous-cards-and-products-pokemon-stacking-tins-set-of-6"
-        },
-        {
-          "tcgplayerId": 260869,
-          "name": "Pokemon Stacking Tins [Set of 3]",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/260869_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/260869/pokemon-miscellaneous-cards-and-products-pokemon-stacking-tins-set-of-3"
         },
         {
           "tcgplayerId": 261779,
@@ -9672,13 +9577,6 @@
           "url": "https://www.tcgplayer.com/product/262971/pokemon-miscellaneous-cards-and-products-v-heroes-tin-umbreon-v"
         },
         {
-          "tcgplayerId": 262972,
-          "name": "V Heroes Tin [Set of 3]",
-          "kind": "tin",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/262972_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/262972/pokemon-miscellaneous-cards-and-products-v-heroes-tin-set-of-3"
-        },
-        {
           "tcgplayerId": 263029,
           "name": "Fall 2020 Collector's Chest Tin + Premier Ball 2-Pack (Retail Exclusive)",
           "kind": "tin",
@@ -9714,16 +9612,9 @@
           "url": "https://www.tcgplayer.com/product/263034/pokemon-miscellaneous-cards-and-products-fall-2020-collectors-chest-tin-plus-ultra-ball-2-pack-retail-exclusive"
         },
         {
-          "tcgplayerId": 263258,
-          "name": "Sinnoh Star Mini Tin [Set of 5]",
-          "kind": "mini_tin",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/263258_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/263258/pokemon-miscellaneous-cards-and-products-sinnoh-star-mini-tin-set-of-5"
-        },
-        {
           "tcgplayerId": 263259,
           "name": "Sinnoh Star Mini Tin Display",
-          "kind": "mini_tin",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/263259_200w.jpg",
           "url": "https://www.tcgplayer.com/product/263259/pokemon-miscellaneous-cards-and-products-sinnoh-star-mini-tin-display"
         },
@@ -9773,16 +9664,9 @@
           "url": "https://www.tcgplayer.com/product/264758/pokemon-miscellaneous-cards-and-products-v-battle-deck-corviknight-v"
         },
         {
-          "tcgplayerId": 264764,
-          "name": "Lycanroc V / Corviknight V Battle Decks [Set of 2]",
-          "kind": "deck",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/264764_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/264764/pokemon-miscellaneous-cards-and-products-lycanroc-v-corviknight-v-battle-decks-set-of-2"
-        },
-        {
           "tcgplayerId": 265250,
           "name": "Poke Ball Tin Display (Q2 2022)",
-          "kind": "tin",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/265250_200w.jpg",
           "url": "https://www.tcgplayer.com/product/265250/pokemon-miscellaneous-cards-and-products-poke-ball-tin-display-q2-2022"
         },
@@ -9894,13 +9778,6 @@
           "url": "https://www.tcgplayer.com/product/270153/pokemon-miscellaneous-cards-and-products-v-heroes-tin-espeon-v-international-version"
         },
         {
-          "tcgplayerId": 270154,
-          "name": "V Heroes Tin [Set of 3] (International Version)",
-          "kind": "tin",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/270154_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/270154/pokemon-miscellaneous-cards-and-products-v-heroes-tin-set-of-3-international-version"
-        },
-        {
           "tcgplayerId": 270478,
           "name": "Kleavor VSTAR Premium Collection",
           "kind": "collection",
@@ -9981,17 +9858,9 @@
           "url": "https://www.tcgplayer.com/product/271947/pokemon-miscellaneous-cards-and-products-league-battle-deck-ice-rider-calyrex-vmax"
         },
         {
-          "tcgplayerId": 271997,
-          "name": "League Battle Deck [Shadow Rider/Ice Rider Calyrex VMAX] [Set of 2]",
-          "kind": "deck",
-          "releasedOn": "2022-07-22",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/271997_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/271997/pokemon-miscellaneous-cards-and-products-league-battle-deck-shadow-rider-ice-rider-calyrex-vmax-set-of-2"
-        },
-        {
           "tcgplayerId": 271998,
           "name": "League Battle Deck Display [Shadow Rider/Ice Rider Calyrex VMAX]",
-          "kind": "deck",
+          "kind": "case",
           "releasedOn": "2022-07-22",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/271998_200w.jpg",
           "url": "https://www.tcgplayer.com/product/271998/pokemon-miscellaneous-cards-and-products-league-battle-deck-display-shadow-rider-ice-rider-calyrex-vmax"
@@ -10011,21 +9880,6 @@
           "url": "https://www.tcgplayer.com/product/272000/pokemon-miscellaneous-cards-and-products-trainer-battle-deck-misty-of-cerulean-city-gym-jp-pokemon-center-exclusive"
         },
         {
-          "tcgplayerId": 272521,
-          "name": "Divergent Powers Tin [Set of 3]",
-          "kind": "tin",
-          "releasedOn": "2022-06-17",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/272521_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/272521/pokemon-miscellaneous-cards-and-products-divergent-powers-tin-set-of-3"
-        },
-        {
-          "tcgplayerId": 272522,
-          "name": "Divergent Powers Tin [Set of 3] (International Edition)",
-          "kind": "tin",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/272522_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/272522/pokemon-miscellaneous-cards-and-products-divergent-powers-tin-set-of-3-international-edition"
-        },
-        {
           "tcgplayerId": 273608,
           "name": "Pokemon TCG: Back to School Eraser Blister [Pikachu]",
           "kind": "blister",
@@ -10042,14 +9896,6 @@
           "url": "https://www.tcgplayer.com/product/273609/pokemon-miscellaneous-cards-and-products-pokemon-tcg-back-to-school-eraser-blister-eevee"
         },
         {
-          "tcgplayerId": 273610,
-          "name": "Pokemon TCG: Back to School Eraser Blister [Set of 2]",
-          "kind": "blister",
-          "releasedOn": "2022-07-22",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/273610_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/273610/pokemon-miscellaneous-cards-and-products-pokemon-tcg-back-to-school-eraser-blister-set-of-2"
-        },
-        {
           "tcgplayerId": 273611,
           "name": "Pokemon TCG: Back to School Bundle",
           "kind": "collection",
@@ -10060,7 +9906,7 @@
         {
           "tcgplayerId": 273613,
           "name": "Pokemon TCG: Back to School Pencil Case",
-          "kind": "other",
+          "kind": "case",
           "releasedOn": "2022-07-22",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/273613_200w.jpg",
           "url": "https://www.tcgplayer.com/product/273613/pokemon-miscellaneous-cards-and-products-pokemon-tcg-back-to-school-pencil-case"
@@ -10082,7 +9928,7 @@
         {
           "tcgplayerId": 277564,
           "name": "Pokemon TCG: Trainer's Toolkit (2021) Case",
-          "kind": "other",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/277564_200w.jpg",
           "url": "https://www.tcgplayer.com/product/277564/pokemon-miscellaneous-cards-and-products-pokemon-tcg-trainers-toolkit-2021-case"
         },
@@ -10097,7 +9943,7 @@
         {
           "tcgplayerId": 278924,
           "name": "Professor Juniper Premium Tournament Collection Box Case",
-          "kind": "collection",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/278924_200w.jpg",
           "url": "https://www.tcgplayer.com/product/278924/pokemon-miscellaneous-cards-and-products-professor-juniper-premium-tournament-collection-box-case"
         },
@@ -10130,13 +9976,6 @@
           "kind": "deck",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/280858_200w.jpg",
           "url": "https://www.tcgplayer.com/product/280858/pokemon-miscellaneous-cards-and-products-v-battle-deck-zeraora-v"
-        },
-        {
-          "tcgplayerId": 280859,
-          "name": "Deoxys V / Zeraora V Battle Decks [Set of 2]",
-          "kind": "deck",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/280859_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/280859/pokemon-miscellaneous-cards-and-products-deoxys-v-zeraora-v-battle-decks-set-of-2"
         },
         {
           "tcgplayerId": 280864,
@@ -10194,22 +10033,6 @@
           "url": "https://www.tcgplayer.com/product/281990/pokemon-miscellaneous-cards-and-products-hidden-potential-tin-giratina-v-international-version"
         },
         {
-          "tcgplayerId": 281993,
-          "name": "Hidden Potential Tin [Set of 3]",
-          "kind": "tin",
-          "releasedOn": "2022-10-14",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/281993_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/281993/pokemon-miscellaneous-cards-and-products-hidden-potential-tin-set-of-3"
-        },
-        {
-          "tcgplayerId": 281994,
-          "name": "Hidden Potential Tin [Set of 3] (International Version)",
-          "kind": "tin",
-          "releasedOn": "2022-10-14",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/281994_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/281994/pokemon-miscellaneous-cards-and-products-hidden-potential-tin-set-of-3-international-version"
-        },
-        {
           "tcgplayerId": 282002,
           "name": "Deoxys VMAX & VSTAR Battle Box",
           "kind": "collection",
@@ -10224,14 +10047,6 @@
           "releasedOn": "2022-10-14",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/282003_200w.jpg",
           "url": "https://www.tcgplayer.com/product/282003/pokemon-miscellaneous-cards-and-products-zeraora-vmax-and-vstar-battle-box"
-        },
-        {
-          "tcgplayerId": 282004,
-          "name": "Deoxys/Zeraora VMAX & VSTAR Battle Box [Set of 2]",
-          "kind": "collection",
-          "releasedOn": "2022-10-14",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/282004_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/282004/pokemon-miscellaneous-cards-and-products-deoxys-zeraora-vmax-and-vstar-battle-box-set-of-2"
         },
         {
           "tcgplayerId": 282250,
@@ -10302,13 +10117,6 @@
           "kind": "collection",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/287228_200w.jpg",
           "url": "https://www.tcgplayer.com/product/287228/pokemon-miscellaneous-cards-and-products-vmax-dragons-premium-collection"
-        },
-        {
-          "tcgplayerId": 449727,
-          "name": "Galar Power Mini Tin [Set of 5]",
-          "kind": "mini_tin",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/449727_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/449727/pokemon-miscellaneous-cards-and-products-galar-power-mini-tin-set-of-5"
         },
         {
           "tcgplayerId": 450103,
@@ -10467,7 +10275,7 @@
         {
           "tcgplayerId": 477289,
           "name": "Cyrus/Klara Premium Tournament Collection Display",
-          "kind": "collection",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/477289_200w.jpg",
           "url": "https://www.tcgplayer.com/product/477289/pokemon-miscellaneous-cards-and-products-cyrus-klara-premium-tournament-collection-display"
         },
@@ -10541,14 +10349,6 @@
           "url": "https://www.tcgplayer.com/product/484362/pokemon-miscellaneous-cards-and-products-paldea-friends-mini-tin-pawmi-and-lechonk"
         },
         {
-          "tcgplayerId": 484363,
-          "name": "Paldea Friends Mini Tin [Set of 5]",
-          "kind": "mini_tin",
-          "releasedOn": "2023-05-05",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/484363_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/484363/pokemon-miscellaneous-cards-and-products-paldea-friends-mini-tin-set-of-5"
-        },
-        {
           "tcgplayerId": 484372,
           "name": "Cyclizar ex Box",
           "kind": "collection",
@@ -10573,14 +10373,6 @@
           "url": "https://www.tcgplayer.com/product/484382/pokemon-miscellaneous-cards-and-products-ex-battle-deck-lucario-ex"
         },
         {
-          "tcgplayerId": 484384,
-          "name": "ex Battle Deck [Set of 2]",
-          "kind": "deck",
-          "releasedOn": "2023-05-05",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/484384_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/484384/pokemon-miscellaneous-cards-and-products-ex-battle-deck-set-of-2"
-        },
-        {
           "tcgplayerId": 489343,
           "name": "Enhanced 2-Pack Blister Pack [Articuno, Zapdos, & Moltres]",
           "kind": "blister",
@@ -10597,7 +10389,7 @@
         {
           "tcgplayerId": 496018,
           "name": "Paldea Friends Mini Tin Display",
-          "kind": "mini_tin",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/496018_200w.jpg",
           "url": "https://www.tcgplayer.com/product/496018/pokemon-miscellaneous-cards-and-products-paldea-friends-mini-tin-display"
         },
@@ -10680,7 +10472,7 @@
         {
           "tcgplayerId": 497851,
           "name": "Pokemon TCG: Back to School Pencil Case 2023",
-          "kind": "other",
+          "kind": "case",
           "releasedOn": "2023-08-04",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/497851_200w.jpg",
           "url": "https://www.tcgplayer.com/product/497851/pokemon-miscellaneous-cards-and-products-pokemon-tcg-back-to-school-pencil-case-2023"
@@ -10710,22 +10502,6 @@
           "url": "https://www.tcgplayer.com/product/497870/pokemon-miscellaneous-cards-and-products-summer-2023-collectors-chest-tin"
         },
         {
-          "tcgplayerId": 497966,
-          "name": "Pokemon TCG: Back to School Eraser Blister 2023 [Set of 2]",
-          "kind": "blister",
-          "releasedOn": "2023-08-04",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/497966_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/497966/pokemon-miscellaneous-cards-and-products-pokemon-tcg-back-to-school-eraser-blister-2023-set-of-2"
-        },
-        {
-          "tcgplayerId": 497967,
-          "name": "ex Battle Deck (Chien-Pao/Tinkaton] [Set of 2]",
-          "kind": "deck",
-          "releasedOn": "2023-07-14",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/497967_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/497967/pokemon-miscellaneous-cards-and-products-ex-battle-deck-chien-pao-tinkaton-set-of-2"
-        },
-        {
           "tcgplayerId": 498043,
           "name": "Mimikyu ex Showcase",
           "kind": "other",
@@ -10753,13 +10529,6 @@
           "kind": "deck",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/504252_200w.jpg",
           "url": "https://www.tcgplayer.com/product/504252/pokemon-miscellaneous-cards-and-products-deluxe-battle-deck-quaquaval-ex"
-        },
-        {
-          "tcgplayerId": 504257,
-          "name": "Deluxe Battle Deck: Quaquaval ex/Meowscarada ex [Set of 2]",
-          "kind": "deck",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/504257_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/504257/pokemon-miscellaneous-cards-and-products-deluxe-battle-deck-quaquaval-ex-meowscarada-ex-set-of-2"
         },
         {
           "tcgplayerId": 504330,
@@ -10821,7 +10590,7 @@
         {
           "tcgplayerId": 514256,
           "name": "Pokémon Collector's Chest Plus Pencil Case",
-          "kind": "collection",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/514256_200w.jpg",
           "url": "https://www.tcgplayer.com/product/514256/pokemon-miscellaneous-cards-and-products-pokemon-collectors-chest-plus-pencil-case"
         },
@@ -10866,7 +10635,7 @@
         {
           "tcgplayerId": 516946,
           "name": "Poke Ball Tin Display (Q3 2023)",
-          "kind": "tin",
+          "kind": "case",
           "releasedOn": "2023-09-22",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/516946_200w.jpg",
           "url": "https://www.tcgplayer.com/product/516946/pokemon-miscellaneous-cards-and-products-poke-ball-tin-display-q3-2023"
@@ -10878,13 +10647,6 @@
           "releasedOn": "2023-09-22",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/516987_200w.jpg",
           "url": "https://www.tcgplayer.com/product/516987/pokemon-miscellaneous-cards-and-products-pokemon-poke-ball-tin-lure-ball"
-        },
-        {
-          "tcgplayerId": 517101,
-          "name": "Paldea Partners Tin [Set of 3]",
-          "kind": "tin",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/517101_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/517101/pokemon-miscellaneous-cards-and-products-paldea-partners-tin-set-of-3"
         },
         {
           "tcgplayerId": 517119,
@@ -10910,7 +10672,7 @@
         {
           "tcgplayerId": 523954,
           "name": "Charizard ex Premium Collection Case",
-          "kind": "collection",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/523954_200w.jpg",
           "url": "https://www.tcgplayer.com/product/523954/pokemon-miscellaneous-cards-and-products-charizard-ex-premium-collection-case"
         },
@@ -10998,14 +10760,14 @@
         {
           "tcgplayerId": 532402,
           "name": "Combined Powers Premium Collection Case",
-          "kind": "collection",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/532402_200w.jpg",
           "url": "https://www.tcgplayer.com/product/532402/pokemon-miscellaneous-cards-and-products-combined-powers-premium-collection-case"
         },
         {
           "tcgplayerId": 532404,
           "name": "Mabosstiff ex Box Case",
-          "kind": "collection",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/532404_200w.jpg",
           "url": "https://www.tcgplayer.com/product/532404/pokemon-miscellaneous-cards-and-products-mabosstiff-ex-box-case"
         },
@@ -11077,20 +10839,6 @@
           "url": "https://www.tcgplayer.com/product/541175/pokemon-miscellaneous-cards-and-products-pokemon-stacking-tin-dragon"
         },
         {
-          "tcgplayerId": 541205,
-          "name": "Pokemon Stacking Tins [Set of 3] (Psychic, Metal, and Dragon)",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/541205_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/541205/pokemon-miscellaneous-cards-and-products-pokemon-stacking-tins-set-of-3-psychic-metal-and-dragon"
-        },
-        {
-          "tcgplayerId": 541321,
-          "name": "Deluxe Battle Deck: Zapdos ex/Ninetales ex [Set of 2]",
-          "kind": "deck",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/541321_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/541321/pokemon-miscellaneous-cards-and-products-deluxe-battle-deck-zapdos-ex-ninetales-ex-set-of-2"
-        },
-        {
           "tcgplayerId": 543171,
           "name": "Paldea Legends Tins [Bundle of 2] (International Version)",
           "kind": "collection",
@@ -11128,7 +10876,7 @@
         {
           "tcgplayerId": 545404,
           "name": "Iono Premium Tournament Collection Display",
-          "kind": "collection",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/545404_200w.jpg",
           "url": "https://www.tcgplayer.com/product/545404/pokemon-miscellaneous-cards-and-products-iono-premium-tournament-collection-display"
         },
@@ -11166,18 +10914,10 @@
         {
           "tcgplayerId": 549443,
           "name": "Pokemon TCG: Back to School Pencil Case 2024",
-          "kind": "other",
+          "kind": "case",
           "releasedOn": "2024-07-05",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/549443_200w.jpg",
           "url": "https://www.tcgplayer.com/product/549443/pokemon-miscellaneous-cards-and-products-pokemon-tcg-back-to-school-pencil-case-2024"
-        },
-        {
-          "tcgplayerId": 549451,
-          "name": "Pokemon TCG: Back to School Eraser Blister 2024 [Set of 2]",
-          "kind": "blister",
-          "releasedOn": "2024-07-05",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/549451_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/549451/pokemon-miscellaneous-cards-and-products-pokemon-tcg-back-to-school-eraser-blister-2024-set-of-2"
         },
         {
           "tcgplayerId": 549452,
@@ -11204,13 +10944,6 @@
           "url": "https://www.tcgplayer.com/product/549454/pokemon-miscellaneous-cards-and-products-back-to-school-2024-collector-chest"
         },
         {
-          "tcgplayerId": 550688,
-          "name": "Kanto Friends Mini Tin [Set of 5]",
-          "kind": "mini_tin",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/550688_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/550688/pokemon-miscellaneous-cards-and-products-kanto-friends-mini-tin-set-of-5"
-        },
-        {
           "tcgplayerId": 551456,
           "name": "Costco Galar Pals Mini Tins 5-Pack",
           "kind": "mini_tin",
@@ -11234,7 +10967,7 @@
         {
           "tcgplayerId": 554175,
           "name": "Vibrant Paldea Mini Tin Collection Display",
-          "kind": "mini_tin",
+          "kind": "case",
           "releasedOn": "2024-06-07",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/554175_200w.jpg",
           "url": "https://www.tcgplayer.com/product/554175/pokemon-miscellaneous-cards-and-products-vibrant-paldea-mini-tin-collection-display"
@@ -11280,14 +11013,6 @@
           "url": "https://www.tcgplayer.com/product/554183/pokemon-miscellaneous-cards-and-products-vibrant-paldea-mini-tin-ceruledge"
         },
         {
-          "tcgplayerId": 554184,
-          "name": "Vibrant Paldea Mini Tin [Set of 5]",
-          "kind": "mini_tin",
-          "releasedOn": "2024-06-07",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/554184_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/554184/pokemon-miscellaneous-cards-and-products-vibrant-paldea-mini-tin-set-of-5"
-        },
-        {
           "tcgplayerId": 557326,
           "name": "ex Battle Deck [Victini ex]",
           "kind": "deck",
@@ -11314,7 +11039,7 @@
         {
           "tcgplayerId": 558747,
           "name": "Dark Powers ex Special Collection Case",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2024-08-30",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/558747_200w.jpg",
           "url": "https://www.tcgplayer.com/product/558747/pokemon-miscellaneous-cards-and-products-dark-powers-ex-special-collection-case"
@@ -11346,7 +11071,7 @@
         {
           "tcgplayerId": 561885,
           "name": "Houndstone ex Box Case",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2024-10-04",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/561885_200w.jpg",
           "url": "https://www.tcgplayer.com/product/561885/pokemon-miscellaneous-cards-and-products-houndstone-ex-box-case"
@@ -11384,14 +11109,6 @@
           "url": "https://www.tcgplayer.com/product/562358/pokemon-miscellaneous-cards-and-products-paradox-destinies-tin-gouging-fire-ex"
         },
         {
-          "tcgplayerId": 562360,
-          "name": "Paradox Destinies Tin [Set of 4]",
-          "kind": "tin",
-          "releasedOn": "2024-09-06",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/562360_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/562360/pokemon-miscellaneous-cards-and-products-paradox-destinies-tin-set-of-4"
-        },
-        {
           "tcgplayerId": 563857,
           "name": "Tera Brawlers Premium Collection",
           "kind": "collection",
@@ -11413,14 +11130,6 @@
           "releasedOn": "2024-08-23",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/564146_200w.jpg",
           "url": "https://www.tcgplayer.com/product/564146/pokemon-miscellaneous-cards-and-products-deluxe-battle-deck-koraidon-ex"
-        },
-        {
-          "tcgplayerId": 564248,
-          "name": "Deluxe Battle Deck: Miraidon ex/Koraidon ex  [Set of 2]",
-          "kind": "deck",
-          "releasedOn": "2024-08-23",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/564248_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/564248/pokemon-miscellaneous-cards-and-products-deluxe-battle-deck-miraidon-ex-koraidon-ex-set-of-2"
         },
         {
           "tcgplayerId": 564274,
@@ -11449,7 +11158,7 @@
         {
           "tcgplayerId": 564280,
           "name": "Poke Ball Tin Display (Q4 2024)",
-          "kind": "tin",
+          "kind": "case",
           "releasedOn": "2024-10-18",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/564280_200w.jpg",
           "url": "https://www.tcgplayer.com/product/564280/pokemon-miscellaneous-cards-and-products-poke-ball-tin-display-q4-2024"
@@ -11675,7 +11384,7 @@
         {
           "tcgplayerId": 604240,
           "name": "Eevee Evolution VMAX Premium Collection Case",
-          "kind": "collection",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/604240_200w.jpg",
           "url": "https://www.tcgplayer.com/product/604240/pokemon-miscellaneous-cards-and-products-eevee-evolution-vmax-premium-collection-case"
         },
@@ -11749,16 +11458,9 @@
           "url": "https://www.tcgplayer.com/product/616296/pokemon-miscellaneous-cards-and-products-pokemon-stacking-tin-ogerpon"
         },
         {
-          "tcgplayerId": 616297,
-          "name": "Pokemon Stacking Tins: Treasures of Ruin, Paradox Pokemon, Ogerpon [Set of 3]",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/616297_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/616297/pokemon-miscellaneous-cards-and-products-pokemon-stacking-tins-treasures-of-ruin-paradox-pokemon-ogerpon-set-of-3"
-        },
-        {
           "tcgplayerId": 616298,
           "name": "Pokemon Stacking Tins: Treasures of Ruin, Paradox Pokemon, Ogerpon Display",
-          "kind": "other",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/616298_200w.jpg",
           "url": "https://www.tcgplayer.com/product/616298/pokemon-miscellaneous-cards-and-products-pokemon-stacking-tins-treasures-of-ruin-paradox-pokemon-ogerpon-display"
         },
@@ -11793,13 +11495,6 @@
           "url": "https://www.tcgplayer.com/product/616737/pokemon-miscellaneous-cards-and-products-retail-exclusive-pokemon-paldean-fates-mini-tins-plus-poke-ball-tin"
         },
         {
-          "tcgplayerId": 616920,
-          "name": "Victini ex/Miraidon ex Battle Decks [Set of 2]",
-          "kind": "deck",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/616920_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/616920/pokemon-miscellaneous-cards-and-products-victini-ex-miraidon-ex-battle-decks-set-of-2"
-        },
-        {
           "tcgplayerId": 616940,
           "name": "Enhanced 2-Pack Blister Pack [Palafin, Baxcalibur & Garganacl]",
           "kind": "blister",
@@ -11821,14 +11516,6 @@
           "url": "https://www.tcgplayer.com/product/616953/pokemon-miscellaneous-cards-and-products-enhanced-2-pack-blister-pack-armarouge-revavroom-and-houndstone"
         },
         {
-          "tcgplayerId": 619075,
-          "name": "Azure Legends Tins [Set of 3]",
-          "kind": "other",
-          "releasedOn": "2025-02-21",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/619075_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/619075/pokemon-miscellaneous-cards-and-products-azure-legends-tins-set-of-3"
-        },
-        {
           "tcgplayerId": 621096,
           "name": "Paradox Powers ex Special Collection",
           "kind": "collection",
@@ -11838,7 +11525,7 @@
         {
           "tcgplayerId": 621135,
           "name": "Paldea Adventure Chest Case",
-          "kind": "collection",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/621135_200w.jpg",
           "url": "https://www.tcgplayer.com/product/621135/pokemon-miscellaneous-cards-and-products-paldea-adventure-chest-case"
         },
@@ -11995,13 +11682,6 @@
           "url": "https://www.tcgplayer.com/product/633083/pokemon-miscellaneous-cards-and-products-azure-legends-tin-xerneas-ex-international-version"
         },
         {
-          "tcgplayerId": 633084,
-          "name": "Azure Legends Tins [Set of 3] (International Version)",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/633084_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/633084/pokemon-miscellaneous-cards-and-products-azure-legends-tins-set-of-3-international-version"
-        },
-        {
           "tcgplayerId": 633085,
           "name": "Paldea Friends Mini Tins 5-Pack",
           "kind": "mini_tin",
@@ -12018,7 +11698,7 @@
         {
           "tcgplayerId": 634607,
           "name": "Team Rocket's Mewtwo ex Box Case",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2025-06-13",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634607_200w.jpg",
           "url": "https://www.tcgplayer.com/product/634607/pokemon-miscellaneous-cards-and-products-team-rockets-mewtwo-ex-box-case"
@@ -12055,7 +11735,7 @@
         {
           "tcgplayerId": 639446,
           "name": "Charizard ex Special Collection Case",
-          "kind": "collection",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/639446_200w.jpg",
           "url": "https://www.tcgplayer.com/product/639446/pokemon-miscellaneous-cards-and-products-charizard-ex-special-collection-case"
         },
@@ -12070,7 +11750,7 @@
         {
           "tcgplayerId": 639830,
           "name": "Holiday Calendar 2025 Case",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2025-08-22",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/639830_200w.jpg",
           "url": "https://www.tcgplayer.com/product/639830/pokemon-miscellaneous-cards-and-products-holiday-calendar-2025-case"
@@ -12088,20 +11768,6 @@
           "kind": "collection",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/648365_200w.jpg",
           "url": "https://www.tcgplayer.com/product/648365/pokemon-miscellaneous-cards-and-products-prismatic-evolutions-lucario-ex-and-tyranitar-ex-premium-collection-sams-club"
-        },
-        {
-          "tcgplayerId": 648586,
-          "name": "Mighty Mysterious Tins [Set of 3]",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/648586_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/648586/pokemon-miscellaneous-cards-and-products-mighty-mysterious-tins-set-of-3"
-        },
-        {
-          "tcgplayerId": 648588,
-          "name": "Triple Whammy Tins [Set of 3]",
-          "kind": "other",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/648588_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/648588/pokemon-miscellaneous-cards-and-products-triple-whammy-tins-set-of-3"
         },
         {
           "tcgplayerId": 649193,
@@ -12154,7 +11820,7 @@
         {
           "tcgplayerId": 649295,
           "name": "Charizard ex Super-Premium Collection Case",
-          "kind": "spc",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/649295_200w.jpg",
           "url": "https://www.tcgplayer.com/product/649295/pokemon-miscellaneous-cards-and-products-charizard-ex-super-premium-collection-case"
         },
@@ -12216,13 +11882,6 @@
           "releasedOn": "2025-10-24",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/653203_200w.jpg",
           "url": "https://www.tcgplayer.com/product/653203/pokemon-miscellaneous-cards-and-products-pokemon-tcg-trainers-toolkit-2025"
-        },
-        {
-          "tcgplayerId": 653216,
-          "name": "Team Rocket Tin [Set of 3]",
-          "kind": "tin",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/653216_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/653216/pokemon-miscellaneous-cards-and-products-team-rocket-tin-set-of-3"
         },
         {
           "tcgplayerId": 653625,
@@ -12295,7 +11954,7 @@
         {
           "tcgplayerId": 654590,
           "name": "Poke Ball Tin Display (Q4 2025)",
-          "kind": "tin",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/654590_200w.jpg",
           "url": "https://www.tcgplayer.com/product/654590/pokemon-miscellaneous-cards-and-products-poke-ball-tin-display-q4-2025"
         },
@@ -12332,7 +11991,7 @@
         {
           "tcgplayerId": 656488,
           "name": "Mega Lucario ex Premium Figure Collection Case",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2025-11-07",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/656488_200w.jpg",
           "url": "https://www.tcgplayer.com/product/656488/pokemon-miscellaneous-cards-and-products-mega-lucario-ex-premium-figure-collection-case"
@@ -12368,7 +12027,7 @@
         {
           "tcgplayerId": 657111,
           "name": "Lillie Premium Tournament Collection Box Case",
-          "kind": "collection",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/657111_200w.jpg",
           "url": "https://www.tcgplayer.com/product/657111/pokemon-miscellaneous-cards-and-products-lillie-premium-tournament-collection-box-case"
         },
@@ -12405,16 +12064,9 @@
         {
           "tcgplayerId": 661998,
           "name": "Mega Battle Deck Display (Mega Gengar ex/Mega Diancie ex)",
-          "kind": "deck",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/661998_200w.jpg",
           "url": "https://www.tcgplayer.com/product/661998/pokemon-miscellaneous-cards-and-products-mega-battle-deck-display-mega-gengar-ex-mega-diancie-ex"
-        },
-        {
-          "tcgplayerId": 661999,
-          "name": "Mega Battle Deck: Mega Gengar ex/Mega Diancie ex [Set of 2]",
-          "kind": "deck",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/661999_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/661999/pokemon-miscellaneous-cards-and-products-mega-battle-deck-mega-gengar-ex-mega-diancie-ex-set-of-2"
         },
         {
           "tcgplayerId": 662745,
@@ -12455,14 +12107,14 @@
         {
           "tcgplayerId": 664895,
           "name": "Mega Charizard X ex Ultra Premium Collection Case",
-          "kind": "upc",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/664895_200w.jpg",
           "url": "https://www.tcgplayer.com/product/664895/pokemon-miscellaneous-cards-and-products-mega-charizard-x-ex-ultra-premium-collection-case"
         },
         {
           "tcgplayerId": 664898,
           "name": "Team Rocket’s Moltres ex Ultra-Premium Collection Case",
-          "kind": "upc",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/664898_200w.jpg",
           "url": "https://www.tcgplayer.com/product/664898/pokemon-miscellaneous-cards-and-products-team-rockets-moltres-ex-ultra-premium-collection-case"
         },
@@ -12498,7 +12150,7 @@
         {
           "tcgplayerId": 668591,
           "name": "Pokemon Day 2026 Collection Case",
-          "kind": "collection",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/668591_200w.jpg",
           "url": "https://www.tcgplayer.com/product/668591/pokemon-miscellaneous-cards-and-products-pokemon-day-2026-collection-case"
         },
@@ -12508,13 +12160,6 @@
           "kind": "tin",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/668648_200w.jpg",
           "url": "https://www.tcgplayer.com/product/668648/pokemon-miscellaneous-cards-and-products-pokemon-poke-ball-tin-repeat-ball"
-        },
-        {
-          "tcgplayerId": 670267,
-          "name": "Reshiram & Archaludon ex Box [Set of 2]",
-          "kind": "collection",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/670267_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/670267/pokemon-miscellaneous-cards-and-products-reshiram-and-archaludon-ex-box-set-of-2"
         },
         {
           "tcgplayerId": 670782,
@@ -12593,7 +12238,7 @@
         {
           "tcgplayerId": 682940,
           "name": "Mega Zygarde ex Premium Collection Case",
-          "kind": "collection",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/682940_200w.jpg",
           "url": "https://www.tcgplayer.com/product/682940/pokemon-miscellaneous-cards-and-products-mega-zygarde-ex-premium-collection-case"
         },
@@ -12622,7 +12267,7 @@
         {
           "tcgplayerId": 684107,
           "name": "League Battle Deck Case [Mega Lucario ex]",
-          "kind": "deck",
+          "kind": "case",
           "releasedOn": "2026-05-27",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/684107_200w.jpg",
           "url": "https://www.tcgplayer.com/product/684107/pokemon-miscellaneous-cards-and-products-league-battle-deck-case-mega-lucario-ex"
@@ -12630,7 +12275,7 @@
         {
           "tcgplayerId": 685574,
           "name": "Lumiose City Mini Tin Display",
-          "kind": "mini_tin",
+          "kind": "case",
           "releasedOn": "2026-06-05",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/685574_200w.jpg",
           "url": "https://www.tcgplayer.com/product/685574/pokemon-miscellaneous-cards-and-products-lumiose-city-mini-tin-display"
@@ -12674,14 +12319,6 @@
           "releasedOn": "2026-06-05",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/685579_200w.jpg",
           "url": "https://www.tcgplayer.com/product/685579/pokemon-miscellaneous-cards-and-products-lumiose-city-mini-tin-gallade-and-goomy"
-        },
-        {
-          "tcgplayerId": 685580,
-          "name": "Lumiose City Mini Tin [Set of 5]",
-          "kind": "mini_tin",
-          "releasedOn": "2026-06-05",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/685580_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/685580/pokemon-miscellaneous-cards-and-products-lumiose-city-mini-tin-set-of-5"
         },
         {
           "tcgplayerId": 685581,
@@ -12788,7 +12425,7 @@
         {
           "tcgplayerId": 690661,
           "name": "Mega Greninja ex Premium Collection Case",
-          "kind": "collection",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/690661_200w.jpg",
           "url": "https://www.tcgplayer.com/product/690661/pokemon-miscellaneous-cards-and-products-mega-greninja-ex-premium-collection-case"
         },
@@ -12809,21 +12446,21 @@
         {
           "tcgplayerId": 693199,
           "name": "Eevee Evolutions Premium Collection Case",
-          "kind": "collection",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/693199_200w.jpg",
           "url": "https://www.tcgplayer.com/product/693199/pokemon-miscellaneous-cards-and-products-eevee-evolutions-premium-collection-case"
         },
         {
           "tcgplayerId": 693200,
           "name": "Pikachu & Zekrom GX Premium Collection Case",
-          "kind": "collection",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/693200_200w.jpg",
           "url": "https://www.tcgplayer.com/product/693200/pokemon-miscellaneous-cards-and-products-pikachu-and-zekrom-gx-premium-collection-case"
         },
         {
           "tcgplayerId": 696827,
           "name": "Terapagos ex Ultra-Premium Collection Case",
-          "kind": "upc",
+          "kind": "case",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/696827_200w.jpg",
           "url": "https://www.tcgplayer.com/product/696827/pokemon-miscellaneous-cards-and-products-terapagos-ex-ultra-premium-collection-case"
         },
@@ -12856,13 +12493,6 @@
           "url": "https://www.tcgplayer.com/product/701530/pokemon-miscellaneous-cards-and-products-vaporeon-vmax-premium-collection-eu-exclusive"
         },
         {
-          "tcgplayerId": 701600,
-          "name": "Costco Exclusive 4-Tin Bundle: V Powers Tin [Set of 3] + V Strikers [Tyranitar]",
-          "kind": "tin",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/701600_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/701600/pokemon-miscellaneous-cards-and-products-costco-exclusive-4-tin-bundle-v-powers-tin-set-of-3-plus-v-strikers-tyranitar"
-        },
-        {
           "tcgplayerId": 702505,
           "name": "Mega Forces Tin [Mega Dragonite ex]",
           "kind": "tin",
@@ -12887,27 +12517,12 @@
           "url": "https://www.tcgplayer.com/product/702507/pokemon-miscellaneous-cards-and-products-mega-forces-tin-mega-zeraora-ex"
         },
         {
-          "tcgplayerId": 702508,
-          "name": "Mega Forces Tin [Set of 3]",
-          "kind": "tin",
-          "releasedOn": "2026-08-28",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/702508_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/702508/pokemon-miscellaneous-cards-and-products-mega-forces-tin-set-of-3"
-        },
-        {
           "tcgplayerId": 702509,
           "name": "Mega Forces Tin Case",
           "kind": "case",
           "releasedOn": "2026-08-28",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/702509_200w.jpg",
           "url": "https://www.tcgplayer.com/product/702509/pokemon-miscellaneous-cards-and-products-mega-forces-tin-case"
-        },
-        {
-          "tcgplayerId": 702637,
-          "name": "Costco Exclusive 4-Tin Bundle: V Heroes Tin [Set of 3] + V Strikers [Empoleon]",
-          "kind": "tin",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/702637_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/702637/pokemon-miscellaneous-cards-and-products-costco-exclusive-4-tin-bundle-v-heroes-tin-set-of-3-plus-v-strikers-empoleon"
         },
         {
           "tcgplayerId": 706250,
@@ -12977,7 +12592,7 @@
         {
           "tcgplayerId": 718644,
           "name": "League Battle Deck Case [Mega Greninja ex]",
-          "kind": "deck",
+          "kind": "case",
           "releasedOn": "2026-11-13",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/718644_200w.jpg",
           "url": "https://www.tcgplayer.com/product/718644/pokemon-miscellaneous-cards-and-products-league-battle-deck-case-mega-greninja-ex"
@@ -12995,6 +12610,13 @@
           "kind": "blister",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/721885_200w.jpg",
           "url": "https://www.tcgplayer.com/product/721885/pokemon-miscellaneous-cards-and-products-checklane-2-pack-blister-archaludon-1-tab"
+        },
+        {
+          "tcgplayerId": 723301,
+          "name": "Ascended Heroes Elite Trainer Box and Pokeball (Sam's Club)",
+          "kind": "etb",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/723301_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/723301/pokemon-miscellaneous-cards-and-products-ascended-heroes-elite-trainer-box-and-pokeball-sams-club"
         }
       ]
     },
@@ -15851,7 +15473,7 @@
     "2807": {
       "name": "SWSH06: Chilling Reign",
       "abbreviation": "SWSH06",
-      "modifiedOn": "2026-09-23T01:13:00.183",
+      "modifiedOn": "2026-10-12T18:41:04.683",
       "publishedOn": "2021-06-18",
       "setCode": "swsh6",
       "products": [
@@ -15914,7 +15536,7 @@
         {
           "tcgplayerId": 236266,
           "name": "Chilling Reign Build & Battle Box Display",
-          "kind": "build_battle",
+          "kind": "case",
           "releasedOn": "2021-06-18",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/236266_200w.jpg",
           "url": "https://www.tcgplayer.com/product/236266/pokemon-swsh06-chilling-reign-chilling-reign-build-and-battle-box-display"
@@ -15992,14 +15614,6 @@
           "url": "https://www.tcgplayer.com/product/242013/pokemon-swsh06-chilling-reign-chilling-reign-sleeved-booster-pack"
         },
         {
-          "tcgplayerId": 244410,
-          "name": "Chilling Reign Elite Trainer Box [Set of 2]",
-          "kind": "etb",
-          "releasedOn": "2021-06-18",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/244410_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/244410/pokemon-swsh06-chilling-reign-chilling-reign-elite-trainer-box-set-of-2"
-        },
-        {
           "tcgplayerId": 245856,
           "name": "Chilling Reign 2 Pack Blister [Galarian Zapdos V, Articuno V, Moltres V]",
           "kind": "blister",
@@ -16024,41 +15638,17 @@
           "url": "https://www.tcgplayer.com/product/247282/pokemon-swsh06-chilling-reign-chilling-reign-pokemon-center-elite-trainer-box-shadow-rider-calyrex-exclusive"
         },
         {
-          "tcgplayerId": 256274,
-          "name": "Chilling Reign Sleeved Booster Pack Art Bundle [Set of 5]",
-          "kind": "booster",
-          "releasedOn": "2021-06-18",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/256274_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/256274/pokemon-swsh06-chilling-reign-chilling-reign-sleeved-booster-pack-art-bundle-set-of-5"
-        },
-        {
-          "tcgplayerId": 256275,
-          "name": "Chilling Reign Sleeved Booster Pack Bundle [Set of 10]",
-          "kind": "booster",
-          "releasedOn": "2021-06-18",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/256275_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/256275/pokemon-swsh06-chilling-reign-chilling-reign-sleeved-booster-pack-bundle-set-of-10"
-        },
-        {
           "tcgplayerId": 256972,
           "name": "Ice Rider/ Shadow Rider Calyrex V Box Case",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2021-06-18",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/256972_200w.jpg",
           "url": "https://www.tcgplayer.com/product/256972/pokemon-swsh06-chilling-reign-ice-rider-shadow-rider-calyrex-v-box-case"
         },
         {
-          "tcgplayerId": 492290,
-          "name": "Chilling Reign Booster Pack Art Bundle [Set of 5]",
-          "kind": "booster",
-          "releasedOn": "2021-06-18",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/492290_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/492290/pokemon-swsh06-chilling-reign-chilling-reign-booster-pack-art-bundle-set-of-5"
-        },
-        {
           "tcgplayerId": 657836,
           "name": "Chilling Reign Sleeved Booster Case",
-          "kind": "booster",
+          "kind": "case",
           "releasedOn": "2021-06-18",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/657836_200w.jpg",
           "url": "https://www.tcgplayer.com/product/657836/pokemon-swsh06-chilling-reign-chilling-reign-sleeved-booster-case"
@@ -16654,7 +16244,7 @@
     "2906": {
       "name": "SWSH08: Fusion Strike",
       "abbreviation": "SWSH08",
-      "modifiedOn": "2026-10-01T15:09:15.8",
+      "modifiedOn": "2026-10-12T17:50:49.83",
       "publishedOn": "2021-11-12",
       "setCode": "swsh8",
       "products": [
@@ -16673,14 +16263,6 @@
           "releasedOn": "2021-11-12",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/247646_200w.jpg",
           "url": "https://www.tcgplayer.com/product/247646/pokemon-swsh08-fusion-strike-fusion-strike-booster-pack"
-        },
-        {
-          "tcgplayerId": 247651,
-          "name": "Fusion Strike Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2021-11-12",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/247651_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/247651/pokemon-swsh08-fusion-strike-fusion-strike-booster-pack-art-bundle-set-of-4"
         },
         {
           "tcgplayerId": 247654,
@@ -16707,22 +16289,6 @@
           "url": "https://www.tcgplayer.com/product/247656/pokemon-swsh08-fusion-strike-fusion-strike-sleeved-booster-pack"
         },
         {
-          "tcgplayerId": 247657,
-          "name": "Fusion Strike Sleeved Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2021-11-12",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/247657_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/247657/pokemon-swsh08-fusion-strike-fusion-strike-sleeved-booster-pack-art-bundle-set-of-4"
-        },
-        {
-          "tcgplayerId": 247658,
-          "name": "Fusion Strike Sleeved Booster Pack Bundle [Set of 8]",
-          "kind": "booster",
-          "releasedOn": "2021-11-12",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/247658_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/247658/pokemon-swsh08-fusion-strike-fusion-strike-sleeved-booster-pack-bundle-set-of-8"
-        },
-        {
           "tcgplayerId": 247659,
           "name": "Fusion Strike Build & Battle Box",
           "kind": "build_battle",
@@ -16733,7 +16299,7 @@
         {
           "tcgplayerId": 247660,
           "name": "Fusion Strike Build & Battle Box Display",
-          "kind": "build_battle",
+          "kind": "case",
           "releasedOn": "2021-11-12",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/247660_200w.jpg",
           "url": "https://www.tcgplayer.com/product/247660/pokemon-swsh08-fusion-strike-fusion-strike-build-and-battle-box-display"
@@ -16819,14 +16385,6 @@
           "url": "https://www.tcgplayer.com/product/247817/pokemon-swsh08-fusion-strike-hoopa-v-box"
         },
         {
-          "tcgplayerId": 249619,
-          "name": "Hoopa V Box / Dragonite V Box [Set of 2]",
-          "kind": "collection",
-          "releasedOn": "2021-11-17",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/249619_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/249619/pokemon-swsh08-fusion-strike-hoopa-v-box-dragonite-v-box-set-of-2"
-        },
-        {
           "tcgplayerId": 253454,
           "name": "Rapid Strike Urshifu VMAX Premium Collection",
           "kind": "collection",
@@ -16893,7 +16451,7 @@
         {
           "tcgplayerId": 547703,
           "name": "Fusion Strike Sleeved Booster Case",
-          "kind": "booster",
+          "kind": "case",
           "releasedOn": "2021-11-12",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/547703_200w.jpg",
           "url": "https://www.tcgplayer.com/product/547703/pokemon-swsh08-fusion-strike-fusion-strike-sleeved-booster-case"
@@ -16917,7 +16475,7 @@
         {
           "tcgplayerId": 638064,
           "name": "Fusion Strike 3-Pack Blister Case",
-          "kind": "blister",
+          "kind": "case",
           "releasedOn": "2021-11-12",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/638064_200w.jpg",
           "url": "https://www.tcgplayer.com/product/638064/pokemon-swsh08-fusion-strike-fusion-strike-3-pack-blister-case"
@@ -18162,7 +17720,7 @@
     "3170": {
       "name": "SWSH12: Silver Tempest",
       "abbreviation": "SWSH12",
-      "modifiedOn": "2026-10-09T14:19:15.193",
+      "modifiedOn": "2026-10-12T18:40:12.65",
       "publishedOn": "2022-11-11",
       "setCode": "swsh12",
       "products": [
@@ -18223,14 +17781,6 @@
           "url": "https://www.tcgplayer.com/product/283397/pokemon-swsh12-silver-tempest-silver-tempest-sleeved-booster-pack"
         },
         {
-          "tcgplayerId": 283400,
-          "name": "Silver Tempest Sleeved Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2022-11-11",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/283400_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/283400/pokemon-swsh12-silver-tempest-silver-tempest-sleeved-booster-pack-art-bundle-set-of-4"
-        },
-        {
           "tcgplayerId": 283401,
           "name": "Silver Tempest Elite Trainer Box",
           "kind": "etb",
@@ -18257,7 +17807,7 @@
         {
           "tcgplayerId": 285280,
           "name": "Fall 2022 Collector Chest Case",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2022-11-18",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/285280_200w.jpg",
           "url": "https://www.tcgplayer.com/product/285280/pokemon-swsh12-silver-tempest-fall-2022-collector-chest-case"
@@ -18265,7 +17815,7 @@
         {
           "tcgplayerId": 285775,
           "name": "Silver Tempest Build & Battle Box Display",
-          "kind": "build_battle",
+          "kind": "case",
           "releasedOn": "2022-11-11",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/285775_200w.jpg",
           "url": "https://www.tcgplayer.com/product/285775/pokemon-swsh12-silver-tempest-silver-tempest-build-and-battle-box-display"
@@ -18287,22 +17837,6 @@
           "url": "https://www.tcgplayer.com/product/285777/pokemon-swsh12-silver-tempest-silver-tempest-elite-trainer-box-case"
         },
         {
-          "tcgplayerId": 285778,
-          "name": "Silver Tempest Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2022-11-11",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/285778_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/285778/pokemon-swsh12-silver-tempest-silver-tempest-booster-pack-art-bundle-set-of-4"
-        },
-        {
-          "tcgplayerId": 285779,
-          "name": "Silver Tempest 3 Pack Blister [Set of 2]",
-          "kind": "blister",
-          "releasedOn": "2022-11-11",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/285779_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/285779/pokemon-swsh12-silver-tempest-silver-tempest-3-pack-blister-set-of-2"
-        },
-        {
           "tcgplayerId": 285780,
           "name": "Silver Tempest Single Pack Blister [Basculin]",
           "kind": "blister",
@@ -18317,14 +17851,6 @@
           "releasedOn": "2022-11-11",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/285781_200w.jpg",
           "url": "https://www.tcgplayer.com/product/285781/pokemon-swsh12-silver-tempest-silver-tempest-single-pack-blister-cranidos"
-        },
-        {
-          "tcgplayerId": 285782,
-          "name": "Silver Tempest Single Pack Blister [Set of 2]",
-          "kind": "blister",
-          "releasedOn": "2022-11-11",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/285782_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/285782/pokemon-swsh12-silver-tempest-silver-tempest-single-pack-blister-set-of-2"
         },
         {
           "tcgplayerId": 285783,
@@ -18351,14 +17877,6 @@
           "url": "https://www.tcgplayer.com/product/285860/pokemon-swsh12-silver-tempest-silver-tempest-pokemon-center-elite-trainer-box-exclusive"
         },
         {
-          "tcgplayerId": 454484,
-          "name": "Silver Tempest Sleeved Booster Pack Bundle [Set of 8]",
-          "kind": "booster",
-          "releasedOn": "2022-11-11",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/454484_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/454484/pokemon-swsh12-silver-tempest-silver-tempest-sleeved-booster-pack-bundle-set-of-8"
-        },
-        {
           "tcgplayerId": 486325,
           "name": "Silver Tempest Premium Checklane Blister [Hisuian Sneasler]",
           "kind": "blister",
@@ -18377,7 +17895,7 @@
         {
           "tcgplayerId": 550837,
           "name": "Silver Tempest Sleeved Booster Pack Case",
-          "kind": "booster",
+          "kind": "case",
           "releasedOn": "2022-11-11",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/550837_200w.jpg",
           "url": "https://www.tcgplayer.com/product/550837/pokemon-swsh12-silver-tempest-silver-tempest-sleeved-booster-pack-case"
@@ -18820,7 +18338,7 @@
     "22872": {
       "name": "SV: Scarlet & Violet Promo Cards",
       "abbreviation": "SVP",
-      "modifiedOn": "2026-10-06T13:37:13.17",
+      "modifiedOn": "2026-10-12T17:09:08.977",
       "publishedOn": "2023-03-31",
       "setCode": "svp",
       "products": []
@@ -20207,7 +19725,7 @@
     "23353": {
       "name": "SV: Paldean Fates",
       "abbreviation": "PAF",
-      "modifiedOn": "2026-10-05T11:56:58.297",
+      "modifiedOn": "2026-10-12T18:37:58.667",
       "publishedOn": "2024-01-26",
       "setCode": "sv04.5",
       "products": [
@@ -20262,7 +19780,7 @@
         {
           "tcgplayerId": 528047,
           "name": "Paldean Fates Mini Tin Display",
-          "kind": "mini_tin",
+          "kind": "case",
           "releasedOn": "2024-01-26",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/528047_200w.jpg",
           "url": "https://www.tcgplayer.com/product/528047/pokemon-sv-paldean-fates-paldean-fates-mini-tin-display"
@@ -20380,22 +19898,6 @@
           "url": "https://www.tcgplayer.com/product/528082/pokemon-sv-paldean-fates-paldean-fates-premium-collection-quaquaval-ex"
         },
         {
-          "tcgplayerId": 528227,
-          "name": "Paldean Fates International Tins [Set of 3]",
-          "kind": "other",
-          "releasedOn": "2024-02-09",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/528227_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/528227/pokemon-sv-paldean-fates-paldean-fates-international-tins-set-of-3"
-        },
-        {
-          "tcgplayerId": 528228,
-          "name": "Paldean Fates Tins [Set of 3]",
-          "kind": "other",
-          "releasedOn": "2024-02-09",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/528228_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/528228/pokemon-sv-paldean-fates-paldean-fates-tins-set-of-3"
-        },
-        {
           "tcgplayerId": 528229,
           "name": "Paldean Fates Tech Sticker Collections [Set of 3]",
           "kind": "collection",
@@ -20420,14 +19922,6 @@
           "url": "https://www.tcgplayer.com/product/528771/pokemon-sv-paldean-fates-paldean-fates-booster-bundle"
         },
         {
-          "tcgplayerId": 529039,
-          "name": "Paldean Fates Mini Tin [Set of 5]",
-          "kind": "mini_tin",
-          "releasedOn": "2024-02-09",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/529039_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/529039/pokemon-sv-paldean-fates-paldean-fates-mini-tin-set-of-5"
-        },
-        {
           "tcgplayerId": 530700,
           "name": "Paldean Fates Elite Trainer Box Case",
           "kind": "case",
@@ -20438,7 +19932,7 @@
         {
           "tcgplayerId": 530704,
           "name": "Paldean Fates Booster Bundle Display",
-          "kind": "bundle",
+          "kind": "case",
           "releasedOn": "2024-01-26",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/530704_200w.jpg",
           "url": "https://www.tcgplayer.com/product/530704/pokemon-sv-paldean-fates-paldean-fates-booster-bundle-display"
@@ -20462,7 +19956,7 @@
         {
           "tcgplayerId": 654599,
           "name": "Paldean Fates Tech Sticker Collection Case",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2024-01-26",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/654599_200w.jpg",
           "url": "https://www.tcgplayer.com/product/654599/pokemon-sv-paldean-fates-paldean-fates-tech-sticker-collection-case"
@@ -20476,14 +19970,6 @@
           "url": "https://www.tcgplayer.com/product/665113/pokemon-sv-paldean-fates-paldean-fates-great-tusk-ex-and-iron-treads-ex-premium-collection"
         },
         {
-          "tcgplayerId": 668624,
-          "name": "Paldean Fates Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2024-01-26",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/668624_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/668624/pokemon-sv-paldean-fates-paldean-fates-booster-pack-art-bundle-set-of-4"
-        },
-        {
           "tcgplayerId": 688258,
           "name": "Paldean Fates Tin Case",
           "kind": "case",
@@ -20494,7 +19980,7 @@
         {
           "tcgplayerId": 693569,
           "name": "Paldean Fates Premium Collection Case",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2024-01-26",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/693569_200w.jpg",
           "url": "https://www.tcgplayer.com/product/693569/pokemon-sv-paldean-fates-paldean-fates-premium-collection-case"
@@ -20769,7 +20255,7 @@
     "23473": {
       "name": "SV06: Twilight Masquerade",
       "abbreviation": "TWM",
-      "modifiedOn": "2026-09-26T00:57:18.663",
+      "modifiedOn": "2026-10-12T17:48:37.43",
       "publishedOn": "2024-05-24",
       "setCode": "sv06",
       "products": [
@@ -20894,17 +20380,9 @@
           "url": "https://www.tcgplayer.com/product/544386/pokemon-sv06-twilight-masquerade-twilight-masquerade-build-and-battle-box"
         },
         {
-          "tcgplayerId": 549487,
-          "name": "Twilight Masquerade Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2024-05-24",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/549487_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/549487/pokemon-sv06-twilight-masquerade-twilight-masquerade-booster-pack-art-bundle-set-of-4"
-        },
-        {
           "tcgplayerId": 549489,
           "name": "Twilight Masquerade Build & Battle Box Display",
-          "kind": "build_battle",
+          "kind": "case",
           "releasedOn": "2024-05-24",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/549489_200w.jpg",
           "url": "https://www.tcgplayer.com/product/549489/pokemon-sv06-twilight-masquerade-twilight-masquerade-build-and-battle-box-display"
@@ -20918,17 +20396,9 @@
           "url": "https://www.tcgplayer.com/product/549491/pokemon-sv06-twilight-masquerade-twilight-masquerade-pokemon-center-elite-trainer-box-exclusive-case"
         },
         {
-          "tcgplayerId": 549494,
-          "name": "Twilight Masquerade Sleeved Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2024-05-24",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/549494_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/549494/pokemon-sv06-twilight-masquerade-twilight-masquerade-sleeved-booster-pack-art-bundle-set-of-4"
-        },
-        {
           "tcgplayerId": 593672,
           "name": "Twilight Masquerade Sleeved Booster Pack Case",
-          "kind": "booster",
+          "kind": "case",
           "releasedOn": "2024-05-24",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/593672_200w.jpg",
           "url": "https://www.tcgplayer.com/product/593672/pokemon-sv06-twilight-masquerade-twilight-masquerade-sleeved-booster-pack-case"
@@ -21653,7 +21123,7 @@
     "23821": {
       "name": "SV: Prismatic Evolutions",
       "abbreviation": "PRE",
-      "modifiedOn": "2026-10-01T19:21:39.38",
+      "modifiedOn": "2026-10-12T18:38:34.37",
       "publishedOn": "2025-01-17",
       "setCode": "sv08.5",
       "products": [
@@ -21788,7 +21258,7 @@
         {
           "tcgplayerId": 593463,
           "name": "Prismatic Evolutions Mini Tin Display",
-          "kind": "mini_tin",
+          "kind": "case",
           "releasedOn": "2025-01-17",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/593463_200w.jpg",
           "url": "https://www.tcgplayer.com/product/593463/pokemon-sv-prismatic-evolutions-prismatic-evolutions-mini-tin-display"
@@ -21804,7 +21274,7 @@
         {
           "tcgplayerId": 598470,
           "name": "Prismatic Evolutions Surprise Box Case",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2025-02-07",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/598470_200w.jpg",
           "url": "https://www.tcgplayer.com/product/598470/pokemon-sv-prismatic-evolutions-prismatic-evolutions-surprise-box-case"
@@ -21812,7 +21282,7 @@
         {
           "tcgplayerId": 598486,
           "name": "Prismatic Evolutions Poster Collection Case",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2025-01-17",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/598486_200w.jpg",
           "url": "https://www.tcgplayer.com/product/598486/pokemon-sv-prismatic-evolutions-prismatic-evolutions-poster-collection-case"
@@ -21828,7 +21298,7 @@
         {
           "tcgplayerId": 598488,
           "name": "Prismatic Evolutions  Binder Collection Case",
-          "kind": "binder",
+          "kind": "case",
           "releasedOn": "2025-01-17",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/598488_200w.jpg",
           "url": "https://www.tcgplayer.com/product/598488/pokemon-sv-prismatic-evolutions-prismatic-evolutions-binder-collection-case"
@@ -21836,7 +21306,7 @@
         {
           "tcgplayerId": 598489,
           "name": "Prismatic Evolutions Tech Sticker Collection Case",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2025-01-17",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/598489_200w.jpg",
           "url": "https://www.tcgplayer.com/product/598489/pokemon-sv-prismatic-evolutions-prismatic-evolutions-tech-sticker-collection-case"
@@ -21884,7 +21354,7 @@
         {
           "tcgplayerId": 610317,
           "name": "Prismatic Evolutions Booster Bundle Display",
-          "kind": "bundle",
+          "kind": "case",
           "releasedOn": "2025-01-17",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/610317_200w.jpg",
           "url": "https://www.tcgplayer.com/product/610317/pokemon-sv-prismatic-evolutions-prismatic-evolutions-booster-bundle-display"
@@ -21906,25 +21376,9 @@
           "url": "https://www.tcgplayer.com/product/615027/pokemon-sv-prismatic-evolutions-prismatic-evolutions-booster-bundle-case"
         },
         {
-          "tcgplayerId": 617807,
-          "name": "Prismatic Evolutions Sleeved Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2025-01-17",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/617807_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/617807/pokemon-sv-prismatic-evolutions-prismatic-evolutions-sleeved-booster-pack-art-bundle-set-of-4"
-        },
-        {
-          "tcgplayerId": 617823,
-          "name": "Prismatic Evolutions Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2025-01-17",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/617823_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/617823/pokemon-sv-prismatic-evolutions-prismatic-evolutions-booster-pack-art-bundle-set-of-4"
-        },
-        {
           "tcgplayerId": 620024,
           "name": "Prismatic Evolutions 2-Pack Blister Case",
-          "kind": "blister",
+          "kind": "case",
           "releasedOn": "2025-01-17",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/620024_200w.jpg",
           "url": "https://www.tcgplayer.com/product/620024/pokemon-sv-prismatic-evolutions-prismatic-evolutions-2-pack-blister-case"
@@ -21940,7 +21394,7 @@
         {
           "tcgplayerId": 629828,
           "name": "Prismatic Evolutions Accessory Pouch Special Collection Case",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2025-01-17",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/629828_200w.jpg",
           "url": "https://www.tcgplayer.com/product/629828/pokemon-sv-prismatic-evolutions-prismatic-evolutions-accessory-pouch-special-collection-case"
@@ -21956,7 +21410,7 @@
         {
           "tcgplayerId": 638058,
           "name": "Prismatic Evolutions Super-Premium Collection Case",
-          "kind": "spc",
+          "kind": "case",
           "releasedOn": "2025-01-17",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/638058_200w.jpg",
           "url": "https://www.tcgplayer.com/product/638058/pokemon-sv-prismatic-evolutions-prismatic-evolutions-super-premium-collection-case"
@@ -21972,7 +21426,7 @@
         {
           "tcgplayerId": 650804,
           "name": "Prismatic Evolutions Premium Figure Collection Case",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2025-09-26",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/650804_200w.jpg",
           "url": "https://www.tcgplayer.com/product/650804/pokemon-sv-prismatic-evolutions-prismatic-evolutions-premium-figure-collection-case"
@@ -22247,7 +21701,7 @@
     "24269": {
       "name": "SV10: Destined Rivals",
       "abbreviation": "DRI",
-      "modifiedOn": "2026-10-01T19:45:32.01",
+      "modifiedOn": "2026-10-12T17:46:05.443",
       "publishedOn": "2025-05-30",
       "setCode": "sv10",
       "products": [
@@ -22414,34 +21868,10 @@
         {
           "tcgplayerId": 634383,
           "name": "Destined Rivals Build & Battle Box Display",
-          "kind": "build_battle",
+          "kind": "case",
           "releasedOn": "2025-06-13",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/634383_200w.jpg",
           "url": "https://www.tcgplayer.com/product/634383/pokemon-sv10-destined-rivals-destined-rivals-build-and-battle-box-display"
-        },
-        {
-          "tcgplayerId": 635053,
-          "name": "Destined Rivals Sleeved Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2025-05-30",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/635053_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/635053/pokemon-sv10-destined-rivals-destined-rivals-sleeved-booster-pack-art-bundle-set-of-4"
-        },
-        {
-          "tcgplayerId": 635328,
-          "name": "Destined Rivals 3 Pack Blister [Set of 2]",
-          "kind": "blister",
-          "releasedOn": "2025-05-30",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/635328_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/635328/pokemon-sv10-destined-rivals-destined-rivals-3-pack-blister-set-of-2"
-        },
-        {
-          "tcgplayerId": 649711,
-          "name": "Destined Rivals Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2025-05-30",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/649711_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/649711/pokemon-sv10-destined-rivals-destined-rivals-booster-pack-art-bundle-set-of-4"
         },
         {
           "tcgplayerId": 650765,
@@ -22786,7 +22216,7 @@
     "24380": {
       "name": "ME01: Mega Evolution",
       "abbreviation": "MEG",
-      "modifiedOn": "2026-10-01T15:12:04.297",
+      "modifiedOn": "2026-10-12T17:45:30.72",
       "publishedOn": "2025-09-26",
       "setCode": "me01",
       "products": [
@@ -22845,14 +22275,6 @@
           "releasedOn": "2025-09-26",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/644354_200w.jpg",
           "url": "https://www.tcgplayer.com/product/644354/pokemon-me01-mega-evolution-mega-evolution-sleeved-booster-pack"
-        },
-        {
-          "tcgplayerId": 644355,
-          "name": "Mega Evolution Sleeved Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2025-09-26",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/644355_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/644355/pokemon-me01-mega-evolution-mega-evolution-sleeved-booster-pack-art-bundle-set-of-4"
         },
         {
           "tcgplayerId": 644356,
@@ -22945,7 +22367,7 @@
         {
           "tcgplayerId": 644733,
           "name": "Mega Evolution Build & Battle Box Display",
-          "kind": "build_battle",
+          "kind": "case",
           "releasedOn": "2025-10-10",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/644733_200w.jpg",
           "url": "https://www.tcgplayer.com/product/644733/pokemon-me01-mega-evolution-mega-evolution-build-and-battle-box-display"
@@ -22953,7 +22375,7 @@
         {
           "tcgplayerId": 646173,
           "name": "Mega Evolution Enhanced Booster Case",
-          "kind": "other",
+          "kind": "case",
           "releasedOn": "2025-09-26",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/646173_200w.jpg",
           "url": "https://www.tcgplayer.com/product/646173/pokemon-me01-mega-evolution-mega-evolution-enhanced-booster-case"
@@ -22977,7 +22399,7 @@
         {
           "tcgplayerId": 649392,
           "name": "Mega Heroes Mini Tin Display",
-          "kind": "mini_tin",
+          "kind": "case",
           "releasedOn": "2025-09-26",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/649392_200w.jpg",
           "url": "https://www.tcgplayer.com/product/649392/pokemon-me01-mega-evolution-mega-heroes-mini-tin-display"
@@ -23025,7 +22447,7 @@
         {
           "tcgplayerId": 650766,
           "name": "Mega Evolution Sleeved Booster Case",
-          "kind": "booster",
+          "kind": "case",
           "releasedOn": "2025-09-26",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/650766_200w.jpg",
           "url": "https://www.tcgplayer.com/product/650766/pokemon-me01-mega-evolution-mega-evolution-sleeved-booster-case"
@@ -23045,14 +22467,6 @@
           "releasedOn": "2025-09-26",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/657490_200w.jpg",
           "url": "https://www.tcgplayer.com/product/657490/pokemon-me01-mega-evolution-mega-evolution-single-pack-blister-lycanroc"
-        },
-        {
-          "tcgplayerId": 657875,
-          "name": "Mega Evolution Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2025-09-26",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/657875_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/657875/pokemon-me01-mega-evolution-mega-evolution-booster-pack-art-bundle-set-of-4"
         },
         {
           "tcgplayerId": 715706,
@@ -24914,7 +24328,7 @@
     "24864": {
       "name": "Southeast Asia Exclusives",
       "abbreviation": "SEA",
-      "modifiedOn": "2026-09-25T14:31:39.09",
+      "modifiedOn": "2026-10-12T16:12:14.923",
       "publishedOn": "2023-08-05",
       "products": []
     }

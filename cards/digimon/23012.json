@@ -1,0 +1,2948 @@
+{
+  "groupId": 23012,
+  "cards": [
+    {
+      "id": 489704,
+      "name": "Gallantmon",
+      "label": "Ultimate Cup",
+      "number": "BT12-018 SR",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489704_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489704/digimon-card-game-across-time-gallantmon-ultimate-cup",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 300
+        }
+      ]
+    },
+    {
+      "id": 489705,
+      "name": "Gigimon",
+      "label": "Ultimate Cup",
+      "number": "BT12-001 U",
+      "rarity": "Promo",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489705_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489705/digimon-card-game-across-time-gigimon-ultimate-cup",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.06
+        }
+      ]
+    },
+    {
+      "id": 489707,
+      "name": "Growlmon",
+      "label": "Ultimate Cup",
+      "number": "BT12-010 C",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489707_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489707/digimon-card-game-across-time-growlmon-ultimate-cup",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 17.86
+        }
+      ]
+    },
+    {
+      "id": 489708,
+      "name": "Guilmon",
+      "label": "Ultimate Cup",
+      "number": "BT12-007 C",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489708_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489708/digimon-card-game-across-time-guilmon-ultimate-cup",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 11.5
+        }
+      ]
+    },
+    {
+      "id": 489710,
+      "name": "WarGrowlmon",
+      "label": "Ultimate Cup",
+      "number": "BT12-016 R",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/489710_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/489710/digimon-card-game-across-time-wargrowlmon-ultimate-cup",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 170.54
+        }
+      ]
+    },
+    {
+      "id": 490679,
+      "name": "Yasyamon",
+      "label": "Box Topper",
+      "number": "BT12-051 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/490679_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/490679/digimon-card-game-across-time-yasyamon-box-topper",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.28
+        }
+      ]
+    },
+    {
+      "id": 490682,
+      "name": "OmniShoutmon",
+      "label": "Box Topper",
+      "number": "BT12-014 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/490682_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/490682/digimon-card-game-across-time-omnishoutmon-box-topper",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.29
+        }
+      ]
+    },
+    {
+      "id": 490683,
+      "name": "Cho-Hakkaimon",
+      "label": "Box Topper",
+      "number": "BT12-041 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/490683_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/490683/digimon-card-game-across-time-cho-hakkaimon-box-topper",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.42
+        }
+      ]
+    },
+    {
+      "id": 490689,
+      "name": "Tuwarmon",
+      "label": "Box Topper",
+      "number": "BT12-064 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/490689_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/490689/digimon-card-game-across-time-tuwarmon-box-topper",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.91
+        }
+      ]
+    },
+    {
+      "id": 490693,
+      "name": "Arresterdramon",
+      "label": "Box Topper",
+      "number": "BT12-077 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/490693_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/490693/digimon-card-game-across-time-arresterdramon-box-topper",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.92
+        }
+      ]
+    },
+    {
+      "id": 490698,
+      "name": "Astamon",
+      "label": "Box Topper",
+      "number": "BT12-081 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/490698_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/490698/digimon-card-game-across-time-astamon-box-topper",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.42
+        }
+      ]
+    },
+    {
+      "id": 490989,
+      "name": "MetalGreymon",
+      "number": "BT12-068 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/490989_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/490989/digimon-card-game-across-time-metalgreymon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.72
+        }
+      ]
+    },
+    {
+      "id": 490993,
+      "name": "Agumon - BT12-059",
+      "number": "BT12-059 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/490993_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/490993/digimon-card-game-across-time-agumon-bt12-059",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.65
+        }
+      ]
+    },
+    {
+      "id": 490996,
+      "name": "Greymon",
+      "number": "BT12-062 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/490996_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/490996/digimon-card-game-across-time-greymon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.34
+        }
+      ]
+    },
+    {
+      "id": 491224,
+      "name": "DemiVeemon",
+      "number": "BT12-002 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/491224_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/491224/digimon-card-game-across-time-demiveemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.29
+        }
+      ]
+    },
+    {
+      "id": 491225,
+      "name": "Veemon",
+      "number": "BT12-021 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/491225_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/491225/digimon-card-game-across-time-veemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35
+        }
+      ]
+    },
+    {
+      "id": 491226,
+      "name": "Wormmon",
+      "number": "BT12-047 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/491226_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/491226/digimon-card-game-across-time-wormmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.38
+        }
+      ]
+    },
+    {
+      "id": 491233,
+      "name": "ExVeemon",
+      "number": "BT12-022 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/491233_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/491233/digimon-card-game-across-time-exveemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.31
+        }
+      ]
+    },
+    {
+      "id": 491235,
+      "name": "Stingmon",
+      "number": "BT12-050 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/491235_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/491235/digimon-card-game-across-time-stingmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.38
+        }
+      ]
+    },
+    {
+      "id": 491238,
+      "name": "Tai Kamiya",
+      "number": "BT12-095 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/491238_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/491238/digimon-card-game-across-time-tai-kamiya",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.36
+        }
+      ]
+    },
+    {
+      "id": 491240,
+      "name": "WarGreymon",
+      "number": "BT12-070 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/491240_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/491240/digimon-card-game-across-time-wargreymon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.8
+        }
+      ]
+    },
+    {
+      "id": 492155,
+      "name": "Davis Motomiya",
+      "number": "BT12-090 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492155_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492155/digimon-card-game-across-time-davis-motomiya",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.2
+        }
+      ]
+    },
+    {
+      "id": 492156,
+      "name": "Imperialdramon: Fighter Mode",
+      "number": "BT12-031 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492156_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492156/digimon-card-game-across-time-imperialdramon-fighter-mode",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.82
+        }
+      ]
+    },
+    {
+      "id": 492157,
+      "name": "Gallantmon",
+      "number": "BT12-018 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492157_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492157/digimon-card-game-across-time-gallantmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.67
+        }
+      ]
+    },
+    {
+      "id": 492158,
+      "name": "Takato Matsuki",
+      "number": "BT12-089 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492158_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492158/digimon-card-game-across-time-takato-matsuki",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.28
+        }
+      ]
+    },
+    {
+      "id": 492159,
+      "name": "EmperorGreymon",
+      "number": "BT12-017 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492159_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492159/digimon-card-game-across-time-emperorgreymon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.54
+        }
+      ]
+    },
+    {
+      "id": 492160,
+      "name": "Takuya Kanbara",
+      "number": "BT12-088 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492160_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492160/digimon-card-game-across-time-takuya-kanbara",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.58
+        }
+      ]
+    },
+    {
+      "id": 492161,
+      "name": "Pyro Dragons",
+      "number": "BT12-099 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492161_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492161/digimon-card-game-across-time-pyro-dragons",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 492162,
+      "name": "ShineGreymon",
+      "number": "BT12-043 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492162_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492162/digimon-card-game-across-time-shinegreymon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.49
+        }
+      ]
+    },
+    {
+      "id": 492163,
+      "name": "Marcus Damon",
+      "number": "BT12-092 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492163_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492163/digimon-card-game-across-time-marcus-damon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.52
+        }
+      ]
+    },
+    {
+      "id": 492164,
+      "name": "Shining Blast",
+      "number": "BT12-104 R",
+      "rarity": "Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492164_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492164/digimon-card-game-across-time-shining-blast",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 492165,
+      "name": "Gigimon",
+      "number": "BT12-001 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492165_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492165/digimon-card-game-across-time-gigimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.26
+        }
+      ]
+    },
+    {
+      "id": 492166,
+      "name": "Guilmon",
+      "number": "BT12-007 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492166_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492166/digimon-card-game-across-time-guilmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16
+        }
+      ]
+    },
+    {
+      "id": 492167,
+      "name": "Growlmon",
+      "number": "BT12-010 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492167_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492167/digimon-card-game-across-time-growlmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 492168,
+      "name": "WarGrowlmon",
+      "number": "BT12-016 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492168_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492168/digimon-card-game-across-time-wargrowlmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.94
+        }
+      ]
+    },
+    {
+      "id": 492172,
+      "name": "Aldamon",
+      "number": "BT12-015 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492172_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492172/digimon-card-game-across-time-aldamon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.16
+        }
+      ]
+    },
+    {
+      "id": 492174,
+      "name": "Flamemon",
+      "number": "BT12-009 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492174_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492174/digimon-card-game-across-time-flamemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17
+        }
+      ]
+    },
+    {
+      "id": 492175,
+      "name": "Agunimon",
+      "number": "BT12-012 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492175_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492175/digimon-card-game-across-time-agunimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 492176,
+      "name": "BurningGreymon",
+      "number": "BT12-013 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492176_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492176/digimon-card-game-across-time-burninggreymon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 492177,
+      "name": "GranKuwagamon",
+      "number": "BT12-056 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492177_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492177/digimon-card-game-across-time-grankuwagamon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 492178,
+      "name": "Imperialdramon: Dragon Mode",
+      "number": "BT12-030 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492178_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492178/digimon-card-game-across-time-imperialdramon-dragon-mode",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.67
+        }
+      ]
+    },
+    {
+      "id": 492179,
+      "name": "Dinobeemon",
+      "number": "BT12-055 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492179_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492179/digimon-card-game-across-time-dinobeemon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.3
+        }
+      ]
+    },
+    {
+      "id": 492181,
+      "name": "Paildramon",
+      "number": "BT12-028 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492181_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492181/digimon-card-game-across-time-paildramon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.36
+        }
+      ]
+    },
+    {
+      "id": 492182,
+      "name": "RizeGreymon",
+      "number": "BT12-042 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492182_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492182/digimon-card-game-across-time-rizegreymon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.21
+        }
+      ]
+    },
+    {
+      "id": 492183,
+      "name": "GeoGreymon",
+      "number": "BT12-038 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492183_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492183/digimon-card-game-across-time-geogreymon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2
+        }
+      ]
+    },
+    {
+      "id": 492184,
+      "name": "Agumon - BT12-034",
+      "number": "BT12-034 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492184_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492184/digimon-card-game-across-time-agumon-bt12-034",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24
+        }
+      ]
+    },
+    {
+      "id": 492185,
+      "name": "Koromon",
+      "number": "BT12-003 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492185_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492185/digimon-card-game-across-time-koromon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16
+        }
+      ]
+    },
+    {
+      "id": 492320,
+      "name": "Shoutmon",
+      "label": "King Version · 2023 Regionals Champion",
+      "number": "BT12-011 U",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492320_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492320/digimon-card-game-across-time-shoutmon-king-version-2023-regionals-champion",
+      "prices": []
+    },
+    {
+      "id": 492322,
+      "name": "Shoutmon",
+      "label": "King Version · 2023 Regionals Finalist",
+      "number": "BT12-011 U",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492322_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492322/digimon-card-game-across-time-shoutmon-king-version-2023-regionals-finalist",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 11.1
+        }
+      ]
+    },
+    {
+      "id": 492324,
+      "name": "Shoutmon",
+      "label": "King Version · 2023 Regionals Participant",
+      "number": "BT12-011 U",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492324_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492324/digimon-card-game-across-time-shoutmon-king-version-2023-regionals-participant",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 11.41
+        }
+      ]
+    },
+    {
+      "id": 492331,
+      "name": "Tagiru Akashi",
+      "number": "BT12-096 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492331_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492331/digimon-card-game-across-time-tagiru-akashi",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.17
+        }
+      ]
+    },
+    {
+      "id": 492332,
+      "name": "Arresterdramon: Superior Mode",
+      "number": "BT12-083 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492332_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492332/digimon-card-game-across-time-arresterdramon-superior-mode",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.99
+        }
+      ]
+    },
+    {
+      "id": 492340,
+      "name": "Shoutmon",
+      "label": "King Version",
+      "number": "BT12-011 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492340_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492340/digimon-card-game-across-time-shoutmon-king-version",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.98
+        }
+      ]
+    },
+    {
+      "id": 492343,
+      "name": "OmniShoutmon",
+      "number": "BT12-014 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492343_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492343/digimon-card-game-across-time-omnishoutmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 492347,
+      "name": "Shoutmon",
+      "number": "BT12-008 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492347_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492347/digimon-card-game-across-time-shoutmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 492357,
+      "name": "Shoutmon X7: Superior Mode",
+      "number": "BT12-112 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492357_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492357/digimon-card-game-across-time-shoutmon-x7-superior-mode",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.67
+        }
+      ]
+    },
+    {
+      "id": 492364,
+      "name": "Taiki Kudo",
+      "number": "BT12-087 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492364_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492364/digimon-card-game-across-time-taiki-kudo",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.29
+        }
+      ]
+    },
+    {
+      "id": 492367,
+      "name": "Final Xros Blade",
+      "number": "BT12-100 R",
+      "rarity": "Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492367_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492367/digimon-card-game-across-time-final-xros-blade",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 492407,
+      "name": "Dracmon",
+      "number": "BT12-048 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492407_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492407/digimon-card-game-across-time-dracmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 492408,
+      "name": "Yasyamon",
+      "number": "BT12-051 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492408_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492408/digimon-card-game-across-time-yasyamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 492410,
+      "name": "Ren Tobari",
+      "number": "BT12-093 U",
+      "rarity": "Uncommon",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492410_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492410/digimon-card-game-across-time-ren-tobari",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05
+        }
+      ]
+    },
+    {
+      "id": 492416,
+      "name": "Gumdramon",
+      "number": "BT12-074 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492416_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492416/digimon-card-game-across-time-gumdramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22
+        }
+      ]
+    },
+    {
+      "id": 492419,
+      "name": "Arresterdramon",
+      "number": "BT12-077 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492419_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492419/digimon-card-game-across-time-arresterdramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16
+        }
+      ]
+    },
+    {
+      "id": 492423,
+      "name": "Overflowing Power",
+      "number": "BT12-109 R",
+      "rarity": "Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492423_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492423/digimon-card-game-across-time-overflowing-power",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 492431,
+      "name": "Opossummon",
+      "number": "BT12-037 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492431_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492431/digimon-card-game-across-time-opossummon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 492438,
+      "name": "Cho-Hakkaimon",
+      "number": "BT12-041 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492438_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492438/digimon-card-game-across-time-cho-hakkaimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 492439,
+      "name": "Airu Suzaki",
+      "number": "BT12-091 U",
+      "rarity": "Uncommon",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492439_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492439/digimon-card-game-across-time-airu-suzaki",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 492440,
+      "name": "Home Run Blast",
+      "number": "BT12-103 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492440_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492440/digimon-card-game-across-time-home-run-blast",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 492479,
+      "name": "ChuuChuumon",
+      "number": "BT12-060 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492479_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492479/digimon-card-game-across-time-chuuchuumon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 492489,
+      "name": "Damemon",
+      "number": "BT12-063 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492489_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492489/digimon-card-game-across-time-damemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 492490,
+      "name": "Tuwarmon",
+      "number": "BT12-064 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492490_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492490/digimon-card-game-across-time-tuwarmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 492491,
+      "name": "Yuu Amano",
+      "number": "BT12-094 U",
+      "rarity": "Uncommon",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492491_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492491/digimon-card-game-across-time-yuu-amano",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17
+        }
+      ]
+    },
+    {
+      "id": 492603,
+      "name": "Clockmon",
+      "number": "BT12-086 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492603_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492603/digimon-card-game-across-time-clockmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.23
+        }
+      ]
+    },
+    {
+      "id": 492604,
+      "name": "Watchmaker",
+      "number": "BT12-098 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492604_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492604/digimon-card-game-across-time-watchmaker",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.35
+        }
+      ]
+    },
+    {
+      "id": 492605,
+      "name": "Psychemon",
+      "number": "BT12-075 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492605_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492605/digimon-card-game-across-time-psychemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22
+        }
+      ]
+    },
+    {
+      "id": 492606,
+      "name": "Astamon",
+      "number": "BT12-081 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492606_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492606/digimon-card-game-across-time-astamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 492607,
+      "name": "Ryoma Mogami",
+      "number": "BT12-097 U",
+      "rarity": "Uncommon",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/492607_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/492607/digimon-card-game-across-time-ryoma-mogami",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 493374,
+      "name": "Quartzmon",
+      "number": "BT12-057 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493374_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493374/digimon-card-game-across-time-quartzmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.97
+        }
+      ]
+    },
+    {
+      "id": 493375,
+      "name": "Gypt Particle Cannon",
+      "number": "BT12-106 R",
+      "rarity": "Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493375_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493375/digimon-card-game-across-time-gypt-particle-cannon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 493376,
+      "name": "DarknessBagramon",
+      "number": "BT12-111 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493376_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493376/digimon-card-game-across-time-darknessbagramon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.9
+        }
+      ]
+    },
+    {
+      "id": 493377,
+      "name": "JetMervamon",
+      "number": "BT12-084 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493377_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493377/digimon-card-game-across-time-jetmervamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17
+        }
+      ]
+    },
+    {
+      "id": 493412,
+      "name": "Impmon",
+      "label": "X Antibody",
+      "number": "BT12-073 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493412_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493412/digimon-card-game-across-time-impmon-x-antibody",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.7
+        }
+      ]
+    },
+    {
+      "id": 493413,
+      "name": "Wizardmon",
+      "label": "X Antibody",
+      "number": "BT12-078 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493413_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493413/digimon-card-game-across-time-wizardmon-x-antibody",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.66
+        }
+      ]
+    },
+    {
+      "id": 493417,
+      "name": "Baalmon",
+      "label": "X Antibody",
+      "number": "BT12-082 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493417_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493417/digimon-card-game-across-time-baalmon-x-antibody",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.71
+        }
+      ]
+    },
+    {
+      "id": 493425,
+      "name": "Beelzemon",
+      "label": "X Antibody",
+      "number": "BT12-085 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493425_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493425/digimon-card-game-across-time-beelzemon-x-antibody",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.21
+        }
+      ]
+    },
+    {
+      "id": 493426,
+      "name": "Seventh Full Cluster",
+      "number": "BT12-110 U",
+      "rarity": "Uncommon",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493426_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493426/digimon-card-game-across-time-seventh-full-cluster",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.34
+        }
+      ]
+    },
+    {
+      "id": 493428,
+      "name": "UlforceVeedramon",
+      "label": "X Antibody",
+      "number": "BT12-029 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493428_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493428/digimon-card-game-across-time-ulforceveedramon-x-antibody",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 12.39
+        }
+      ]
+    },
+    {
+      "id": 493433,
+      "name": "Chaosdramon",
+      "label": "X Antibody",
+      "number": "BT12-072 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493433_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493433/digimon-card-game-across-time-chaosdramon-x-antibody",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.7
+        }
+      ]
+    },
+    {
+      "id": 493434,
+      "name": "Super Eradication Attack",
+      "number": "BT12-108 R",
+      "rarity": "Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493434_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493434/digimon-card-game-across-time-super-eradication-attack",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 493439,
+      "name": "Davis Motomiya",
+      "label": "Alternate Art",
+      "number": "BT12-090 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493439_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493439/digimon-card-game-across-time-davis-motomiya-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.19
+        }
+      ]
+    },
+    {
+      "id": 493441,
+      "name": "Tai Kamiya",
+      "label": "Alternate Art",
+      "number": "BT12-095 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493441_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493441/digimon-card-game-across-time-tai-kamiya-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 13.52
+        }
+      ]
+    },
+    {
+      "id": 493443,
+      "name": "WarGreymon",
+      "label": "Alternate Art",
+      "number": "BT12-070 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493443_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493443/digimon-card-game-across-time-wargreymon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 6.49
+        }
+      ]
+    },
+    {
+      "id": 493452,
+      "name": "Imperialdramon: Fighter Mode",
+      "label": "Alternate Art",
+      "number": "BT12-031 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493452_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493452/digimon-card-game-across-time-imperialdramon-fighter-mode-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 9.85
+        }
+      ]
+    },
+    {
+      "id": 493465,
+      "name": "Lanamon",
+      "number": "BT12-024 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493465_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493465/digimon-card-game-across-time-lanamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.21
+        }
+      ]
+    },
+    {
+      "id": 493466,
+      "name": "Calmaramon",
+      "number": "BT12-025 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493466_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493466/digimon-card-game-across-time-calmaramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 493467,
+      "name": "Mermaimon",
+      "number": "BT12-027 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493467_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493467/digimon-card-game-across-time-mermaimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 493468,
+      "name": "AncientMermaimon",
+      "number": "BT12-032 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493468_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493468/digimon-card-game-across-time-ancientmermaimon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 493469,
+      "name": "Great Maelstrom",
+      "number": "BT12-102 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493469_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493469/digimon-card-game-across-time-great-maelstrom",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 493470,
+      "name": "Laplace's Demon",
+      "number": "BT12-107 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493470_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493470/digimon-card-game-across-time-laplaces-demon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3
+        }
+      ]
+    },
+    {
+      "id": 493471,
+      "name": "Mercurymon",
+      "number": "BT12-066 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493471_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493471/digimon-card-game-across-time-mercurymon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 493472,
+      "name": "Sephirothmon",
+      "number": "BT12-065 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493472_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493472/digimon-card-game-across-time-sephirothmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 493473,
+      "name": "Wisemon",
+      "number": "BT12-080 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493473_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493473/digimon-card-game-across-time-wisemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 493474,
+      "name": "AncientWisemon",
+      "number": "BT12-071 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493474_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493474/digimon-card-game-across-time-ancientwisemon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 493475,
+      "name": "Takato Matsuki",
+      "label": "Alternate Art",
+      "number": "BT12-089 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493475_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493475/digimon-card-game-across-time-takato-matsuki-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 23.46
+        }
+      ]
+    },
+    {
+      "id": 493585,
+      "name": "TorikaraBallmon",
+      "number": "BT12-004 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493585_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493585/digimon-card-game-across-time-torikaraballmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 493586,
+      "name": "Kozenimon",
+      "number": "BT12-005 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493586_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493586/digimon-card-game-across-time-kozenimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 493587,
+      "name": "Monimon",
+      "number": "BT12-006 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493587_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493587/digimon-card-game-across-time-monimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.45
+        }
+      ]
+    },
+    {
+      "id": 493588,
+      "name": "EmperorGreymon",
+      "label": "Alternate Art",
+      "number": "BT12-017 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493588_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493588/digimon-card-game-across-time-emperorgreymon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 6.58
+        }
+      ]
+    },
+    {
+      "id": 493589,
+      "name": "Gallantmon",
+      "label": "Alternate Art",
+      "number": "BT12-018 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493589_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493589/digimon-card-game-across-time-gallantmon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5.7
+        }
+      ]
+    },
+    {
+      "id": 493590,
+      "name": "Otamamon",
+      "number": "BT12-019 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493590_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493590/digimon-card-game-across-time-otamamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05
+        }
+      ]
+    },
+    {
+      "id": 493591,
+      "name": "Swimmon",
+      "number": "BT12-020 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493591_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493591/digimon-card-game-across-time-swimmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05
+        }
+      ]
+    },
+    {
+      "id": 493592,
+      "name": "Gekomon",
+      "number": "BT12-023 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493592_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493592/digimon-card-game-across-time-gekomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 493593,
+      "name": "ShogunGekomon",
+      "number": "BT12-026 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493593_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493593/digimon-card-game-across-time-shogungekomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05
+        }
+      ]
+    },
+    {
+      "id": 493594,
+      "name": "UlforceVeedramon",
+      "label": "X Antibody · Alternate Art",
+      "number": "BT12-029 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493594_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493594/digimon-card-game-across-time-ulforceveedramon-x-antibody-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 14.3
+        }
+      ]
+    },
+    {
+      "id": 493595,
+      "name": "Pillomon",
+      "number": "BT12-033 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493595_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493595/digimon-card-game-across-time-pillomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 493596,
+      "name": "Ekakimon",
+      "number": "BT12-035 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493596_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493596/digimon-card-game-across-time-ekakimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 493597,
+      "name": "Mikemon",
+      "number": "BT12-036 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493597_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493597/digimon-card-game-across-time-mikemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 493598,
+      "name": "Gokuumon",
+      "number": "BT12-039 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493598_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493598/digimon-card-game-across-time-gokuumon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 493599,
+      "name": "Sagomon",
+      "number": "BT12-040 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493599_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493599/digimon-card-game-across-time-sagomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 493600,
+      "name": "ShineGreymon",
+      "label": "Alternate Art",
+      "number": "BT12-043 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493600_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493600/digimon-card-game-across-time-shinegreymon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 8.83
+        }
+      ]
+    },
+    {
+      "id": 493601,
+      "name": "EbiBurgamon",
+      "number": "BT12-045 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493601_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493601/digimon-card-game-across-time-ebiburgamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 493602,
+      "name": "Lampmon",
+      "number": "BT12-044 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493602_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493602/digimon-card-game-across-time-lampmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 493603,
+      "name": "Burgamon",
+      "number": "BT12-046 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493603_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493603/digimon-card-game-across-time-burgamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 493604,
+      "name": "Yakiimon",
+      "number": "BT12-049 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493604_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493604/digimon-card-game-across-time-yakiimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 493605,
+      "name": "Potamon",
+      "number": "BT12-052 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493605_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493605/digimon-card-game-across-time-potamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 493606,
+      "name": "MetallifeKuwagamon",
+      "number": "BT12-053 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493606_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493606/digimon-card-game-across-time-metallifekuwagamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.04
+        }
+      ]
+    },
+    {
+      "id": 493607,
+      "name": "Jagamon",
+      "number": "BT12-054 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493607_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493607/digimon-card-game-across-time-jagamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 493608,
+      "name": "Quartzmon",
+      "label": "Alternate Art",
+      "number": "BT12-057 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493608_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493608/digimon-card-game-across-time-quartzmon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 7.37
+        }
+      ]
+    },
+    {
+      "id": 493609,
+      "name": "Ganemon",
+      "number": "BT12-061 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493609_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493609/digimon-card-game-across-time-ganemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 493610,
+      "name": "Betsumon",
+      "number": "BT12-067 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493610_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493610/digimon-card-game-across-time-betsumon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 493611,
+      "name": "Footmon",
+      "number": "BT12-069 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493611_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493611/digimon-card-game-across-time-footmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 493612,
+      "name": "Dobermon",
+      "number": "BT12-076 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493612_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493612/digimon-card-game-across-time-dobermon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 493613,
+      "name": "Jokermon",
+      "number": "BT12-079 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493613_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493613/digimon-card-game-across-time-jokermon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05
+        }
+      ]
+    },
+    {
+      "id": 493614,
+      "name": "Arresterdramon: Superior Mode",
+      "label": "Alternate Art",
+      "number": "BT12-083 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493614_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493614/digimon-card-game-across-time-arresterdramon-superior-mode-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5.01
+        }
+      ]
+    },
+    {
+      "id": 493615,
+      "name": "Beelzemon",
+      "label": "X Antibody · Alternate Art",
+      "number": "BT12-085 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493615_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493615/digimon-card-game-across-time-beelzemon-x-antibody-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 12.89
+        }
+      ]
+    },
+    {
+      "id": 493616,
+      "name": "Taiki Kudo",
+      "label": "Alternate Art",
+      "number": "BT12-087 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493616_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493616/digimon-card-game-across-time-taiki-kudo-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.96
+        }
+      ]
+    },
+    {
+      "id": 493617,
+      "name": "Takuya Kanbara",
+      "label": "Alternate Art",
+      "number": "BT12-088 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493617_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493617/digimon-card-game-across-time-takuya-kanbara-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 10.59
+        }
+      ]
+    },
+    {
+      "id": 493618,
+      "name": "Marcus Damon",
+      "label": "Alternate Art",
+      "number": "BT12-092 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493618_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493618/digimon-card-game-across-time-marcus-damon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 26.12
+        }
+      ]
+    },
+    {
+      "id": 493619,
+      "name": "Tagiru Akashi",
+      "label": "Alternate Art",
+      "number": "BT12-096 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493619_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493619/digimon-card-game-across-time-tagiru-akashi-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.34
+        }
+      ]
+    },
+    {
+      "id": 493620,
+      "name": "Vee Laser",
+      "number": "BT12-101 R",
+      "rarity": "Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493620_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493620/digimon-card-game-across-time-vee-laser",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 493621,
+      "name": "Spiking Strike",
+      "number": "BT12-105 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493621_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493621/digimon-card-game-across-time-spiking-strike",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 493622,
+      "name": "DarknessBagramon",
+      "label": "Alternate Art",
+      "number": "BT12-111 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493622_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493622/digimon-card-game-across-time-darknessbagramon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.78
+        }
+      ]
+    },
+    {
+      "id": 493623,
+      "name": "DarknessBagramon",
+      "label": "Alternate Art · Black & White",
+      "number": "BT12-111 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493623_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493623/digimon-card-game-across-time-darknessbagramon-alternate-art-black-and-white",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 32.92
+        }
+      ]
+    },
+    {
+      "id": 493624,
+      "name": "Shoutmon X7: Superior Mode",
+      "label": "Alternate Art",
+      "number": "BT12-112 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493624_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493624/digimon-card-game-across-time-shoutmon-x7-superior-mode-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.67
+        }
+      ]
+    },
+    {
+      "id": 493625,
+      "name": "Shoutmon X7: Superior Mode",
+      "label": "Alternate Art · Gold",
+      "number": "BT12-112 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493625_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493625/digimon-card-game-across-time-shoutmon-x7-superior-mode-alternate-art-gold",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 46.88
+        }
+      ]
+    },
+    {
+      "id": 493728,
+      "name": "Zenimon",
+      "number": "BT12-058 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493728_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493728/digimon-card-game-across-time-zenimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 497715,
+      "name": "Aldamon",
+      "label": "Tamer Party -Special-",
+      "number": "BT12-015 R",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/497715_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/497715/digimon-card-game-across-time-aldamon-tamer-party-special",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.31
+        }
+      ]
+    },
+    {
+      "id": 497716,
+      "name": "WarGrowlmon",
+      "label": "Tamer Party -Special-",
+      "number": "BT12-016 R",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/497716_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/497716/digimon-card-game-across-time-wargrowlmon-tamer-party-special",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.83
+        }
+      ]
+    },
+    {
+      "id": 497717,
+      "name": "RizeGreymon",
+      "label": "Tamer Party -Special-",
+      "number": "BT12-042 R",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/497717_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/497717/digimon-card-game-across-time-rizegreymon-tamer-party-special",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.34
+        }
+      ]
+    },
+    {
+      "id": 497718,
+      "name": "MetalGreymon",
+      "label": "Tamer Party -Special-",
+      "number": "BT12-068 R",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/497718_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/497718/digimon-card-game-across-time-metalgreymon-tamer-party-special",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.32
+        }
+      ]
+    },
+    {
+      "id": 514077,
+      "name": "Beelzemon",
+      "label": "X Antibody · Premium Binder Set",
+      "number": "BT12-085 SR",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/514077_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/514077/digimon-card-game-across-time-beelzemon-x-antibody-premium-binder-set",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 8.8
+        }
+      ]
+    },
+    {
+      "id": 517152,
+      "name": "WarGreymon",
+      "label": "2023 Regionals Champion",
+      "number": "BT12-070 SR",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517152_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517152/digimon-card-game-across-time-wargreymon-2023-regionals-champion",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 440
+        }
+      ]
+    },
+    {
+      "id": 517153,
+      "name": "WarGreymon",
+      "label": "2023 Regionals Finalist",
+      "number": "BT12-070 SR",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517153_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517153/digimon-card-game-across-time-wargreymon-2023-regionals-finalist",
+      "prices": []
+    },
+    {
+      "id": 517154,
+      "name": "WarGreymon",
+      "label": "2023 Regionals Participant",
+      "number": "BT12-070 SR",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517154_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517154/digimon-card-game-across-time-wargreymon-2023-regionals-participant",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 6.3
+        }
+      ]
+    },
+    {
+      "id": 517155,
+      "name": "EmperorGreymon",
+      "label": "2023 Regionals Participant",
+      "number": "BT12-017 SR",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517155_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517155/digimon-card-game-across-time-emperorgreymon-2023-regionals-participant",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.71
+        }
+      ]
+    },
+    {
+      "id": 517156,
+      "name": "EmperorGreymon",
+      "label": "2023 Regionals Finalist",
+      "number": "BT12-017 SR",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517156_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517156/digimon-card-game-across-time-emperorgreymon-2023-regionals-finalist",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 6.37
+        }
+      ]
+    },
+    {
+      "id": 517157,
+      "name": "EmperorGreymon",
+      "label": "2023 Regionals Champion",
+      "number": "BT12-017 SR",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517157_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517157/digimon-card-game-across-time-emperorgreymon-2023-regionals-champion",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 99.97
+        }
+      ]
+    },
+    {
+      "id": 517158,
+      "name": "Gallantmon",
+      "label": "2023 Regionals Participant",
+      "number": "BT12-018 SR",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517158_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517158/digimon-card-game-across-time-gallantmon-2023-regionals-participant",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.18
+        }
+      ]
+    },
+    {
+      "id": 517159,
+      "name": "Gallantmon",
+      "label": "2023 Regionals Finalist",
+      "number": "BT12-018 SR",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517159_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517159/digimon-card-game-across-time-gallantmon-2023-regionals-finalist",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 6.7
+        }
+      ]
+    },
+    {
+      "id": 517160,
+      "name": "Gallantmon",
+      "label": "2023 Regionals Champion",
+      "number": "BT12-018 SR",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517160_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517160/digimon-card-game-across-time-gallantmon-2023-regionals-champion",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 300
+        }
+      ]
+    },
+    {
+      "id": 517161,
+      "name": "Imperialdramon: Fighter Mode",
+      "label": "2023 Regionals Participant",
+      "number": "BT12-031 SR",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517161_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517161/digimon-card-game-across-time-imperialdramon-fighter-mode-2023-regionals-participant",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.35
+        }
+      ]
+    },
+    {
+      "id": 517162,
+      "name": "Imperialdramon: Fighter Mode",
+      "label": "2023 Regionals Finalist",
+      "number": "BT12-031 SR",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517162_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517162/digimon-card-game-across-time-imperialdramon-fighter-mode-2023-regionals-finalist",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 22.53
+        }
+      ]
+    },
+    {
+      "id": 517163,
+      "name": "Imperialdramon: Fighter Mode",
+      "label": "2023 Regionals Champion",
+      "number": "BT12-031 SR",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517163_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517163/digimon-card-game-across-time-imperialdramon-fighter-mode-2023-regionals-champion",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 100.81
+        }
+      ]
+    },
+    {
+      "id": 517164,
+      "name": "ShineGreymon",
+      "label": "2023 Regionals Participant",
+      "number": "BT12-043 SR",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517164_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517164/digimon-card-game-across-time-shinegreymon-2023-regionals-participant",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.39
+        }
+      ]
+    },
+    {
+      "id": 517165,
+      "name": "ShineGreymon",
+      "label": "2023 Regionals Finalist",
+      "number": "BT12-043 SR",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517165_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517165/digimon-card-game-across-time-shinegreymon-2023-regionals-finalist",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 12.99
+        }
+      ]
+    },
+    {
+      "id": 517166,
+      "name": "ShineGreymon",
+      "label": "2023 Regionals Champion",
+      "number": "BT12-043 SR",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/517166_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/517166/digimon-card-game-across-time-shinegreymon-2023-regionals-champion",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 124.2
+        }
+      ]
+    },
+    {
+      "id": 528072,
+      "name": "Agumon - BT12-059",
+      "label": "Official Tournament Pack Vol.11",
+      "number": "BT12-059 C",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/528072_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/528072/digimon-card-game-across-time-agumon-bt12-059-official-tournament-pack-vol11",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.21
+        }
+      ]
+    },
+    {
+      "id": 528073,
+      "name": "Greymon",
+      "label": "Official Tournament Pack Vol.11",
+      "number": "BT12-062 C",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/528073_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/528073/digimon-card-game-across-time-greymon-official-tournament-pack-vol11",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.02
+        }
+      ]
+    },
+    {
+      "id": 533211,
+      "name": "GeoGreymon",
+      "label": "Championship 2023 Tamers Pack",
+      "number": "BT12-038 C",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/533211_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/533211/digimon-card-game-across-time-geogreymon-championship-2023-tamers-pack",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 13.94
+        }
+      ]
+    },
+    {
+      "id": 533212,
+      "name": "Agunimon",
+      "label": "Championship 2023 Tamers Pack",
+      "number": "BT12-012 U",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/533212_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/533212/digimon-card-game-across-time-agunimon-championship-2023-tamers-pack",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.65
+        }
+      ]
+    },
+    {
+      "id": 538780,
+      "name": "Impmon",
+      "label": "X Antibody · Judge Pack 5",
+      "number": "BT12-073 C",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/538780_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/538780/digimon-card-game-across-time-impmon-x-antibody-judge-pack-5",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.25
+        }
+      ]
+    },
+    {
+      "id": 538785,
+      "name": "Agumon - BT12-034",
+      "label": "Judge Pack 5",
+      "number": "BT12-034 C",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/538785_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/538785/digimon-card-game-across-time-agumon-bt12-034-judge-pack-5",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.17
+        }
+      ]
+    },
+    {
+      "id": 541397,
+      "name": "Imperialdramon: Dragon Mode",
+      "label": "Event Pack 6",
+      "number": "BT12-030 R",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/541397_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/541397/digimon-card-game-across-time-imperialdramon-dragon-mode-event-pack-6",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 11.21
+        }
+      ]
+    },
+    {
+      "id": 541411,
+      "name": "Agunimon",
+      "label": "Ultimate Cup 2024",
+      "number": "BT12-012 U",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/541411_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/541411/digimon-card-game-across-time-agunimon-ultimate-cup-2024",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 13.99
+        }
+      ]
+    },
+    {
+      "id": 541432,
+      "name": "Aldamon",
+      "label": "Ultimate Cup 2024",
+      "number": "BT12-015 R",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/541432_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/541432/digimon-card-game-across-time-aldamon-ultimate-cup-2024",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 28.61
+        }
+      ]
+    },
+    {
+      "id": 541436,
+      "name": "BurningGreymon",
+      "label": "Ultimate Cup 2024",
+      "number": "BT12-013 U",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/541436_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/541436/digimon-card-game-across-time-burninggreymon-ultimate-cup-2024",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 22.07
+        }
+      ]
+    },
+    {
+      "id": 541438,
+      "name": "EmperorGreymon",
+      "label": "Ultimate Cup 2024",
+      "number": "BT12-017 SR",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/541438_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/541438/digimon-card-game-across-time-emperorgreymon-ultimate-cup-2024",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 325
+        }
+      ]
+    },
+    {
+      "id": 541439,
+      "name": "Flamemon",
+      "label": "Ultimate Cup 2024",
+      "number": "BT12-009 C",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/541439_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/541439/digimon-card-game-across-time-flamemon-ultimate-cup-2024",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 7.62
+        }
+      ]
+    },
+    {
+      "id": 550494,
+      "name": "Gumdramon - BT12-074",
+      "label": "Official Tournament Vol.13 Winner Pack",
+      "number": "BT12-074 U",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550494_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/550494/digimon-card-game-across-time-gumdramon-bt12-074-official-tournament-vol13-winner-pack",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.01
+        }
+      ]
+    },
+    {
+      "id": 550496,
+      "name": "Agumon - BT12-034",
+      "label": "Official Tournament Vol.13 Winner Pack",
+      "number": "BT12-034 C",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550496_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/550496/digimon-card-game-across-time-agumon-bt12-034-official-tournament-vol13-winner-pack",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5.27
+        }
+      ]
+    },
+    {
+      "id": 562295,
+      "name": "Wormmon - BT12-047",
+      "label": "Convention Promo 2024",
+      "number": "BT12-047 U",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/562295_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/562295/digimon-card-game-across-time-wormmon-bt12-047-convention-promo-2024",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 8.95
+        }
+      ]
+    },
+    {
+      "id": 575180,
+      "name": "Agumon - BT12-059",
+      "label": "Legend Pack 2024",
+      "number": "BT12-059 C",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/575180_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/575180/digimon-card-game-across-time-agumon-bt12-059-legend-pack-2024",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 9.84
+        }
+      ]
+    },
+    {
+      "id": 576586,
+      "name": "Chaosdramon",
+      "label": "X Antibody · Event Pack 7",
+      "number": "BT12-072 SR",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/576586_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/576586/digimon-card-game-across-time-chaosdramon-x-antibody-event-pack-7",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 6.05
+        }
+      ]
+    },
+    {
+      "id": 576587,
+      "name": "Quartzmon",
+      "label": "Event Pack 7",
+      "number": "BT12-057 SR",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/576587_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/576587/digimon-card-game-across-time-quartzmon-event-pack-7",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.33
+        }
+      ]
+    },
+    {
+      "id": 586063,
+      "name": "Koromon",
+      "label": "Ultimate Cup 2024",
+      "number": "BT12-003 U",
+      "rarity": "Promo",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/586063_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/586063/digimon-card-game-across-time-koromon-ultimate-cup-2024",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.16
+        }
+      ]
+    },
+    {
+      "id": 586065,
+      "name": "ShineGreymon",
+      "label": "Ultimate Cup 2024",
+      "number": "BT12-043 SR",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/586065_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/586065/digimon-card-game-across-time-shinegreymon-ultimate-cup-2024",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1000
+        }
+      ]
+    },
+    {
+      "id": 607858,
+      "name": "Imperialdramon: Fighter Mode",
+      "label": "Championship 2024 Gold Stamp Card Set",
+      "number": "BT12-031 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607858_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607858/digimon-card-game-across-time-imperialdramon-fighter-mode-championship-2024-gold-stamp-card-set",
+      "prices": []
+    },
+    {
+      "id": 619045,
+      "name": "Quartzmon",
+      "label": "Special Event Pack 2025",
+      "number": "BT12-057 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/619045_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/619045/digimon-card-game-across-time-quartzmon-special-event-pack-2025",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.28
+        }
+      ]
+    },
+    {
+      "id": 619724,
+      "name": "UlforceVeedramon",
+      "label": "X Antibody · 24-25 World Championship Finals Champion",
+      "number": "BT12-029 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/619724_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/619724/digimon-card-game-across-time-ulforceveedramon-x-antibody-24-25-world-championship-finals-champion",
+      "prices": []
+    },
+    {
+      "id": 622317,
+      "name": "Shoutmon X7: Superior Mode",
+      "label": "Ultimate Cup 25-26 Season 1",
+      "number": "BT12-112 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/622317_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/622317/digimon-card-game-across-time-shoutmon-x7-superior-mode-ultimate-cup-25-26-season-1",
+      "prices": []
+    },
+    {
+      "id": 629923,
+      "name": "Tai Kamiya",
+      "label": "Digimon Animation Series 25th Anniversary Set",
+      "number": "BT12-095 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/629923_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/629923/digimon-card-game-across-time-tai-kamiya-digimon-animation-series-25th-anniversary-set",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5.25
+        }
+      ]
+    },
+    {
+      "id": 629932,
+      "name": "Tagiru Akashi",
+      "label": "Digimon Animation Series 25th Anniversary Set",
+      "number": "BT12-096 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/629932_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/629932/digimon-card-game-across-time-tagiru-akashi-digimon-animation-series-25th-anniversary-set",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.79
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-10-12"
+}

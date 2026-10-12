@@ -1,0 +1,1730 @@
+{
+  "groupId": 23414,
+  "cards": [
+    {
+      "id": 554305,
+      "name": "Tsukaimon",
+      "number": "EX6-045 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/554305_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/554305/digimon-card-game-infernal-ascension-tsukaimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 554306,
+      "name": "Witchmon",
+      "number": "EX6-048 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/554306_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/554306/digimon-card-game-infernal-ascension-witchmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.21
+        }
+      ]
+    },
+    {
+      "id": 554307,
+      "name": "Bastemon",
+      "number": "EX6-052 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/554307_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/554307/digimon-card-game-infernal-ascension-bastemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.32
+        }
+      ]
+    },
+    {
+      "id": 554310,
+      "name": "Lilithmon",
+      "number": "EX6-057 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/554310_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/554310/digimon-card-game-infernal-ascension-lilithmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 10.75
+        }
+      ]
+    },
+    {
+      "id": 554315,
+      "name": "Phantom Pain",
+      "number": "EX6-070 U",
+      "rarity": "Uncommon",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/554315_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/554315/digimon-card-game-infernal-ascension-phantom-pain",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 554427,
+      "name": "Boogiemon",
+      "number": "EX6-047 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/554427_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/554427/digimon-card-game-infernal-ascension-boogiemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 554428,
+      "name": "Feresmon",
+      "number": "EX6-050 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/554428_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/554428/digimon-card-game-infernal-ascension-feresmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 554431,
+      "name": "Barbamon",
+      "number": "EX6-059 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/554431_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/554431/digimon-card-game-infernal-ascension-barbamon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.68
+        }
+      ]
+    },
+    {
+      "id": 554433,
+      "name": "Pandemonium Lost",
+      "number": "EX6-071 U",
+      "rarity": "Uncommon",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/554433_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/554433/digimon-card-game-infernal-ascension-pandemonium-lost",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 554481,
+      "name": "Beelzemon",
+      "number": "EX6-056 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/554481_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/554481/digimon-card-game-infernal-ascension-beelzemon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.59
+        }
+      ]
+    },
+    {
+      "id": 554504,
+      "name": "Belphemon: Rage Mode",
+      "number": "EX6-060 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/554504_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/554504/digimon-card-game-infernal-ascension-belphemon-rage-mode",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.28
+        }
+      ]
+    },
+    {
+      "id": 554657,
+      "name": "Creepymon",
+      "number": "EX6-058 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/554657_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/554657/digimon-card-game-infernal-ascension-creepymon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.28
+        }
+      ]
+    },
+    {
+      "id": 554659,
+      "name": "Leviamon",
+      "number": "EX6-061 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/554659_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/554659/digimon-card-game-infernal-ascension-leviamon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.23
+        }
+      ]
+    },
+    {
+      "id": 554681,
+      "name": "Lucemon",
+      "number": "EX6-018 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/554681_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/554681/digimon-card-game-infernal-ascension-lucemon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.54
+        }
+      ]
+    },
+    {
+      "id": 554705,
+      "name": "Lucemon: Chaos Mode",
+      "number": "EX6-054 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/554705_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/554705/digimon-card-game-infernal-ascension-lucemon-chaos-mode",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.93
+        }
+      ]
+    },
+    {
+      "id": 554830,
+      "name": "Gate of Deadly Sins",
+      "number": "EX6-006 R",
+      "rarity": "Rare",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/554830_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/554830/digimon-card-game-infernal-ascension-gate-of-deadly-sins",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.25
+        }
+      ]
+    },
+    {
+      "id": 554831,
+      "name": "Rise of the Seven Great Demon Lords",
+      "number": "EX6-069 R",
+      "rarity": "Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/554831_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/554831/digimon-card-game-infernal-ascension-rise-of-the-seven-great-demon-lords",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.24
+        }
+      ]
+    },
+    {
+      "id": 554835,
+      "name": "Ogudomon",
+      "number": "EX6-073 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/554835_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/554835/digimon-card-game-infernal-ascension-ogudomon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 17.81
+        }
+      ]
+    },
+    {
+      "id": 554836,
+      "name": "DemiDevimon",
+      "number": "EX6-046 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/554836_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/554836/digimon-card-game-infernal-ascension-demidevimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 554839,
+      "name": "Devimon",
+      "number": "EX6-049 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/554839_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/554839/digimon-card-game-infernal-ascension-devimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 554843,
+      "name": "NeoDevimon",
+      "number": "EX6-051 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/554843_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/554843/digimon-card-game-infernal-ascension-neodevimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 554844,
+      "name": "DanDevimon",
+      "number": "EX6-055 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/554844_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/554844/digimon-card-game-infernal-ascension-dandevimon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 554846,
+      "name": "T.K. Takaishi & Kari Kamiya",
+      "number": "EX6-063 U",
+      "rarity": "Uncommon",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/554846_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/554846/digimon-card-game-infernal-ascension-tk-takaishi-and-kari-kamiya",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2
+        }
+      ]
+    },
+    {
+      "id": 554847,
+      "name": "Shu-Chong Wong",
+      "number": "EX6-064 U",
+      "rarity": "Uncommon",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/554847_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/554847/digimon-card-game-infernal-ascension-shu-chong-wong",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.27
+        }
+      ]
+    },
+    {
+      "id": 555010,
+      "name": "Kokomon",
+      "number": "EX6-004 C",
+      "rarity": "Common",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555010_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555010/digimon-card-game-infernal-ascension-kokomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 555011,
+      "name": "Lopmon",
+      "number": "EX6-032 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555011_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555011/digimon-card-game-infernal-ascension-lopmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 555012,
+      "name": "Antylamon",
+      "number": "EX6-034 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555012_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555012/digimon-card-game-infernal-ascension-antylamon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.4
+        }
+      ]
+    },
+    {
+      "id": 555014,
+      "name": "Turuiemon",
+      "number": "EX6-033 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555014_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555014/digimon-card-game-infernal-ascension-turuiemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.36
+        }
+      ]
+    },
+    {
+      "id": 555058,
+      "name": "Cherubimon ACE",
+      "number": "EX6-035 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555058_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555058/digimon-card-game-infernal-ascension-cherubimon-ace",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5.67
+        }
+      ]
+    },
+    {
+      "id": 555078,
+      "name": "Seraphimon ACE",
+      "number": "EX6-028 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555078_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555078/digimon-card-game-infernal-ascension-seraphimon-ace",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.42
+        }
+      ]
+    },
+    {
+      "id": 555125,
+      "name": "Ophanimon ACE",
+      "number": "EX6-027 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555125_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555125/digimon-card-game-infernal-ascension-ophanimon-ace",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.31
+        }
+      ]
+    },
+    {
+      "id": 555196,
+      "name": "Descent of the Three Great Angels",
+      "number": "EX6-068 R",
+      "rarity": "Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555196_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555196/digimon-card-game-infernal-ascension-descent-of-the-three-great-angels",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 555207,
+      "name": "Durandamon",
+      "number": "EX6-010 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555207_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555207/digimon-card-game-infernal-ascension-durandamon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.69
+        }
+      ]
+    },
+    {
+      "id": 555208,
+      "name": "RagnaLoardmon ACE",
+      "number": "EX6-011 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555208_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555208/digimon-card-game-infernal-ascension-ragnaloardmon-ace",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 9.37
+        }
+      ]
+    },
+    {
+      "id": 555209,
+      "name": "Mastemon ACE",
+      "number": "EX6-029 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555209_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555209/digimon-card-game-infernal-ascension-mastemon-ace",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.3
+        }
+      ]
+    },
+    {
+      "id": 555210,
+      "name": "Mythical Arms of Salvation!",
+      "number": "EX6-065 R",
+      "rarity": "Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555210_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555210/digimon-card-game-infernal-ascension-mythical-arms-of-salvation",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.21
+        }
+      ]
+    },
+    {
+      "id": 555211,
+      "name": "Dominimon",
+      "number": "EX6-030 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555211_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555211/digimon-card-game-infernal-ascension-dominimon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 8.94
+        }
+      ]
+    },
+    {
+      "id": 555212,
+      "name": "Sakuttomon",
+      "number": "EX6-001 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555212_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555212/digimon-card-game-infernal-ascension-sakuttomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16
+        }
+      ]
+    },
+    {
+      "id": 555213,
+      "name": "Yokomon",
+      "number": "EX6-002 C",
+      "rarity": "Common",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555213_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555213/digimon-card-game-infernal-ascension-yokomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 555214,
+      "name": "Dominimon",
+      "label": "Alternate Art",
+      "number": "EX6-030 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555214_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555214/digimon-card-game-infernal-ascension-dominimon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 13.84
+        }
+      ]
+    },
+    {
+      "id": 555215,
+      "name": "Cupimon",
+      "number": "EX6-003 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555215_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555215/digimon-card-game-infernal-ascension-cupimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.29
+        }
+      ]
+    },
+    {
+      "id": 555216,
+      "name": "Gatomon",
+      "number": "EX6-020 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555216_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555216/digimon-card-game-infernal-ascension-gatomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.46
+        }
+      ]
+    },
+    {
+      "id": 555217,
+      "name": "Kakkinmon",
+      "number": "EX6-005 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555217_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555217/digimon-card-game-infernal-ascension-kakkinmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16
+        }
+      ]
+    },
+    {
+      "id": 555218,
+      "name": "Zubamon",
+      "number": "EX6-007 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555218_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555218/digimon-card-game-infernal-ascension-zubamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23
+        }
+      ]
+    },
+    {
+      "id": 555219,
+      "name": "ZubaEagermon",
+      "number": "EX6-008 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555219_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555219/digimon-card-game-infernal-ascension-zubaeagermon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 555220,
+      "name": "Biyomon",
+      "number": "EX6-012 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555220_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555220/digimon-card-game-infernal-ascension-biyomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 555221,
+      "name": "TiaLudomon",
+      "number": "EX6-040 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555221_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555221/digimon-card-game-infernal-ascension-tialudomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 555222,
+      "name": "Shakamon",
+      "number": "EX6-031 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555222_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555222/digimon-card-game-infernal-ascension-shakamon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 6.28
+        }
+      ]
+    },
+    {
+      "id": 555223,
+      "name": "Shakamon",
+      "label": "Alternate Art",
+      "number": "EX6-031 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555223_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555223/digimon-card-game-infernal-ascension-shakamon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 14.52
+        }
+      ]
+    },
+    {
+      "id": 555224,
+      "name": "Duramon",
+      "number": "EX6-009 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555224_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555224/digimon-card-game-infernal-ascension-duramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 555225,
+      "name": "RagnaLoardmon ACE",
+      "label": "Alternate Art",
+      "number": "EX6-011 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555225_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555225/digimon-card-game-infernal-ascension-ragnaloardmon-ace-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 16.66
+        }
+      ]
+    },
+    {
+      "id": 555226,
+      "name": "ArkhaiAngemon",
+      "number": "EX6-021 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555226_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555226/digimon-card-game-infernal-ascension-arkhaiangemon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 555227,
+      "name": "Belphemon: Rage Mode",
+      "label": "Alternate Art",
+      "number": "EX6-060 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555227_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555227/digimon-card-game-infernal-ascension-belphemon-rage-mode-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 6.88
+        }
+      ]
+    },
+    {
+      "id": 555228,
+      "name": "Cherubimon ACE",
+      "label": "Alternate Art",
+      "number": "EX6-035 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555228_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555228/digimon-card-game-infernal-ascension-cherubimon-ace-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 6.98
+        }
+      ]
+    },
+    {
+      "id": 555229,
+      "name": "Leviamon",
+      "label": "Alternate Art",
+      "number": "EX6-061 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555229_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555229/digimon-card-game-infernal-ascension-leviamon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.14
+        }
+      ]
+    },
+    {
+      "id": 555230,
+      "name": "Xiquemon",
+      "number": "EX6-013 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555230_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555230/digimon-card-game-infernal-ascension-xiquemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.78
+        }
+      ]
+    },
+    {
+      "id": 555231,
+      "name": "Huankunmon",
+      "number": "EX6-014 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555231_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555231/digimon-card-game-infernal-ascension-huankunmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.37
+        }
+      ]
+    },
+    {
+      "id": 555232,
+      "name": "Keramon",
+      "number": "EX6-036 C",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555232_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555232/digimon-card-game-infernal-ascension-keramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23
+        }
+      ]
+    },
+    {
+      "id": 555233,
+      "name": "Angewomon",
+      "number": "EX6-022 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555233_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555233/digimon-card-game-infernal-ascension-angewomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.85
+        }
+      ]
+    },
+    {
+      "id": 555234,
+      "name": "Xiangpengmon",
+      "number": "EX6-015 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555234_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555234/digimon-card-game-infernal-ascension-xiangpengmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.69
+        }
+      ]
+    },
+    {
+      "id": 555235,
+      "name": "Spadamon",
+      "number": "EX6-037 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555235_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555235/digimon-card-game-infernal-ascension-spadamon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.57
+        }
+      ]
+    },
+    {
+      "id": 555236,
+      "name": "Xiangpengmon",
+      "label": "Alternate Art",
+      "number": "EX6-015 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555236_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555236/digimon-card-game-infernal-ascension-xiangpengmon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.33
+        }
+      ]
+    },
+    {
+      "id": 555237,
+      "name": "Ludomon",
+      "number": "EX6-038 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555237_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555237/digimon-card-game-infernal-ascension-ludomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.21
+        }
+      ]
+    },
+    {
+      "id": 555238,
+      "name": "Salamon",
+      "number": "EX6-016 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555238_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555238/digimon-card-game-infernal-ascension-salamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2
+        }
+      ]
+    },
+    {
+      "id": 555239,
+      "name": "Kurisarimon",
+      "number": "EX6-039 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555239_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555239/digimon-card-game-infernal-ascension-kurisarimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2
+        }
+      ]
+    },
+    {
+      "id": 555240,
+      "name": "Infermon",
+      "number": "EX6-041 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555240_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555240/digimon-card-game-infernal-ascension-infermon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.08
+        }
+      ]
+    },
+    {
+      "id": 555243,
+      "name": "RaijiLudomon",
+      "number": "EX6-042 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555243_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555243/digimon-card-game-infernal-ascension-raijiludomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 555246,
+      "name": "Diaboromon",
+      "number": "EX6-043 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555246_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555246/digimon-card-game-infernal-ascension-diaboromon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.47
+        }
+      ]
+    },
+    {
+      "id": 555247,
+      "name": "Diaboromon",
+      "label": "Alternate Art",
+      "number": "EX6-043 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555247_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555247/digimon-card-game-infernal-ascension-diaboromon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 33.65
+        }
+      ]
+    },
+    {
+      "id": 555249,
+      "name": "UltimateChaosmon",
+      "number": "EX6-062 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555249_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555249/digimon-card-game-infernal-ascension-ultimatechaosmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.56
+        }
+      ]
+    },
+    {
+      "id": 555250,
+      "name": "UltimateChaosmon",
+      "label": "Alternate Art",
+      "number": "EX6-062 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555250_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555250/digimon-card-game-infernal-ascension-ultimatechaosmon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5.1
+        }
+      ]
+    },
+    {
+      "id": 555251,
+      "name": "Ogudomon",
+      "label": "Alternate Art",
+      "number": "EX6-073 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555251_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555251/digimon-card-game-infernal-ascension-ogudomon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 20.37
+        }
+      ]
+    },
+    {
+      "id": 555253,
+      "name": "Sea of Destruction",
+      "number": "EX6-066 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555253_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555253/digimon-card-game-infernal-ascension-sea-of-destruction",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 555254,
+      "name": "Final Excalibur",
+      "number": "EX6-067 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555254_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555254/digimon-card-game-infernal-ascension-final-excalibur",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 555255,
+      "name": "Mega Digimon Assembly!",
+      "number": "EX6-072 R",
+      "rarity": "Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555255_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555255/digimon-card-game-infernal-ascension-mega-digimon-assembly",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.1
+        }
+      ]
+    },
+    {
+      "id": 555256,
+      "name": "BryweLudramon",
+      "number": "EX6-044 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555256_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555256/digimon-card-game-infernal-ascension-bryweludramon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.33
+        }
+      ]
+    },
+    {
+      "id": 555257,
+      "name": "Mirei Mikagura",
+      "number": "EX6-074 SCR",
+      "rarity": "Secret Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555257_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555257/digimon-card-game-infernal-ascension-mirei-mikagura",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 19.78
+        }
+      ]
+    },
+    {
+      "id": 555258,
+      "name": "Mirei Mikagura",
+      "label": "Alternate Art",
+      "number": "EX6-074 SCR",
+      "rarity": "Secret Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555258_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555258/digimon-card-game-infernal-ascension-mirei-mikagura-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 74.67
+        }
+      ]
+    },
+    {
+      "id": 555262,
+      "name": "Barbamon",
+      "label": "Alternate Art",
+      "number": "EX6-059 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555262_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555262/digimon-card-game-infernal-ascension-barbamon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.08
+        }
+      ]
+    },
+    {
+      "id": 555263,
+      "name": "Creepymon",
+      "label": "Alternate Art",
+      "number": "EX6-058 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555263_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555263/digimon-card-game-infernal-ascension-creepymon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 11.18
+        }
+      ]
+    },
+    {
+      "id": 555264,
+      "name": "Lilithmon",
+      "label": "Alternate Art",
+      "number": "EX6-057 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555264_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555264/digimon-card-game-infernal-ascension-lilithmon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 58.53
+        }
+      ]
+    },
+    {
+      "id": 555265,
+      "name": "Beelzemon",
+      "label": "Alternate Art",
+      "number": "EX6-056 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555265_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555265/digimon-card-game-infernal-ascension-beelzemon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 49.03
+        }
+      ]
+    },
+    {
+      "id": 555267,
+      "name": "Lucemon: Chaos Mode",
+      "label": "Alternate Art",
+      "number": "EX6-054 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555267_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555267/digimon-card-game-infernal-ascension-lucemon-chaos-mode-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 46.1
+        }
+      ]
+    },
+    {
+      "id": 555277,
+      "name": "Gokuumon",
+      "number": "EX6-023 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555277_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555277/digimon-card-game-infernal-ascension-gokuumon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 555278,
+      "name": "RagnaLoardmon ACE",
+      "label": "Textured",
+      "number": "EX6-011 SR",
+      "rarity": "Special Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555278_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555278/digimon-card-game-infernal-ascension-ragnaloardmon-ace-textured",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 349.99
+        }
+      ]
+    },
+    {
+      "id": 555279,
+      "name": "Ophanimon ACE",
+      "label": "Textured",
+      "number": "EX6-027 SR",
+      "rarity": "Special Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555279_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555279/digimon-card-game-infernal-ascension-ophanimon-ace-textured",
+      "prices": []
+    },
+    {
+      "id": 555280,
+      "name": "Seraphimon ACE",
+      "label": "Textured",
+      "number": "EX6-028 R",
+      "rarity": "Special Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555280_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555280/digimon-card-game-infernal-ascension-seraphimon-ace-textured",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 142.83
+        }
+      ]
+    },
+    {
+      "id": 555282,
+      "name": "Mastemon ACE",
+      "label": "Textured",
+      "number": "EX6-029 SR",
+      "rarity": "Special Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555282_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555282/digimon-card-game-infernal-ascension-mastemon-ace-textured",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 945
+        }
+      ]
+    },
+    {
+      "id": 555283,
+      "name": "Cherubimon ACE",
+      "label": "Textured",
+      "number": "EX6-035 SR",
+      "rarity": "Special Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555283_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555283/digimon-card-game-infernal-ascension-cherubimon-ace-textured",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 214.77
+        }
+      ]
+    },
+    {
+      "id": 555284,
+      "name": "Ogudomon",
+      "label": "Textured",
+      "number": "EX6-073 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555284_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555284/digimon-card-game-infernal-ascension-ogudomon-textured",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 599.48
+        }
+      ]
+    },
+    {
+      "id": 555285,
+      "name": "Sakuttomon",
+      "label": "Box Promotion Pack: Infernal Ascension",
+      "number": "EX6-001 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555285_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555285/digimon-card-game-infernal-ascension-sakuttomon-box-promotion-pack-infernal-ascension",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.26
+        }
+      ]
+    },
+    {
+      "id": 555286,
+      "name": "Yokomon",
+      "label": "Box Promotion Pack: Infernal Ascension",
+      "number": "EX6-002 C",
+      "rarity": "Common",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555286_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555286/digimon-card-game-infernal-ascension-yokomon-box-promotion-pack-infernal-ascension",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.32
+        }
+      ]
+    },
+    {
+      "id": 555288,
+      "name": "Cupimon",
+      "label": "Box Promotion Pack: Infernal Ascension",
+      "number": "EX6-003 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555288_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555288/digimon-card-game-infernal-ascension-cupimon-box-promotion-pack-infernal-ascension",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.59
+        }
+      ]
+    },
+    {
+      "id": 555289,
+      "name": "Kakkinmon",
+      "label": "Box Promotion Pack: Infernal Ascension",
+      "number": "EX6-005 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555289_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555289/digimon-card-game-infernal-ascension-kakkinmon-box-promotion-pack-infernal-ascension",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.62
+        }
+      ]
+    },
+    {
+      "id": 555290,
+      "name": "T.K. Takaishi & Kari Kamiya",
+      "label": "Box Promotion Pack: Infernal Ascension",
+      "number": "EX6-063 U",
+      "rarity": "Uncommon",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555290_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555290/digimon-card-game-infernal-ascension-tk-takaishi-and-kari-kamiya-box-promotion-pack-infernal-ascension",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.17
+        }
+      ]
+    },
+    {
+      "id": 555292,
+      "name": "Shu-Chong Wong",
+      "label": "Box Promotion Pack: Infernal Ascension",
+      "number": "EX6-064 U",
+      "rarity": "Uncommon",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555292_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555292/digimon-card-game-infernal-ascension-shu-chong-wong-box-promotion-pack-infernal-ascension",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.49
+        }
+      ]
+    },
+    {
+      "id": 555297,
+      "name": "Sagomon",
+      "number": "EX6-024 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555297_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555297/digimon-card-game-infernal-ascension-sagomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 555298,
+      "name": "Sanzomon",
+      "number": "EX6-025 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555298_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555298/digimon-card-game-infernal-ascension-sanzomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 555299,
+      "name": "Cho-Hakkaimon",
+      "number": "EX6-026 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555299_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555299/digimon-card-game-infernal-ascension-cho-hakkaimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 555300,
+      "name": "Ophanimon ACE",
+      "label": "Alternate Art",
+      "number": "EX6-027 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555300_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555300/digimon-card-game-infernal-ascension-ophanimon-ace-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 7.11
+        }
+      ]
+    },
+    {
+      "id": 555301,
+      "name": "Seraphimon ACE",
+      "label": "Alternate Art",
+      "number": "EX6-028 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555301_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555301/digimon-card-game-infernal-ascension-seraphimon-ace-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.64
+        }
+      ]
+    },
+    {
+      "id": 555302,
+      "name": "Mastemon ACE",
+      "label": "Alternate Art",
+      "number": "EX6-029 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555302_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555302/digimon-card-game-infernal-ascension-mastemon-ace-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 22.31
+        }
+      ]
+    },
+    {
+      "id": 555422,
+      "name": "Luxmon",
+      "number": "EX6-017 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555422_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555422/digimon-card-game-infernal-ascension-luxmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.32
+        }
+      ]
+    },
+    {
+      "id": 555424,
+      "name": "Lucemon",
+      "label": "Alternate Art",
+      "number": "EX6-018 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555424_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555424/digimon-card-game-infernal-ascension-lucemon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 16.73
+        }
+      ]
+    },
+    {
+      "id": 555425,
+      "name": "Angemon",
+      "number": "EX6-019 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555425_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555425/digimon-card-game-infernal-ascension-angemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.26
+        }
+      ]
+    },
+    {
+      "id": 555699,
+      "name": "LadyDevimon",
+      "number": "Ex6-053 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/555699_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/555699/digimon-card-game-infernal-ascension-ladydevimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.45
+        }
+      ]
+    },
+    {
+      "id": 563819,
+      "name": "Lilithmon",
+      "label": "Premium Heroines Set",
+      "number": "EX6-057 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/563819_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/563819/digimon-card-game-infernal-ascension-lilithmon-premium-heroines-set",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 11.76
+        }
+      ]
+    },
+    {
+      "id": 576580,
+      "name": "Gate of Deadly Sins",
+      "label": "2024 Regionals Participant",
+      "number": "EX6-006 R",
+      "rarity": "Promo",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/576580_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/576580/digimon-card-game-infernal-ascension-gate-of-deadly-sins-2024-regionals-participant",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.22
+        }
+      ]
+    },
+    {
+      "id": 576581,
+      "name": "Gate of Deadly Sins",
+      "label": "2024 Regionals Finalist",
+      "number": "EX6-006 R",
+      "rarity": "Promo",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/576581_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/576581/digimon-card-game-infernal-ascension-gate-of-deadly-sins-2024-regionals-finalist",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 15.14
+        }
+      ]
+    },
+    {
+      "id": 576582,
+      "name": "Gate of Deadly Sins",
+      "label": "2024 Regionals Champion",
+      "number": "EX6-006 R",
+      "rarity": "Promo",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/576582_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/576582/digimon-card-game-infernal-ascension-gate-of-deadly-sins-2024-regionals-champion",
+      "prices": []
+    },
+    {
+      "id": 625611,
+      "name": "Biyomon",
+      "label": "Regulation Battle Vol. 1",
+      "number": "EX6-012 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/625611_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/625611/digimon-card-game-infernal-ascension-biyomon-regulation-battle-vol-1",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.42
+        }
+      ]
+    },
+    {
+      "id": 629745,
+      "name": "Cherubimon ACE",
+      "label": "Tamer's Evolution Box -Rise of Digimon-",
+      "number": "EX6-035 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/629745_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/629745/digimon-card-game-infernal-ascension-cherubimon-ace-tamers-evolution-box-rise-of-digimon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 7.46
+        }
+      ]
+    },
+    {
+      "id": 647297,
+      "name": "Mirei Mikagura",
+      "label": "Premium Heroines Set Ver.2",
+      "number": "EX6-074 SCR",
+      "rarity": "Secret Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647297_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647297/digimon-card-game-infernal-ascension-mirei-mikagura-premium-heroines-set-ver2",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 17.65
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-10-12"
+}

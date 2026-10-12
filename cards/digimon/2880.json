@@ -1,0 +1,2792 @@
+{
+  "groupId": 2880,
+  "cards": [
+    {
+      "id": 247892,
+      "name": "Agumon",
+      "number": "BT6-007 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/247892_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/247892/digimon-card-game-double-diamond-agumon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 247893,
+      "name": "Agumon - Bond of Bravery",
+      "number": "BT6-018 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/247893_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/247893/digimon-card-game-double-diamond-agumon-bond-of-bravery",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.37
+        }
+      ]
+    },
+    {
+      "id": 247895,
+      "name": "Gabumon - Bond of Friendship",
+      "number": "BT6-030 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/247895_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/247895/digimon-card-game-double-diamond-gabumon-bond-of-friendship",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.3
+        }
+      ]
+    },
+    {
+      "id": 247897,
+      "name": "Tai Kamiya",
+      "number": "BT6-087 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/247897_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/247897/digimon-card-game-double-diamond-tai-kamiya",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.2
+        }
+      ]
+    },
+    {
+      "id": 248017,
+      "name": "Raddle Star",
+      "number": "BT6-098 R",
+      "rarity": "Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/248017_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/248017/digimon-card-game-double-diamond-raddle-star",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 248018,
+      "name": "Red Reamer",
+      "number": "BT6-094 R",
+      "rarity": "Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/248018_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/248018/digimon-card-game-double-diamond-red-reamer",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 248019,
+      "name": "Matt Ishida",
+      "number": "BT6-088 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/248019_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/248019/digimon-card-game-double-diamond-matt-ishida",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 248020,
+      "name": "Sistermon Ciel",
+      "number": "BT6-084 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/248020_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/248020/digimon-card-game-double-diamond-sistermon-ciel",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.11
+        }
+      ]
+    },
+    {
+      "id": 248021,
+      "name": "Sistermon Blanc",
+      "number": "BT6-082 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/248021_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/248021/digimon-card-game-double-diamond-sistermon-blanc",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.27
+        }
+      ]
+    },
+    {
+      "id": 248022,
+      "name": "Gabumon",
+      "number": "BT6-019 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/248022_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/248022/digimon-card-game-double-diamond-gabumon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 248023,
+      "name": "BaoHuckmon",
+      "number": "BT6-011 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/248023_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/248023/digimon-card-game-double-diamond-baohuckmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 248025,
+      "name": "Huckmon",
+      "number": "BT6-009 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/248025_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/248025/digimon-card-game-double-diamond-huckmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.36
+        }
+      ]
+    },
+    {
+      "id": 248189,
+      "name": "SaviorHuckmon",
+      "number": "BT6-015 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/248189_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/248189/digimon-card-game-double-diamond-saviorhuckmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.73
+        }
+      ]
+    },
+    {
+      "id": 248191,
+      "name": "Jesmon",
+      "number": "BT6-016 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/248191_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/248191/digimon-card-game-double-diamond-jesmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.3
+        }
+      ]
+    },
+    {
+      "id": 248202,
+      "name": "Mojyamon",
+      "number": "BT6-024 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/248202_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/248202/digimon-card-game-double-diamond-mojyamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 248203,
+      "name": "Gizamon",
+      "number": "BT6-020 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/248203_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/248203/digimon-card-game-double-diamond-gizamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 248728,
+      "name": "Majiramon",
+      "number": "BT6-027 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/248728_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/248728/digimon-card-game-double-diamond-majiramon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.17
+        }
+      ]
+    },
+    {
+      "id": 248729,
+      "name": "Azulongmon",
+      "number": "BT6-029 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/248729_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/248729/digimon-card-game-double-diamond-azulongmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.26
+        }
+      ]
+    },
+    {
+      "id": 248732,
+      "name": "Tapirmon",
+      "number": "BT6-032 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/248732_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/248732/digimon-card-game-double-diamond-tapirmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 248734,
+      "name": "Wizardmon",
+      "number": "BT6-034 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/248734_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/248734/digimon-card-game-double-diamond-wizardmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17
+        }
+      ]
+    },
+    {
+      "id": 248735,
+      "name": "Mistymon",
+      "number": "BT6-040 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/248735_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/248735/digimon-card-game-double-diamond-mistymon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 248805,
+      "name": "Dynasmon",
+      "number": "BT6-044 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/248805_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/248805/digimon-card-game-double-diamond-dynasmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.26
+        }
+      ]
+    },
+    {
+      "id": 248806,
+      "name": "Morphomon",
+      "number": "BT6-047 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/248806_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/248806/digimon-card-game-double-diamond-morphomon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 248807,
+      "name": "Eosmon - BT6-083",
+      "number": "BT6-083 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/248807_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/248807/digimon-card-game-double-diamond-eosmon-bt6-083",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 248808,
+      "name": "Menoa Bellucci",
+      "number": "BT6-092 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/248808_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/248808/digimon-card-game-double-diamond-menoa-bellucci",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 248859,
+      "name": "Chikurimon",
+      "number": "BT6-056 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/248859_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/248859/digimon-card-game-double-diamond-chikurimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 248861,
+      "name": "Nanimon",
+      "number": "BT6-058 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/248861_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/248861/digimon-card-game-double-diamond-nanimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 248864,
+      "name": "Eosmon - BT6-085",
+      "number": "BT6-085 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/248864_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/248864/digimon-card-game-double-diamond-eosmon-bt6-085",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.33
+        }
+      ]
+    },
+    {
+      "id": 248866,
+      "name": "Eosmon - BT6-086",
+      "number": "BT6-086 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/248866_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/248866/digimon-card-game-double-diamond-eosmon-bt6-086",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.27
+        }
+      ]
+    },
+    {
+      "id": 249166,
+      "name": "Gankoomon",
+      "number": "BT6-067 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249166_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249166/digimon-card-game-double-diamond-gankoomon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 249167,
+      "name": "Alphamon",
+      "number": "BT6-111 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249167_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249167/digimon-card-game-double-diamond-alphamon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.03
+        }
+      ]
+    },
+    {
+      "id": 249407,
+      "name": "Ogremon",
+      "number": "BT6-072 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249407_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249407/digimon-card-game-double-diamond-ogremon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 249409,
+      "name": "Goblimon",
+      "number": "BT6-069 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249409_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249409/digimon-card-game-double-diamond-goblimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 249645,
+      "name": "BeelStarmon",
+      "number": "BT6-112 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249645_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249645/digimon-card-game-double-diamond-beelstarmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.81
+        }
+      ]
+    },
+    {
+      "id": 249646,
+      "name": "MagnaKidmon",
+      "number": "BT6-017 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249646_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249646/digimon-card-game-double-diamond-magnakidmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 249647,
+      "name": "Deputymon",
+      "number": "BT6-060 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249647_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249647/digimon-card-game-double-diamond-deputymon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 249648,
+      "name": "Gundramon",
+      "number": "BT6-065 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249648_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249648/digimon-card-game-double-diamond-gundramon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 249649,
+      "name": "SkullGreymon",
+      "number": "BT6-078 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249649_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249649/digimon-card-game-double-diamond-skullgreymon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.26
+        }
+      ]
+    },
+    {
+      "id": 249650,
+      "name": "Titamon",
+      "number": "BT6-081 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249650_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249650/digimon-card-game-double-diamond-titamon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.81
+        }
+      ]
+    },
+    {
+      "id": 249651,
+      "name": "Happy Bullet Showering",
+      "number": "BT6-095 U",
+      "rarity": "Uncommon",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249651_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249651/digimon-card-game-double-diamond-happy-bullet-showering",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 249652,
+      "name": "Gewalt Schwarmer",
+      "number": "BT6-105 U",
+      "rarity": "Uncommon",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249652_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249652/digimon-card-game-double-diamond-gewalt-schwarmer",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 249653,
+      "name": "Fly Bullet",
+      "number": "BT6-109 U",
+      "rarity": "Uncommon",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249653_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249653/digimon-card-game-double-diamond-fly-bullet",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 249687,
+      "name": "DemiMeramon",
+      "number": "BT6-001 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249687_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249687/digimon-card-game-double-diamond-demimeramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 249688,
+      "name": "Cutting Edge",
+      "number": "BT6-110 R",
+      "rarity": "Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249688_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249688/digimon-card-game-double-diamond-cutting-edge",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 249690,
+      "name": "Underworld's Call",
+      "number": "BT6-108 R",
+      "rarity": "Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249690_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249690/digimon-card-game-double-diamond-underworlds-call",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.53
+        }
+      ]
+    },
+    {
+      "id": 249691,
+      "name": "Kyaromon",
+      "number": "BT6-002 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249691_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249691/digimon-card-game-double-diamond-kyaromon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 249692,
+      "name": "Kyaromon",
+      "label": "Box Topper",
+      "number": "BT6-002 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249692_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249692/digimon-card-game-double-diamond-kyaromon-box-topper",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.62
+        }
+      ]
+    },
+    {
+      "id": 249694,
+      "name": "Glaive Memory Boost!",
+      "number": "BT6-107 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249694_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249694/digimon-card-game-double-diamond-glaive-memory-boost",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 249695,
+      "name": "DemiMeramon",
+      "label": "Box Topper",
+      "number": "BT6-001 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249695_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249695/digimon-card-game-double-diamond-demimeramon-box-topper",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.25
+        }
+      ]
+    },
+    {
+      "id": 249696,
+      "name": "Iron-Fisted Onslaught",
+      "number": "BT6-106 R",
+      "rarity": "Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249696_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249696/digimon-card-game-double-diamond-iron-fisted-onslaught",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 249697,
+      "name": "Bibimon",
+      "number": "BT6-003 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249697_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249697/digimon-card-game-double-diamond-bibimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 249698,
+      "name": "Parabolic Junk",
+      "number": "BT6-104 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249698_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249698/digimon-card-game-double-diamond-parabolic-junk",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16
+        }
+      ]
+    },
+    {
+      "id": 249699,
+      "name": "Bibimon",
+      "label": "Box Topper",
+      "number": "BT6-003 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249699_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249699/digimon-card-game-double-diamond-bibimon-box-topper",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.3
+        }
+      ]
+    },
+    {
+      "id": 249700,
+      "name": "Blasted Disaster",
+      "number": "BT6-103 U",
+      "rarity": "Uncommon",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249700_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249700/digimon-card-game-double-diamond-blasted-disaster",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 249701,
+      "name": "Pinamon",
+      "number": "BT6-004 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249701_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249701/digimon-card-game-double-diamond-pinamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 249702,
+      "name": "Tropical Venom",
+      "number": "BT6-102 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249702_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249702/digimon-card-game-double-diamond-tropical-venom",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 249703,
+      "name": "Pinamon",
+      "label": "Box Topper",
+      "number": "BT6-004 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249703_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249703/digimon-card-game-double-diamond-pinamon-box-topper",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.45
+        }
+      ]
+    },
+    {
+      "id": 249704,
+      "name": "Wyvern's Breath",
+      "number": "BT6-101 R",
+      "rarity": "Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249704_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249704/digimon-card-game-double-diamond-wyverns-breath",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.24
+        }
+      ]
+    },
+    {
+      "id": 249706,
+      "name": "Pagumon",
+      "number": "BT6-005 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249706_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249706/digimon-card-game-double-diamond-pagumon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.22
+        }
+      ]
+    },
+    {
+      "id": 249707,
+      "name": "Pagumon",
+      "label": "Box Topper",
+      "number": "BT6-005 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249707_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249707/digimon-card-game-double-diamond-pagumon-box-topper",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.35
+        }
+      ]
+    },
+    {
+      "id": 249708,
+      "name": "Reinforcing Memory Boost!",
+      "number": "BT6-100 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249708_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249708/digimon-card-game-double-diamond-reinforcing-memory-boost",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 249709,
+      "name": "Tsunomon",
+      "number": "BT6-006 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249709_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249709/digimon-card-game-double-diamond-tsunomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.44
+        }
+      ]
+    },
+    {
+      "id": 249710,
+      "name": "Acid Injection",
+      "number": "BT6-099 U",
+      "rarity": "Uncommon",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249710_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249710/digimon-card-game-double-diamond-acid-injection",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 249711,
+      "name": "Tsunomon",
+      "label": "Box Topper",
+      "number": "BT6-006 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249711_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249711/digimon-card-game-double-diamond-tsunomon-box-topper",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.58
+        }
+      ]
+    },
+    {
+      "id": 249712,
+      "name": "Howling Memory Boost!",
+      "number": "BT6-097 U",
+      "rarity": "Uncommon",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249712_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249712/digimon-card-game-double-diamond-howling-memory-boost",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 249714,
+      "name": "Forbidden Trident",
+      "number": "BT6-096 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249714_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249714/digimon-card-game-double-diamond-forbidden-trident",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.03
+        }
+      ]
+    },
+    {
+      "id": 249715,
+      "name": "Judgement of the Blade",
+      "number": "BT6-093 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249715_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249715/digimon-card-game-double-diamond-judgement-of-the-blade",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 249716,
+      "name": "Shoutmon",
+      "number": "BT6-008 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249716_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249716/digimon-card-game-double-diamond-shoutmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 249717,
+      "name": "Flamemon",
+      "number": "BT6-010 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249717_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249717/digimon-card-game-double-diamond-flamemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 249718,
+      "name": "Deltamon",
+      "number": "BT6-012 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249718_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249718/digimon-card-game-double-diamond-deltamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05
+        }
+      ]
+    },
+    {
+      "id": 249719,
+      "name": "Sora Takenouchi & Mimi Tachikawa",
+      "number": "BT6-091 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249719_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249719/digimon-card-game-double-diamond-sora-takenouchi-and-mimi-tachikawa",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 249720,
+      "name": "Megadramon",
+      "number": "BT6-013 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249720_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249720/digimon-card-game-double-diamond-megadramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05
+        }
+      ]
+    },
+    {
+      "id": 249721,
+      "name": "Izzy Izumi & Joe Kido",
+      "number": "BT6-090 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249721_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249721/digimon-card-game-double-diamond-izzy-izumi-and-joe-kido",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.22
+        }
+      ]
+    },
+    {
+      "id": 249722,
+      "name": "Asuramon",
+      "number": "BT6-014 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249722_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249722/digimon-card-game-double-diamond-asuramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 249723,
+      "name": "T.K. Takaishi & Kari Kamiya",
+      "number": "BT6-089 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249723_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249723/digimon-card-game-double-diamond-tk-takaishi-and-kari-kamiya",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.34
+        }
+      ]
+    },
+    {
+      "id": 249724,
+      "name": "ModokiBetamon",
+      "number": "BT6-021 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249724_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249724/digimon-card-game-double-diamond-modokibetamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 249725,
+      "name": "Ornismon",
+      "number": "BT6-080 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249725_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249725/digimon-card-game-double-diamond-ornismon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 249726,
+      "name": "Strabimon",
+      "number": "BT6-022 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249726_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249726/digimon-card-game-double-diamond-strabimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 249727,
+      "name": "Octomon",
+      "number": "BT6-023 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249727_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249727/digimon-card-game-double-diamond-octomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05
+        }
+      ]
+    },
+    {
+      "id": 249728,
+      "name": "Panjyamon",
+      "number": "BT6-025 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249728_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249728/digimon-card-game-double-diamond-panjyamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 249729,
+      "name": "Dragomon",
+      "number": "BT6-026 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249729_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249729/digimon-card-game-double-diamond-dragomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 249730,
+      "name": "Murmukusmon",
+      "number": "BT6-079 U",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249730_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249730/digimon-card-game-double-diamond-murmukusmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05
+        }
+      ]
+    },
+    {
+      "id": 249731,
+      "name": "Rebellimon",
+      "number": "BT6-077 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249731_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249731/digimon-card-game-double-diamond-rebellimon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 249732,
+      "name": "Pukumon",
+      "number": "BT6-028 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249732_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249732/digimon-card-game-double-diamond-pukumon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05
+        }
+      ]
+    },
+    {
+      "id": 249733,
+      "name": "Feresmon",
+      "number": "BT6-076 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249733_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249733/digimon-card-game-double-diamond-feresmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05
+        }
+      ]
+    },
+    {
+      "id": 249734,
+      "name": "Tinkermon",
+      "number": "BT6-031 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249734_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249734/digimon-card-game-double-diamond-tinkermon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 249735,
+      "name": "Ginkakumon Promote",
+      "number": "BT6-075 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249735_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249735/digimon-card-game-double-diamond-ginkakumon-promote",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 249736,
+      "name": "Boogiemon",
+      "number": "BT6-074 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249736_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249736/digimon-card-game-double-diamond-boogiemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05
+        }
+      ]
+    },
+    {
+      "id": 249737,
+      "name": "Ginkakumon",
+      "number": "BT6-073 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249737_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249737/digimon-card-game-double-diamond-ginkakumon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 249738,
+      "name": "Pulsemon",
+      "number": "BT6-033 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249738_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249738/digimon-card-game-double-diamond-pulsemon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 249739,
+      "name": "Kinkakumon",
+      "number": "BT6-071 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249739_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249739/digimon-card-game-double-diamond-kinkakumon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 249740,
+      "name": "Baluchimon",
+      "number": "BT6-035 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249740_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249740/digimon-card-game-double-diamond-baluchimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 249741,
+      "name": "Mimicmon",
+      "number": "BT6-036 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249741_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249741/digimon-card-game-double-diamond-mimicmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.04
+        }
+      ]
+    },
+    {
+      "id": 249742,
+      "name": "Elecmon",
+      "number": "BT6-070 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249742_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249742/digimon-card-game-double-diamond-elecmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05
+        }
+      ]
+    },
+    {
+      "id": 249743,
+      "name": "Bulkmon",
+      "number": "BT6-037 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249743_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249743/digimon-card-game-double-diamond-bulkmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 249744,
+      "name": "Impmon",
+      "number": "BT6-068 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249744_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249744/digimon-card-game-double-diamond-impmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 249745,
+      "name": "Apemon",
+      "number": "BT6-038 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249745_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249745/digimon-card-game-double-diamond-apemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 249746,
+      "name": "PileVolcamon",
+      "number": "BT6-066 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249746_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249746/digimon-card-game-double-diamond-pilevolcamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 249747,
+      "name": "Mamemon",
+      "number": "BT6-064 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249747_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249747/digimon-card-game-double-diamond-mamemon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 249748,
+      "name": "Mammothmon",
+      "number": "BT6-039 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249748_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249748/digimon-card-game-double-diamond-mammothmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 249749,
+      "name": "Manticoremon",
+      "number": "BT6-041 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249749_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249749/digimon-card-game-double-diamond-manticoremon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 249750,
+      "name": "Babamon",
+      "number": "BT6-042 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249750_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249750/digimon-card-game-double-diamond-babamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 249751,
+      "name": "SkullMammothmon",
+      "number": "BT6-043 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249751_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249751/digimon-card-game-double-diamond-skullmammothmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 249752,
+      "name": "Bakomon",
+      "number": "BT6-045 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249752_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249752/digimon-card-game-double-diamond-bakomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05
+        }
+      ]
+    },
+    {
+      "id": 249753,
+      "name": "Pomumon",
+      "number": "BT6-046 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249753_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249753/digimon-card-game-double-diamond-pomumon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.03
+        }
+      ]
+    },
+    {
+      "id": 249754,
+      "name": "Parasaurmon",
+      "number": "BT6-048 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249754_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249754/digimon-card-game-double-diamond-parasaurmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.04
+        }
+      ]
+    },
+    {
+      "id": 249755,
+      "name": "Arbormon",
+      "number": "BT6-049 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249755_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249755/digimon-card-game-double-diamond-arbormon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 249756,
+      "name": "Petaldramon",
+      "number": "BT6-050 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249756_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249756/digimon-card-game-double-diamond-petaldramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05
+        }
+      ]
+    },
+    {
+      "id": 249757,
+      "name": "Toropiamon",
+      "number": "BT6-051 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249757_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249757/digimon-card-game-double-diamond-toropiamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 249758,
+      "name": "Entmon",
+      "number": "BT6-052 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249758_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249758/digimon-card-game-double-diamond-entmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 249759,
+      "name": "Eldradimon",
+      "number": "BT6-053 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249759_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249759/digimon-card-game-double-diamond-eldradimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.04
+        }
+      ]
+    },
+    {
+      "id": 249760,
+      "name": "AncientTroymon",
+      "number": "BT6-054 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249760_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249760/digimon-card-game-double-diamond-ancienttroymon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 249761,
+      "name": "Junkmon",
+      "number": "BT6-055 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249761_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249761/digimon-card-game-double-diamond-junkmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 249762,
+      "name": "ToyAgumon",
+      "number": "BT6-057 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249762_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249762/digimon-card-game-double-diamond-toyagumon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 249763,
+      "name": "Machmon",
+      "number": "BT6-059 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249763_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249763/digimon-card-game-double-diamond-machmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 249764,
+      "name": "Gigadramon",
+      "number": "BT6-061 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249764_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249764/digimon-card-game-double-diamond-gigadramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.04
+        }
+      ]
+    },
+    {
+      "id": 249765,
+      "name": "Volcanomon",
+      "number": "BT6-062 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249765_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249765/digimon-card-game-double-diamond-volcanomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 249766,
+      "name": "BigMamemon",
+      "number": "BT6-063 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249766_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249766/digimon-card-game-double-diamond-bigmamemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 249860,
+      "name": "Agumon",
+      "label": "Alternate Art",
+      "number": "BT6-007 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249860_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249860/digimon-card-game-double-diamond-agumon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.51
+        }
+      ]
+    },
+    {
+      "id": 249861,
+      "name": "Agumon - Bond of Bravery",
+      "label": "Alternate Art",
+      "number": "BT6-018 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249861_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249861/digimon-card-game-double-diamond-agumon-bond-of-bravery-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5.55
+        }
+      ]
+    },
+    {
+      "id": 249862,
+      "name": "Gabumon",
+      "label": "Alternate Art",
+      "number": "BT6-019 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249862_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249862/digimon-card-game-double-diamond-gabumon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5.29
+        }
+      ]
+    },
+    {
+      "id": 249863,
+      "name": "Gabumon - Bond of Friendship",
+      "label": "Alternate Art",
+      "number": "BT6-030 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249863_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249863/digimon-card-game-double-diamond-gabumon-bond-of-friendship-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.83
+        }
+      ]
+    },
+    {
+      "id": 249910,
+      "name": "Sistermon Blanc",
+      "label": "Alternate Art",
+      "number": "BT6-082 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249910_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249910/digimon-card-game-double-diamond-sistermon-blanc-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.03
+        }
+      ]
+    },
+    {
+      "id": 249911,
+      "name": "Sistermon Ciel",
+      "label": "Alternate Art",
+      "number": "BT6-084 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249911_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249911/digimon-card-game-double-diamond-sistermon-ciel-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 16.4
+        }
+      ]
+    },
+    {
+      "id": 249992,
+      "name": "Jesmon",
+      "label": "Alternate Art",
+      "number": "BT6-016 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249992_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249992/digimon-card-game-double-diamond-jesmon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.07
+        }
+      ]
+    },
+    {
+      "id": 249993,
+      "name": "Gankoomon",
+      "label": "Alternate Art",
+      "number": "BT6-067 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/249993_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/249993/digimon-card-game-double-diamond-gankoomon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.26
+        }
+      ]
+    },
+    {
+      "id": 250038,
+      "name": "Eosmon - BT6-086",
+      "label": "Alternate Art",
+      "number": "BT6-086 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/250038_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/250038/digimon-card-game-double-diamond-eosmon-bt6-086-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3
+        }
+      ]
+    },
+    {
+      "id": 250039,
+      "name": "Impmon",
+      "label": "Alternate Art",
+      "number": "BT6-068 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/250039_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/250039/digimon-card-game-double-diamond-impmon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 7.71
+        }
+      ]
+    },
+    {
+      "id": 250040,
+      "name": "Mamemon",
+      "label": "Alternate Art",
+      "number": "BT6-064 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/250040_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/250040/digimon-card-game-double-diamond-mamemon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.23
+        }
+      ]
+    },
+    {
+      "id": 250041,
+      "name": "Morphomon",
+      "label": "Alternate Art",
+      "number": "BT6-047 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/250041_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/250041/digimon-card-game-double-diamond-morphomon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.72
+        }
+      ]
+    },
+    {
+      "id": 250042,
+      "name": "Dynasmon",
+      "label": "Alternate Art",
+      "number": "BT6-044 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/250042_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/250042/digimon-card-game-double-diamond-dynasmon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.44
+        }
+      ]
+    },
+    {
+      "id": 250043,
+      "name": "Pulsemon",
+      "label": "Alternate Art",
+      "number": "BT6-033 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/250043_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/250043/digimon-card-game-double-diamond-pulsemon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.85
+        }
+      ]
+    },
+    {
+      "id": 250101,
+      "name": "SkullGreymon",
+      "label": "Alternate Art",
+      "number": "BT6-078 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/250101_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/250101/digimon-card-game-double-diamond-skullgreymon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.62
+        }
+      ]
+    },
+    {
+      "id": 250102,
+      "name": "Titamon",
+      "label": "Alternate Art",
+      "number": "BT6-081 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/250102_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/250102/digimon-card-game-double-diamond-titamon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.7
+        }
+      ]
+    },
+    {
+      "id": 250117,
+      "name": "Alphamon",
+      "label": "Alternate Art",
+      "number": "BT6-111 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/250117_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/250117/digimon-card-game-double-diamond-alphamon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.49
+        }
+      ]
+    },
+    {
+      "id": 250118,
+      "name": "BeelStarmon",
+      "label": "Alternate Art",
+      "number": "BT6-112 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/250118_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/250118/digimon-card-game-double-diamond-beelstarmon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 27.51
+        }
+      ]
+    },
+    {
+      "id": 252518,
+      "name": "Omnimon",
+      "label": "Alternate Art",
+      "number": "BT1-084 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/252518_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/252518/digimon-card-game-double-diamond-omnimon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 545
+        }
+      ]
+    },
+    {
+      "id": 257243,
+      "name": "Double Diamond Index Card",
+      "label": "Blue",
+      "rarity": "None",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257243_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257243/digimon-card-game-double-diamond-double-diamond-index-card-blue",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.89
+        }
+      ]
+    },
+    {
+      "id": 257244,
+      "name": "Double Diamond Index Card",
+      "label": "Yellow",
+      "rarity": "None",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257244_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257244/digimon-card-game-double-diamond-double-diamond-index-card-yellow",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.58
+        }
+      ]
+    },
+    {
+      "id": 263700,
+      "name": "Jesmon",
+      "label": "Event Pack 2",
+      "number": "BT6-016 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/263700_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/263700/digimon-card-game-double-diamond-jesmon-event-pack-2",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.75
+        }
+      ]
+    },
+    {
+      "id": 263722,
+      "name": "Agumon - Bond of Bravery",
+      "label": "2021 Championship Finals 1st Place",
+      "number": "BT6-018 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/263722_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/263722/digimon-card-game-double-diamond-agumon-bond-of-bravery-2021-championship-finals-1st-place",
+      "prices": []
+    },
+    {
+      "id": 266680,
+      "name": "Huckmon",
+      "label": "Digimon Card Game Fest 2022",
+      "number": "BT6-009 R",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/266680_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/266680/digimon-card-game-double-diamond-huckmon-digimon-card-game-fest-2022",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.5
+        }
+      ]
+    },
+    {
+      "id": 266681,
+      "name": "Rebellimon",
+      "label": "Digimon Card Game Fest 2022",
+      "number": "BT6-077 R",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/266681_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/266681/digimon-card-game-double-diamond-rebellimon-digimon-card-game-fest-2022",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.17
+        }
+      ]
+    },
+    {
+      "id": 266701,
+      "name": "Pagumon",
+      "label": "Digimon Card Game Fest 2022",
+      "number": "BT6-005 U",
+      "rarity": "Promo",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/266701_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/266701/digimon-card-game-double-diamond-pagumon-digimon-card-game-fest-2022",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.47
+        }
+      ]
+    },
+    {
+      "id": 266703,
+      "name": "DemiMeramon",
+      "label": "Digimon Card Game Fest 2022",
+      "number": "BT6-001 U",
+      "rarity": "Promo",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/266703_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/266703/digimon-card-game-double-diamond-demimeramon-digimon-card-game-fest-2022",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 266748,
+      "name": "Chikurimon",
+      "label": "Digimon Card Game Fest 2022",
+      "number": "BT6-056 C",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/266748_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/266748/digimon-card-game-double-diamond-chikurimon-digimon-card-game-fest-2022",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.22
+        }
+      ]
+    },
+    {
+      "id": 276401,
+      "name": "Apemon [Online Participant]",
+      "label": "2022 Championship Online Regional",
+      "number": "BT6-038 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/276401_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/276401/digimon-card-game-double-diamond-apemon-2022-championship-online-regional-online-participant",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.21
+        }
+      ]
+    },
+    {
+      "id": 276402,
+      "name": "Apemon [Online Finalist]",
+      "label": "2022 Championship Online Regional",
+      "number": "BT6-038 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/276402_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/276402/digimon-card-game-double-diamond-apemon-2022-championship-online-regional-online-finalist",
+      "prices": []
+    },
+    {
+      "id": 276403,
+      "name": "Apemon [Online Champion]",
+      "label": "2022 Championship Online Regional",
+      "number": "BT6-038 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/276403_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/276403/digimon-card-game-double-diamond-apemon-2022-championship-online-regional-online-champion",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 20
+        }
+      ]
+    },
+    {
+      "id": 276404,
+      "name": "Parasaurmon [Online Participant]",
+      "label": "2022 Championship Online Regional",
+      "number": "BT6-048 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/276404_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/276404/digimon-card-game-double-diamond-parasaurmon-2022-championship-online-regional-online-participant",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 276405,
+      "name": "Parasaurmon [Online Finalist]",
+      "label": "2022 Championship Online Regional",
+      "number": "BT6-048 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/276405_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/276405/digimon-card-game-double-diamond-parasaurmon-2022-championship-online-regional-online-finalist",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.66
+        }
+      ]
+    },
+    {
+      "id": 276406,
+      "name": "Parasaurmon [Online Champion]",
+      "label": "2022 Championship Online Regional",
+      "number": "BT6-048 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/276406_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/276406/digimon-card-game-double-diamond-parasaurmon-2022-championship-online-regional-online-champion",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 33.99
+        }
+      ]
+    },
+    {
+      "id": 276895,
+      "name": "Eosmon - BT6-083",
+      "label": "Tamer Party Vol. 5 Promo",
+      "number": "BT6-083 C",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/276895_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/276895/digimon-card-game-double-diamond-eosmon-bt6-083-tamer-party-vol-5-promo",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 7
+        }
+      ]
+    },
+    {
+      "id": 277608,
+      "name": "Wizardmon",
+      "label": "2022 Store Participant",
+      "number": "BT6-034 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/277608_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/277608/digimon-card-game-double-diamond-wizardmon-2022-store-participant",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.27
+        }
+      ]
+    },
+    {
+      "id": 277609,
+      "name": "Wizardmon",
+      "label": "2022 Store Champion",
+      "number": "BT6-034 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/277609_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/277609/digimon-card-game-double-diamond-wizardmon-2022-store-champion",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 7.96
+        }
+      ]
+    },
+    {
+      "id": 283991,
+      "name": "BaoHuckmon",
+      "label": "Event Pack 3",
+      "number": "BT6-011 C",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/283991_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/283991/digimon-card-game-double-diamond-baohuckmon-event-pack-3",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.37
+        }
+      ]
+    },
+    {
+      "id": 283996,
+      "name": "Huckmon",
+      "label": "Event Pack 3",
+      "number": "BT6-009 R",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/283996_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/283996/digimon-card-game-double-diamond-huckmon-event-pack-3",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.19
+        }
+      ]
+    },
+    {
+      "id": 284000,
+      "name": "SaviorHuckmon",
+      "label": "Event Pack 3",
+      "number": "BT6-015 U",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/284000_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/284000/digimon-card-game-double-diamond-saviorhuckmon-event-pack-3",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 10.94
+        }
+      ]
+    },
+    {
+      "id": 286919,
+      "name": "Mamemon",
+      "label": "25th Special Memorial Pack",
+      "number": "BT6-064 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/286919_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/286919/digimon-card-game-double-diamond-mamemon-25th-special-memorial-pack",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.24
+        }
+      ]
+    },
+    {
+      "id": 448450,
+      "name": "ModokiBetamon",
+      "label": "Premium Deck Set Lucky Pack",
+      "number": "BT6-021 C",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/448450_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/448450/digimon-card-game-double-diamond-modokibetamon-premium-deck-set-lucky-pack",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.7
+        }
+      ]
+    },
+    {
+      "id": 448453,
+      "name": "Judgement of the Blade",
+      "label": "Premium Deck Set",
+      "number": "BT6-093 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/448453_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/448453/digimon-card-game-double-diamond-judgement-of-the-blade-premium-deck-set",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.32
+        }
+      ]
+    },
+    {
+      "id": 448454,
+      "name": "Fly Bullet",
+      "label": "Premium Deck Set",
+      "number": "BT6-109 U",
+      "rarity": "Uncommon",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/448454_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/448454/digimon-card-game-double-diamond-fly-bullet-premium-deck-set",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.58
+        }
+      ]
+    },
+    {
+      "id": 450453,
+      "name": "Alphamon",
+      "label": "Xros Encounter Ghost Rare",
+      "number": "BT6-111 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/450453_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/450453/digimon-card-game-double-diamond-alphamon-xros-encounter-ghost-rare",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 188.09
+        }
+      ]
+    },
+    {
+      "id": 485817,
+      "name": "Huckmon",
+      "label": "Digimon Royal Knights Card Set",
+      "number": "BT6-009 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/485817_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/485817/digimon-card-game-double-diamond-huckmon-digimon-royal-knights-card-set",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 16.08
+        }
+      ]
+    },
+    {
+      "id": 485836,
+      "name": "Gundramon",
+      "label": "Digimon Card Game Deck Box Set",
+      "number": "BT6-065 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/485836_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/485836/digimon-card-game-double-diamond-gundramon-digimon-card-game-deck-box-set",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.6
+        }
+      ]
+    },
+    {
+      "id": 485837,
+      "name": "MagnaKidmon",
+      "label": "Digimon Card Game Deck Box Set",
+      "number": "BT6-017 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/485837_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/485837/digimon-card-game-double-diamond-magnakidmon-digimon-card-game-deck-box-set",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.12
+        }
+      ]
+    },
+    {
+      "id": 485900,
+      "name": "SaviorHuckmon",
+      "label": "2022 Championship Finals Event Pack",
+      "number": "BT6-015 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/485900_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/485900/digimon-card-game-double-diamond-saviorhuckmon-2022-championship-finals-event-pack",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.82
+        }
+      ]
+    },
+    {
+      "id": 490214,
+      "name": "Chikurimon",
+      "label": "Event Pack 4",
+      "number": "BT6-056 C",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/490214_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/490214/digimon-card-game-double-diamond-chikurimon-event-pack-4",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.46
+        }
+      ]
+    },
+    {
+      "id": 490373,
+      "name": "Glaive Memory Boost!",
+      "label": "Judge Pack 3",
+      "number": "BT6-107 C",
+      "rarity": "Promo",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/490373_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/490373/digimon-card-game-double-diamond-glaive-memory-boost-judge-pack-3",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.5
+        }
+      ]
+    },
+    {
+      "id": 490374,
+      "name": "Howling Memory Boost!",
+      "label": "Judge Pack 3",
+      "number": "BT6-097 U",
+      "rarity": "Promo",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/490374_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/490374/digimon-card-game-double-diamond-howling-memory-boost-judge-pack-3",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.64
+        }
+      ]
+    },
+    {
+      "id": 490378,
+      "name": "Reinforcing Memory Boost!",
+      "label": "Judge Pack 3",
+      "number": "BT6-100 C",
+      "rarity": "Promo",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/490378_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/490378/digimon-card-game-double-diamond-reinforcing-memory-boost-judge-pack-3",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.61
+        }
+      ]
+    },
+    {
+      "id": 496539,
+      "name": "Sistermon Blanc",
+      "label": "2023 Store Participant",
+      "number": "BT6-082 R",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/496539_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/496539/digimon-card-game-double-diamond-sistermon-blanc-2023-store-participant",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.63
+        }
+      ]
+    },
+    {
+      "id": 496540,
+      "name": "Sistermon Blanc",
+      "label": "2023 Store Top 4",
+      "number": "BT6-082 R",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/496540_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/496540/digimon-card-game-double-diamond-sistermon-blanc-2023-store-top-4",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.96
+        }
+      ]
+    },
+    {
+      "id": 496541,
+      "name": "Sistermon Ciel",
+      "label": "2023 Store Participant",
+      "number": "BT6-084 R",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/496541_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/496541/digimon-card-game-double-diamond-sistermon-ciel-2023-store-participant",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.94
+        }
+      ]
+    },
+    {
+      "id": 496542,
+      "name": "Sistermon Ciel",
+      "label": "2023 Store Top 4",
+      "number": "BT6-084 R",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/496542_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/496542/digimon-card-game-double-diamond-sistermon-ciel-2023-store-top-4",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 8.03
+        }
+      ]
+    },
+    {
+      "id": 496543,
+      "name": "Sistermon Ciel",
+      "label": "2023 Store Champion",
+      "number": "BT6-084 R",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/496543_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/496543/digimon-card-game-double-diamond-sistermon-ciel-2023-store-champion",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 23.38
+        }
+      ]
+    },
+    {
+      "id": 503324,
+      "name": "T.K. Takaishi & Kari Kamiya",
+      "label": "Event Pack 5",
+      "number": "BT6-089 R",
+      "rarity": "Promo",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/503324_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/503324/digimon-card-game-double-diamond-tk-takaishi-and-kari-kamiya-event-pack-5",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.79
+        }
+      ]
+    },
+    {
+      "id": 503326,
+      "name": "Matt Ishida",
+      "label": "Event Pack 5",
+      "number": "BT6-088 R",
+      "rarity": "Promo",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/503326_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/503326/digimon-card-game-double-diamond-matt-ishida-event-pack-5",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 7.12
+        }
+      ]
+    },
+    {
+      "id": 503327,
+      "name": "Tai Kamiya",
+      "label": "Event Pack 5",
+      "number": "BT6-087 R",
+      "rarity": "Promo",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/503327_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/503327/digimon-card-game-double-diamond-tai-kamiya-event-pack-5",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.99
+        }
+      ]
+    },
+    {
+      "id": 514075,
+      "name": "BeelStarmon",
+      "label": "Premium Binder Set",
+      "number": "BT6-112 SEC",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/514075_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/514075/digimon-card-game-double-diamond-beelstarmon-premium-binder-set",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 31.5
+        }
+      ]
+    },
+    {
+      "id": 538464,
+      "name": "Elecmon",
+      "label": "Official Tournament Pack Vol.12",
+      "number": "BT6-070 C",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/538464_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/538464/digimon-card-game-double-diamond-elecmon-official-tournament-pack-vol12",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 550497,
+      "name": "Chikurimon - BT6-056",
+      "label": "Official Tournament Vol.13 Winner Pack",
+      "number": "BT6-056 C",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/550497_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/550497/digimon-card-game-double-diamond-chikurimon-bt6-056-official-tournament-vol13-winner-pack",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.42
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-10-12"
+}

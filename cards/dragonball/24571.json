@@ -1,0 +1,578 @@
+{
+  "groupId": 24571,
+  "cards": [
+    {
+      "id": 672189,
+      "name": "Son Goku",
+      "number": "FS12-01",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/672189_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/672189/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-son-goku-fs12-01",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.43
+        }
+      ]
+    },
+    {
+      "id": 677250,
+      "name": "Krillin",
+      "number": "FS12-03",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/677250_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/677250/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-krillin-fs12-03",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 4.15
+        }
+      ]
+    },
+    {
+      "id": 677253,
+      "name": "Son Goku",
+      "number": "FS12-07",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/677253_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/677253/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-son-goku-fs12-07",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.53
+        }
+      ]
+    },
+    {
+      "id": 677257,
+      "name": "Son Gohan : Youth",
+      "number": "FS12-09",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/677257_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/677257/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-son-gohan-youth-fs12-09",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.66
+        }
+      ]
+    },
+    {
+      "id": 677323,
+      "name": "Piccolo",
+      "number": "FS12-13",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/677323_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/677323/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-piccolo-fs12-13",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.49
+        }
+      ]
+    },
+    {
+      "id": 680578,
+      "name": "Krillin",
+      "number": "FS12-02",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680578_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680578/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-krillin-fs12-02",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 680579,
+      "name": "Krillin",
+      "label": "Gold",
+      "number": "FS12-02",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680579_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680579/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-krillin-fs12-02-gold",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 2.92
+        }
+      ]
+    },
+    {
+      "id": 680580,
+      "name": "Guru",
+      "number": "FS12-04",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680580_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680580/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-guru",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.71
+        }
+      ]
+    },
+    {
+      "id": 680581,
+      "name": "Guru",
+      "label": "Gold",
+      "number": "FS12-04",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680581_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680581/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-guru-gold",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 11.54
+        }
+      ]
+    },
+    {
+      "id": 680584,
+      "name": "Son Goku",
+      "number": "FS12-05",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680584_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680584/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-son-goku-fs12-05",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.16
+        }
+      ]
+    },
+    {
+      "id": 680587,
+      "name": "Son Goku",
+      "label": "Gold",
+      "number": "FS12-05",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680587_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680587/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-son-goku-fs12-05-gold",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 3.9
+        }
+      ]
+    },
+    {
+      "id": 680588,
+      "name": "Son Goku",
+      "number": "FS12-06",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680588_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680588/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-son-goku-fs12-06",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.4
+        }
+      ]
+    },
+    {
+      "id": 680596,
+      "name": "Son Goku",
+      "label": "Gold",
+      "number": "FS12-06",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680596_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680596/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-son-goku-fs12-06-gold",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 15.4
+        }
+      ]
+    },
+    {
+      "id": 680598,
+      "name": "Son Gohan : Youth",
+      "number": "FS12-08",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680598_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680598/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-son-gohan-youth-fs12-08",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 680599,
+      "name": "Son Gohan : Youth",
+      "label": "Gold",
+      "number": "FS12-08",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680599_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680599/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-son-gohan-youth-fs12-08-gold",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 3.17
+        }
+      ]
+    },
+    {
+      "id": 680602,
+      "name": "Dende",
+      "number": "FS12-10",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680602_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680602/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-dende",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 680603,
+      "name": "Dende",
+      "label": "Gold",
+      "number": "FS12-10",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680603_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680603/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-dende-gold",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 2.2
+        }
+      ]
+    },
+    {
+      "id": 680702,
+      "name": "Piccolo",
+      "number": "FS12-12",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680702_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680702/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-piccolo-fs12-12",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 680703,
+      "name": "Piccolo",
+      "label": "Gold",
+      "number": "FS12-12",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680703_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680703/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-piccolo-fs12-12-gold",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 3.52
+        }
+      ]
+    },
+    {
+      "id": 680704,
+      "name": "Bulma",
+      "number": "FS12-14",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680704_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680704/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-bulma-fs12-14",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.47
+        }
+      ]
+    },
+    {
+      "id": 680705,
+      "name": "Bulma",
+      "label": "Gold",
+      "number": "FS12-14",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680705_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680705/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-bulma-fs12-14-gold",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 15.79
+        }
+      ]
+    },
+    {
+      "id": 680870,
+      "name": "Bulma",
+      "number": "FS12-15",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680870_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680870/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-bulma-fs12-15",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.27
+        }
+      ]
+    },
+    {
+      "id": 680871,
+      "name": "Bulma",
+      "label": "Gold",
+      "number": "FS12-15",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680871_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680871/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-bulma-fs12-15-gold",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 13.76
+        }
+      ]
+    },
+    {
+      "id": 680873,
+      "name": "Vegeta",
+      "number": "FS12-16",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680873_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680873/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-vegeta",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.25
+        }
+      ]
+    },
+    {
+      "id": 680874,
+      "name": "Vegeta",
+      "label": "Gold",
+      "number": "FS12-16",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680874_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680874/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-vegeta-gold",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 9.63
+        }
+      ]
+    },
+    {
+      "id": 680875,
+      "name": "Legendary Warrior",
+      "number": "FS12-17",
+      "rarity": "Common",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680875_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680875/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-legendary-warrior",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 4.22
+        }
+      ]
+    },
+    {
+      "id": 680876,
+      "name": "Legendary Warrior",
+      "label": "Gold",
+      "number": "FS12-17",
+      "rarity": "Common",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680876_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680876/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-legendary-warrior-gold",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 28.39
+        }
+      ]
+    },
+    {
+      "id": 681586,
+      "name": "Son Goku",
+      "label": "Gold",
+      "number": "FS12-01",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/681586_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/681586/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-son-goku-fs12-01-gold",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 65.24
+        }
+      ]
+    },
+    {
+      "id": 681587,
+      "name": "Krillin",
+      "label": "Gold",
+      "number": "FS12-03",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/681587_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/681587/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-krillin-fs12-03-gold",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 21.95
+        }
+      ]
+    },
+    {
+      "id": 681588,
+      "name": "Son Goku",
+      "label": "Gold",
+      "number": "FS12-07",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/681588_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/681588/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-son-goku-fs12-07-gold",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 27.02
+        }
+      ]
+    },
+    {
+      "id": 681589,
+      "name": "Son Gohan : Youth",
+      "label": "Gold",
+      "number": "FS12-09",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/681589_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/681589/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-son-gohan-youth-fs12-09-gold",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 9.84
+        }
+      ]
+    },
+    {
+      "id": 681590,
+      "name": "Nail",
+      "number": "FS12-11",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/681590_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/681590/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-nail",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 681591,
+      "name": "Nail",
+      "label": "Gold",
+      "number": "FS12-11",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/681591_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/681591/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-nail-gold",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 4.23
+        }
+      ]
+    },
+    {
+      "id": 681592,
+      "name": "Piccolo",
+      "label": "Gold",
+      "number": "FS12-13",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/681592_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/681592/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-piccolo-fs12-13-gold",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 8.38
+        }
+      ]
+    },
+    {
+      "id": 681593,
+      "name": "Kaio-ken x20",
+      "number": "FS12-18",
+      "rarity": "Common",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/681593_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/681593/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-kaio-ken-x20",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.17
+        }
+      ]
+    },
+    {
+      "id": 681594,
+      "name": "Kaio-ken x20",
+      "label": "Gold",
+      "number": "FS12-18",
+      "rarity": "Common",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/681594_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/681594/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-kaio-ken-x20-gold",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 21.46
+        }
+      ]
+    },
+    {
+      "id": 681965,
+      "name": "Code Card - Starter Deck EX: The Beat of Ki",
+      "label": "FS12",
+      "rarity": "Code Card",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/681965_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/681965/dragon-ball-super-fusion-world-starter-deck-ex-the-beat-of-ki-code-card-starter-deck-ex-the-beat-of-ki-fs12",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.2
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-10-12"
+}

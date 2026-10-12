@@ -1,0 +1,2379 @@
+{
+  "groupId": 24397,
+  "cards": [
+    {
+      "id": 646905,
+      "name": "Oolong",
+      "number": "FB07-099",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646905_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646905/dragon-ball-super-fusion-world-wish-for-shenron-oolong",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 646906,
+      "name": "Kami",
+      "number": "FB07-100",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646906_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646906/dragon-ball-super-fusion-world-wish-for-shenron-kami",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 646907,
+      "name": "Tell Me Your Wish, Now",
+      "number": "FB07-118",
+      "rarity": "Common",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646907_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646907/dragon-ball-super-fusion-world-wish-for-shenron-tell-me-your-wish-now",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 646908,
+      "name": "Son Goku : DA",
+      "number": "FB07-009",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646908_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646908/dragon-ball-super-fusion-world-wish-for-shenron-son-goku-da-fb07-009",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.33
+        }
+      ]
+    },
+    {
+      "id": 646909,
+      "name": "Syn Shenron",
+      "number": "FB07-026",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646909_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646909/dragon-ball-super-fusion-world-wish-for-shenron-syn-shenron-fb07-026",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17
+        }
+      ]
+    },
+    {
+      "id": 646910,
+      "name": "Son Gohan : SH",
+      "number": "FB07-057",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646910_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646910/dragon-ball-super-fusion-world-wish-for-shenron-son-gohan-sh-fb07-057",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.4
+        }
+      ]
+    },
+    {
+      "id": 646911,
+      "name": "Cooler",
+      "number": "FB07-078",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646911_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646911/dragon-ball-super-fusion-world-wish-for-shenron-cooler-fb07-078",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 646912,
+      "name": "Bulma",
+      "number": "FB07-113",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646912_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646912/dragon-ball-super-fusion-world-wish-for-shenron-bulma-fb07-113",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.72
+        }
+      ]
+    },
+    {
+      "id": 646913,
+      "name": "Glorio : DA",
+      "number": "FB07-001",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646913_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646913/dragon-ball-super-fusion-world-wish-for-shenron-glorio-da",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 646914,
+      "name": "Syn Shenron",
+      "number": "FB07-025",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646914_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646914/dragon-ball-super-fusion-world-wish-for-shenron-syn-shenron-fb07-025",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.42
+        }
+      ]
+    },
+    {
+      "id": 646915,
+      "name": "Piccolo : SH",
+      "number": "FB07-049",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646915_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646915/dragon-ball-super-fusion-world-wish-for-shenron-piccolo-sh-fb07-049",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2
+        }
+      ]
+    },
+    {
+      "id": 646916,
+      "name": "Frieza",
+      "number": "FB07-073",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646916_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646916/dragon-ball-super-fusion-world-wish-for-shenron-frieza-fb07-073",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.27
+        }
+      ]
+    },
+    {
+      "id": 646917,
+      "name": "Dragon Ball // Shenron",
+      "number": "FB07-097",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646917_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646917/dragon-ball-super-fusion-world-wish-for-shenron-dragon-ball-shenron",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.42
+        }
+      ]
+    },
+    {
+      "id": 646918,
+      "name": "Dr. Arinsu : DA",
+      "number": "FB07-002",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646918_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646918/dragon-ball-super-fusion-world-wish-for-shenron-dr-arinsu-da",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 646919,
+      "name": "Burst Attack",
+      "number": "FB07-046",
+      "rarity": "Uncommon",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646919_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646919/dragon-ball-super-fusion-world-wish-for-shenron-burst-attack",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16
+        }
+      ]
+    },
+    {
+      "id": 646920,
+      "name": "Gamma 1 : SH/Gamma 2 : SH",
+      "number": "FB07-051",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646920_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646920/dragon-ball-super-fusion-world-wish-for-shenron-gamma-1-sh-gamma-2-sh",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.26
+        }
+      ]
+    },
+    {
+      "id": 646921,
+      "name": "Golden Emperor",
+      "number": "FB07-094",
+      "rarity": "Common",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646921_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646921/dragon-ball-super-fusion-world-wish-for-shenron-golden-emperor",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 646922,
+      "name": "Dende",
+      "number": "FB07-107",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646922_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646922/dragon-ball-super-fusion-world-wish-for-shenron-dende",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 646923,
+      "name": "Son Goku : DA",
+      "number": "FB07-010",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646923_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646923/dragon-ball-super-fusion-world-wish-for-shenron-son-goku-da-fb07-010",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.95
+        }
+      ]
+    },
+    {
+      "id": 646924,
+      "name": "Son Goku : DA",
+      "label": "Mini",
+      "number": "FB07-011",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646924_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646924/dragon-ball-super-fusion-world-wish-for-shenron-son-goku-mini-da",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.22
+        }
+      ]
+    },
+    {
+      "id": 646925,
+      "name": "Nuova Shenron",
+      "number": "FB07-033",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646925_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646925/dragon-ball-super-fusion-world-wish-for-shenron-nuova-shenron-fb07-033",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.3
+        }
+      ]
+    },
+    {
+      "id": 646926,
+      "name": "Piccolo : SH",
+      "number": "FB07-064",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646926_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646926/dragon-ball-super-fusion-world-wish-for-shenron-piccolo-sh-fb07-064",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 646927,
+      "name": "Mecha Frieza/King Cold",
+      "number": "FB07-092",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646927_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646927/dragon-ball-super-fusion-world-wish-for-shenron-mecha-frieza-king-cold",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 646928,
+      "name": "Krillin",
+      "number": "FB07-103",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646928_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646928/dragon-ball-super-fusion-world-wish-for-shenron-krillin",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.2
+        }
+      ]
+    },
+    {
+      "id": 646929,
+      "name": "Son Goku : DA",
+      "label": "Alternate Art",
+      "number": "FB07-009",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646929_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646929/dragon-ball-super-fusion-world-wish-for-shenron-son-goku-da-fb07-009-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 82.54
+        }
+      ]
+    },
+    {
+      "id": 646930,
+      "name": "Syn Shenron",
+      "label": "Alternate Art",
+      "number": "FB07-026",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646930_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646930/dragon-ball-super-fusion-world-wish-for-shenron-syn-shenron-fb07-026-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 26.48
+        }
+      ]
+    },
+    {
+      "id": 646931,
+      "name": "Son Gohan : SH",
+      "label": "Alternate Art",
+      "number": "FB07-057",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646931_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646931/dragon-ball-super-fusion-world-wish-for-shenron-son-gohan-sh-fb07-057-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 40.05
+        }
+      ]
+    },
+    {
+      "id": 646932,
+      "name": "Cooler",
+      "label": "Alternate Art",
+      "number": "FB07-078",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646932_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646932/dragon-ball-super-fusion-world-wish-for-shenron-cooler-fb07-078-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 22.37
+        }
+      ]
+    },
+    {
+      "id": 646933,
+      "name": "Bulma",
+      "label": "Alternate Art",
+      "number": "FB07-113",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/646933_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/646933/dragon-ball-super-fusion-world-wish-for-shenron-bulma-fb07-113-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 353.99
+        }
+      ]
+    },
+    {
+      "id": 647065,
+      "name": "Evolving to Super Saiyan 4",
+      "number": "FB07-023",
+      "rarity": "Common",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647065_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647065/dragon-ball-super-fusion-world-wish-for-shenron-evolving-to-super-saiyan-4",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 647066,
+      "name": "Showdown in the Demon King Palace",
+      "number": "FB07-024",
+      "rarity": "Common",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647066_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647066/dragon-ball-super-fusion-world-wish-for-shenron-showdown-in-the-demon-king-palace",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 647067,
+      "name": "Haze Shenron",
+      "number": "FB07-041",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647067_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647067/dragon-ball-super-fusion-world-wish-for-shenron-haze-shenron",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 647068,
+      "name": "Eis Shenron",
+      "number": "FB07-032",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647068_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647068/dragon-ball-super-fusion-world-wish-for-shenron-eis-shenron",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17
+        }
+      ]
+    },
+    {
+      "id": 647069,
+      "name": "Android 18 : SH",
+      "number": "FB07-055",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647069_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647069/dragon-ball-super-fusion-world-wish-for-shenron-android-18-sh",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 647070,
+      "name": "Krillin : SH",
+      "number": "FB07-053",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647070_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647070/dragon-ball-super-fusion-world-wish-for-shenron-krillin-sh",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 647071,
+      "name": "Dodoria",
+      "number": "FB07-087",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647071_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647071/dragon-ball-super-fusion-world-wish-for-shenron-dodoria",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 647072,
+      "name": "Zarbon",
+      "number": "FB07-082",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647072_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647072/dragon-ball-super-fusion-world-wish-for-shenron-zarbon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 647073,
+      "name": "Pilaf",
+      "number": "FB07-111",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647073_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647073/dragon-ball-super-fusion-world-wish-for-shenron-pilaf",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 647074,
+      "name": "Son Gohan : Youth",
+      "number": "FB07-106",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647074_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647074/dragon-ball-super-fusion-world-wish-for-shenron-son-gohan-youth",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.55
+        }
+      ]
+    },
+    {
+      "id": 647075,
+      "name": "Tamagami Number Two : DA",
+      "number": "FB07-013",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647075_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647075/dragon-ball-super-fusion-world-wish-for-shenron-tamagami-number-two-da",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 647076,
+      "name": "Vegeta : DA",
+      "number": "FB07-019",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647076_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647076/dragon-ball-super-fusion-world-wish-for-shenron-vegeta-da-fb07-019",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 647077,
+      "name": "Vegeta : DA",
+      "number": "FB07-021",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647077_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647077/dragon-ball-super-fusion-world-wish-for-shenron-vegeta-da-fb07-021",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.45
+        }
+      ]
+    },
+    {
+      "id": 647078,
+      "name": "Nuova Shenron",
+      "number": "FB07-034",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647078_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647078/dragon-ball-super-fusion-world-wish-for-shenron-nuova-shenron-fb07-034",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.58
+        }
+      ]
+    },
+    {
+      "id": 647079,
+      "name": "Rage Shenron",
+      "number": "FB07-029",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647079_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647079/dragon-ball-super-fusion-world-wish-for-shenron-rage-shenron-fb07-029",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 647080,
+      "name": "Oceanus Shenron",
+      "number": "FB07-042",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647080_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647080/dragon-ball-super-fusion-world-wish-for-shenron-oceanus-shenron-fb07-042",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 647081,
+      "name": "Dende : SH",
+      "number": "FB07-061",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647081_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647081/dragon-ball-super-fusion-world-wish-for-shenron-dende-sh",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 647082,
+      "name": "Son Gohan : SH",
+      "number": "FB07-056",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647082_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647082/dragon-ball-super-fusion-world-wish-for-shenron-son-gohan-sh-fb07-056",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 647083,
+      "name": "Frieza",
+      "number": "FB07-088",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647083_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647083/dragon-ball-super-fusion-world-wish-for-shenron-frieza-fb07-088",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 647084,
+      "name": "King Cold",
+      "number": "FB07-080",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647084_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647084/dragon-ball-super-fusion-world-wish-for-shenron-king-cold",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 647085,
+      "name": "Pan : GT",
+      "number": "FB07-110",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647085_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647085/dragon-ball-super-fusion-world-wish-for-shenron-pan-gt",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.29
+        }
+      ]
+    },
+    {
+      "id": 647086,
+      "name": "Giru",
+      "number": "FB07-102",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647086_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647086/dragon-ball-super-fusion-world-wish-for-shenron-giru",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 647087,
+      "name": "Tamagami Number One : DA",
+      "number": "FB07-014",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647087_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647087/dragon-ball-super-fusion-world-wish-for-shenron-tamagami-number-one-da",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 647088,
+      "name": "Tamagami Number Three : DA",
+      "number": "FB07-012",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647088_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647088/dragon-ball-super-fusion-world-wish-for-shenron-tamagami-number-three-da",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 647303,
+      "name": "Naturon Shenron",
+      "number": "FB07-038",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647303_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647303/dragon-ball-super-fusion-world-wish-for-shenron-naturon-shenron-fb07-038",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 647304,
+      "name": "Naturon Shenron",
+      "number": "FB07-037",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647304_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647304/dragon-ball-super-fusion-world-wish-for-shenron-naturon-shenron-fb07-037",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 647527,
+      "name": "Son Goku",
+      "number": "FB07-008",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647527_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647527/dragon-ball-super-fusion-world-wish-for-shenron-son-goku-fb07-008",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2
+        }
+      ]
+    },
+    {
+      "id": 647528,
+      "name": "Android 17",
+      "number": "FB07-005",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647528_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647528/dragon-ball-super-fusion-world-wish-for-shenron-android-17-fb07-005",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 647529,
+      "name": "Son Goku",
+      "number": "FB07-104",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647529_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647529/dragon-ball-super-fusion-world-wish-for-shenron-son-goku-fb07-104",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 3.79
+        }
+      ]
+    },
+    {
+      "id": 647531,
+      "name": "Master Roshi",
+      "number": "FB07-101",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647531_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647531/dragon-ball-super-fusion-world-wish-for-shenron-master-roshi",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.35
+        }
+      ]
+    },
+    {
+      "id": 647532,
+      "name": "Vegeta",
+      "number": "FB07-116",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647532_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647532/dragon-ball-super-fusion-world-wish-for-shenron-vegeta",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 647534,
+      "name": "Frieza",
+      "number": "FB07-089",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647534_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647534/dragon-ball-super-fusion-world-wish-for-shenron-frieza-fb07-089",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 647536,
+      "name": "Piccolo : SH",
+      "number": "FB07-065",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647536_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647536/dragon-ball-super-fusion-world-wish-for-shenron-piccolo-sh-fb07-065",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16
+        }
+      ]
+    },
+    {
+      "id": 647538,
+      "name": "Oceanus Shenron",
+      "number": "FB07-043",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647538_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647538/dragon-ball-super-fusion-world-wish-for-shenron-oceanus-shenron-fb07-043",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 647540,
+      "name": "King Kuu : DA",
+      "number": "FB07-003",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647540_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647540/dragon-ball-super-fusion-world-wish-for-shenron-king-kuu-da",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 647543,
+      "name": "Third Eye Gomah : DA",
+      "number": "FB07-081",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647543_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647543/dragon-ball-super-fusion-world-wish-for-shenron-third-eye-gomah-da",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 647545,
+      "name": "Majin Duu : DA",
+      "number": "FB07-091",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647545_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647545/dragon-ball-super-fusion-world-wish-for-shenron-majin-duu-da",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 647548,
+      "name": "Degesu : DA",
+      "number": "FB07-086",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647548_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647548/dragon-ball-super-fusion-world-wish-for-shenron-degesu-da",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17
+        }
+      ]
+    },
+    {
+      "id": 647549,
+      "name": "Broly",
+      "number": "FB07-068",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647549_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647549/dragon-ball-super-fusion-world-wish-for-shenron-broly",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.2
+        }
+      ]
+    },
+    {
+      "id": 647551,
+      "name": "Broly : BR",
+      "number": "FB07-069",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/647551_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/647551/dragon-ball-super-fusion-world-wish-for-shenron-broly-br",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.29
+        }
+      ]
+    },
+    {
+      "id": 648199,
+      "name": "Gotenks",
+      "number": "FB07-031",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648199_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648199/dragon-ball-super-fusion-world-wish-for-shenron-gotenks",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 648201,
+      "name": "Son Gohan : Adolescence",
+      "number": "FB07-036",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648201_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648201/dragon-ball-super-fusion-world-wish-for-shenron-son-gohan-adolescence",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 648360,
+      "name": "United Front",
+      "number": "FB07-070",
+      "rarity": "Common",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648360_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648360/dragon-ball-super-fusion-world-wish-for-shenron-united-front",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 648361,
+      "name": "Explosive Rage",
+      "number": "FB07-071",
+      "rarity": "Rare",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648361_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648361/dragon-ball-super-fusion-world-wish-for-shenron-explosive-rage",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 648577,
+      "name": "Frieza",
+      "number": "FB07-090",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648577_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648577/dragon-ball-super-fusion-world-wish-for-shenron-frieza-fb07-090",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 648578,
+      "name": "Earth Erased",
+      "number": "FB07-095",
+      "rarity": "Common",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648578_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648578/dragon-ball-super-fusion-world-wish-for-shenron-earth-erased",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 648579,
+      "name": "Chilled",
+      "number": "FB07-085",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648579_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648579/dragon-ball-super-fusion-world-wish-for-shenron-chilled",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 648580,
+      "name": "Cabira/Tobi",
+      "number": "FB07-075",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648580_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648580/dragon-ball-super-fusion-world-wish-for-shenron-cabira-tobi",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 648581,
+      "name": "Bardock",
+      "number": "FB07-109",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648581_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648581/dragon-ball-super-fusion-world-wish-for-shenron-bardock",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.34
+        }
+      ]
+    },
+    {
+      "id": 648582,
+      "name": "Bulma",
+      "number": "FB07-115",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648582_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648582/dragon-ball-super-fusion-world-wish-for-shenron-bulma-fb07-115",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2
+        }
+      ]
+    },
+    {
+      "id": 648583,
+      "name": "Yamcha",
+      "number": "FB07-117",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648583_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648583/dragon-ball-super-fusion-world-wish-for-shenron-yamcha",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 648623,
+      "name": "Panzy : DA",
+      "number": "FB07-016",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648623_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648623/dragon-ball-super-fusion-world-wish-for-shenron-panzy-da",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 648625,
+      "name": "Bulma : DA",
+      "number": "FB07-018",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648625_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648625/dragon-ball-super-fusion-world-wish-for-shenron-bulma-da",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 648627,
+      "name": "Vegeta : DA",
+      "number": "FB07-020",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/648627_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/648627/dragon-ball-super-fusion-world-wish-for-shenron-vegeta-da-fb07-020",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 649152,
+      "name": "Great. I'm In Time.",
+      "number": "FB07-048",
+      "rarity": "Rare",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/649152_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/649152/dragon-ball-super-fusion-world-wish-for-shenron-great-im-in-time",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 649157,
+      "name": "Trunks : Future",
+      "number": "FB07-039",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/649157_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/649157/dragon-ball-super-fusion-world-wish-for-shenron-trunks-future",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25
+        }
+      ]
+    },
+    {
+      "id": 649158,
+      "name": "Vegito",
+      "number": "FB07-040",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/649158_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/649158/dragon-ball-super-fusion-world-wish-for-shenron-vegito",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.43
+        }
+      ]
+    },
+    {
+      "id": 649216,
+      "name": "Bulma : SH",
+      "number": "FB07-067",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/649216_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/649216/dragon-ball-super-fusion-world-wish-for-shenron-bulma-sh",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 649217,
+      "name": "Gotenks : SH",
+      "number": "FB07-054",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/649217_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/649217/dragon-ball-super-fusion-world-wish-for-shenron-gotenks-sh",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 649218,
+      "name": "Piccolo's Giantification",
+      "number": "FB07-072",
+      "rarity": "Common",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/649218_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/649218/dragon-ball-super-fusion-world-wish-for-shenron-piccolos-giantification",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 649219,
+      "name": "Pan : SH",
+      "number": "FB07-063",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/649219_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/649219/dragon-ball-super-fusion-world-wish-for-shenron-pan-sh",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.29
+        }
+      ]
+    },
+    {
+      "id": 649710,
+      "name": "Android 16",
+      "number": "FB07-004",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/649710_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/649710/dragon-ball-super-fusion-world-wish-for-shenron-android-16",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16
+        }
+      ]
+    },
+    {
+      "id": 649712,
+      "name": "Cell",
+      "number": "FB07-007",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/649712_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/649712/dragon-ball-super-fusion-world-wish-for-shenron-cell",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.22
+        }
+      ]
+    },
+    {
+      "id": 649713,
+      "name": "Neva : DA",
+      "number": "FB07-015",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/649713_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/649713/dragon-ball-super-fusion-world-wish-for-shenron-neva-da",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 649716,
+      "name": "Powered up Majin Duu : DA",
+      "number": "FB07-022",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/649716_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/649716/dragon-ball-super-fusion-world-wish-for-shenron-powered-up-majin-duu-da",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 649724,
+      "name": "Syn Shenron",
+      "number": "FB07-027",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/649724_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/649724/dragon-ball-super-fusion-world-wish-for-shenron-syn-shenron-fb07-027",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.31
+        }
+      ]
+    },
+    {
+      "id": 649728,
+      "name": "Whirlwind Spin",
+      "number": "FB07-044",
+      "rarity": "Rare",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/649728_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/649728/dragon-ball-super-fusion-world-wish-for-shenron-whirlwind-spin",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.36
+        }
+      ]
+    },
+    {
+      "id": 649914,
+      "name": "Dragon Thunder",
+      "number": "FB07-045",
+      "rarity": "Common",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/649914_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/649914/dragon-ball-super-fusion-world-wish-for-shenron-dragon-thunder",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 649922,
+      "name": "Cheelai : BR",
+      "number": "FB07-060",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/649922_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/649922/dragon-ball-super-fusion-world-wish-for-shenron-cheelai-br",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.33
+        }
+      ]
+    },
+    {
+      "id": 649923,
+      "name": "Minus Energy Power Ball",
+      "number": "FB07-047",
+      "rarity": "Rare",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/649923_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/649923/dragon-ball-super-fusion-world-wish-for-shenron-minus-energy-power-ball",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.3
+        }
+      ]
+    },
+    {
+      "id": 649924,
+      "name": "Gamma 1 : SH",
+      "number": "FB07-050",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/649924_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/649924/dragon-ball-super-fusion-world-wish-for-shenron-gamma-1-sh",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.29
+        }
+      ]
+    },
+    {
+      "id": 649930,
+      "name": "Gamma 2 : SH",
+      "number": "FB07-052",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/649930_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/649930/dragon-ball-super-fusion-world-wish-for-shenron-gamma-2-sh",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 2.37
+        }
+      ]
+    },
+    {
+      "id": 649945,
+      "name": "Cui",
+      "number": "FB07-076",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/649945_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/649945/dragon-ball-super-fusion-world-wish-for-shenron-cui",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 649947,
+      "name": "Cooler",
+      "number": "FB07-077",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/649947_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/649947/dragon-ball-super-fusion-world-wish-for-shenron-cooler-fb07-077",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.2
+        }
+      ]
+    },
+    {
+      "id": 649949,
+      "name": "Meta-Cooler",
+      "number": "FB07-093",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/649949_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/649949/dragon-ball-super-fusion-world-wish-for-shenron-meta-cooler",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.98
+        }
+      ]
+    },
+    {
+      "id": 650309,
+      "name": "Beerus",
+      "number": "FB07-112",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/650309_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/650309/dragon-ball-super-fusion-world-wish-for-shenron-beerus",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 650310,
+      "name": "Whis",
+      "number": "FB07-098",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/650310_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/650310/dragon-ball-super-fusion-world-wish-for-shenron-whis",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 650417,
+      "name": "Android 17",
+      "number": "FB07-006",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/650417_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/650417/dragon-ball-super-fusion-world-wish-for-shenron-android-17-fb07-006",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 650418,
+      "name": "Piccolo : DA",
+      "number": "FB07-017",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/650418_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/650418/dragon-ball-super-fusion-world-wish-for-shenron-piccolo-da",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.34
+        }
+      ]
+    },
+    {
+      "id": 650420,
+      "name": "Omega Shenron",
+      "number": "FB07-035",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/650420_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/650420/dragon-ball-super-fusion-world-wish-for-shenron-omega-shenron",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.81
+        }
+      ]
+    },
+    {
+      "id": 650421,
+      "name": "Black Smoke Dragon",
+      "number": "FB07-030",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/650421_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/650421/dragon-ball-super-fusion-world-wish-for-shenron-black-smoke-dragon",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 2.2
+        }
+      ]
+    },
+    {
+      "id": 650824,
+      "name": "Golden Frieza",
+      "number": "FB07-079",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/650824_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/650824/dragon-ball-super-fusion-world-wish-for-shenron-golden-frieza",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.61
+        }
+      ]
+    },
+    {
+      "id": 650825,
+      "name": "Giant Gomah : DA",
+      "number": "FB07-083",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/650825_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/650825/dragon-ball-super-fusion-world-wish-for-shenron-giant-gomah-da",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.28
+        }
+      ]
+    },
+    {
+      "id": 650827,
+      "name": "Trunks : GT",
+      "number": "FB07-108",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/650827_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/650827/dragon-ball-super-fusion-world-wish-for-shenron-trunks-gt",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.22
+        }
+      ]
+    },
+    {
+      "id": 650834,
+      "name": "Son Gohan : SH",
+      "number": "FB07-058",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/650834_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/650834/dragon-ball-super-fusion-world-wish-for-shenron-son-gohan-sh-fb07-058",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 4.03
+        }
+      ]
+    },
+    {
+      "id": 650837,
+      "name": "And Don't Dream of Resurrecting Again!",
+      "number": "FB07-096",
+      "rarity": "Common",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/650837_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/650837/dragon-ball-super-fusion-world-wish-for-shenron-and-dont-dream-of-resurrecting-again",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 650840,
+      "name": "Son Goten/Trunks : Youth",
+      "number": "FB07-105",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/650840_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/650840/dragon-ball-super-fusion-world-wish-for-shenron-son-goten-trunks-youth",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.73
+        }
+      ]
+    },
+    {
+      "id": 650842,
+      "name": "Bulma",
+      "number": "FB07-114",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/650842_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/650842/dragon-ball-super-fusion-world-wish-for-shenron-bulma-fb07-114",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 4.36
+        }
+      ]
+    },
+    {
+      "id": 650843,
+      "name": "Piccolo : SH",
+      "number": "FB07-066",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/650843_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/650843/dragon-ball-super-fusion-world-wish-for-shenron-piccolo-sh-fb07-066",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.66
+        }
+      ]
+    },
+    {
+      "id": 650854,
+      "name": "Ginyu",
+      "number": "FB07-074",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/650854_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/650854/dragon-ball-super-fusion-world-wish-for-shenron-ginyu",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 650855,
+      "name": "Tagoma",
+      "number": "FB07-084",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/650855_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/650855/dragon-ball-super-fusion-world-wish-for-shenron-tagoma",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 651061,
+      "name": "Son Gohan : SH",
+      "number": "FB07-121",
+      "rarity": "Secret Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651061_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/651061/dragon-ball-super-fusion-world-wish-for-shenron-son-gohan-sh-fb07-121",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 36.77
+        }
+      ]
+    },
+    {
+      "id": 651062,
+      "name": "Son Goku : GT",
+      "number": "FB07-122",
+      "rarity": "Secret Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651062_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/651062/dragon-ball-super-fusion-world-wish-for-shenron-son-goku-gt-fb07-122",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 23.37
+        }
+      ]
+    },
+    {
+      "id": 651063,
+      "name": "King Kuu : DA",
+      "label": "Alternate Art",
+      "number": "FB07-003",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651063_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/651063/dragon-ball-super-fusion-world-wish-for-shenron-king-kuu-da-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 13.29
+        }
+      ]
+    },
+    {
+      "id": 651064,
+      "name": "Nuova Shenron",
+      "label": "Alternate Art",
+      "number": "FB07-033",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651064_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/651064/dragon-ball-super-fusion-world-wish-for-shenron-nuova-shenron-fb07-033-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 37.5
+        }
+      ]
+    },
+    {
+      "id": 651065,
+      "name": "Gamma 1 : SH/Gamma 2 : SH",
+      "label": "Alternate Art",
+      "number": "FB07-051",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651065_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/651065/dragon-ball-super-fusion-world-wish-for-shenron-gamma-1-sh-gamma-2-sh-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 22.83
+        }
+      ]
+    },
+    {
+      "id": 651066,
+      "name": "Frieza",
+      "label": "Alternate Art",
+      "number": "FB07-088",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651066_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/651066/dragon-ball-super-fusion-world-wish-for-shenron-frieza-fb07-088-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 34.39
+        }
+      ]
+    },
+    {
+      "id": 651067,
+      "name": "Son Gohan : Youth",
+      "label": "Alternate Art",
+      "number": "FB07-106",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651067_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/651067/dragon-ball-super-fusion-world-wish-for-shenron-son-gohan-youth-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 52.69
+        }
+      ]
+    },
+    {
+      "id": 651125,
+      "name": "Son Gohan : SH",
+      "label": "Alternate Art",
+      "number": "FB07-121",
+      "rarity": "Secret Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651125_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/651125/dragon-ball-super-fusion-world-wish-for-shenron-son-gohan-sh-fb07-121-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 130.75
+        }
+      ]
+    },
+    {
+      "id": 651126,
+      "name": "Son Goku : GT",
+      "label": "Alternate Art",
+      "number": "FB07-122",
+      "rarity": "Secret Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651126_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/651126/dragon-ball-super-fusion-world-wish-for-shenron-son-goku-gt-fb07-122-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 754.37
+        }
+      ]
+    },
+    {
+      "id": 651169,
+      "name": "Rage Shenron",
+      "number": "FB07-028",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651169_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/651169/dragon-ball-super-fusion-world-wish-for-shenron-rage-shenron-fb07-028",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 651170,
+      "name": "Black Smoke Dragon",
+      "label": "Alternate Art",
+      "number": "FB07-030",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651170_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/651170/dragon-ball-super-fusion-world-wish-for-shenron-black-smoke-dragon-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 10.44
+        }
+      ]
+    },
+    {
+      "id": 651171,
+      "name": "Nuova Shenron",
+      "label": "Alternate Art",
+      "number": "FB07-034",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651171_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/651171/dragon-ball-super-fusion-world-wish-for-shenron-nuova-shenron-fb07-034-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 10.91
+        }
+      ]
+    },
+    {
+      "id": 651172,
+      "name": "Omega Shenron",
+      "label": "Alternate Art",
+      "number": "FB07-035",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651172_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/651172/dragon-ball-super-fusion-world-wish-for-shenron-omega-shenron-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 12.09
+        }
+      ]
+    },
+    {
+      "id": 651173,
+      "name": "Piccolo : SH",
+      "label": "Alternate Art",
+      "number": "FB07-049",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651173_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/651173/dragon-ball-super-fusion-world-wish-for-shenron-piccolo-sh-fb07-049-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 51.43
+        }
+      ]
+    },
+    {
+      "id": 651176,
+      "name": "Gamma 2 : SH",
+      "label": "Alternate Art",
+      "number": "FB07-052",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651176_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/651176/dragon-ball-super-fusion-world-wish-for-shenron-gamma-2-sh-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 9.54
+        }
+      ]
+    },
+    {
+      "id": 651177,
+      "name": "Son Gohan : SH",
+      "label": "Alternate Art",
+      "number": "FB07-058",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651177_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/651177/dragon-ball-super-fusion-world-wish-for-shenron-son-gohan-sh-fb07-058-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 42.85
+        }
+      ]
+    },
+    {
+      "id": 651178,
+      "name": "Son Goten : SH",
+      "number": "FB07-059",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651178_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/651178/dragon-ball-super-fusion-world-wish-for-shenron-son-goten-sh",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 651179,
+      "name": "Trunks : SH",
+      "number": "FB07-062",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651179_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/651179/dragon-ball-super-fusion-world-wish-for-shenron-trunks-sh",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 651180,
+      "name": "Piccolo : SH",
+      "label": "Alternate Art",
+      "number": "FB07-066",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651180_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/651180/dragon-ball-super-fusion-world-wish-for-shenron-piccolo-sh-fb07-066-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 6.76
+        }
+      ]
+    },
+    {
+      "id": 651181,
+      "name": "Frieza",
+      "label": "Alternate Art",
+      "number": "FB07-073",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651181_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/651181/dragon-ball-super-fusion-world-wish-for-shenron-frieza-fb07-073-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 47.26
+        }
+      ]
+    },
+    {
+      "id": 651182,
+      "name": "Golden Frieza",
+      "label": "Alternate Art",
+      "number": "FB07-079",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651182_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/651182/dragon-ball-super-fusion-world-wish-for-shenron-golden-frieza-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 14.47
+        }
+      ]
+    },
+    {
+      "id": 651189,
+      "name": "Giant Gomah : DA",
+      "label": "Alternate Art",
+      "number": "FB07-083",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651189_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/651189/dragon-ball-super-fusion-world-wish-for-shenron-giant-gomah-da-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 6.99
+        }
+      ]
+    },
+    {
+      "id": 651190,
+      "name": "Meta-Cooler",
+      "label": "Alternate Art",
+      "number": "FB07-093",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651190_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/651190/dragon-ball-super-fusion-world-wish-for-shenron-meta-cooler-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 8.22
+        }
+      ]
+    },
+    {
+      "id": 651191,
+      "name": "Dragon Ball // Shenron",
+      "label": "Alternate Art",
+      "number": "FB07-097",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651191_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/651191/dragon-ball-super-fusion-world-wish-for-shenron-dragon-ball-shenron-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 100.75
+        }
+      ]
+    },
+    {
+      "id": 651192,
+      "name": "Son Goku",
+      "label": "Alternate Art",
+      "number": "FB07-104",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651192_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/651192/dragon-ball-super-fusion-world-wish-for-shenron-son-goku-fb07-104-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 23.29
+        }
+      ]
+    },
+    {
+      "id": 651193,
+      "name": "Son Goten/Trunks : Youth",
+      "label": "Alternate Art",
+      "number": "FB07-105",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651193_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/651193/dragon-ball-super-fusion-world-wish-for-shenron-son-goten-trunks-youth-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 108.8
+        }
+      ]
+    },
+    {
+      "id": 651194,
+      "name": "Bulma",
+      "label": "Alternate Art",
+      "number": "FB07-114",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651194_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/651194/dragon-ball-super-fusion-world-wish-for-shenron-bulma-fb07-114-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 53.38
+        }
+      ]
+    },
+    {
+      "id": 651195,
+      "name": "Dragon Ball",
+      "number": "FB07-119",
+      "rarity": "Common",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651195_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/651195/dragon-ball-super-fusion-world-wish-for-shenron-dragon-ball",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5
+        }
+      ]
+    },
+    {
+      "id": 651196,
+      "name": "Dragon Radar",
+      "number": "FB07-120",
+      "rarity": "Common",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651196_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/651196/dragon-ball-super-fusion-world-wish-for-shenron-dragon-radar",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 651197,
+      "name": "Son Gohan : SH",
+      "label": "Super Alternate Art",
+      "number": "FB07-121",
+      "rarity": "Secret Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651197_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/651197/dragon-ball-super-fusion-world-wish-for-shenron-son-gohan-sh-fb07-121-super-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1749.99
+        }
+      ]
+    },
+    {
+      "id": 651201,
+      "name": "Glorio : DA",
+      "label": "Alternate Art",
+      "number": "FB07-001",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651201_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/651201/dragon-ball-super-fusion-world-wish-for-shenron-glorio-da-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 21.77
+        }
+      ]
+    },
+    {
+      "id": 651202,
+      "name": "Son Goku : DA",
+      "label": "Alternate Art",
+      "number": "FB07-010",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651202_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/651202/dragon-ball-super-fusion-world-wish-for-shenron-son-goku-da-fb07-010-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 24.68
+        }
+      ]
+    },
+    {
+      "id": 651203,
+      "name": "Piccolo : DA",
+      "label": "Alternate Art",
+      "number": "FB07-017",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651203_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/651203/dragon-ball-super-fusion-world-wish-for-shenron-piccolo-da-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 6.12
+        }
+      ]
+    },
+    {
+      "id": 651204,
+      "name": "Vegeta : DA",
+      "label": "Alternate Art",
+      "number": "FB07-021",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651204_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/651204/dragon-ball-super-fusion-world-wish-for-shenron-vegeta-da-fb07-021-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 13.25
+        }
+      ]
+    },
+    {
+      "id": 651205,
+      "name": "Syn Shenron",
+      "label": "Alternate Art",
+      "number": "FB07-025",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/651205_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/651205/dragon-ball-super-fusion-world-wish-for-shenron-syn-shenron-fb07-025-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 46.06
+        }
+      ]
+    },
+    {
+      "id": 653830,
+      "name": "Code Card - Wish For Shenron Booster",
+      "label": "FB07",
+      "rarity": "Code Card",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/653830_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/653830/dragon-ball-super-fusion-world-wish-for-shenron-code-card-wish-for-shenron-booster-fb07",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.43
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-10-12"
+}

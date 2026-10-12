@@ -1,0 +1,550 @@
+{
+  "groupId": 2736,
+  "cards": [
+    {
+      "id": 229789,
+      "name": "Tokomon",
+      "number": "ST3-01 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/229789_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/229789/digimon-card-game-starter-deck-03-heavens-yellow-tokomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 229790,
+      "name": "Salamon",
+      "number": "ST3-02 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/229790_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/229790/digimon-card-game-starter-deck-03-heavens-yellow-salamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 229791,
+      "name": "Tapirmon",
+      "number": "ST3-03 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/229791_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/229791/digimon-card-game-starter-deck-03-heavens-yellow-tapirmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 229792,
+      "name": "Patamon",
+      "number": "ST3-04 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/229792_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/229792/digimon-card-game-starter-deck-03-heavens-yellow-patamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2
+        }
+      ]
+    },
+    {
+      "id": 229793,
+      "name": "Angemon",
+      "number": "ST3-05 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/229793_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/229793/digimon-card-game-starter-deck-03-heavens-yellow-angemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.26
+        }
+      ]
+    },
+    {
+      "id": 229794,
+      "name": "Gatomon",
+      "number": "ST3-06 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/229794_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/229794/digimon-card-game-starter-deck-03-heavens-yellow-gatomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 229795,
+      "name": "Unimon",
+      "number": "ST3-07 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/229795_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/229795/digimon-card-game-starter-deck-03-heavens-yellow-unimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 229796,
+      "name": "MagnaAngemon",
+      "number": "ST3-08 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/229796_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/229796/digimon-card-game-starter-deck-03-heavens-yellow-magnaangemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16
+        }
+      ]
+    },
+    {
+      "id": 229797,
+      "name": "Angewomon",
+      "number": "ST3-09 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/229797_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/229797/digimon-card-game-starter-deck-03-heavens-yellow-angewomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.38
+        }
+      ]
+    },
+    {
+      "id": 229798,
+      "name": "Magnadramon",
+      "number": "ST3-10 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/229798_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/229798/digimon-card-game-starter-deck-03-heavens-yellow-magnadramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 229800,
+      "name": "Seraphimon",
+      "number": "ST3-11 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/229800_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/229800/digimon-card-game-starter-deck-03-heavens-yellow-seraphimon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.24
+        }
+      ]
+    },
+    {
+      "id": 229801,
+      "name": "T.K. Takaishi",
+      "number": "ST3-12 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/229801_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/229801/digimon-card-game-starter-deck-03-heavens-yellow-tk-takaishi",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.21
+        }
+      ]
+    },
+    {
+      "id": 229802,
+      "name": "Heaven's Gate",
+      "number": "ST3-13 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/229802_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/229802/digimon-card-game-starter-deck-03-heavens-yellow-heavens-gate",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 229803,
+      "name": "Heaven's Charm",
+      "number": "ST3-14 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/229803_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/229803/digimon-card-game-starter-deck-03-heavens-yellow-heavens-charm",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 229804,
+      "name": "Holy Flame",
+      "number": "ST3-015 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/229804_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/229804/digimon-card-game-starter-deck-03-heavens-yellow-holy-flame",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 229805,
+      "name": "Seven Heavens",
+      "number": "ST3-16 U",
+      "rarity": "Uncommon",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/229805_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/229805/digimon-card-game-starter-deck-03-heavens-yellow-seven-heavens",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 229877,
+      "name": "Angemon - ST3-05",
+      "label": "Tamer Party Promo",
+      "number": "ST3-05 U",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/229877_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/229877/digimon-card-game-starter-deck-03-heavens-yellow-angemon-st3-05-tamer-party-promo",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.38
+        }
+      ]
+    },
+    {
+      "id": 232904,
+      "name": "Angewomon - ST3-09",
+      "label": "Tamer Battle Pack 1",
+      "number": "ST3-09 U",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/232904_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/232904/digimon-card-game-starter-deck-03-heavens-yellow-angewomon-st3-09-tamer-battle-pack-1",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.68
+        }
+      ]
+    },
+    {
+      "id": 233320,
+      "name": "Heaven's Charm - ST3-14",
+      "label": "Tamer's Evolution Box",
+      "number": "ST3-14 C",
+      "rarity": "Promo",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/233320_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/233320/digimon-card-game-starter-deck-03-heavens-yellow-heavens-charm-st3-14-tamers-evolution-box",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 14.47
+        }
+      ]
+    },
+    {
+      "id": 233321,
+      "name": "Heaven's Gate - ST3-13",
+      "label": "Tamer's Evolution Box",
+      "number": "ST3-13 C",
+      "rarity": "Promo",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/233321_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/233321/digimon-card-game-starter-deck-03-heavens-yellow-heavens-gate-st3-13-tamers-evolution-box",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.43
+        }
+      ]
+    },
+    {
+      "id": 240897,
+      "name": "MagnaAngemon - ST3-08",
+      "label": "Great Legend Pre-Release",
+      "number": "ST3-08 R",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/240897_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/240897/digimon-card-game-starter-deck-03-heavens-yellow-magnaangemon-st3-08-great-legend-pre-release",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.89
+        }
+      ]
+    },
+    {
+      "id": 243797,
+      "name": "Salamon - ST3-02",
+      "label": "Event Pack 1",
+      "number": "ST3-02 C",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/243797_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/243797/digimon-card-game-starter-deck-03-heavens-yellow-salamon-st3-02-event-pack-1",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.83
+        }
+      ]
+    },
+    {
+      "id": 243799,
+      "name": "Unimon - ST3-07",
+      "label": "Event Pack 1",
+      "number": "ST3-07 C",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/243799_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/243799/digimon-card-game-starter-deck-03-heavens-yellow-unimon-st3-07-event-pack-1",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.29
+        }
+      ]
+    },
+    {
+      "id": 248822,
+      "name": "Patamon - ST3-04",
+      "label": "Store Participant",
+      "number": "ST3-04 U",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/248822_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/248822/digimon-card-game-starter-deck-03-heavens-yellow-patamon-st3-04-store-participant",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.54
+        }
+      ]
+    },
+    {
+      "id": 248823,
+      "name": "Patamon - ST3-04",
+      "label": "Store Champion",
+      "number": "ST3-04 U",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/248823_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/248823/digimon-card-game-starter-deck-03-heavens-yellow-patamon-st3-04-store-champion",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.3
+        }
+      ]
+    },
+    {
+      "id": 251672,
+      "name": "Angemon",
+      "label": "Official Tournament Pack Vol.3",
+      "number": "ST3-05 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/251672_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/251672/digimon-card-game-starter-deck-03-heavens-yellow-angemon-official-tournament-pack-vol3",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.63
+        }
+      ]
+    },
+    {
+      "id": 251673,
+      "name": "MagnaAngemon",
+      "label": "Official Tournament Pack Vol.3",
+      "number": "ST3-08 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/251673_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/251673/digimon-card-game-starter-deck-03-heavens-yellow-magnaangemon-official-tournament-pack-vol3",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23
+        }
+      ]
+    },
+    {
+      "id": 263665,
+      "name": "Heaven's Gate",
+      "label": "2021 Championship Finals Tamer's Evolution Pack",
+      "number": "ST3-13 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/263665_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/263665/digimon-card-game-starter-deck-03-heavens-yellow-heavens-gate-2021-championship-finals-tamers-evolution-pack",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.96
+        }
+      ]
+    },
+    {
+      "id": 263668,
+      "name": "Heaven's Charm",
+      "label": "2021 Championship Finals Tamer's Evolution Pack",
+      "number": "ST3-14 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/263668_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/263668/digimon-card-game-starter-deck-03-heavens-yellow-heavens-charm-2021-championship-finals-tamers-evolution-pack",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 19.2
+        }
+      ]
+    },
+    {
+      "id": 265331,
+      "name": "Unimon - ST3-07",
+      "label": "Official Tournament Pack Vol.4",
+      "number": "ST3-07 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/265331_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/265331/digimon-card-game-starter-deck-03-heavens-yellow-unimon-st3-07-official-tournament-pack-vol4",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2
+        }
+      ]
+    },
+    {
+      "id": 279005,
+      "name": "Patamon",
+      "label": "Tamer's Card Set 2 Floral Fun",
+      "number": "ST3-04 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/279005_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/279005/digimon-card-game-starter-deck-03-heavens-yellow-patamon-tamers-card-set-2-floral-fun",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 5.92
+        }
+      ]
+    },
+    {
+      "id": 281979,
+      "name": "Angewomon",
+      "label": "Official Tournament Pack Vol. 6",
+      "number": "ST3-09 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/281979_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/281979/digimon-card-game-starter-deck-03-heavens-yellow-angewomon-official-tournament-pack-vol-6",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.68
+        }
+      ]
+    },
+    {
+      "id": 450576,
+      "name": "Tokomon",
+      "label": "Judge Pack 2",
+      "number": "ST3-01 U",
+      "rarity": "Promo",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/450576_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/450576/digimon-card-game-starter-deck-03-heavens-yellow-tokomon-judge-pack-2",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.35
+        }
+      ]
+    },
+    {
+      "id": 493733,
+      "name": "Patamon - ST3-04",
+      "label": "Official Tournament Pack Vol.9",
+      "number": "ST3-04 U",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493733_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493733/digimon-card-game-starter-deck-03-heavens-yellow-patamon-st3-04-official-tournament-pack-vol9",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.39
+        }
+      ]
+    },
+    {
+      "id": 528783,
+      "name": "Patamon",
+      "label": "Winter Holiday 2023",
+      "number": "ST3-04 U",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/528783_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/528783/digimon-card-game-starter-deck-03-heavens-yellow-patamon-winter-holiday-2023",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.37
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-10-12"
+}

@@ -1,0 +1,819 @@
+{
+  "groupId": 2987,
+  "cards": [
+    {
+      "id": 257742,
+      "name": "Lightning Paw",
+      "number": "BT2-097 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257742_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257742/digimon-card-game-revision-pack-cards-lightning-paw",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24
+        }
+      ]
+    },
+    {
+      "id": 257743,
+      "name": "A Delicate Plan",
+      "number": "BT3-097 U",
+      "rarity": "Uncommon",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257743_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257743/digimon-card-game-revision-pack-cards-a-delicate-plan",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.35
+        }
+      ]
+    },
+    {
+      "id": 257744,
+      "name": "MaloMyotismon",
+      "number": "BT3-092 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257744_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257744/digimon-card-game-revision-pack-cards-malomyotismon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.97
+        }
+      ]
+    },
+    {
+      "id": 257745,
+      "name": "Meicoomon",
+      "number": "BT4-041 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257745_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257745/digimon-card-game-revision-pack-cards-meicoomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28
+        }
+      ]
+    },
+    {
+      "id": 257746,
+      "name": "Machmon",
+      "number": "BT6-059 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257746_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257746/digimon-card-game-revision-pack-cards-machmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28
+        }
+      ]
+    },
+    {
+      "id": 257747,
+      "name": "Mamemon",
+      "number": "BT6-064 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257747_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257747/digimon-card-game-revision-pack-cards-mamemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17
+        }
+      ]
+    },
+    {
+      "id": 257748,
+      "name": "Mamemon",
+      "label": "Alternate Art",
+      "number": "BT6-064 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257748_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257748/digimon-card-game-revision-pack-cards-mamemon-alternate-art",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.45
+        }
+      ]
+    },
+    {
+      "id": 257749,
+      "name": "Agunimon - P-029",
+      "number": "P-029 P",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257749_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257749/digimon-card-game-revision-pack-cards-agunimon-p-029",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.41
+        }
+      ]
+    },
+    {
+      "id": 257750,
+      "name": "Lobomon - P-030",
+      "number": "P-030 P",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257750_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257750/digimon-card-game-revision-pack-cards-lobomon-p-030",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.62
+        }
+      ]
+    },
+    {
+      "id": 493684,
+      "name": "Aegisdramon",
+      "number": "EX3-026 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493684_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493684/digimon-card-game-revision-pack-cards-aegisdramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.93
+        }
+      ]
+    },
+    {
+      "id": 493685,
+      "name": "Imperialdramon Dragon Mode",
+      "label": "Secret Rare",
+      "number": "BT3-111 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493685_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493685/digimon-card-game-revision-pack-cards-imperialdramon-dragon-mode-secret-rare",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.43
+        }
+      ]
+    },
+    {
+      "id": 493686,
+      "name": "Blazing Memory Boost!",
+      "number": "BT10-097 R",
+      "rarity": "Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493686_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493686/digimon-card-game-revision-pack-cards-blazing-memory-boost",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.37
+        }
+      ]
+    },
+    {
+      "id": 493687,
+      "name": "Slayerdramon",
+      "number": "EX3-024 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493687_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493687/digimon-card-game-revision-pack-cards-slayerdramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.47
+        }
+      ]
+    },
+    {
+      "id": 493688,
+      "name": "Loenkhe Adistakto",
+      "number": "BT10-101 U",
+      "rarity": "Uncommon",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493688_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493688/digimon-card-game-revision-pack-cards-loenkhe-adistakto",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 493689,
+      "name": "Wormmon",
+      "number": "EX3-055 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493689_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493689/digimon-card-game-revision-pack-cards-wormmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.55
+        }
+      ]
+    },
+    {
+      "id": 493690,
+      "name": "Veedramon",
+      "number": "EX3-031 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493690_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493690/digimon-card-game-revision-pack-cards-veedramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2
+        }
+      ]
+    },
+    {
+      "id": 493691,
+      "name": "Buzzing Fist",
+      "number": "BT10-107 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493691_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493691/digimon-card-game-revision-pack-cards-buzzing-fist",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.46
+        }
+      ]
+    },
+    {
+      "id": 493692,
+      "name": "Patamon",
+      "number": "EX3-028 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493692_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493692/digimon-card-game-revision-pack-cards-patamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.47
+        }
+      ]
+    },
+    {
+      "id": 493693,
+      "name": "God Flame",
+      "number": "EX3-068 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493693_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493693/digimon-card-game-revision-pack-cards-god-flame",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28
+        }
+      ]
+    },
+    {
+      "id": 493694,
+      "name": "Angoramon",
+      "number": "P-060 P",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493694_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493694/digimon-card-game-revision-pack-cards-angoramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.64
+        }
+      ]
+    },
+    {
+      "id": 493695,
+      "name": "Hydramon",
+      "number": "EX3-045 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493695_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493695/digimon-card-game-revision-pack-cards-hydramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.39
+        }
+      ]
+    },
+    {
+      "id": 493696,
+      "name": "Ouryumon",
+      "number": "BT8-069 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493696_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493696/digimon-card-game-revision-pack-cards-ouryumon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.08
+        }
+      ]
+    },
+    {
+      "id": 493697,
+      "name": "Goldramon",
+      "number": "EX3-035 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493697_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493697/digimon-card-game-revision-pack-cards-goldramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2
+        }
+      ]
+    },
+    {
+      "id": 493698,
+      "name": "Flame Hellscythe",
+      "number": "BT8-109 R",
+      "rarity": "Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493698_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493698/digimon-card-game-revision-pack-cards-flame-hellscythe",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.32
+        }
+      ]
+    },
+    {
+      "id": 493699,
+      "name": "Reaper",
+      "number": "EX2-055 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493699_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493699/digimon-card-game-revision-pack-cards-reaper",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.58
+        }
+      ]
+    },
+    {
+      "id": 493700,
+      "name": "Azulongmon",
+      "number": "EX3-025 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493700_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493700/digimon-card-game-revision-pack-cards-azulongmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17
+        }
+      ]
+    },
+    {
+      "id": 493701,
+      "name": "Megidramon",
+      "number": "EX3-064 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493701_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493701/digimon-card-game-revision-pack-cards-megidramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.32
+        }
+      ]
+    },
+    {
+      "id": 493702,
+      "name": "MetalEtemon",
+      "number": "EX1-053 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493702_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493702/digimon-card-game-revision-pack-cards-metaletemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 493703,
+      "name": "Angewomon",
+      "number": "EX3-034 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493703_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493703/digimon-card-game-revision-pack-cards-angewomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.79
+        }
+      ]
+    },
+    {
+      "id": 493704,
+      "name": "ADR-08 Optimizer",
+      "number": "EX2-053 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493704_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493704/digimon-card-game-revision-pack-cards-adr-08-optimizer",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 493705,
+      "name": "Gatomon",
+      "number": "EX3-030 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493705_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493705/digimon-card-game-revision-pack-cards-gatomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.58
+        }
+      ]
+    },
+    {
+      "id": 493706,
+      "name": "Ruli Tsukiyono",
+      "number": "P-063 P",
+      "rarity": "Promo",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493706_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493706/digimon-card-game-revision-pack-cards-ruli-tsukiyono",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 493707,
+      "name": "BlackWarGreymon",
+      "number": "BT8-070 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493707_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493707/digimon-card-game-revision-pack-cards-blackwargreymon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.49
+        }
+      ]
+    },
+    {
+      "id": 493708,
+      "name": "Raidenmon",
+      "number": "BT9-067 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493708_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493708/digimon-card-game-revision-pack-cards-raidenmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.5
+        }
+      ]
+    },
+    {
+      "id": 493709,
+      "name": "Dorbickmon",
+      "number": "EX3-014 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493709_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493709/digimon-card-game-revision-pack-cards-dorbickmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.1
+        }
+      ]
+    },
+    {
+      "id": 493710,
+      "name": "AeroVeedramon",
+      "number": "EX3-033 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493710_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493710/digimon-card-game-revision-pack-cards-aeroveedramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 493711,
+      "name": "Crimson Blaze",
+      "number": "BT8-097 U",
+      "rarity": "Uncommon",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493711_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493711/digimon-card-game-revision-pack-cards-crimson-blaze",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.66
+        }
+      ]
+    },
+    {
+      "id": 493712,
+      "name": "Bebydomon",
+      "number": "EX3-001 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493712_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493712/digimon-card-game-revision-pack-cards-bebydomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2
+        }
+      ]
+    },
+    {
+      "id": 493713,
+      "name": "Armor Texture!",
+      "number": "BT8-110 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493713_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493713/digimon-card-game-revision-pack-cards-armor-texture",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.84
+        }
+      ]
+    },
+    {
+      "id": 493714,
+      "name": "Sunarizamon",
+      "number": "EX3-003 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493714_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493714/digimon-card-game-revision-pack-cards-sunarizamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.58
+        }
+      ]
+    },
+    {
+      "id": 493715,
+      "name": "Growlmon",
+      "number": "EX3-057 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493715_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493715/digimon-card-game-revision-pack-cards-growlmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.67
+        }
+      ]
+    },
+    {
+      "id": 493716,
+      "name": "Machinedramon",
+      "number": "EX1-073 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493716_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493716/digimon-card-game-revision-pack-cards-machinedramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.15
+        }
+      ]
+    },
+    {
+      "id": 493717,
+      "name": "Omnimon",
+      "label": "X Antibody",
+      "number": "BT10-086 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493717_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493717/digimon-card-game-revision-pack-cards-omnimon-x-antibody",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.01
+        }
+      ]
+    },
+    {
+      "id": 493718,
+      "name": "Imperialdramon: Dragon Mode",
+      "number": "EX3-063 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493718_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493718/digimon-card-game-revision-pack-cards-imperialdramon-dragon-mode",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 5.04
+        }
+      ]
+    },
+    {
+      "id": 493719,
+      "name": "Yuu Amano",
+      "number": "BT10-093 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493719_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493719/digimon-card-game-revision-pack-cards-yuu-amano",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.34
+        }
+      ]
+    },
+    {
+      "id": 493720,
+      "name": "MegaSeadramon",
+      "number": "EX3-022 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493720_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493720/digimon-card-game-revision-pack-cards-megaseadramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.36
+        }
+      ]
+    },
+    {
+      "id": 493721,
+      "name": "Magnadramon",
+      "number": "EX3-036 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493721_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493721/digimon-card-game-revision-pack-cards-magnadramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 493722,
+      "name": "Bosamon",
+      "number": "BT10-004 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493722_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493722/digimon-card-game-revision-pack-cards-bosamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.3
+        }
+      ]
+    },
+    {
+      "id": 493723,
+      "name": "Plesiomon",
+      "number": "EX3-023 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493723_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493723/digimon-card-game-revision-pack-cards-plesiomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.51
+        }
+      ]
+    },
+    {
+      "id": 493724,
+      "name": "Burning Star Crusher",
+      "number": "BT10-096 C",
+      "rarity": "Common",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493724_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493724/digimon-card-game-revision-pack-cards-burning-star-crusher",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 493725,
+      "name": "Flamedramon",
+      "number": "EX3-008 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493725_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493725/digimon-card-game-revision-pack-cards-flamedramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.75
+        }
+      ]
+    },
+    {
+      "id": 493726,
+      "name": "Shadramon",
+      "number": "EX3-058 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493726_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493726/digimon-card-game-revision-pack-cards-shadramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.22
+        }
+      ]
+    },
+    {
+      "id": 493727,
+      "name": "Kurisarimon",
+      "number": "P-045 P",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/493727_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/493727/digimon-card-game-revision-pack-cards-kurisarimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.53
+        }
+      ]
+    },
+    {
+      "id": 564093,
+      "name": "Pagumon",
+      "number": "BT6-005 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/564093_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/564093/digimon-card-game-revision-pack-cards-pagumon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.6
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-10-12"
+}

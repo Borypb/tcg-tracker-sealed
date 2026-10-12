@@ -1,0 +1,2343 @@
+{
+  "groupId": 24077,
+  "cards": [
+    {
+      "id": 624060,
+      "name": "Greymon",
+      "number": "EX9-009 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/624060_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/624060/digimon-card-game-versus-monsters-greymon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 624227,
+      "name": "MetalGreymon",
+      "number": "EX9-011 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/624227_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/624227/digimon-card-game-versus-monsters-metalgreymon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.34
+        }
+      ]
+    },
+    {
+      "id": 625164,
+      "name": "Agumon",
+      "number": "EX9-007 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/625164_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/625164/digimon-card-game-versus-monsters-agumon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.16
+        }
+      ]
+    },
+    {
+      "id": 629719,
+      "name": "Gabumon",
+      "number": "EX9-014 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/629719_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/629719/digimon-card-game-versus-monsters-gabumon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 629901,
+      "name": "Garurumon",
+      "number": "EX9-017",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/629901_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/629901/digimon-card-game-versus-monsters-garurumon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 629902,
+      "name": "MetalMamemon",
+      "number": "EX9-018",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/629902_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/629902/digimon-card-game-versus-monsters-metalmamemon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.81
+        }
+      ]
+    },
+    {
+      "id": 629972,
+      "name": "Angemon",
+      "number": "EX9-026 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/629972_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/629972/digimon-card-game-versus-monsters-angemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 629973,
+      "name": "Elecmon",
+      "number": "EX9-022 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/629973_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/629973/digimon-card-game-versus-monsters-elecmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 630095,
+      "name": "Pomumon",
+      "number": "EX9-036 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/630095_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/630095/digimon-card-game-versus-monsters-pomumon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 630097,
+      "name": "Parasaurmon",
+      "number": "EX9-040 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/630097_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/630097/digimon-card-game-versus-monsters-parasaurmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 630145,
+      "name": "Unimon",
+      "number": "EX9-029 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/630145_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/630145/digimon-card-game-versus-monsters-unimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05
+        }
+      ]
+    },
+    {
+      "id": 630147,
+      "name": "Andromon",
+      "number": "EX9-030 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/630147_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/630147/digimon-card-game-versus-monsters-andromon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.4
+        }
+      ]
+    },
+    {
+      "id": 630148,
+      "name": "Tanemon",
+      "number": "EX9-004 C",
+      "rarity": "Common",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/630148_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/630148/digimon-card-game-versus-monsters-tanemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 630149,
+      "name": "Palmon",
+      "number": "EX9-035 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/630149_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/630149/digimon-card-game-versus-monsters-palmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 630151,
+      "name": "Biyomon",
+      "number": "EX9-008 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/630151_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/630151/digimon-card-game-versus-monsters-biyomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 630152,
+      "name": "Monochromon",
+      "number": "EX9-051 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/630152_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/630152/digimon-card-game-versus-monsters-monochromon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 630153,
+      "name": "Megadramon",
+      "number": "EX9-064 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/630153_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/630153/digimon-card-game-versus-monsters-megadramon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.94
+        }
+      ]
+    },
+    {
+      "id": 630154,
+      "name": "Meat",
+      "number": "EX9-070 R",
+      "rarity": "Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/630154_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/630154/digimon-card-game-versus-monsters-meat",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 630405,
+      "name": "Pagumon",
+      "number": "EX9-006 C",
+      "rarity": "Common",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/630405_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/630405/digimon-card-game-versus-monsters-pagumon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 630406,
+      "name": "Gazimon",
+      "number": "EX9-058 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/630406_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/630406/digimon-card-game-versus-monsters-gazimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16
+        }
+      ]
+    },
+    {
+      "id": 630407,
+      "name": "MetalGreymon",
+      "label": "Alternate Art",
+      "number": "EX9-011 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/630407_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/630407/digimon-card-game-versus-monsters-metalgreymon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 7.19
+        }
+      ]
+    },
+    {
+      "id": 630408,
+      "name": "MetalMamemon",
+      "label": "Alternate Art",
+      "number": "EX9-018",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/630408_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/630408/digimon-card-game-versus-monsters-metalmamemon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 7.54
+        }
+      ]
+    },
+    {
+      "id": 630409,
+      "name": "Andromon",
+      "label": "Alternate Art",
+      "number": "EX9-030 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/630409_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/630409/digimon-card-game-versus-monsters-andromon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.02
+        }
+      ]
+    },
+    {
+      "id": 630410,
+      "name": "Megadramon",
+      "label": "Alternate Art",
+      "number": "EX9-064 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/630410_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/630410/digimon-card-game-versus-monsters-megadramon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.89
+        }
+      ]
+    },
+    {
+      "id": 630709,
+      "name": "Devidramon",
+      "number": "EX9-060 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/630709_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/630709/digimon-card-game-versus-monsters-devidramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 630710,
+      "name": "MetalTyrannomon",
+      "number": "EX9-043 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/630710_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/630710/digimon-card-game-versus-monsters-metaltyrannomon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.54
+        }
+      ]
+    },
+    {
+      "id": 630711,
+      "name": "Machinedramon",
+      "number": "EX9-073 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/630711_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/630711/digimon-card-game-versus-monsters-machinedramon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 17.29
+        }
+      ]
+    },
+    {
+      "id": 630792,
+      "name": "Betamon",
+      "number": "EX9-016 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/630792_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/630792/digimon-card-game-versus-monsters-betamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 630793,
+      "name": "Airdramon",
+      "number": "EX9-025 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/630793_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/630793/digimon-card-game-versus-monsters-airdramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 631076,
+      "name": "DarkTyrannomon",
+      "number": "EX9-039 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/631076_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/631076/digimon-card-game-versus-monsters-darktyrannomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 631077,
+      "name": "ExTyrannomon",
+      "number": "EX9-041 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/631077_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/631077/digimon-card-game-versus-monsters-extyrannomon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.16
+        }
+      ]
+    },
+    {
+      "id": 631078,
+      "name": "Sukamon",
+      "number": "EX9-049 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/631078_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/631078/digimon-card-game-versus-monsters-sukamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 631079,
+      "name": "Etemon",
+      "number": "EX9-031 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/631079_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/631079/digimon-card-game-versus-monsters-etemon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 631993,
+      "name": "Tuskmon",
+      "number": "EX9-010 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/631993_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/631993/digimon-card-game-versus-monsters-tuskmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 631995,
+      "name": "Gizamon",
+      "number": "EX9-015 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/631995_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/631995/digimon-card-game-versus-monsters-gizamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 631996,
+      "name": "Koromon",
+      "number": "EX9-001 C",
+      "rarity": "Common",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/631996_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/631996/digimon-card-game-versus-monsters-koromon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 631997,
+      "name": "Tsunomon",
+      "number": "EX9-002 C",
+      "rarity": "Common",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/631997_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/631997/digimon-card-game-versus-monsters-tsunomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 632000,
+      "name": "Raremon",
+      "number": "EX9-052 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/632000_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/632000/digimon-card-game-versus-monsters-raremon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 632003,
+      "name": "Analogman",
+      "number": "EX9-068 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/632003_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/632003/digimon-card-game-versus-monsters-analogman",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.33
+        }
+      ]
+    },
+    {
+      "id": 632006,
+      "name": "Toropiamon",
+      "number": "EX9-042 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/632006_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/632006/digimon-card-game-versus-monsters-toropiamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 632007,
+      "name": "Hydramon",
+      "number": "EX9-044 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/632007_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/632007/digimon-card-game-versus-monsters-hydramon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 632008,
+      "name": "Cernumon",
+      "number": "EX9-045 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/632008_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/632008/digimon-card-game-versus-monsters-cernumon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.61
+        }
+      ]
+    },
+    {
+      "id": 632084,
+      "name": "Tokomon",
+      "number": "EX9-003 C",
+      "rarity": "Common",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/632084_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/632084/digimon-card-game-versus-monsters-tokomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 632085,
+      "name": "Patamon",
+      "number": "EX9-023 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/632085_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/632085/digimon-card-game-versus-monsters-patamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 632737,
+      "name": "Nanimon",
+      "number": "EX9-028 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/632737_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/632737/digimon-card-game-versus-monsters-nanimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 632738,
+      "name": "Numemon",
+      "number": "EX9-050 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/632738_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/632738/digimon-card-game-versus-monsters-numemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 632739,
+      "name": "Protein",
+      "number": "EX9-071 U",
+      "rarity": "Uncommon",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/632739_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/632739/digimon-card-game-versus-monsters-protein",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 632748,
+      "name": "WereGarurumon: Sagittarius Mode",
+      "number": "EX9-019 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/632748_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/632748/digimon-card-game-versus-monsters-weregarurumon-sagittarius-mode",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 11.5
+        }
+      ]
+    },
+    {
+      "id": 632749,
+      "name": "CresGarurumon ACE",
+      "number": "EX9-020 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/632749_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/632749/digimon-card-game-versus-monsters-cresgarurumon-ace",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 632750,
+      "name": "RareRaremon",
+      "number": "EX9-054 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/632750_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/632750/digimon-card-game-versus-monsters-rareraremon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 632751,
+      "name": "Soundbirdmon",
+      "number": "EX9-046 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/632751_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/632751/digimon-card-game-versus-monsters-soundbirdmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 632820,
+      "name": "Eyesmon",
+      "number": "EX9-047 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/632820_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/632820/digimon-card-game-versus-monsters-eyesmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 632821,
+      "name": "Eyesmon: Scatter Mode",
+      "number": "EX9-048 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/632821_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/632821/digimon-card-game-versus-monsters-eyesmon-scatter-mode",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.29
+        }
+      ]
+    },
+    {
+      "id": 633095,
+      "name": "Kunemon",
+      "number": "EX9-034 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/633095_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/633095/digimon-card-game-versus-monsters-kunemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 633096,
+      "name": "Ogremon",
+      "number": "EX9-059 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/633096_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/633096/digimon-card-game-versus-monsters-ogremon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 633182,
+      "name": "Hanimon",
+      "number": "EX9-024 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/633182_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/633182/digimon-card-game-versus-monsters-hanimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 633183,
+      "name": "Kokeshimon",
+      "number": "EX9-027 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/633183_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/633183/digimon-card-game-versus-monsters-kokeshimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 633184,
+      "name": "Kaguyamon",
+      "number": "EX9-033 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/633184_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/633184/digimon-card-game-versus-monsters-kaguyamon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.67
+        }
+      ]
+    },
+    {
+      "id": 633421,
+      "name": "Karakurumon",
+      "number": "EX9-032 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/633421_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/633421/digimon-card-game-versus-monsters-karakurumon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.63
+        }
+      ]
+    },
+    {
+      "id": 633422,
+      "name": "Mirai Kinosaki",
+      "number": "EX9-067 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/633422_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/633422/digimon-card-game-versus-monsters-mirai-kinosaki",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.25
+        }
+      ]
+    },
+    {
+      "id": 633945,
+      "name": "Digitamamon",
+      "number": "EX9-063 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/633945_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/633945/digimon-card-game-versus-monsters-digitamamon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 633946,
+      "name": "File Island",
+      "number": "EX9-072 U",
+      "rarity": "Uncommon",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/633946_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/633946/digimon-card-game-versus-monsters-file-island",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 633958,
+      "name": "MetalGreymon: Alterous Mode",
+      "number": "EX9-012 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/633958_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/633958/digimon-card-game-versus-monsters-metalgreymon-alterous-mode",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 10.62
+        }
+      ]
+    },
+    {
+      "id": 633959,
+      "name": "BlitzGreymon ACE",
+      "number": "EX9-013 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/633959_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/633959/digimon-card-game-versus-monsters-blitzgreymon-ace",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.26
+        }
+      ]
+    },
+    {
+      "id": 633960,
+      "name": "Titamon ACE",
+      "number": "EX9-065 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/633960_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/633960/digimon-card-game-versus-monsters-titamon-ace",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 633961,
+      "name": "HiAndromon ACE",
+      "number": "EX9-056 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/633961_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/633961/digimon-card-game-versus-monsters-hiandromon-ace",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 633962,
+      "name": "Mamemon",
+      "number": "EX9-053 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/633962_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/633962/digimon-card-game-versus-monsters-mamemon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 633963,
+      "name": "Analog Youth",
+      "number": "EX9-069 SR",
+      "rarity": "Super Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/633963_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/633963/digimon-card-game-versus-monsters-analog-youth",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 10.77
+        }
+      ]
+    },
+    {
+      "id": 634234,
+      "name": "MetalGreymon: Alterous Mode",
+      "label": "Alternate Art",
+      "number": "EX9-012 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/634234_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/634234/digimon-card-game-versus-monsters-metalgreymon-alterous-mode-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 17.71
+        }
+      ]
+    },
+    {
+      "id": 634235,
+      "name": "WereGarurumon: Sagittarius Mode",
+      "label": "Alternate Art",
+      "number": "EX9-019 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/634235_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/634235/digimon-card-game-versus-monsters-weregarurumon-sagittarius-mode-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 13.91
+        }
+      ]
+    },
+    {
+      "id": 634346,
+      "name": "SkullGreymon",
+      "number": "EX9-062 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/634346_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/634346/digimon-card-game-versus-monsters-skullgreymon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 634347,
+      "name": "Tai Kamiya & Matt Ishida",
+      "number": "EX9-066 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/634347_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/634347/digimon-card-game-versus-monsters-tai-kamiya-and-matt-ishida",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.41
+        }
+      ]
+    },
+    {
+      "id": 634349,
+      "name": "Omnimon Alter-S",
+      "number": "EX9-021 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/634349_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/634349/digimon-card-game-versus-monsters-omnimon-alter-s",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5.8
+        }
+      ]
+    },
+    {
+      "id": 634409,
+      "name": "Omnimon Alter-S",
+      "label": "Alternate Art",
+      "number": "EX9-021 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/634409_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/634409/digimon-card-game-versus-monsters-omnimon-alter-s-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 30.77
+        }
+      ]
+    },
+    {
+      "id": 634412,
+      "name": "MetalTyrannomon",
+      "label": "Alternate Art",
+      "number": "EX9-043 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/634412_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/634412/digimon-card-game-versus-monsters-metaltyrannomon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.43
+        }
+      ]
+    },
+    {
+      "id": 634415,
+      "name": "Cernumon",
+      "label": "Alternate Art",
+      "number": "EX9-045 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/634415_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/634415/digimon-card-game-versus-monsters-cernumon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5.36
+        }
+      ]
+    },
+    {
+      "id": 634416,
+      "name": "Tai Kamiya & Matt Ishida",
+      "label": "Alternate Art",
+      "number": "EX9-066 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/634416_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/634416/digimon-card-game-versus-monsters-tai-kamiya-and-matt-ishida-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.98
+        }
+      ]
+    },
+    {
+      "id": 634418,
+      "name": "Mirai Kinosaki",
+      "label": "Alternate Art",
+      "number": "EX9-067 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/634418_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/634418/digimon-card-game-versus-monsters-mirai-kinosaki-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 7.38
+        }
+      ]
+    },
+    {
+      "id": 634420,
+      "name": "Analogman",
+      "label": "Alternate Art",
+      "number": "EX9-068 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/634420_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/634420/digimon-card-game-versus-monsters-analogman-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 15.55
+        }
+      ]
+    },
+    {
+      "id": 634422,
+      "name": "Analog Youth",
+      "label": "Alternate Art",
+      "number": "EX9-069 SR",
+      "rarity": "Super Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/634422_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/634422/digimon-card-game-versus-monsters-analog-youth-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 9.78
+        }
+      ]
+    },
+    {
+      "id": 634424,
+      "name": "Machinedramon",
+      "label": "Alternate Art",
+      "number": "EX9-073 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/634424_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/634424/digimon-card-game-versus-monsters-machinedramon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 20.78
+        }
+      ]
+    },
+    {
+      "id": 634425,
+      "name": "Machinedramon",
+      "label": "Rare Pull",
+      "number": "EX9-073 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/634425_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/634425/digimon-card-game-versus-monsters-machinedramon-rare-pull",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 177.77
+        }
+      ]
+    },
+    {
+      "id": 634596,
+      "name": "Kaguyamon",
+      "label": "Alternate Art",
+      "number": "EX9-033 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/634596_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/634596/digimon-card-game-versus-monsters-kaguyamon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 8.47
+        }
+      ]
+    },
+    {
+      "id": 635486,
+      "name": "Meat",
+      "label": "Alternate Art",
+      "number": "EX9-070 R",
+      "rarity": "Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/635486_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/635486/digimon-card-game-versus-monsters-meat-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.96
+        }
+      ]
+    },
+    {
+      "id": 635490,
+      "name": "Negamon",
+      "number": "EX9-005 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/635490_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/635490/digimon-card-game-versus-monsters-negamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 635491,
+      "name": "Abbadomon",
+      "number": "EX9-055 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/635491_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/635491/digimon-card-game-versus-monsters-abbadomon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 635492,
+      "name": "Abbadomon Core",
+      "number": "EX9-057 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/635492_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/635492/digimon-card-game-versus-monsters-abbadomon-core",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5.33
+        }
+      ]
+    },
+    {
+      "id": 635575,
+      "name": "Dorumon",
+      "label": "Versus Monsters Legend Pack 2025",
+      "number": "BT20-048 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/635575_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/635575/digimon-card-game-versus-monsters-dorumon-versus-monsters-legend-pack-2025",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5.27
+        }
+      ]
+    },
+    {
+      "id": 635584,
+      "name": "Devimon",
+      "number": "EX9-061 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/635584_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/635584/digimon-card-game-versus-monsters-devimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 635610,
+      "name": "Dracomon",
+      "label": "Versus Monsters Legend Pack 2025",
+      "number": "BT20-007 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/635610_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/635610/digimon-card-game-versus-monsters-dracomon-versus-monsters-legend-pack-2025",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 7.14
+        }
+      ]
+    },
+    {
+      "id": 635611,
+      "name": "CresGarurumon ACE",
+      "label": "Alternate Art",
+      "number": "EX9-020 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/635611_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/635611/digimon-card-game-versus-monsters-cresgarurumon-ace-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.68
+        }
+      ]
+    },
+    {
+      "id": 635613,
+      "name": "BlitzGreymon ACE",
+      "label": "Alternate Art",
+      "number": "EX9-013 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/635613_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/635613/digimon-card-game-versus-monsters-blitzgreymon-ace-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5.5
+        }
+      ]
+    },
+    {
+      "id": 635739,
+      "name": "Huckmon",
+      "label": "Versus Monsters Legend Pack 2025",
+      "number": "BT20-008 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/635739_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/635739/digimon-card-game-versus-monsters-huckmon-versus-monsters-legend-pack-2025",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.85
+        }
+      ]
+    },
+    {
+      "id": 635740,
+      "name": "Kuwagamon",
+      "number": "EX9-038 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/635740_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/635740/digimon-card-game-versus-monsters-kuwagamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 636309,
+      "name": "Zubamon",
+      "label": "Versus Monsters Legend Pack 2025",
+      "number": "EX6-007 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/636309_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/636309/digimon-card-game-versus-monsters-zubamon-versus-monsters-legend-pack-2025",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.36
+        }
+      ]
+    },
+    {
+      "id": 636310,
+      "name": "Kabuterimon",
+      "number": "EX9-037 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/636310_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/636310/digimon-card-game-versus-monsters-kabuterimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 636311,
+      "name": "Kimeramon",
+      "number": "EX9-074 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/636311_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/636311/digimon-card-game-versus-monsters-kimeramon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 6.01
+        }
+      ]
+    },
+    {
+      "id": 636529,
+      "name": "Ludomon",
+      "label": "Versus Monsters Legend Pack 2025",
+      "number": "EX6-038 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/636529_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/636529/digimon-card-game-versus-monsters-ludomon-versus-monsters-legend-pack-2025",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.3
+        }
+      ]
+    },
+    {
+      "id": 636530,
+      "name": "Abbadomon Core",
+      "label": "Alternate Art",
+      "number": "EX9-057 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/636530_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/636530/digimon-card-game-versus-monsters-abbadomon-core-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 11.65
+        }
+      ]
+    },
+    {
+      "id": 637059,
+      "name": "MetalGreymon",
+      "label": "SP",
+      "number": "EX9-011 SR",
+      "rarity": "Special Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637059_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637059/digimon-card-game-versus-monsters-metalgreymon-sp",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 173.99
+        }
+      ]
+    },
+    {
+      "id": 637060,
+      "name": "MetalMamemon",
+      "label": "SP",
+      "number": "EX9-018",
+      "rarity": "Special Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637060_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637060/digimon-card-game-versus-monsters-metalmamemon-sp",
+      "prices": []
+    },
+    {
+      "id": 637061,
+      "name": "Andromon",
+      "label": "SP",
+      "number": "EX9-030 SR",
+      "rarity": "Special Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637061_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637061/digimon-card-game-versus-monsters-andromon-sp",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 70.19
+        }
+      ]
+    },
+    {
+      "id": 637447,
+      "name": "Megadramon",
+      "label": "SP",
+      "number": "EX9-064 SR",
+      "rarity": "Special Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637447_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637447/digimon-card-game-versus-monsters-megadramon-sp",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 69.18
+        }
+      ]
+    },
+    {
+      "id": 638144,
+      "name": "Kimeramon",
+      "label": "Alternate Art",
+      "number": "EX9-074 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638144_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638144/digimon-card-game-versus-monsters-kimeramon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 9.59
+        }
+      ]
+    },
+    {
+      "id": 638145,
+      "name": "File Island",
+      "label": "Limited Foil",
+      "number": "EX9-072 U",
+      "rarity": "Uncommon",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638145_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638145/digimon-card-game-versus-monsters-file-island-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.28
+        }
+      ]
+    },
+    {
+      "id": 638147,
+      "name": "Protein",
+      "label": "Limited Foil",
+      "number": "EX9-071 U",
+      "rarity": "Uncommon",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638147_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638147/digimon-card-game-versus-monsters-protein-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.38
+        }
+      ]
+    },
+    {
+      "id": 638149,
+      "name": "Koromon",
+      "label": "Limited Foil",
+      "number": "EX9-001 C",
+      "rarity": "Common",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638149_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638149/digimon-card-game-versus-monsters-koromon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.04
+        }
+      ]
+    },
+    {
+      "id": 638151,
+      "name": "Tsunomon",
+      "label": "Limited Foil",
+      "number": "EX9-002 C",
+      "rarity": "Common",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638151_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638151/digimon-card-game-versus-monsters-tsunomon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 7.94
+        }
+      ]
+    },
+    {
+      "id": 638152,
+      "name": "Tokomon",
+      "label": "Limited Foil",
+      "number": "EX9-003 C",
+      "rarity": "Common",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638152_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638152/digimon-card-game-versus-monsters-tokomon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.26
+        }
+      ]
+    },
+    {
+      "id": 638154,
+      "name": "Devimon",
+      "label": "Limited Foil",
+      "number": "EX9-061 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638154_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638154/digimon-card-game-versus-monsters-devimon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.06
+        }
+      ]
+    },
+    {
+      "id": 638155,
+      "name": "Tanemon",
+      "label": "Limited Foil",
+      "number": "EX9-004 C",
+      "rarity": "Common",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638155_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638155/digimon-card-game-versus-monsters-tanemon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.21
+        }
+      ]
+    },
+    {
+      "id": 638156,
+      "name": "Devidramon",
+      "label": "Limited Foil",
+      "number": "EX9-060 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638156_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638156/digimon-card-game-versus-monsters-devidramon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 7.98
+        }
+      ]
+    },
+    {
+      "id": 638157,
+      "name": "Negamon",
+      "label": "Limited Foil",
+      "number": "EX9-005 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638157_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638157/digimon-card-game-versus-monsters-negamon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 7.55
+        }
+      ]
+    },
+    {
+      "id": 638158,
+      "name": "Ogremon",
+      "label": "Limited Foil",
+      "number": "EX9-059 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638158_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638158/digimon-card-game-versus-monsters-ogremon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.06
+        }
+      ]
+    },
+    {
+      "id": 638159,
+      "name": "Pagumon",
+      "label": "Limited Foil",
+      "number": "EX9-006 C",
+      "rarity": "Common",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638159_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638159/digimon-card-game-versus-monsters-pagumon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.7
+        }
+      ]
+    },
+    {
+      "id": 638160,
+      "name": "Gazimon",
+      "label": "Limited Foil",
+      "number": "EX9-058 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638160_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638160/digimon-card-game-versus-monsters-gazimon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 12.49
+        }
+      ]
+    },
+    {
+      "id": 638161,
+      "name": "Raremon",
+      "label": "Limited Foil",
+      "number": "EX9-052 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638161_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638161/digimon-card-game-versus-monsters-raremon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.09
+        }
+      ]
+    },
+    {
+      "id": 638162,
+      "name": "Monochromon",
+      "label": "Limited Foil",
+      "number": "EX9-051 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638162_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638162/digimon-card-game-versus-monsters-monochromon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.23
+        }
+      ]
+    },
+    {
+      "id": 638163,
+      "name": "Numemon",
+      "label": "Limited Foil",
+      "number": "EX9-050 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638163_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638163/digimon-card-game-versus-monsters-numemon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.82
+        }
+      ]
+    },
+    {
+      "id": 638164,
+      "name": "Sukamon",
+      "label": "Limited Foil",
+      "number": "EX9-049 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638164_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638164/digimon-card-game-versus-monsters-sukamon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.86
+        }
+      ]
+    },
+    {
+      "id": 638165,
+      "name": "Eyesmon: Scatter Mode",
+      "label": "Limited Foil",
+      "number": "EX9-048 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638165_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638165/digimon-card-game-versus-monsters-eyesmon-scatter-mode-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 10.22
+        }
+      ]
+    },
+    {
+      "id": 638166,
+      "name": "Eyesmon",
+      "label": "Limited Foil",
+      "number": "EX9-047 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638166_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638166/digimon-card-game-versus-monsters-eyesmon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.36
+        }
+      ]
+    },
+    {
+      "id": 638167,
+      "name": "Soundbirdmon",
+      "label": "Limited Foil",
+      "number": "EX9-046 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638167_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638167/digimon-card-game-versus-monsters-soundbirdmon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.03
+        }
+      ]
+    },
+    {
+      "id": 638169,
+      "name": "Biyomon",
+      "label": "Limited Foil",
+      "number": "EX9-008 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638169_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638169/digimon-card-game-versus-monsters-biyomon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.25
+        }
+      ]
+    },
+    {
+      "id": 638170,
+      "name": "MetalTyrannomon",
+      "label": "SP",
+      "number": "EX9-043 SR",
+      "rarity": "Special Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638170_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638170/digimon-card-game-versus-monsters-metaltyrannomon-sp",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 55.2
+        }
+      ]
+    },
+    {
+      "id": 638171,
+      "name": "Toropiamon",
+      "label": "Limited Foil",
+      "number": "EX9-042 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638171_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638171/digimon-card-game-versus-monsters-toropiamon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 6.76
+        }
+      ]
+    },
+    {
+      "id": 638172,
+      "name": "Greymon",
+      "label": "Limited Foil",
+      "number": "EX9-009 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638172_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638172/digimon-card-game-versus-monsters-greymon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.23
+        }
+      ]
+    },
+    {
+      "id": 638173,
+      "name": "Tuskmon",
+      "label": "Limited Foil",
+      "number": "EX9-010 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638173_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638173/digimon-card-game-versus-monsters-tuskmon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.6
+        }
+      ]
+    },
+    {
+      "id": 638175,
+      "name": "Gabumon",
+      "label": "Limited Foil",
+      "number": "EX9-014 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638175_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638175/digimon-card-game-versus-monsters-gabumon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 6.26
+        }
+      ]
+    },
+    {
+      "id": 638177,
+      "name": "Gizamon",
+      "label": "Limited Foil",
+      "number": "EX9-015 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638177_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638177/digimon-card-game-versus-monsters-gizamon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.46
+        }
+      ]
+    },
+    {
+      "id": 638179,
+      "name": "Betamon",
+      "label": "Limited Foil",
+      "number": "EX9-016 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638179_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638179/digimon-card-game-versus-monsters-betamon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 6.77
+        }
+      ]
+    },
+    {
+      "id": 638180,
+      "name": "Garurumon",
+      "label": "Limited Foil",
+      "number": "EX9-017",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638180_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638180/digimon-card-game-versus-monsters-garurumon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.88
+        }
+      ]
+    },
+    {
+      "id": 638183,
+      "name": "Elecmon",
+      "label": "Limited Foil",
+      "number": "EX9-022 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638183_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638183/digimon-card-game-versus-monsters-elecmon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.73
+        }
+      ]
+    },
+    {
+      "id": 638184,
+      "name": "Patamon",
+      "label": "Limited Foil",
+      "number": "EX9-023 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638184_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638184/digimon-card-game-versus-monsters-patamon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.02
+        }
+      ]
+    },
+    {
+      "id": 638185,
+      "name": "Hanimon",
+      "label": "Limited Foil",
+      "number": "EX9-024 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638185_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638185/digimon-card-game-versus-monsters-hanimon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 11.05
+        }
+      ]
+    },
+    {
+      "id": 638186,
+      "name": "Airdramon",
+      "label": "Limited Foil",
+      "number": "EX9-025 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638186_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638186/digimon-card-game-versus-monsters-airdramon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.68
+        }
+      ]
+    },
+    {
+      "id": 638187,
+      "name": "Angemon",
+      "label": "Limited Foil",
+      "number": "EX9-026 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638187_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638187/digimon-card-game-versus-monsters-angemon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.42
+        }
+      ]
+    },
+    {
+      "id": 638188,
+      "name": "Kokeshimon",
+      "label": "Limited Foil",
+      "number": "EX9-027 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638188_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638188/digimon-card-game-versus-monsters-kokeshimon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.9
+        }
+      ]
+    },
+    {
+      "id": 638189,
+      "name": "Nanimon",
+      "label": "Limited Foil",
+      "number": "EX9-028 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638189_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638189/digimon-card-game-versus-monsters-nanimon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.99
+        }
+      ]
+    },
+    {
+      "id": 638191,
+      "name": "Unimon",
+      "label": "Limited Foil",
+      "number": "EX9-029 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638191_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638191/digimon-card-game-versus-monsters-unimon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.59
+        }
+      ]
+    },
+    {
+      "id": 638194,
+      "name": "Kunemon",
+      "label": "Limited Foil",
+      "number": "EX9-034 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638194_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638194/digimon-card-game-versus-monsters-kunemon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.39
+        }
+      ]
+    },
+    {
+      "id": 638195,
+      "name": "Palmon",
+      "label": "Limited Foil",
+      "number": "EX9-035 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638195_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638195/digimon-card-game-versus-monsters-palmon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.8
+        }
+      ]
+    },
+    {
+      "id": 638197,
+      "name": "Pomumon",
+      "label": "Limited Foil",
+      "number": "EX9-036 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638197_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638197/digimon-card-game-versus-monsters-pomumon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.08
+        }
+      ]
+    },
+    {
+      "id": 638198,
+      "name": "Kabuterimon",
+      "label": "Limited Foil",
+      "number": "EX9-037 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638198_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638198/digimon-card-game-versus-monsters-kabuterimon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.91
+        }
+      ]
+    },
+    {
+      "id": 638200,
+      "name": "Kuwagamon",
+      "label": "Limited Foil",
+      "number": "EX9-038 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638200_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638200/digimon-card-game-versus-monsters-kuwagamon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.97
+        }
+      ]
+    },
+    {
+      "id": 638202,
+      "name": "DarkTyrannomon",
+      "label": "Limited Foil",
+      "number": "EX9-039 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638202_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638202/digimon-card-game-versus-monsters-darktyrannomon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.05
+        }
+      ]
+    },
+    {
+      "id": 638203,
+      "name": "Parasaurmon",
+      "label": "Limited Foil",
+      "number": "EX9-040 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638203_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638203/digimon-card-game-versus-monsters-parasaurmon-limited-foil",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.59
+        }
+      ]
+    },
+    {
+      "id": 641135,
+      "name": "Kaguyamon",
+      "label": "Digimon Liberator Debuggers Set",
+      "number": "EX9-033 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641135_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641135/digimon-card-game-versus-monsters-kaguyamon-digimon-liberator-debuggers-set",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.92
+        }
+      ]
+    },
+    {
+      "id": 641136,
+      "name": "Mirai Kinosaki",
+      "label": "Digimon Liberator Debuggers Set",
+      "number": "EX9-067 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/641136_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/641136/digimon-card-game-versus-monsters-mirai-kinosaki-digimon-liberator-debuggers-set",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.9
+        }
+      ]
+    },
+    {
+      "id": 664968,
+      "name": "Karakurumon",
+      "label": "Championship 25-26 Season 2 Tamers Pack",
+      "number": "EX9-032 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/664968_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/664968/digimon-card-game-versus-monsters-karakurumon-championship-25-26-season-2-tamers-pack",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 61.53
+        }
+      ]
+    },
+    {
+      "id": 677434,
+      "name": "Omnimon Alter-S",
+      "label": "Event Pack 9",
+      "number": "EX9-021 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/677434_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/677434/digimon-card-game-versus-monsters-omnimon-alter-s-event-pack-9",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 7.28
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-10-12"
+}

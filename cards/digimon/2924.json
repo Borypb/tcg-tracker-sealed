@@ -1,0 +1,1974 @@
+{
+  "groupId": 2924,
+  "cards": [
+    {
+      "id": 253588,
+      "name": "Agumon",
+      "number": "EX1-001 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/253588_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/253588/digimon-card-game-classic-collection-agumon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 253592,
+      "name": "Greymon",
+      "number": "EX1-004 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/253592_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/253592/digimon-card-game-classic-collection-greymon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 253596,
+      "name": "MetalGreymon",
+      "number": "EX1-008 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/253596_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/253596/digimon-card-game-classic-collection-metalgreymon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.23
+        }
+      ]
+    },
+    {
+      "id": 253599,
+      "name": "WarGreymon",
+      "number": "EX1-009 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/253599_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/253599/digimon-card-game-classic-collection-wargreymon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.34
+        }
+      ]
+    },
+    {
+      "id": 253602,
+      "name": "Gabumon",
+      "number": "EX1-011 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/253602_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/253602/digimon-card-game-classic-collection-gabumon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 253605,
+      "name": "Garurumon",
+      "number": "EX1-015 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/253605_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/253605/digimon-card-game-classic-collection-garurumon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 253610,
+      "name": "Analog Youth",
+      "number": "EX1-066 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/253610_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/253610/digimon-card-game-classic-collection-analog-youth",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.25
+        }
+      ]
+    },
+    {
+      "id": 253614,
+      "name": "Win Rate: 60%!",
+      "number": "EX1-071 R",
+      "rarity": "Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/253614_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/253614/digimon-card-game-classic-collection-win-rate-60pct",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 255286,
+      "name": "Biyomon",
+      "number": "EX1-002 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/255286_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/255286/digimon-card-game-classic-collection-biyomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 255287,
+      "name": "Birdramon",
+      "number": "EX1-003 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/255287_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/255287/digimon-card-game-classic-collection-birdramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 255288,
+      "name": "Garudamon",
+      "number": "EX1-006 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/255288_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/255288/digimon-card-game-classic-collection-garudamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 255289,
+      "name": "Phoenixmon",
+      "number": "EX1-010 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/255289_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/255289/digimon-card-game-classic-collection-phoenixmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 255291,
+      "name": "Gomamon",
+      "number": "EX1-012 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/255291_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/255291/digimon-card-game-classic-collection-gomamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 255292,
+      "name": "Ikkakumon",
+      "number": "EX1-016 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/255292_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/255292/digimon-card-game-classic-collection-ikkakumon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 255294,
+      "name": "WereGarurumon",
+      "number": "EX1-017 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/255294_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/255294/digimon-card-game-classic-collection-weregarurumon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 255296,
+      "name": "MetalGarurumon",
+      "number": "EX1-021 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/255296_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/255296/digimon-card-game-classic-collection-metalgarurumon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.46
+        }
+      ]
+    },
+    {
+      "id": 255298,
+      "name": "Patamon",
+      "number": "EX1-024 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/255298_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/255298/digimon-card-game-classic-collection-patamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 255299,
+      "name": "Angemon",
+      "number": "EX1-028 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/255299_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/255299/digimon-card-game-classic-collection-angemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 255301,
+      "name": "MagnaAngemon",
+      "number": "EX1-029 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/255301_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/255301/digimon-card-game-classic-collection-magnaangemon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.28
+        }
+      ]
+    },
+    {
+      "id": 255303,
+      "name": "Seraphimon",
+      "number": "EX1-031 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/255303_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/255303/digimon-card-game-classic-collection-seraphimon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 255304,
+      "name": "Tentomon",
+      "number": "EX1-033 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/255304_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/255304/digimon-card-game-classic-collection-tentomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 255305,
+      "name": "Kabuterimon",
+      "number": "EX1-035 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/255305_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/255305/digimon-card-game-classic-collection-kabuterimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 255306,
+      "name": "MegaKabuterimon",
+      "number": "EX1-040 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/255306_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/255306/digimon-card-game-classic-collection-megakabuterimon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 255307,
+      "name": "HerculesKabuterimon",
+      "number": "EX1-043 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/255307_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/255307/digimon-card-game-classic-collection-herculeskabuterimon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.3
+        }
+      ]
+    },
+    {
+      "id": 255897,
+      "name": "Zudomon",
+      "number": "EX1-018 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/255897_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/255897/digimon-card-game-classic-collection-zudomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 255898,
+      "name": "Plesiomon",
+      "number": "EX1-020 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/255898_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/255898/digimon-card-game-classic-collection-plesiomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 255899,
+      "name": "Salamon",
+      "number": "EX1-025 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/255899_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/255899/digimon-card-game-classic-collection-salamon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 255900,
+      "name": "Gatomon",
+      "number": "EX1-026 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/255900_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/255900/digimon-card-game-classic-collection-gatomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 255901,
+      "name": "Angewomon",
+      "number": "EX1-030 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/255901_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/255901/digimon-card-game-classic-collection-angewomon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.45
+        }
+      ]
+    },
+    {
+      "id": 255902,
+      "name": "Magnadramon",
+      "number": "EX1-032 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/255902_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/255902/digimon-card-game-classic-collection-magnadramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 255903,
+      "name": "Palmon",
+      "number": "EX1-034 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/255903_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/255903/digimon-card-game-classic-collection-palmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 255904,
+      "name": "Togemon",
+      "number": "EX1-036 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/255904_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/255904/digimon-card-game-classic-collection-togemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 255987,
+      "name": "Rosemon",
+      "number": "EX1-042 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/255987_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/255987/digimon-card-game-classic-collection-rosemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 255988,
+      "name": "Lillymon",
+      "number": "EX1-039 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/255988_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/255988/digimon-card-game-classic-collection-lillymon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 256148,
+      "name": "Fight for Your Pride!",
+      "number": "EX1-070 R",
+      "rarity": "Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/256148_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/256148/digimon-card-game-classic-collection-fight-for-your-pride",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 256149,
+      "name": "Ultimate Connection!",
+      "number": "EX1-069 R",
+      "rarity": "Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/256149_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/256149/digimon-card-game-classic-collection-ultimate-connection",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.23
+        }
+      ]
+    },
+    {
+      "id": 256150,
+      "name": "Ice Wall!",
+      "number": "EX1-068 R",
+      "rarity": "Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/256150_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/256150/digimon-card-game-classic-collection-ice-wall",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.53
+        }
+      ]
+    },
+    {
+      "id": 256151,
+      "name": "Baptism by Fire!",
+      "number": "EX1-067 R",
+      "rarity": "Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/256151_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/256151/digimon-card-game-classic-collection-baptism-by-fire",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 256247,
+      "name": "Diaboromon",
+      "number": "EX1-065 SR",
+      "rarity": "Super Rare",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/256247_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/256247/digimon-card-game-classic-collection-diaboromon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.36
+        }
+      ]
+    },
+    {
+      "id": 256248,
+      "name": "Infermon",
+      "number": "EX1-051 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/256248_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/256248/digimon-card-game-classic-collection-infermon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 256250,
+      "name": "Kurisarimon",
+      "number": "EX1-046 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/256250_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/256250/digimon-card-game-classic-collection-kurisarimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 256251,
+      "name": "Keramon",
+      "number": "EX1-044 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/256251_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/256251/digimon-card-game-classic-collection-keramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 256974,
+      "name": "Tyrannomon",
+      "number": "EX1-005 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/256974_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/256974/digimon-card-game-classic-collection-tyrannomon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 256975,
+      "name": "Megadramon",
+      "number": "EX1-007 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/256975_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/256975/digimon-card-game-classic-collection-megadramon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 256976,
+      "name": "Veemon",
+      "number": "EX1-013 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/256976_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/256976/digimon-card-game-classic-collection-veemon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.43
+        }
+      ]
+    },
+    {
+      "id": 256977,
+      "name": "ExVeemon",
+      "number": "EX1-014 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/256977_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/256977/digimon-card-game-classic-collection-exveemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 256978,
+      "name": "Paildramon",
+      "number": "EX1-019 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/256978_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/256978/digimon-card-game-classic-collection-paildramon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 256979,
+      "name": "Imperialdramon Dragon Mode",
+      "number": "EX1-022 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/256979_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/256979/digimon-card-game-classic-collection-imperialdramon-dragon-mode",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.37
+        }
+      ]
+    },
+    {
+      "id": 256980,
+      "name": "Elecmon",
+      "number": "EX1-023 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/256980_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/256980/digimon-card-game-classic-collection-elecmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05
+        }
+      ]
+    },
+    {
+      "id": 256981,
+      "name": "Leomon",
+      "number": "EX1-027 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/256981_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/256981/digimon-card-game-classic-collection-leomon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 256983,
+      "name": "Kuwagamon",
+      "number": "EX1-037 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/256983_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/256983/digimon-card-game-classic-collection-kuwagamon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 256985,
+      "name": "Stingmon",
+      "number": "EX1-038 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/256985_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/256985/digimon-card-game-classic-collection-stingmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 256986,
+      "name": "Dinobeemon",
+      "number": "EX1-041 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/256986_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/256986/digimon-card-game-classic-collection-dinobeemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 256987,
+      "name": "Hagurumon",
+      "number": "EX1-045 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/256987_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/256987/digimon-card-game-classic-collection-hagurumon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 256988,
+      "name": "Guardromon",
+      "number": "EX1-047 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/256988_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/256988/digimon-card-game-classic-collection-guardromon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 256989,
+      "name": "Andromon",
+      "number": "EX1-048 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/256989_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/256989/digimon-card-game-classic-collection-andromon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 256990,
+      "name": "MetalTyrannomon",
+      "number": "EX1-049 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/256990_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/256990/digimon-card-game-classic-collection-metaltyrannomon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 256991,
+      "name": "MetalMamemon",
+      "number": "EX1-050 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/256991_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/256991/digimon-card-game-classic-collection-metalmamemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 256992,
+      "name": "Etemon",
+      "number": "EX1-052 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/256992_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/256992/digimon-card-game-classic-collection-etemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 256993,
+      "name": "MetalEtemon",
+      "number": "EX1-053 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/256993_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/256993/digimon-card-game-classic-collection-metaletemon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 256996,
+      "name": "Boltmon",
+      "number": "EX1-054 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/256996_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/256996/digimon-card-game-classic-collection-boltmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05
+        }
+      ]
+    },
+    {
+      "id": 256999,
+      "name": "Tapirmon",
+      "number": "EX1-055 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/256999_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/256999/digimon-card-game-classic-collection-tapirmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 257001,
+      "name": "DemiDevimon",
+      "number": "EX1-056 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257001_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257001/digimon-card-game-classic-collection-demidevimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 257004,
+      "name": "Wizardmon",
+      "number": "EX1-057 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257004_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257004/digimon-card-game-classic-collection-wizardmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 257010,
+      "name": "Devimon",
+      "number": "EX1-058 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257010_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257010/digimon-card-game-classic-collection-devimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 257011,
+      "name": "Ogremon",
+      "number": "EX1-059 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257011_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257011/digimon-card-game-classic-collection-ogremon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.16
+        }
+      ]
+    },
+    {
+      "id": 257012,
+      "name": "LadyDevimon",
+      "number": "EX1-060 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257012_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257012/digimon-card-game-classic-collection-ladydevimon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 257014,
+      "name": "Myotismon",
+      "number": "EX1-061 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257014_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257014/digimon-card-game-classic-collection-myotismon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 257015,
+      "name": "SkullGreymon",
+      "number": "EX1-062 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257015_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257015/digimon-card-game-classic-collection-skullgreymon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 257016,
+      "name": "VenomMyotismon",
+      "number": "EX1-063 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257016_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257016/digimon-card-game-classic-collection-venommyotismon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.25
+        }
+      ]
+    },
+    {
+      "id": 257017,
+      "name": "Piedmon",
+      "number": "EX1-064 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257017_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257017/digimon-card-game-classic-collection-piedmon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 257019,
+      "name": "Emergency Program Shutdown!",
+      "number": "EX1-072 R",
+      "rarity": "Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257019_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257019/digimon-card-game-classic-collection-emergency-program-shutdown",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.24
+        }
+      ]
+    },
+    {
+      "id": 257023,
+      "name": "Machinedramon",
+      "number": "EX1-073 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257023_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257023/digimon-card-game-classic-collection-machinedramon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.25
+        }
+      ]
+    },
+    {
+      "id": 257024,
+      "name": "Agumon",
+      "label": "Alternate Art",
+      "number": "EX1-001 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257024_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257024/digimon-card-game-classic-collection-agumon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 12.99
+        }
+      ]
+    },
+    {
+      "id": 257026,
+      "name": "Greymon",
+      "label": "Alternate Art",
+      "number": "EX1-004 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257026_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257026/digimon-card-game-classic-collection-greymon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 10.34
+        }
+      ]
+    },
+    {
+      "id": 257027,
+      "name": "Tyrannomon",
+      "label": "Alternate Art",
+      "number": "EX1-005 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257027_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257027/digimon-card-game-classic-collection-tyrannomon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.03
+        }
+      ]
+    },
+    {
+      "id": 257029,
+      "name": "MetalGreymon",
+      "label": "Alternate Art",
+      "number": "EX1-008 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257029_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257029/digimon-card-game-classic-collection-metalgreymon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 11.33
+        }
+      ]
+    },
+    {
+      "id": 257030,
+      "name": "WarGreymon",
+      "label": "Alternate Art",
+      "number": "EX1-009 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257030_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257030/digimon-card-game-classic-collection-wargreymon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 22.83
+        }
+      ]
+    },
+    {
+      "id": 257032,
+      "name": "Gabumon",
+      "label": "Alternate Art",
+      "number": "EX1-011 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257032_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257032/digimon-card-game-classic-collection-gabumon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 11.69
+        }
+      ]
+    },
+    {
+      "id": 257033,
+      "name": "Garurumon",
+      "label": "Alternate Art",
+      "number": "EX1-015 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257033_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257033/digimon-card-game-classic-collection-garurumon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 7.6
+        }
+      ]
+    },
+    {
+      "id": 257034,
+      "name": "WereGarurumon",
+      "label": "Alternate Art",
+      "number": "EX1-017 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257034_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257034/digimon-card-game-classic-collection-weregarurumon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 10.47
+        }
+      ]
+    },
+    {
+      "id": 257036,
+      "name": "MetalGarurumon",
+      "label": "Alternate Art",
+      "number": "EX1-021 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257036_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257036/digimon-card-game-classic-collection-metalgarurumon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 18.54
+        }
+      ]
+    },
+    {
+      "id": 257037,
+      "name": "Kuwagamon",
+      "label": "Alternate Art",
+      "number": "EX1-037 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257037_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257037/digimon-card-game-classic-collection-kuwagamon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.5
+        }
+      ]
+    },
+    {
+      "id": 257038,
+      "name": "Ogremon",
+      "label": "Alternate Art",
+      "number": "EX1-059 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257038_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257038/digimon-card-game-classic-collection-ogremon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5.8
+        }
+      ]
+    },
+    {
+      "id": 257178,
+      "name": "Patamon",
+      "label": "Alternate Art",
+      "number": "EX1-024 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257178_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257178/digimon-card-game-classic-collection-patamon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 6.14
+        }
+      ]
+    },
+    {
+      "id": 257179,
+      "name": "Gatomon",
+      "label": "Alternate Art",
+      "number": "EX1-026 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257179_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257179/digimon-card-game-classic-collection-gatomon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 8.5
+        }
+      ]
+    },
+    {
+      "id": 257180,
+      "name": "MagnaAngemon",
+      "label": "Alternate Art",
+      "number": "EX1-029 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257180_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257180/digimon-card-game-classic-collection-magnaangemon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 7.69
+        }
+      ]
+    },
+    {
+      "id": 257181,
+      "name": "Angewomon",
+      "label": "Alternate Art",
+      "number": "EX1-030 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257181_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257181/digimon-card-game-classic-collection-angewomon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 14.53
+        }
+      ]
+    },
+    {
+      "id": 257190,
+      "name": "Tentomon",
+      "label": "Alternate Art",
+      "number": "EX1-033 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257190_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257190/digimon-card-game-classic-collection-tentomon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.57
+        }
+      ]
+    },
+    {
+      "id": 257191,
+      "name": "Palmon",
+      "label": "Alternate Art",
+      "number": "EX1-034 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257191_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257191/digimon-card-game-classic-collection-palmon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.64
+        }
+      ]
+    },
+    {
+      "id": 257192,
+      "name": "Lillymon",
+      "label": "Alternate Art",
+      "number": "EX1-039 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257192_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257192/digimon-card-game-classic-collection-lillymon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 7.58
+        }
+      ]
+    },
+    {
+      "id": 257193,
+      "name": "MegaKabuterimon",
+      "label": "Alternate Art",
+      "number": "EX1-040 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257193_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257193/digimon-card-game-classic-collection-megakabuterimon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.8
+        }
+      ]
+    },
+    {
+      "id": 257249,
+      "name": "Analog Youth",
+      "label": "Alternate Art",
+      "number": "EX1-066 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257249_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257249/digimon-card-game-classic-collection-analog-youth-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 39.03
+        }
+      ]
+    },
+    {
+      "id": 257341,
+      "name": "Biyomon",
+      "label": "Alternate Art",
+      "number": "EX1-002 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257341_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257341/digimon-card-game-classic-collection-biyomon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.84
+        }
+      ]
+    },
+    {
+      "id": 257342,
+      "name": "Garudamon",
+      "label": "Alternate Art",
+      "number": "EX1-006 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257342_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257342/digimon-card-game-classic-collection-garudamon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.63
+        }
+      ]
+    },
+    {
+      "id": 257343,
+      "name": "Gomamon",
+      "label": "Alternate Art",
+      "number": "EX1-012 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257343_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257343/digimon-card-game-classic-collection-gomamon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.59
+        }
+      ]
+    },
+    {
+      "id": 257344,
+      "name": "Zudomon",
+      "label": "Alternate Art",
+      "number": "EX1-018 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257344_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257344/digimon-card-game-classic-collection-zudomon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.65
+        }
+      ]
+    },
+    {
+      "id": 257345,
+      "name": "Paildramon",
+      "label": "Alternate Art",
+      "number": "EX1-019 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257345_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257345/digimon-card-game-classic-collection-paildramon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.83
+        }
+      ]
+    },
+    {
+      "id": 257346,
+      "name": "Imperialdramon Dragon Mode",
+      "label": "Alternate Art",
+      "number": "EX1-022 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257346_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257346/digimon-card-game-classic-collection-imperialdramon-dragon-mode-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.84
+        }
+      ]
+    },
+    {
+      "id": 257347,
+      "name": "HerculesKabuterimon",
+      "label": "Alternate Art",
+      "number": "EX1-043 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257347_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257347/digimon-card-game-classic-collection-herculeskabuterimon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.3
+        }
+      ]
+    },
+    {
+      "id": 257348,
+      "name": "VenomMyotismon",
+      "label": "Alternate Art",
+      "number": "EX1-063 SR",
+      "rarity": "Super Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257348_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257348/digimon-card-game-classic-collection-venommyotismon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.18
+        }
+      ]
+    },
+    {
+      "id": 257349,
+      "name": "Diaboromon",
+      "label": "Alternate Art",
+      "number": "EX1-065 SR",
+      "rarity": "Super Rare",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257349_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257349/digimon-card-game-classic-collection-diaboromon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.29
+        }
+      ]
+    },
+    {
+      "id": 257350,
+      "name": "Machinedramon",
+      "label": "Alternate Art",
+      "number": "EX1-073 SEC",
+      "rarity": "Secret Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/257350_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/257350/digimon-card-game-classic-collection-machinedramon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 13.38
+        }
+      ]
+    },
+    {
+      "id": 265741,
+      "name": "Veemon",
+      "label": "Tamer's Evolution Box 2",
+      "number": "EX1-013 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/265741_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/265741/digimon-card-game-classic-collection-veemon-tamers-evolution-box-2",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 6.62
+        }
+      ]
+    },
+    {
+      "id": 265751,
+      "name": "Win Rate: 60%!",
+      "label": "Tamer's Evolution Box 2",
+      "number": "EX1-071 R",
+      "rarity": "Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/265751_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/265751/digimon-card-game-classic-collection-win-rate-60pct-tamers-evolution-box-2",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5.55
+        }
+      ]
+    },
+    {
+      "id": 270465,
+      "name": "ExVeemon - EX1-014",
+      "label": "Ultimate Cup 2022",
+      "number": "EX1-014 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/270465_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/270465/digimon-card-game-classic-collection-exveemon-ex1-014-ultimate-cup-2022",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 136.62
+        }
+      ]
+    },
+    {
+      "id": 276410,
+      "name": "Megadramon [Online Participant]",
+      "label": "2022 Championship Online Regional",
+      "number": "EX1-007 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/276410_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/276410/digimon-card-game-classic-collection-megadramon-2022-championship-online-regional-online-participant",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.74
+        }
+      ]
+    },
+    {
+      "id": 276411,
+      "name": "Megadramon [Online Finalist]",
+      "label": "2022 Championship Online Regional",
+      "number": "EX1-007 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/276411_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/276411/digimon-card-game-classic-collection-megadramon-2022-championship-online-regional-online-finalist",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.75
+        }
+      ]
+    },
+    {
+      "id": 276412,
+      "name": "Megadramon [Online Champion]",
+      "label": "2022 Championship Online Regional",
+      "number": "EX1-007 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/276412_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/276412/digimon-card-game-classic-collection-megadramon-2022-championship-online-regional-online-champion",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 469
+        }
+      ]
+    },
+    {
+      "id": 276413,
+      "name": "Andromon [Online Participant]",
+      "label": "2022 Championship Online Regional",
+      "number": "EX1-048 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/276413_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/276413/digimon-card-game-classic-collection-andromon-2022-championship-online-regional-online-participant",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.01
+        }
+      ]
+    },
+    {
+      "id": 276414,
+      "name": "Andromon [Online Finalist]",
+      "label": "2022 Championship Online Regional",
+      "number": "EX1-048 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/276414_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/276414/digimon-card-game-classic-collection-andromon-2022-championship-online-regional-online-finalist",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5.1
+        }
+      ]
+    },
+    {
+      "id": 276415,
+      "name": "Andromon [Online Champion]",
+      "label": "2022 Championship Online Regional",
+      "number": "EX1-048 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/276415_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/276415/digimon-card-game-classic-collection-andromon-2022-championship-online-regional-online-champion",
+      "prices": []
+    },
+    {
+      "id": 277634,
+      "name": "MetalMamemon",
+      "label": "2022 Store Participant",
+      "number": "EX1-050 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/277634_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/277634/digimon-card-game-classic-collection-metalmamemon-2022-store-participant",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.84
+        }
+      ]
+    },
+    {
+      "id": 277635,
+      "name": "MetalMamemon",
+      "label": "2022 Store Champion",
+      "number": "EX1-050 C",
+      "rarity": "Common",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/277635_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/277635/digimon-card-game-classic-collection-metalmamemon-2022-store-champion",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.49
+        }
+      ]
+    },
+    {
+      "id": 281971,
+      "name": "Myotismon",
+      "label": "Winner Pack X Record",
+      "number": "EX1-061 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/281971_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/281971/digimon-card-game-classic-collection-myotismon-winner-pack-x-record",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.05
+        }
+      ]
+    },
+    {
+      "id": 448451,
+      "name": "MetalTyrannomon",
+      "label": "Premium Deck Set Lucky Pack",
+      "number": "EX1-049 C",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/448451_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/448451/digimon-card-game-classic-collection-metaltyrannomon-premium-deck-set-lucky-pack",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.99
+        }
+      ]
+    },
+    {
+      "id": 448452,
+      "name": "MetalGreymon",
+      "label": "Premium Deck Set Lucky Pack",
+      "number": "EX1-008 R",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/448452_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/448452/digimon-card-game-classic-collection-metalgreymon-premium-deck-set-lucky-pack",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.79
+        }
+      ]
+    },
+    {
+      "id": 450189,
+      "name": "Salamon",
+      "label": "Official Tournament Pack Vol. 7",
+      "number": "EX1-025 C",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/450189_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/450189/digimon-card-game-classic-collection-salamon-official-tournament-pack-vol-7",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.38
+        }
+      ]
+    },
+    {
+      "id": 479444,
+      "name": "Patamon",
+      "label": "Official Tournament Pack Vol.8",
+      "number": "EX1-024 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/479444_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/479444/digimon-card-game-classic-collection-patamon-official-tournament-pack-vol8",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.25
+        }
+      ]
+    },
+    {
+      "id": 527812,
+      "name": "Greymon",
+      "label": "Blast Ace Double Pack Set",
+      "number": "EX1-004 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/527812_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/527812/digimon-card-game-classic-collection-greymon-blast-ace-double-pack-set",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.9
+        }
+      ]
+    },
+    {
+      "id": 527813,
+      "name": "Etemon",
+      "label": "Blast Ace Double Pack Set",
+      "number": "EX1-052 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/527813_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/527813/digimon-card-game-classic-collection-etemon-blast-ace-double-pack-set",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.25
+        }
+      ]
+    },
+    {
+      "id": 527814,
+      "name": "Emergency Program Shutdown!",
+      "label": "Blast Ace Double Pack Set",
+      "number": "EX1-072 R",
+      "rarity": "Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/527814_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/527814/digimon-card-game-classic-collection-emergency-program-shutdown-blast-ace-double-pack-set",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.13
+        }
+      ]
+    },
+    {
+      "id": 528785,
+      "name": "Tentomon",
+      "label": "Winter Holiday 2023",
+      "number": "EX1-033 C",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/528785_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/528785/digimon-card-game-classic-collection-tentomon-winter-holiday-2023",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.4
+        }
+      ]
+    },
+    {
+      "id": 534094,
+      "name": "LadyDevimon",
+      "label": "Digimon Illustration Competition Pack 2023",
+      "number": "EX1-060 U",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/534094_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/534094/digimon-card-game-classic-collection-ladydevimon-digimon-illustration-competition-pack-2023",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 6.29
+        }
+      ]
+    },
+    {
+      "id": 535900,
+      "name": "Agumon",
+      "label": "Digimon Illustration Competition Pack 2023",
+      "number": "EX1-001 U",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/535900_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/535900/digimon-card-game-classic-collection-agumon-digimon-illustration-competition-pack-2023",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.92
+        }
+      ]
+    },
+    {
+      "id": 538467,
+      "name": "MetalEtemon",
+      "label": "Official Tournament Pack Vol.12",
+      "number": "EX1-053 U",
+      "rarity": "Promo",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/538467_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/538467/digimon-card-game-classic-collection-metaletemon-official-tournament-pack-vol12",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 607870,
+      "name": "Analog Youth",
+      "label": "Championship 2024 Tamers Pack",
+      "number": "EX1-066 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/607870_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/607870/digimon-card-game-classic-collection-analog-youth-championship-2024-tamers-pack",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 11.44
+        }
+      ]
+    },
+    {
+      "id": 619046,
+      "name": "Analog Youth",
+      "label": "Special Event Pack 2025",
+      "number": "EX1-066 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/619046_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/619046/digimon-card-game-classic-collection-analog-youth-special-event-pack-2025",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 7.56
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-10-12"
+}

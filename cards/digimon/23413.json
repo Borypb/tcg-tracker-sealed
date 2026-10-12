@@ -1,0 +1,732 @@
+{
+  "groupId": 23413,
+  "cards": [
+    {
+      "id": 551945,
+      "name": "Imperialdramon: Dragon Mode",
+      "number": "BT16-028 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551945_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551945/digimon-card-game-beginning-observer-pre-release-cards-imperialdramon-dragon-mode",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.45
+        }
+      ]
+    },
+    {
+      "id": 551946,
+      "name": "Salamon",
+      "number": "BT16-030 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551946_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551946/digimon-card-game-beginning-observer-pre-release-cards-salamon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.19
+        }
+      ]
+    },
+    {
+      "id": 551947,
+      "name": "Wormmon",
+      "number": "BT16-040 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551947_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551947/digimon-card-game-beginning-observer-pre-release-cards-wormmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.46
+        }
+      ]
+    },
+    {
+      "id": 551948,
+      "name": "GranKuwagamon ACE",
+      "number": "BT16-046 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551948_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551948/digimon-card-game-beginning-observer-pre-release-cards-grankuwagamon-ace",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.64
+        }
+      ]
+    },
+    {
+      "id": 551949,
+      "name": "Davis Motomiya & Ken Ichijoji",
+      "number": "BT16-085 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551949_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551949/digimon-card-game-beginning-observer-pre-release-cards-davis-motomiya-and-ken-ichijoji",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.68
+        }
+      ]
+    },
+    {
+      "id": 551950,
+      "name": "Yolei Inoue & Kari Kamiya",
+      "number": "BT16-084 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551950_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551950/digimon-card-game-beginning-observer-pre-release-cards-yolei-inoue-and-kari-kamiya",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.29
+        }
+      ]
+    },
+    {
+      "id": 551951,
+      "name": "Cody Hida & T.K. Takaishi",
+      "number": "BT16-088 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551951_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551951/digimon-card-game-beginning-observer-pre-release-cards-cody-hida-and-tk-takaishi",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.5
+        }
+      ]
+    },
+    {
+      "id": 551952,
+      "name": "Ukkomon",
+      "number": "BT16-082 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551952_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551952/digimon-card-game-beginning-observer-pre-release-cards-ukkomon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5.34
+        }
+      ]
+    },
+    {
+      "id": 551953,
+      "name": "Lui Ohwada",
+      "number": "BT16-090 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551953_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551953/digimon-card-game-beginning-observer-pre-release-cards-lui-ohwada",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.17
+        }
+      ]
+    },
+    {
+      "id": 551954,
+      "name": "The Sparkle of Fate!",
+      "number": "BT16-093 R",
+      "rarity": "Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551954_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551954/digimon-card-game-beginning-observer-pre-release-cards-the-sparkle-of-fate",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.68
+        }
+      ]
+    },
+    {
+      "id": 551955,
+      "name": "Cherubimon",
+      "label": "X Antibody",
+      "number": "BT16-079 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551955_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551955/digimon-card-game-beginning-observer-pre-release-cards-cherubimon-x-antibody",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.68
+        }
+      ]
+    },
+    {
+      "id": 551956,
+      "name": "Arukenimon & Mummymon",
+      "number": "BT16-089 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551956_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551956/digimon-card-game-beginning-observer-pre-release-cards-arukenimon-and-mummymon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.59
+        }
+      ]
+    },
+    {
+      "id": 551957,
+      "name": "The Demon Wolf of the Castle of Nine Wolves",
+      "number": "BT16-099 R",
+      "rarity": "Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551957_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551957/digimon-card-game-beginning-observer-pre-release-cards-the-demon-wolf-of-the-castle-of-nine-wolves",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.35
+        }
+      ]
+    },
+    {
+      "id": 551958,
+      "name": "Kosuke Kisakata",
+      "number": "BT16-087 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551958_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551958/digimon-card-game-beginning-observer-pre-release-cards-kosuke-kisakata",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1
+        }
+      ]
+    },
+    {
+      "id": 551959,
+      "name": "Dorugoramon",
+      "number": "BT16-064 R",
+      "rarity": "Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551959_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551959/digimon-card-game-beginning-observer-pre-release-cards-dorugoramon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.59
+        }
+      ]
+    },
+    {
+      "id": 551960,
+      "name": "Climbmon",
+      "number": "BT16-074 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551960_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551960/digimon-card-game-beginning-observer-pre-release-cards-climbmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.3
+        }
+      ]
+    },
+    {
+      "id": 551961,
+      "name": "Hacker Judge",
+      "number": "BT16-086 R",
+      "rarity": "Rare",
+      "type": "Tamer",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551961_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551961/digimon-card-game-beginning-observer-pre-release-cards-hacker-judge",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.46
+        }
+      ]
+    },
+    {
+      "id": 551962,
+      "name": "Darkdramon",
+      "number": "BT16-065 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551962_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551962/digimon-card-game-beginning-observer-pre-release-cards-darkdramon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.36
+        }
+      ]
+    },
+    {
+      "id": 551963,
+      "name": "Metropolitan Police Department, Community Safety Bureau, Cyber Crime Division, Investigation Unit 11...",
+      "number": "BT16-096 R",
+      "rarity": "Rare",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551963_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551963/digimon-card-game-beginning-observer-pre-release-cards-metropolitan-police-department-community-safety-bureau-cyber-crime-division-investigation-unit-11",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.14
+        }
+      ]
+    },
+    {
+      "id": 551964,
+      "name": "Goldramon",
+      "label": "X Antibody",
+      "number": "BT16-014 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551964_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551964/digimon-card-game-beginning-observer-pre-release-cards-goldramon-x-antibody",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.25
+        }
+      ]
+    },
+    {
+      "id": 551965,
+      "name": "Phoenixmon",
+      "label": "X Antibody",
+      "number": "BT16-015 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551965_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551965/digimon-card-game-beginning-observer-pre-release-cards-phoenixmon-x-antibody",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.87
+        }
+      ]
+    },
+    {
+      "id": 551966,
+      "name": "Imperialdramon: Fighter Mode ACE",
+      "number": "BT16-027 R",
+      "rarity": "Rare",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551966_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551966/digimon-card-game-beginning-observer-pre-release-cards-imperialdramon-fighter-mode-ace",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.65
+        }
+      ]
+    },
+    {
+      "id": 551977,
+      "name": "Poromon",
+      "number": "BT16-001 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551977_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551977/digimon-card-game-beginning-observer-pre-release-cards-poromon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.38
+        }
+      ]
+    },
+    {
+      "id": 551978,
+      "name": "DemiVeemon",
+      "number": "BT16-002 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551978_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551978/digimon-card-game-beginning-observer-pre-release-cards-demiveemon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.18
+        }
+      ]
+    },
+    {
+      "id": 551979,
+      "name": "Minomon",
+      "number": "BT16-004 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551979_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551979/digimon-card-game-beginning-observer-pre-release-cards-minomon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.75
+        }
+      ]
+    },
+    {
+      "id": 551980,
+      "name": "Veemon",
+      "number": "BT16-017 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551980_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551980/digimon-card-game-beginning-observer-pre-release-cards-veemon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.25
+        }
+      ]
+    },
+    {
+      "id": 551981,
+      "name": "Gatomon",
+      "number": "BT16-031 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551981_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551981/digimon-card-game-beginning-observer-pre-release-cards-gatomon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.37
+        }
+      ]
+    },
+    {
+      "id": 551982,
+      "name": "Stingmon",
+      "number": "BT16-041 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551982_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551982/digimon-card-game-beginning-observer-pre-release-cards-stingmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.87
+        }
+      ]
+    },
+    {
+      "id": 551983,
+      "name": "Invincible Dragon-Insect Fusion",
+      "number": "BT16-092 U",
+      "rarity": "Uncommon",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551983_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551983/digimon-card-game-beginning-observer-pre-release-cards-invincible-dragon-insect-fusion",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.58
+        }
+      ]
+    },
+    {
+      "id": 551984,
+      "name": "Beastly Storm Dance of Affection",
+      "number": "BT16-091 U",
+      "rarity": "Uncommon",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551984_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551984/digimon-card-game-beginning-observer-pre-release-cards-beastly-storm-dance-of-affection",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.02
+        }
+      ]
+    },
+    {
+      "id": 551985,
+      "name": "Upamon",
+      "number": "BT16-003 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551985_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551985/digimon-card-game-beginning-observer-pre-release-cards-upamon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.51
+        }
+      ]
+    },
+    {
+      "id": 551986,
+      "name": "MagnaAngemon",
+      "number": "BT16-024 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551986_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551986/digimon-card-game-beginning-observer-pre-release-cards-magnaangemon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4
+        }
+      ]
+    },
+    {
+      "id": 551987,
+      "name": "SlashAngemon",
+      "number": "BT16-035 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551987_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551987/digimon-card-game-beginning-observer-pre-release-cards-slashangemon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.26
+        }
+      ]
+    },
+    {
+      "id": 551988,
+      "name": "Advent of the Ancient Steel Angel",
+      "number": "BT16-097 U",
+      "rarity": "Uncommon",
+      "type": "Option",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551988_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551988/digimon-card-game-beginning-observer-pre-release-cards-advent-of-the-ancient-steel-angel",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.35
+        }
+      ]
+    },
+    {
+      "id": 551989,
+      "name": "Terriermon",
+      "label": "X Antibody",
+      "number": "BT16-038 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551989_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551989/digimon-card-game-beginning-observer-pre-release-cards-terriermon-x-antibody",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 7.49
+        }
+      ]
+    },
+    {
+      "id": 551990,
+      "name": "Helloogarmon",
+      "number": "BT16-010 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551990_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551990/digimon-card-game-beginning-observer-pre-release-cards-helloogarmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.28
+        }
+      ]
+    },
+    {
+      "id": 551991,
+      "name": "Soloogarmon",
+      "number": "BT16-076 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551991_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551991/digimon-card-game-beginning-observer-pre-release-cards-soloogarmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.34
+        }
+      ]
+    },
+    {
+      "id": 551992,
+      "name": "Dorimon",
+      "number": "BT16-005 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551992_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551992/digimon-card-game-beginning-observer-pre-release-cards-dorimon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.17
+        }
+      ]
+    },
+    {
+      "id": 551993,
+      "name": "DoruGreymon",
+      "number": "BT16-061 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551993_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551993/digimon-card-game-beginning-observer-pre-release-cards-dorugreymon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5.02
+        }
+      ]
+    },
+    {
+      "id": 551994,
+      "name": "Namakemon",
+      "number": "BT16-055 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551994_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551994/digimon-card-game-beginning-observer-pre-release-cards-namakemon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 10.82
+        }
+      ]
+    },
+    {
+      "id": 551995,
+      "name": "Pistmon",
+      "number": "BT16-044 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551995_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551995/digimon-card-game-beginning-observer-pre-release-cards-pistmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.25
+        }
+      ]
+    },
+    {
+      "id": 551996,
+      "name": "Achillesmon",
+      "number": "BT16-047 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551996_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551996/digimon-card-game-beginning-observer-pre-release-cards-achillesmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.31
+        }
+      ]
+    },
+    {
+      "id": 551997,
+      "name": "MetallifeKuwagamon",
+      "number": "BT16-045 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551997_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551997/digimon-card-game-beginning-observer-pre-release-cards-metallifekuwagamon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.08
+        }
+      ]
+    },
+    {
+      "id": 551998,
+      "name": "Cupimon",
+      "number": "BT16-006 U",
+      "rarity": "Uncommon",
+      "type": "Digi-Egg",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551998_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551998/digimon-card-game-beginning-observer-pre-release-cards-cupimon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.98
+        }
+      ]
+    },
+    {
+      "id": 551999,
+      "name": "Garudamon",
+      "label": "X Antibody",
+      "number": "BT16-011 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/551999_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/551999/digimon-card-game-beginning-observer-pre-release-cards-garudamon-x-antibody",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.07
+        }
+      ]
+    },
+    {
+      "id": 552000,
+      "name": "Syakomon",
+      "label": "X Antibody",
+      "number": "BT16-066 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/552000_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/552000/digimon-card-game-beginning-observer-pre-release-cards-syakomon-x-antibody",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.78
+        }
+      ]
+    },
+    {
+      "id": 552001,
+      "name": "Cerberusmon",
+      "number": "BT16-075 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/552001_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/552001/digimon-card-game-beginning-observer-pre-release-cards-cerberusmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 7.5
+        }
+      ]
+    },
+    {
+      "id": 552002,
+      "name": "Pharaohmon",
+      "number": "BT16-078 U",
+      "rarity": "Uncommon",
+      "type": "Digimon",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/552002_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/552002/digimon-card-game-beginning-observer-pre-release-cards-pharaohmon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.41
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-10-12"
+}

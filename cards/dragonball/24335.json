@@ -1,0 +1,2341 @@
+{
+  "groupId": 24335,
+  "cards": [
+    {
+      "id": 634528,
+      "name": "Bulma",
+      "number": "SB01-045",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/634528_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/634528/dragon-ball-super-fusion-world-manga-booster-01-bulma-sb01-045",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 6.39
+        }
+      ]
+    },
+    {
+      "id": 634532,
+      "name": "Son Goku : Childhood",
+      "number": "FB06-025",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/634532_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/634532/dragon-ball-super-fusion-world-manga-booster-01-son-goku-childhood-fb06-025",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 4.8
+        }
+      ]
+    },
+    {
+      "id": 634533,
+      "name": "Vegeta",
+      "number": "FB04-051",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/634533_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/634533/dragon-ball-super-fusion-world-manga-booster-01-vegeta-fb04-051",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 7.97
+        }
+      ]
+    },
+    {
+      "id": 634534,
+      "name": "Master Roshi",
+      "number": "SB01-050",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/634534_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/634534/dragon-ball-super-fusion-world-manga-booster-01-master-roshi",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.47
+        }
+      ]
+    },
+    {
+      "id": 634536,
+      "name": "Krillin",
+      "number": "SB01-051",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/634536_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/634536/dragon-ball-super-fusion-world-manga-booster-01-krillin-sb01-051",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.32
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.25
+        }
+      ]
+    },
+    {
+      "id": 634537,
+      "name": "Scissors Paper Rock",
+      "number": "FB06-041",
+      "rarity": "Rare",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/634537_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/634537/dragon-ball-super-fusion-world-manga-booster-01-scissors-paper-rock",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.44
+        }
+      ]
+    },
+    {
+      "id": 634538,
+      "name": "Kamehameha! Full Power!",
+      "number": "SB01-020",
+      "rarity": "Uncommon",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/634538_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/634538/dragon-ball-super-fusion-world-manga-booster-01-kamehameha-full-power",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.29
+        }
+      ]
+    },
+    {
+      "id": 634539,
+      "name": "Artificial Full Moon",
+      "number": "FB04-076",
+      "rarity": "Rare",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/634539_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/634539/dragon-ball-super-fusion-world-manga-booster-01-artificial-full-moon",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.62
+        }
+      ]
+    },
+    {
+      "id": 634540,
+      "name": "Nappa",
+      "number": "SB01-024",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/634540_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/634540/dragon-ball-super-fusion-world-manga-booster-01-nappa",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.36
+        }
+      ]
+    },
+    {
+      "id": 635596,
+      "name": "Cell",
+      "number": "SB01-001",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/635596_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/635596/dragon-ball-super-fusion-world-manga-booster-01-cell-sb01-001",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 3.49
+        }
+      ]
+    },
+    {
+      "id": 635597,
+      "name": "Majin Buu : Evil // Majin Buu : Kid",
+      "number": "SB01-029",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/635597_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/635597/dragon-ball-super-fusion-world-manga-booster-01-majin-buu-evil-majin-buu-kid-sb01-029",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 3.27
+        }
+      ]
+    },
+    {
+      "id": 635598,
+      "name": "Majin Buu : Evil",
+      "number": "SB01-036",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/635598_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/635598/dragon-ball-super-fusion-world-manga-booster-01-majin-buu-evil-sb01-036",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.27
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.3
+        }
+      ]
+    },
+    {
+      "id": 635599,
+      "name": "Vegeta",
+      "number": "FB04-088",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/635599_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/635599/dragon-ball-super-fusion-world-manga-booster-01-vegeta-fb04-088",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.01
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 1.63
+        }
+      ]
+    },
+    {
+      "id": 635600,
+      "name": "Cell Jr.",
+      "number": "FB02-085",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/635600_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/635600/dragon-ball-super-fusion-world-manga-booster-01-cell-jr-fb02-085",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.26
+        }
+      ]
+    },
+    {
+      "id": 635601,
+      "name": "Turtle",
+      "number": "SB01-048",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/635601_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/635601/dragon-ball-super-fusion-world-manga-booster-01-turtle",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.19
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 635602,
+      "name": "Cell",
+      "number": "SB01-011",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/635602_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/635602/dragon-ball-super-fusion-world-manga-booster-01-cell-sb01-011",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.31
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.31
+        }
+      ]
+    },
+    {
+      "id": 635603,
+      "name": "Son Goku : Childhood",
+      "number": "SB01-018",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/635603_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/635603/dragon-ball-super-fusion-world-manga-booster-01-son-goku-childhood-sb01-018",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 3.14
+        }
+      ]
+    },
+    {
+      "id": 635604,
+      "name": "The Farmer With Power Level 5",
+      "number": "FB03-062",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/635604_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/635604/dragon-ball-super-fusion-world-manga-booster-01-the-farmer-with-power-level-5",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.21
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 635605,
+      "name": "Yamcha",
+      "number": "FB06-037",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/635605_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/635605/dragon-ball-super-fusion-world-manga-booster-01-yamcha-fb06-037",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.33
+        }
+      ]
+    },
+    {
+      "id": 635606,
+      "name": "Spike",
+      "number": "SB01-046",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/635606_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/635606/dragon-ball-super-fusion-world-manga-booster-01-spike",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 635607,
+      "name": "Majin Buu : Pure Evil",
+      "number": "SB01-040",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/635607_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/635607/dragon-ball-super-fusion-world-manga-booster-01-majin-buu-pure-evil-sb01-040",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.19
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.2
+        }
+      ]
+    },
+    {
+      "id": 635608,
+      "name": "Explosive Wave",
+      "number": "FB06-117",
+      "rarity": "Uncommon",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/635608_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/635608/dragon-ball-super-fusion-world-manga-booster-01-explosive-wave",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.23
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 636317,
+      "name": "Android 17/Android 18",
+      "number": "FB06-012",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/636317_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/636317/dragon-ball-super-fusion-world-manga-booster-01-android-17-android-18",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.37
+        }
+      ]
+    },
+    {
+      "id": 636318,
+      "name": "Android 19/Android 20",
+      "number": "SB01-007",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/636318_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/636318/dragon-ball-super-fusion-world-manga-booster-01-android-19-android-20",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.17
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 636319,
+      "name": "Sleepy Boy Technique",
+      "number": "FB06-046",
+      "rarity": "Common",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/636319_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/636319/dragon-ball-super-fusion-world-manga-booster-01-sleepy-boy-technique",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 636320,
+      "name": "Thunder Shock Surprise",
+      "number": "SB01-022",
+      "rarity": "Common",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/636320_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/636320/dragon-ball-super-fusion-world-manga-booster-01-thunder-shock-surprise",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 636321,
+      "name": "Kami",
+      "number": "FB02-071",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/636321_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/636321/dragon-ball-super-fusion-world-manga-booster-01-kami",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.12
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 636322,
+      "name": "Son Goku",
+      "number": "SB01-023",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/636322_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/636322/dragon-ball-super-fusion-world-manga-booster-01-son-goku-sb01-023",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.43
+        }
+      ]
+    },
+    {
+      "id": 636323,
+      "name": "Dabura",
+      "number": "SB01-030",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/636323_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/636323/dragon-ball-super-fusion-world-manga-booster-01-dabura",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.3
+        }
+      ]
+    },
+    {
+      "id": 636325,
+      "name": "Babidi",
+      "number": "FB03-084",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/636325_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/636325/dragon-ball-super-fusion-world-manga-booster-01-babidi-fb03-084",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.13
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 636326,
+      "name": "Android 18",
+      "number": "FB06-014",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/636326_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/636326/dragon-ball-super-fusion-world-manga-booster-01-android-18-fb06-014",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.21
+        }
+      ]
+    },
+    {
+      "id": 636328,
+      "name": "Instant Transmission",
+      "number": "SB01-016",
+      "rarity": "Common",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/636328_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/636328/dragon-ball-super-fusion-world-manga-booster-01-instant-transmission",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.15
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 636329,
+      "name": "Reunion",
+      "number": "SB01-060",
+      "rarity": "Common",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/636329_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/636329/dragon-ball-super-fusion-world-manga-booster-01-reunion",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 636330,
+      "name": "Son Gohan",
+      "number": "FS05-05",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/636330_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/636330/dragon-ball-super-fusion-world-manga-booster-01-son-gohan-fs05-05",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.21
+        }
+      ]
+    },
+    {
+      "id": 637494,
+      "name": "Bulma",
+      "number": "FB06-035",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637494_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637494/dragon-ball-super-fusion-world-manga-booster-01-bulma-fb06-035",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.21
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.2
+        }
+      ]
+    },
+    {
+      "id": 637495,
+      "name": "Chi-Chi",
+      "number": "SB01-019",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637495_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637495/dragon-ball-super-fusion-world-manga-booster-01-chi-chi",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.92
+        }
+      ]
+    },
+    {
+      "id": 637496,
+      "name": "Son Goku",
+      "number": "FB01-085",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637496_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637496/dragon-ball-super-fusion-world-manga-booster-01-son-goku-fb01-085",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.21
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 637497,
+      "name": "Strongest Team-Up",
+      "number": "SB01-027",
+      "rarity": "Common",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637497_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637497/dragon-ball-super-fusion-world-manga-booster-01-strongest-team-up",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.24
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 637498,
+      "name": "Vegeta",
+      "number": "SB01-025",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637498_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637498/dragon-ball-super-fusion-world-manga-booster-01-vegeta-sb01-025",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 2.79
+        }
+      ]
+    },
+    {
+      "id": 637499,
+      "name": "Babidi",
+      "number": "SB01-031",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637499_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637499/dragon-ball-super-fusion-world-manga-booster-01-babidi-sb01-031",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 2.37
+        }
+      ]
+    },
+    {
+      "id": 637500,
+      "name": "Energy Absorption",
+      "number": "FB03-099",
+      "rarity": "Common",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637500_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637500/dragon-ball-super-fusion-world-manga-booster-01-energy-absorption",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.11
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 637501,
+      "name": "Majin Buu : Good",
+      "number": "SB01-041",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637501_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637501/dragon-ball-super-fusion-world-manga-booster-01-majin-buu-good-sb01-041",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.24
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.17
+        }
+      ]
+    },
+    {
+      "id": 637502,
+      "name": "Oolong",
+      "number": "SB01-047",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637502_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637502/dragon-ball-super-fusion-world-manga-booster-01-oolong",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.21
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.23
+        }
+      ]
+    },
+    {
+      "id": 637503,
+      "name": "Puar",
+      "number": "SB01-056",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637503_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637503/dragon-ball-super-fusion-world-manga-booster-01-puar",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.22
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 637504,
+      "name": "Great Ape Son Goku",
+      "number": "SB01-017",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637504_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637504/dragon-ball-super-fusion-world-manga-booster-01-great-ape-son-goku",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.69
+        }
+      ]
+    },
+    {
+      "id": 637505,
+      "name": "Yamcha",
+      "number": "SB01-059",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637505_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637505/dragon-ball-super-fusion-world-manga-booster-01-yamcha-sb01-059",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.46
+        }
+      ]
+    },
+    {
+      "id": 637506,
+      "name": "Hell's Flash",
+      "number": "FB06-24",
+      "rarity": "Common",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637506_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637506/dragon-ball-super-fusion-world-manga-booster-01-hells-flash",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 637507,
+      "name": "Cell Jr.",
+      "number": "SB01-013",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637507_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637507/dragon-ball-super-fusion-world-manga-booster-01-cell-jr-sb01-013",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.26
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.35
+        }
+      ]
+    },
+    {
+      "id": 637508,
+      "name": "Great Saiyaman",
+      "number": "FB03-032",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637508_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637508/dragon-ball-super-fusion-world-manga-booster-01-great-saiyaman",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.24
+        }
+      ]
+    },
+    {
+      "id": 637509,
+      "name": "Hercule",
+      "number": "FB03-049",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637509_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637509/dragon-ball-super-fusion-world-manga-booster-01-hercule",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.23
+        }
+      ]
+    },
+    {
+      "id": 637510,
+      "name": "Son Gohan : Childhood",
+      "number": "FB01-088",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637510_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637510/dragon-ball-super-fusion-world-manga-booster-01-son-gohan-childhood",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.32
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.21
+        }
+      ]
+    },
+    {
+      "id": 637623,
+      "name": "Ruthless Sorting",
+      "number": "SB01-028",
+      "rarity": "Common",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637623_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637623/dragon-ball-super-fusion-world-manga-booster-01-ruthless-sorting",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 637624,
+      "name": "Majin Buu : Evil",
+      "number": "SB01-035",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637624_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637624/dragon-ball-super-fusion-world-manga-booster-01-majin-buu-evil-sb01-035",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 637625,
+      "name": "Majin Buu : Good",
+      "number": "SB01-042",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637625_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637625/dragon-ball-super-fusion-world-manga-booster-01-majin-buu-good-sb01-042",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.23
+        }
+      ]
+    },
+    {
+      "id": 637626,
+      "name": "Android 16",
+      "number": "SB01-002",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637626_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637626/dragon-ball-super-fusion-world-manga-booster-01-android-16",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.57
+        }
+      ]
+    },
+    {
+      "id": 637627,
+      "name": "Android 17",
+      "number": "SB01-003",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637627_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637627/dragon-ball-super-fusion-world-manga-booster-01-android-17-sb01-003",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.96
+        }
+      ]
+    },
+    {
+      "id": 637628,
+      "name": "Android 18",
+      "number": "SB01-005",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637628_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637628/dragon-ball-super-fusion-world-manga-booster-01-android-18-sb01-005",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.24
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 637629,
+      "name": "Android 19",
+      "number": "SB01-006",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637629_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637629/dragon-ball-super-fusion-world-manga-booster-01-android-19",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.2
+        }
+      ]
+    },
+    {
+      "id": 637630,
+      "name": "Android 20",
+      "number": "SB01-008",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637630_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637630/dragon-ball-super-fusion-world-manga-booster-01-android-20",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.11
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 637632,
+      "name": "Dodon Wave",
+      "number": "FB06-045",
+      "rarity": "Rare",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637632_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637632/dragon-ball-super-fusion-world-manga-booster-01-dodon-wave",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.31
+        }
+      ]
+    },
+    {
+      "id": 637637,
+      "name": "Tri-Beam",
+      "number": "SB01-021",
+      "rarity": "Uncommon",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637637_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637637/dragon-ball-super-fusion-world-manga-booster-01-tri-beam",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.22
+        }
+      ]
+    },
+    {
+      "id": 637638,
+      "name": "Son Goku : Childhood",
+      "number": "SB01-053",
+      "rarity": "Rare",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637638_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637638/dragon-ball-super-fusion-world-manga-booster-01-son-goku-childhood-sb01-053",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 3.21
+        }
+      ]
+    },
+    {
+      "id": 637639,
+      "name": "Son Gohan",
+      "number": "SB01-054",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637639_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637639/dragon-ball-super-fusion-world-manga-booster-01-son-gohan-sb01-054",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.21
+        }
+      ]
+    },
+    {
+      "id": 637640,
+      "name": "Vegeta",
+      "number": "SB01-032",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637640_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637640/dragon-ball-super-fusion-world-manga-booster-01-vegeta-sb01-032",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.72
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.32
+        }
+      ]
+    },
+    {
+      "id": 637641,
+      "name": "Yakon",
+      "number": "SB01-043",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637641_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637641/dragon-ball-super-fusion-world-manga-booster-01-yakon-sb01-043",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 637644,
+      "name": "Self-Destruct",
+      "number": "SB01-015",
+      "rarity": "Common",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637644_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637644/dragon-ball-super-fusion-world-manga-booster-01-self-destruct",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 637645,
+      "name": "The Royal Defence Force's Last Stand",
+      "number": "SB01-014",
+      "rarity": "Common",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637645_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637645/dragon-ball-super-fusion-world-manga-booster-01-the-royal-defence-forces-last-stand",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 637646,
+      "name": "Fortuneteller Baba",
+      "number": "SB01-049",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637646_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637646/dragon-ball-super-fusion-world-manga-booster-01-fortuneteller-baba",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.18
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 637648,
+      "name": "Suke San",
+      "number": "SB01-052",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637648_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637648/dragon-ball-super-fusion-world-manga-booster-01-suke-san",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.15
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 637649,
+      "name": "Draculaman",
+      "number": "SB01-055",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637649_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637649/dragon-ball-super-fusion-world-manga-booster-01-draculaman",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 637650,
+      "name": "Bandages",
+      "number": "SB01-058",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/637650_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/637650/dragon-ball-super-fusion-world-manga-booster-01-bandages",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 638935,
+      "name": "Master Roshi",
+      "label": "Alternate Art",
+      "number": "SB01-050",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638935_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638935/dragon-ball-super-fusion-world-manga-booster-01-master-roshi-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 144.09
+        }
+      ]
+    },
+    {
+      "id": 638936,
+      "name": "Krillin",
+      "label": "Alternate Art",
+      "number": "SB01-051",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638936_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638936/dragon-ball-super-fusion-world-manga-booster-01-krillin-sb01-051-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 76.33
+        }
+      ]
+    },
+    {
+      "id": 638937,
+      "name": "Instant Kamehameha",
+      "number": "FB01-101",
+      "rarity": "Common",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638937_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638937/dragon-ball-super-fusion-world-manga-booster-01-instant-kamehameha",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.31
+        }
+      ]
+    },
+    {
+      "id": 638938,
+      "name": "Big Bang Attack",
+      "number": "FB01-103",
+      "rarity": "Uncommon",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638938_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638938/dragon-ball-super-fusion-world-manga-booster-01-big-bang-attack",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.23
+        }
+      ]
+    },
+    {
+      "id": 638939,
+      "name": "Son Goku : Childhood",
+      "label": "Alternate Art",
+      "number": "SB01-053",
+      "rarity": "Rare",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638939_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638939/dragon-ball-super-fusion-world-manga-booster-01-son-goku-childhood-sb01-053-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 362.76
+        }
+      ]
+    },
+    {
+      "id": 638940,
+      "name": "Krillin",
+      "number": "FB02-074",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638940_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638940/dragon-ball-super-fusion-world-manga-booster-01-krillin-fb02-074",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.24
+        }
+      ]
+    },
+    {
+      "id": 638941,
+      "name": "Bulma/Son Goku : Childhood",
+      "number": "SB01-057",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638941_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638941/dragon-ball-super-fusion-world-manga-booster-01-bulma-son-goku-childhood",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 4.84
+        }
+      ]
+    },
+    {
+      "id": 638942,
+      "name": "Bulma/Son Goku : Childhood",
+      "label": "Alternate Art",
+      "number": "SB01-057",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638942_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638942/dragon-ball-super-fusion-world-manga-booster-01-bulma-son-goku-childhood-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 201.52
+        }
+      ]
+    },
+    {
+      "id": 638943,
+      "name": "Days of Training",
+      "number": "FB03-075",
+      "rarity": "Uncommon",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638943_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638943/dragon-ball-super-fusion-world-manga-booster-01-days-of-training",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.19
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 638944,
+      "name": "Videl",
+      "number": "FB04-041",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638944_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638944/dragon-ball-super-fusion-world-manga-booster-01-videl",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.2
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.24
+        }
+      ]
+    },
+    {
+      "id": 638945,
+      "name": "Vegeta",
+      "label": "Gold",
+      "number": "FB04-051",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638945_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638945/dragon-ball-super-fusion-world-manga-booster-01-vegeta-fb04-051-gold",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 256.16
+        }
+      ]
+    },
+    {
+      "id": 638946,
+      "name": "Son Gohan : Youth",
+      "number": "FB04-060",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638946_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638946/dragon-ball-super-fusion-world-manga-booster-01-son-gohan-youth",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.19
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 638947,
+      "name": "Vegeta",
+      "number": "FB04-069",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638947_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638947/dragon-ball-super-fusion-world-manga-booster-01-vegeta-fb04-069",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.04
+        }
+      ]
+    },
+    {
+      "id": 638948,
+      "name": "Raditz",
+      "number": "FB04-072",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638948_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638948/dragon-ball-super-fusion-world-manga-booster-01-raditz-fb04-072",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.37
+        }
+      ]
+    },
+    {
+      "id": 638949,
+      "name": "A Warm Greeting",
+      "number": "FB04-073",
+      "rarity": "Uncommon",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638949_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638949/dragon-ball-super-fusion-world-manga-booster-01-a-warm-greeting",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.24
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 638950,
+      "name": "Majin Buu : Evil",
+      "number": "FB04-091",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638950_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638950/dragon-ball-super-fusion-world-manga-booster-01-majin-buu-evil-fb04-091",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.17
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 638951,
+      "name": "Majin Buu : Kid",
+      "number": "FB04-095",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638951_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638951/dragon-ball-super-fusion-world-manga-booster-01-majin-buu-kid-fb04-095",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.37
+        }
+      ]
+    },
+    {
+      "id": 638952,
+      "name": "Majin Buu : Pure Evil",
+      "number": "FB04-096",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638952_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638952/dragon-ball-super-fusion-world-manga-booster-01-majin-buu-pure-evil-fb04-096",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.18
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 638953,
+      "name": "Son Goku",
+      "number": "FB05-119",
+      "rarity": "Secret Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638953_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638953/dragon-ball-super-fusion-world-manga-booster-01-son-goku-fb05-119",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 368.1
+        }
+      ]
+    },
+    {
+      "id": 638955,
+      "name": "Son Goku",
+      "label": "Super Alternate Art",
+      "number": "FB05-119",
+      "rarity": "Secret Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638955_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638955/dragon-ball-super-fusion-world-manga-booster-01-son-goku-fb05-119-super-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 20000
+        }
+      ]
+    },
+    {
+      "id": 638956,
+      "name": "Android 17",
+      "number": "FB06-011",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638956_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638956/dragon-ball-super-fusion-world-manga-booster-01-android-17-fb06-011",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 638957,
+      "name": "Dr. Gero",
+      "number": "FB06-019",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638957_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638957/dragon-ball-super-fusion-world-manga-booster-01-dr-gero",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.21
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.23
+        }
+      ]
+    },
+    {
+      "id": 638958,
+      "name": "Bleak Future",
+      "number": "FB06-022",
+      "rarity": "Rare",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638958_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638958/dragon-ball-super-fusion-world-manga-booster-01-bleak-future",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.26
+        }
+      ]
+    },
+    {
+      "id": 638959,
+      "name": "Son Goku : Childhood",
+      "label": "Gold",
+      "number": "FB06-025",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638959_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638959/dragon-ball-super-fusion-world-manga-booster-01-son-goku-childhood-fb06-025-gold",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 256.33
+        }
+      ]
+    },
+    {
+      "id": 638960,
+      "name": "Announcer",
+      "number": "FB06-026",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638960_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638960/dragon-ball-super-fusion-world-manga-booster-01-announcer",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 638961,
+      "name": "Giran",
+      "number": "FB06-027",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638961_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638961/dragon-ball-super-fusion-world-manga-booster-01-giran",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.21
+        }
+      ]
+    },
+    {
+      "id": 638962,
+      "name": "Nam",
+      "number": "FB06-033",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638962_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638962/dragon-ball-super-fusion-world-manga-booster-01-nam",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.16
+        }
+      ]
+    },
+    {
+      "id": 638963,
+      "name": "Bulma",
+      "label": "Alternate Art",
+      "number": "FB06-035",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638963_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638963/dragon-ball-super-fusion-world-manga-booster-01-bulma-fb06-035-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 222.87
+        }
+      ]
+    },
+    {
+      "id": 638964,
+      "name": "Launch",
+      "number": "FB06-038",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638964_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638964/dragon-ball-super-fusion-world-manga-booster-01-launch",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.26
+        }
+      ]
+    },
+    {
+      "id": 638965,
+      "name": "Ranfan",
+      "number": "FB06-039",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638965_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638965/dragon-ball-super-fusion-world-manga-booster-01-ranfan",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.21
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 638966,
+      "name": "World Tournament Arena",
+      "number": "FB06-043",
+      "rarity": "Uncommon",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638966_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638966/dragon-ball-super-fusion-world-manga-booster-01-world-tournament-arena",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.18
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.2
+        }
+      ]
+    },
+    {
+      "id": 638967,
+      "name": "Cross Arm Dive",
+      "number": "FB06-044",
+      "rarity": "Uncommon",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638967_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638967/dragon-ball-super-fusion-world-manga-booster-01-cross-arm-dive",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.22
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 638968,
+      "name": "Cymbal",
+      "number": "FB06-100",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638968_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638968/dragon-ball-super-fusion-world-manga-booster-01-cymbal",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.17
+        }
+      ]
+    },
+    {
+      "id": 638969,
+      "name": "Tambourine",
+      "number": "FB06-102",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638969_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638969/dragon-ball-super-fusion-world-manga-booster-01-tambourine",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.2
+        }
+      ]
+    },
+    {
+      "id": 638970,
+      "name": "Drum",
+      "number": "FB06-105",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638970_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638970/dragon-ball-super-fusion-world-manga-booster-01-drum",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 638971,
+      "name": "Piccolo Jr.",
+      "number": "FB06-113",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638971_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638971/dragon-ball-super-fusion-world-manga-booster-01-piccolo-jr",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.27
+        }
+      ]
+    },
+    {
+      "id": 638972,
+      "name": "Piccolo Jr.",
+      "label": "Alternate Art",
+      "number": "FB06-113",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638972_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638972/dragon-ball-super-fusion-world-manga-booster-01-piccolo-jr-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 116.7
+        }
+      ]
+    },
+    {
+      "id": 638973,
+      "name": "Cell",
+      "label": "Gold",
+      "number": "SB01-001",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638973_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638973/dragon-ball-super-fusion-world-manga-booster-01-cell-sb01-001-gold",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 306.65
+        }
+      ]
+    },
+    {
+      "id": 638974,
+      "name": "Android 16",
+      "label": "Alternate Art",
+      "number": "SB01-002",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638974_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638974/dragon-ball-super-fusion-world-manga-booster-01-android-16-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 74.73
+        }
+      ]
+    },
+    {
+      "id": 638975,
+      "name": "Android 17",
+      "label": "Alternate Art",
+      "number": "SB01-003",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638975_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638975/dragon-ball-super-fusion-world-manga-booster-01-android-17-sb01-003-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 84.68
+        }
+      ]
+    },
+    {
+      "id": 638976,
+      "name": "Android 18",
+      "number": "SB01-004",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638976_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638976/dragon-ball-super-fusion-world-manga-booster-01-android-18-sb01-004",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.65
+        }
+      ]
+    },
+    {
+      "id": 638977,
+      "name": "Cell",
+      "number": "SB01-009",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638977_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638977/dragon-ball-super-fusion-world-manga-booster-01-cell-sb01-009",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.9
+        }
+      ]
+    },
+    {
+      "id": 638978,
+      "name": "Cell",
+      "label": "Alternate Art",
+      "number": "SB01-009",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638978_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638978/dragon-ball-super-fusion-world-manga-booster-01-cell-sb01-009-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 101.14
+        }
+      ]
+    },
+    {
+      "id": 638979,
+      "name": "Cell",
+      "number": "SB01-010",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638979_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638979/dragon-ball-super-fusion-world-manga-booster-01-cell-sb01-010",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.31
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.31
+        }
+      ]
+    },
+    {
+      "id": 638980,
+      "name": "Cell",
+      "number": "SB01-012",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638980_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638980/dragon-ball-super-fusion-world-manga-booster-01-cell-sb01-012",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.04
+        }
+      ]
+    },
+    {
+      "id": 638981,
+      "name": "Son Goku : Childhood",
+      "label": "Alternate Art",
+      "number": "SB01-018",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638981_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638981/dragon-ball-super-fusion-world-manga-booster-01-son-goku-childhood-sb01-018-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 114.06
+        }
+      ]
+    },
+    {
+      "id": 638982,
+      "name": "Chi-Chi",
+      "label": "Alternate Art",
+      "number": "SB01-019",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638982_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638982/dragon-ball-super-fusion-world-manga-booster-01-chi-chi-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 321.55
+        }
+      ]
+    },
+    {
+      "id": 638983,
+      "name": "Son Goku",
+      "label": "Alternate Art",
+      "number": "SB01-023",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638983_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638983/dragon-ball-super-fusion-world-manga-booster-01-son-goku-sb01-023-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 271.69
+        }
+      ]
+    },
+    {
+      "id": 638984,
+      "name": "Vegeta",
+      "label": "Alternate Art",
+      "number": "SB01-025",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638984_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638984/dragon-ball-super-fusion-world-manga-booster-01-vegeta-sb01-025-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 271.13
+        }
+      ]
+    },
+    {
+      "id": 638985,
+      "name": "Raditz",
+      "number": "SB01-026",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638985_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638985/dragon-ball-super-fusion-world-manga-booster-01-raditz-sb01-026",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.62
+        }
+      ]
+    },
+    {
+      "id": 638986,
+      "name": "Raditz",
+      "label": "Alternate Art",
+      "number": "SB01-026",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/638986_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/638986/dragon-ball-super-fusion-world-manga-booster-01-raditz-sb01-026-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 40.55
+        }
+      ]
+    },
+    {
+      "id": 639324,
+      "name": "Majin Buu : Evil // Majin Buu : Kid",
+      "label": "Gold",
+      "number": "SB01-029",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/639324_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/639324/dragon-ball-super-fusion-world-manga-booster-01-majin-buu-evil-majin-buu-kid-sb01-029-gold",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 215.05
+        }
+      ]
+    },
+    {
+      "id": 639325,
+      "name": "Dabura",
+      "label": "Alternate Art",
+      "number": "SB01-030",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/639325_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/639325/dragon-ball-super-fusion-world-manga-booster-01-dabura-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 51.85
+        }
+      ]
+    },
+    {
+      "id": 639326,
+      "name": "Majin Buu",
+      "number": "SB01-033",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/639326_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/639326/dragon-ball-super-fusion-world-manga-booster-01-majin-buu",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.34
+        }
+      ]
+    },
+    {
+      "id": 639327,
+      "name": "Majin Buu",
+      "label": "Alternate Art",
+      "number": "SB01-033",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/639327_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/639327/dragon-ball-super-fusion-world-manga-booster-01-majin-buu-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 103.51
+        }
+      ]
+    },
+    {
+      "id": 639328,
+      "name": "Majin Buu : Evil",
+      "number": "SB01-034",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/639328_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/639328/dragon-ball-super-fusion-world-manga-booster-01-majin-buu-evil-sb01-034",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.75
+        }
+      ]
+    },
+    {
+      "id": 639329,
+      "name": "Majin Buu : Evil",
+      "label": "Alternate Art",
+      "number": "SB01-036",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/639329_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/639329/dragon-ball-super-fusion-world-manga-booster-01-majin-buu-evil-sb01-036-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 217.08
+        }
+      ]
+    },
+    {
+      "id": 639330,
+      "name": "Majin Buu : Evil",
+      "number": "SB01-037",
+      "rarity": "Common",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/639330_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/639330/dragon-ball-super-fusion-world-manga-booster-01-majin-buu-evil-sb01-037",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 639331,
+      "name": "Majin Buu : Kid",
+      "number": "SB01-038",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/639331_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/639331/dragon-ball-super-fusion-world-manga-booster-01-majin-buu-kid-sb01-038",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.31
+        },
+        {
+          "sub": "Holofoil",
+          "usd": 0.23
+        }
+      ]
+    },
+    {
+      "id": 639332,
+      "name": "Majin Buu : Kid",
+      "number": "SB01-039",
+      "rarity": "Super Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/639332_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/639332/dragon-ball-super-fusion-world-manga-booster-01-majin-buu-kid-sb01-039",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 1.63
+        }
+      ]
+    },
+    {
+      "id": 639333,
+      "name": "Evil Itself",
+      "number": "SB01-044",
+      "rarity": "Common",
+      "type": "Extra",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/639333_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/639333/dragon-ball-super-fusion-world-manga-booster-01-evil-itself",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 0.2
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 639334,
+      "name": "Bulma",
+      "label": "Gold",
+      "number": "SB01-045",
+      "rarity": "Leader",
+      "type": "Leader",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/639334_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/639334/dragon-ball-super-fusion-world-manga-booster-01-bulma-sb01-045-gold",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 256.25
+        }
+      ]
+    },
+    {
+      "id": 639335,
+      "name": "Fortuneteller Baba",
+      "label": "Alternate Art",
+      "number": "SB01-049",
+      "rarity": "Uncommon",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/639335_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/639335/dragon-ball-super-fusion-world-manga-booster-01-fortuneteller-baba-alternate-art",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 112.22
+        }
+      ]
+    },
+    {
+      "id": 639908,
+      "name": "Code Card - Manga Booster 01",
+      "label": "SB01",
+      "rarity": "Code Card",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/639908_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/639908/dragon-ball-super-fusion-world-manga-booster-01-code-card-manga-booster-01-sb01",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.51
+        }
+      ]
+    },
+    {
+      "id": 640236,
+      "name": "Son Goku",
+      "label": "Super Alternate Art",
+      "number": "SB01-023",
+      "rarity": "Rare",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/640236_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/640236/dragon-ball-super-fusion-world-manga-booster-01-son-goku-sb01-023-super-alternate-art",
+      "prices": []
+    }
+  ],
+  "pricesAt": "2026-10-12"
+}

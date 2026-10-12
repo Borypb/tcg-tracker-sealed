@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "game": "pokemon",
   "lang": "en",
   "products": [
@@ -32605,6 +32605,16 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/721885_200w.jpg",
       "source": {
         "tcgplayer": 721885
+      }
+    },
+    {
+      "id": "pkm-en-tcp723301",
+      "kind": "etb",
+      "name": "Ascended Heroes Elite Trainer Box and Pokeball (Sam's Club)",
+      "lang": "en",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723301_200w.jpg",
+      "source": {
+        "tcgplayer": 723301
       }
     },
     {

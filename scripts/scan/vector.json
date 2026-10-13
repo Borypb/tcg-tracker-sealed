@@ -1,0 +1,45 @@
+{
+ "fp": 1,
+ "cases": [
+  {
+   "w": 245,
+   "h": 342,
+   "seed": 1,
+   "game": "pokemon",
+   "full": "1a55b0551a55b0551a55b0555a55b055e5aa4daae5aa4daa05a25faa57f55fab",
+   "art": "aa7f07a9027f07aa038a5857419dda7ff154c05471fff87f19803842d9ac986e"
+  },
+  {
+   "w": 146,
+   "h": 204,
+   "seed": 2,
+   "game": "magic",
+   "full": "758a2af57f8a2ad02a752ad57a75b12886353e3e11fdc308c4f5c888b275666d",
+   "art": "410a0d27e2f59fc0b675b0601db533318a559692537bf55ad971b38a3df069aa"
+  },
+  {
+   "w": 168,
+   "h": 246,
+   "seed": 3,
+   "game": "yugioh",
+   "full": "0f01aa150300aa157f00fa1500f915ea4070c1eafefba9eaee3b1dfaf3bb47ba",
+   "art": "9788bae5005fbae59475051e686ac00aee7b8c5abb6e661f690ac91af53bad0a"
+  },
+  {
+   "w": 600,
+   "h": 838,
+   "seed": 4,
+   "game": "onepiece",
+   "full": "aaaa5555aaaa5555aaaa5555aaaa5555aaaa5555aaaa5555aaaa5555aaaa5555",
+   "art": "aabe1041aebb0105aaaa1000aaaa0040aaaa00005555ffff5555ffff55dfffff"
+  },
+  {
+   "w": 63,
+   "h": 88,
+   "seed": 5,
+   "game": "lorcana",
+   "full": "e5780bc1e166014ea1a5012aa6950cae9aa6314abaacf5b75daffd51dea5f4a8",
+   "art": "475e1bf925bd096e90282406fdaaf655d548fab68b5652860afe56df4809d147"
+  }
+ ]
+}

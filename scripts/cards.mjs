@@ -1,4 +1,4 @@
-// Script 5 — cartes des licences sans API publique (Dragon Ball Super Fusion World, Palworld, Digimon),
+// Script 5 — cartes des licences sans API publique (Dragon Ball Super Fusion World, Palworld, Digimon, Riftbound),
 // depuis le catalogue TCGplayer (TCGCSV). Images du CDN TCGplayer, cote du marché américain en $.
 // Incrémental : une extension n'est retéléchargée que si son `modifiedOn` a changé ; ses cotes, chaque jour.
 // Sortie : cards/index.json + cards/<licence>/<groupId>.json
@@ -11,8 +11,16 @@ const TCGCSV = "https://tcgcsv.com/tcgplayer";
 export const CARD_GAMES = {
   dragonball: [/^dragon ball super fusion world$/i, /fusion world/i],
   palworld: [/^palworld/i],
-  digimon: [/^digimon card game$/i, /^digimon/i]
+  digimon: [/^digimon card game$/i, /^digimon/i],
+  riftbound: [/^riftbound/i, /riftbound/i]
 };
+
+/**
+ * Extensions d'avant-première (Release Event, Pre-Release…) : TCGplayer y met souvent l'image
+ * promotionnelle de Bandai, barrée « SAMPLE ». On reprend l'image de la même carte dans son extension
+ * normale quand elle existe (même numéro, version de base).
+ */
+const EVENT_GROUP = /release event|pre-?release|prerelease|launch event|premier event/i;
 
 /** champs « extendedData » utiles, quel que soit leur nom exact selon la catégorie */
 const field = (p, ...names) => {
@@ -40,6 +48,38 @@ async function category(patterns, cats) {
     if (hit) return hit;
   }
   return null;
+}
+
+async function cleanEventImages(game, groups, sets) {
+  const eventIds = new Set(groups.filter((g) => EVENT_GROUP.test(g.name)).map((g) => g.groupId));
+  if (!eventIds.size) return;
+  const clean = new Map();
+  for (const s of sets) {
+    if (eventIds.has(s.groupId)) continue;
+    const data = await readJson(s.file, null);
+    for (const c of data?.cards ?? []) if (c.number && c.image && !c.label && !clean.has(c.number)) clean.set(c.number, c.image);
+  }
+  let fixed = 0;
+  for (const s of sets) {
+    if (!eventIds.has(s.groupId)) continue;
+    const data = await readJson(s.file, null);
+    if (!data) continue;
+    let changed = false;
+    for (const c of data.cards) {
+      const img = c.number ? clean.get(c.number) : undefined;
+      if (img && img !== c.image) {
+        c.sourceImage ??= c.image;
+        c.image = img;
+        changed = true;
+        fixed++;
+      }
+    }
+    if (changed) {
+      await writeJson(s.file, data);
+      s.version = hash(data.cards.map(({ prices, ...c }) => c));
+    }
+  }
+  if (fixed) console.log(`${game} : ${fixed} images d'avant-première remplacées par l'image de l'extension`);
 }
 
 const hash = (x) => createHash("sha1").update(JSON.stringify(x)).digest("hex").slice(0, 12);
@@ -110,6 +150,7 @@ export async function cards() {
         version: hash(data.cards.map(({ prices, ...c }) => c))
       });
     }
+    await cleanEventImages(game, groups, sets);
     index.games[game] = { categoryId: cat.categoryId, category: cat.name, sets };
     console.log(`${game} (${cat.name}) : ${sets.length} extensions, ${sets.reduce((n, s) => n + s.count, 0)} cartes, ${fetched} extensions mises à jour`);
   }

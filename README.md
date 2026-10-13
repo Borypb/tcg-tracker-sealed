@@ -48,33 +48,39 @@ Les produits déduits portent un champ `derived` (nom anglais d'origine) ; ceux 
 
 ## Index du scan à l'image (branche `scan`)
 
-TCG Tracker reconnaît une carte à l'image **sans rien télécharger d'avance** grâce à un index d'empreintes visuelles,
+TCG Tracker reconnaît une carte à l'image **sans rien télécharger d'avance ni rien enregistrer** grâce à cet index,
 lu en mémoire par l'app. Une seconde Action (`.github/workflows/scan-index.yml`, chaque nuit après le catalogue,
 et à la demande avec un choix de licences et un temps maximal) le construit avec `scripts/scan-index.mjs` :
 
 - pour chaque carte connue de sa source (TCGdex, Scryfall, YGOPRODeck, Lorcast, punk-records, Riftcodex, et `cards/` pour
-  Dragon Ball, Digimon, Palworld), l'image est téléchargée une fois et réduite à une empreinte de 512 bits
+  Dragon Ball, Digimon, Palworld), l'image est téléchargée une fois et réduite à une **empreinte** de 512 bits
   (`scripts/scan/fingerprint.mjs`, copie conforme du calcul de l'app, vérifiée au démarrage par `scripts/scan/vector.json`) ;
-- **incrémental** : les empreintes déjà publiées sont reprises, seules les nouvelles images sont traitées, les plus récentes
-  d'abord. La première construction complète prend plusieurs nuits (environ 300 000 images, dont 100 000 pour Magic) ;
-- publié sur la branche **`scan`**, remplacée à chaque passe (une seule version, pas d'historique qui grossit).
+- la **fiche** de la carte (champs bruts de la source : nom, numéro, rareté, variantes…, **sans les cotes**) est publiée avec :
+  l'app l'affiche aussitôt, sans attendre la source, en la convertissant avec les mêmes fonctions que pour un pack
+  téléchargé (identifiants de cartes identiques). Les cotes restent demandées à la source, à la demande ;
+- **incrémental** : empreintes et fiches déjà publiées sont reprises, seules les nouvelles cartes sont traitées, les plus
+  récentes d'abord. La première construction complète prend plusieurs nuits (environ 300 000 images, dont 100 000 pour Magic) ;
+- publié sur la branche **`scan`**, remplacée à chaque passe (pas d'historique qui grossit), en deux commits :
+  les données, puis `index.json` qui indique ce commit. L'app lit `index.json` sur GitHub (toujours à jour) et les données
+  sur **jsDelivr** à l'adresse immuable de ce commit (cache CDN permanent), avec GitHub en secours.
 
-On ne publie ni les images ni les fiches des cartes : seulement l'adresse de l'image, une clé pour retrouver la carte
-à sa source, et l'empreinte, dont on ne peut pas reconstituer l'image.
+On ne publie pas les images : seulement leur adresse.
 
 ```
-index.json                 { fp, updatedAt, files: { "pokemon-fr": { game, lang, count, total, bytes, version } } }
-<licence>-<langue>.json    { fp, game, lang, keys: [...], imgs: [...] }
-<licence>-<langue>.bin     n × 64 octets : carte entière (8 × uint32 LE), puis illustration (8 × uint32 LE)
-state/                     listes complètes et images en échec, pour la passe suivante
+index.json                                 { fp, fmt, updatedAt, commit, files: { "pokemon-fr": { game, lang, count, total, records, bytes, parts } } }
+<licence>-<langue>.<n>.<empreinte>.json    { fp, fmt, game, lang, sets: [...], keys: [...], imgs: [...], cards: [...] }
+<licence>-<langue>.<n>.<empreinte>.bin     n × 64 octets : carte entière (8 × uint32 LE), puis illustration (8 × uint32 LE)
+state/                                     listes complètes et images en échec, pour la passe suivante
 ```
+
+Un fichier contient au plus 20 000 cartes (limite de jsDelivr) et son nom change avec son contenu.
+Le sens de `keys[i]`, `cards[i]` et `sets` selon la licence est décrit en tête de `scripts/scan-index.mjs`.
 
 Fichiers : Pokémon dans les 15 langues TCGdex (français, anglais et japonais d'abord), One Piece (anglais, japonais,
 français), Magic, Yu-Gi-Oh!, Lorcana, Riftbound, Dragon Ball, Digimon, Palworld (anglais).
-Le sens de `keys[i]` selon la licence est décrit en tête de `scripts/scan-index.mjs`.
 
 Essai local, sans réseau : `SCAN_LIST_FILE=liste.json SCAN_OUT=/tmp/scan node scripts/scan-index.mjs`
-(après `npm i --no-save sharp`), avec une liste `[{ "game", "lang", "entries": [{ "key", "img" }] }]`.
+(après `npm i --no-save sharp`), avec une liste `[{ "game", "lang", "entries": [{ "key", "img", "set"?, "rec"? }] }]`.
 
 ## index.json
 

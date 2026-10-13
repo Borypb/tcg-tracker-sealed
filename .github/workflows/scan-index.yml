@@ -51,6 +51,13 @@ jobs:
           git init -q -b scan
           git config user.name "catalogue-bot"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          # 1. les données ; 2. index.json qui pointe vers ce commit : l'app lit les données
+          #    sur jsDelivr à cette adresse immuable (cache CDN permanent), et index.json frais sur GitHub
+          mv index.json ../index.json.new
           git add -A
+          git commit -qm "Index du scan $(date -u +%F) : données"
+          DATA=$(git rev-parse HEAD)
+          node -e 'const fs=require("fs");const i=JSON.parse(fs.readFileSync("../index.json.new","utf8"));i.commit=process.argv[1];fs.writeFileSync("index.json",JSON.stringify(i,null,1)+"\n")' "$DATA"
+          git add index.json
           git commit -qm "Index du scan $(date -u +%F)"
           git push -qf "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" scan

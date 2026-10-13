@@ -134,7 +134,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.6
+          "usd": 0.61
         }
       ]
     },
@@ -180,7 +180,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.24
+          "usd": 0.23
         }
       ]
     },
@@ -321,7 +321,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 129.92
+          "usd": 129.25
         }
       ]
     },
@@ -337,7 +337,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.64
+          "usd": 0.65
         }
       ]
     },
@@ -442,12 +442,7 @@
       "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/677457_200w.jpg",
       "url": "https://www.tcgplayer.com/product/677457/digimon-card-game-starter-deck-22-amethyst-mandala-advanced-deck-set-sakuyamon-maid-mode-regionals-26-27-season-1-champion",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 1000
-        }
-      ]
+      "prices": []
     }
   ],
   "pricesAt": "2026-10-13"

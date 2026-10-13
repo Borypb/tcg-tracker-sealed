@@ -1,0 +1,3457 @@
+{
+  "groupId": 24528,
+  "cards": [
+    {
+      "id": 662881,
+      "name": "Viktor, Leader",
+      "number": "246/298",
+      "rarity": "Promo",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662881_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662881/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-viktor-leader",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 16.45
+        }
+      ]
+    },
+    {
+      "id": 662882,
+      "name": "Jinx, Rebel",
+      "number": "202/298",
+      "rarity": "Promo",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662882_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662882/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-jinx-rebel",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 53.57
+        }
+      ]
+    },
+    {
+      "id": 662884,
+      "name": "Lee Sin, Ascetic",
+      "number": "078/298",
+      "rarity": "Promo",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662884_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662884/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-lee-sin-ascetic",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 9.96
+        }
+      ]
+    },
+    {
+      "id": 662885,
+      "name": "Sett, The Boss",
+      "number": "269/298",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662885_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662885/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-sett-the-boss",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 12.8
+        }
+      ]
+    },
+    {
+      "id": 662886,
+      "name": "Teemo, Swift Scout",
+      "number": "263/298",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662886_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662886/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-teemo-swift-scout",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 56.08
+        }
+      ]
+    },
+    {
+      "id": 662887,
+      "name": "Miss Fortune, Bounty Hunter",
+      "number": "267/298",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662887_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662887/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-miss-fortune-bounty-hunter",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 36.87
+        }
+      ]
+    },
+    {
+      "id": 662888,
+      "name": "Viktor, Herald of the Arcane",
+      "number": "265/298",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662888_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662888/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-viktor-herald-of-the-arcane",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 25.89
+        }
+      ]
+    },
+    {
+      "id": 662889,
+      "name": "Leona, Radiant Dawn",
+      "number": "261/298",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662889_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662889/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-leona-radiant-dawn",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 25.94
+        }
+      ]
+    },
+    {
+      "id": 662890,
+      "name": "Yasuo, Unforgiven",
+      "number": "259/298",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662890_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662890/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-yasuo-unforgiven",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 26.33
+        }
+      ]
+    },
+    {
+      "id": 662891,
+      "name": "Ahri, Nine-Tailed Fox",
+      "number": "255/298",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662891_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662891/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-ahri-nine-tailed-fox",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 238.17
+        }
+      ]
+    },
+    {
+      "id": 662892,
+      "name": "Lee Sin, Blind Monk",
+      "number": "257/298",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662892_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662892/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-lee-sin-blind-monk",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 18.84
+        }
+      ]
+    },
+    {
+      "id": 662894,
+      "name": "Jinx, Loose Cannon",
+      "number": "251/298",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662894_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662894/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-jinx-loose-cannon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 62.01
+        }
+      ]
+    },
+    {
+      "id": 662895,
+      "name": "Darius, Hand of Noxus",
+      "number": "253/298",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662895_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662895/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-darius-hand-of-noxus",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 19.57
+        }
+      ]
+    },
+    {
+      "id": 662896,
+      "name": "Kai'Sa, Daughter of the Void",
+      "number": "247/298",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662896_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662896/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-kaisa-daughter-of-the-void",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 48.29
+        }
+      ]
+    },
+    {
+      "id": 662897,
+      "name": "Volibear, Relentless Storm",
+      "number": "249/298",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662897_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662897/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-volibear-relentless-storm",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 10.9
+        }
+      ]
+    },
+    {
+      "id": 662898,
+      "name": "Teemo, Scout",
+      "label": "GG EZ",
+      "number": "197b/298",
+      "rarity": "Promo",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662898_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662898/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-teemo-scout-gg-ez",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1430.38
+        }
+      ]
+    },
+    {
+      "id": 662899,
+      "name": "Mind Rune",
+      "number": "089b/298",
+      "rarity": "Promo",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662899_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662899/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-mind-rune",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5.38
+        }
+      ]
+    },
+    {
+      "id": 662900,
+      "name": "Fury Rune",
+      "number": "007b/298",
+      "rarity": "Promo",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662900_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662900/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-fury-rune",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.95
+        }
+      ]
+    },
+    {
+      "id": 662901,
+      "name": "Order Rune",
+      "number": "214b/298",
+      "rarity": "Promo",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662901_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662901/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-order-rune",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.58
+        }
+      ]
+    },
+    {
+      "id": 662902,
+      "name": "Calm Rune",
+      "number": "042b/298",
+      "rarity": "Promo",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662902_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662902/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-calm-rune",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.78
+        }
+      ]
+    },
+    {
+      "id": 662903,
+      "name": "Body Rune",
+      "number": "126b/298",
+      "rarity": "Promo",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662903_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662903/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-body-rune",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.04
+        }
+      ]
+    },
+    {
+      "id": 662904,
+      "name": "Chaos Rune",
+      "number": "166b/298",
+      "rarity": "Promo",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662904_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662904/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-chaos-rune",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.66
+        }
+      ]
+    },
+    {
+      "id": 662906,
+      "name": "Stacked Deck",
+      "number": "183/298",
+      "rarity": "Promo",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662906_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662906/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-stacked-deck",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.11
+        }
+      ]
+    },
+    {
+      "id": 662907,
+      "name": "Stalwart Poro",
+      "number": "052/298",
+      "rarity": "Promo",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662907_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662907/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-stalwart-poro",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.21
+        }
+      ]
+    },
+    {
+      "id": 662908,
+      "name": "Pouty Poro",
+      "number": "013/298",
+      "rarity": "Promo",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662908_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662908/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-pouty-poro",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.15
+        }
+      ]
+    },
+    {
+      "id": 662909,
+      "name": "Vengeance",
+      "number": "229/298",
+      "rarity": "Promo",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662909_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662909/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-vengeance",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.35
+        }
+      ]
+    },
+    {
+      "id": 662910,
+      "name": "Challenge",
+      "number": "128/298",
+      "rarity": "Promo",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662910_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662910/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-challenge",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.74
+        }
+      ]
+    },
+    {
+      "id": 662911,
+      "name": "Consult the Past",
+      "number": "083/298",
+      "rarity": "Promo",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662911_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662911/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-consult-the-past",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.54
+        }
+      ]
+    },
+    {
+      "id": 662912,
+      "name": "Vanguard Captain",
+      "number": "218/298",
+      "rarity": "Promo",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662912_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662912/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-vanguard-captain",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.44
+        }
+      ]
+    },
+    {
+      "id": 662913,
+      "name": "Pakaa Cub",
+      "number": "135/298",
+      "rarity": "Promo",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662913_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662913/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-pakaa-cub",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.31
+        }
+      ]
+    },
+    {
+      "id": 662914,
+      "name": "Blazing Scorcher",
+      "number": "001/298",
+      "rarity": "Promo",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662914_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662914/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-blazing-scorcher",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.31
+        }
+      ]
+    },
+    {
+      "id": 662915,
+      "name": "Stormclaw Ursine",
+      "number": "137/298",
+      "rarity": "Promo",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662915_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662915/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-stormclaw-ursine",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.23
+        }
+      ]
+    },
+    {
+      "id": 662916,
+      "name": "Riptide Rex",
+      "number": "092/298",
+      "rarity": "Promo",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662916_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662916/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-riptide-rex",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.32
+        }
+      ]
+    },
+    {
+      "id": 662917,
+      "name": "Daring Poro",
+      "number": "210/298",
+      "rarity": "Promo",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662917_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662917/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-daring-poro",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.94
+        }
+      ]
+    },
+    {
+      "id": 662918,
+      "name": "Stealthy Pursuer",
+      "number": "177/298",
+      "rarity": "Promo",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662918_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662918/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-stealthy-pursuer",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.24
+        }
+      ]
+    },
+    {
+      "id": 662919,
+      "name": "Wielder of Water",
+      "number": "055/298",
+      "rarity": "Promo",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662919_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662919/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-wielder-of-water",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.26
+        }
+      ]
+    },
+    {
+      "id": 662920,
+      "name": "Mystic Poro",
+      "number": "171/298",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662920_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662920/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-mystic-poro",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1
+        }
+      ]
+    },
+    {
+      "id": 662921,
+      "name": "Discipline",
+      "number": "058/298",
+      "rarity": "Promo",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662921_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662921/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-discipline",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.55
+        }
+      ]
+    },
+    {
+      "id": 662922,
+      "name": "Void Seeker",
+      "number": "024/298",
+      "rarity": "Promo",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662922_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662922/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-void-seeker",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.57
+        }
+      ]
+    },
+    {
+      "id": 662923,
+      "name": "Ravenbloom Student",
+      "number": "103/298",
+      "rarity": "Promo",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/662923_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/662923/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-ravenbloom-student",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.95
+        }
+      ]
+    },
+    {
+      "id": 668440,
+      "name": "Miss Fortune, Buccaneer",
+      "number": "193/298",
+      "rarity": "Promo",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/668440_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/668440/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-miss-fortune-buccaneer",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 259.32
+        }
+      ]
+    },
+    {
+      "id": 668441,
+      "name": "Tryndamere, Barbarian",
+      "number": "034/298",
+      "rarity": "Promo",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/668441_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/668441/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-tryndamere-barbarian",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.84
+        }
+      ]
+    },
+    {
+      "id": 668450,
+      "name": "Blitzcrank, Impassive",
+      "number": "067/298",
+      "rarity": "Promo",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/668450_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/668450/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-blitzcrank-impassive",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 8.42
+        }
+      ]
+    },
+    {
+      "id": 669250,
+      "name": "Kai'Sa, Daughter of the Void",
+      "label": "Metal · Best Of",
+      "number": "247/298",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/669250_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/669250/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-kaisa-daughter-of-the-void-metal-best-of",
+      "prices": []
+    },
+    {
+      "id": 669251,
+      "name": "Volibear, Relentless Storm",
+      "label": "Metal · Best Of",
+      "number": "249/298",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/669251_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/669251/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-volibear-relentless-storm-metal-best-of",
+      "prices": []
+    },
+    {
+      "id": 669252,
+      "name": "Jinx, Loose Cannon",
+      "label": "Metal · Best Of",
+      "number": "251/298",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/669252_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/669252/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-jinx-loose-cannon-metal-best-of",
+      "prices": []
+    },
+    {
+      "id": 669253,
+      "name": "Darius, Hand of Noxus",
+      "label": "Metal · Best Of",
+      "number": "253/298",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/669253_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/669253/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-darius-hand-of-noxus-metal-best-of",
+      "prices": []
+    },
+    {
+      "id": 669254,
+      "name": "Ahri, Nine-Tailed Fox",
+      "label": "Metal · Best Of",
+      "number": "255/298",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/669254_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/669254/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-ahri-nine-tailed-fox-metal-best-of",
+      "prices": []
+    },
+    {
+      "id": 669256,
+      "name": "Lee Sin, Blind Monk",
+      "label": "Metal · Best Of",
+      "number": "257/298",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/669256_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/669256/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-lee-sin-blind-monk-metal-best-of",
+      "prices": []
+    },
+    {
+      "id": 669257,
+      "name": "Yasuo, Unforgiven",
+      "label": "Metal · Best Of",
+      "number": "259/298",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/669257_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/669257/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-yasuo-unforgiven-metal-best-of",
+      "prices": []
+    },
+    {
+      "id": 669258,
+      "name": "Leona, Radiant Dawn",
+      "label": "Metal · Best Of",
+      "number": "261/298",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/669258_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/669258/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-leona-radiant-dawn-metal-best-of",
+      "prices": []
+    },
+    {
+      "id": 669259,
+      "name": "Teemo, Swift Scout",
+      "label": "Metal · Best Of",
+      "number": "263/298",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/669259_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/669259/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-teemo-swift-scout-metal-best-of",
+      "prices": []
+    },
+    {
+      "id": 669260,
+      "name": "Viktor, Herald of the Arcane",
+      "label": "Metal · Best Of",
+      "number": "265/298",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/669260_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/669260/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-viktor-herald-of-the-arcane-metal-best-of",
+      "prices": []
+    },
+    {
+      "id": 669261,
+      "name": "Miss Fortune, Bounty Hunter",
+      "label": "Metal · Best Of",
+      "number": "267/298",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/669261_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/669261/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-miss-fortune-bounty-hunter-metal-best-of",
+      "prices": []
+    },
+    {
+      "id": 669263,
+      "name": "Sett, The Boss",
+      "label": "Metal · Best Of",
+      "number": "269/298",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/669263_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/669263/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-sett-the-boss-metal-best-of",
+      "prices": []
+    },
+    {
+      "id": 669265,
+      "name": "Annie, Dark Child",
+      "label": "Metal · Best Of",
+      "number": "017/024",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/669265_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/669265/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-annie-dark-child-metal-best-of",
+      "prices": []
+    },
+    {
+      "id": 669266,
+      "name": "Master Yi, Wuju Bladesman",
+      "label": "Metal · Best Of",
+      "number": "019/024",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/669266_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/669266/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-master-yi-wuju-bladesman-metal-best-of",
+      "prices": []
+    },
+    {
+      "id": 669267,
+      "name": "Lux, Lady of Luminosity",
+      "label": "Metal · Best Of",
+      "number": "021/024",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/669267_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/669267/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-lux-lady-of-luminosity-metal-best-of",
+      "prices": []
+    },
+    {
+      "id": 669268,
+      "name": "Garen, Might of Demacia",
+      "label": "Metal · Best Of",
+      "number": "023/024",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/669268_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/669268/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-garen-might-of-demacia-metal-best-of",
+      "prices": []
+    },
+    {
+      "id": 678194,
+      "name": "Yone, Blademaster",
+      "number": "116/221",
+      "rarity": "Promo",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/678194_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/678194/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-yone-blademaster",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1.86
+        }
+      ]
+    },
+    {
+      "id": 680247,
+      "name": "Annie, Dark Child",
+      "number": "017/024",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680247_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680247/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-annie-dark-child",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 35.74
+        }
+      ]
+    },
+    {
+      "id": 680254,
+      "name": "Tibbers",
+      "number": "018/024",
+      "rarity": "Promo",
+      "type": "Signature Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680254_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680254/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-tibbers",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5.5
+        }
+      ]
+    },
+    {
+      "id": 680257,
+      "name": "Master Yi, Wuju Bladesman",
+      "number": "019/024",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680257_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680257/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-master-yi-wuju-bladesman",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 39.53
+        }
+      ]
+    },
+    {
+      "id": 680260,
+      "name": "Highlander",
+      "number": "020/024",
+      "rarity": "Promo",
+      "type": "Signature Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680260_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680260/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-highlander",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.79
+        }
+      ]
+    },
+    {
+      "id": 680262,
+      "name": "Lux, Lady of Luminosity",
+      "number": "021/024",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680262_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680262/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-lux-lady-of-luminosity",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 44.19
+        }
+      ]
+    },
+    {
+      "id": 680263,
+      "name": "Final Spark",
+      "number": "022/024",
+      "rarity": "Promo",
+      "type": "Signature Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680263_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680263/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-final-spark",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.3
+        }
+      ]
+    },
+    {
+      "id": 680266,
+      "name": "Garen, Might of Demacia",
+      "number": "023/024",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680266_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680266/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-garen-might-of-demacia",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 6.13
+        }
+      ]
+    },
+    {
+      "id": 680270,
+      "name": "Decisive Strike",
+      "number": "024/024",
+      "rarity": "Promo",
+      "type": "Signature Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680270_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680270/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-decisive-strike",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.86
+        }
+      ]
+    },
+    {
+      "id": 680282,
+      "name": "Blast Corps Cadet",
+      "number": "013/221",
+      "rarity": "Promo",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680282_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680282/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-blast-corps-cadet",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.29
+        }
+      ]
+    },
+    {
+      "id": 680286,
+      "name": "Gem Jammer",
+      "number": "007/221",
+      "rarity": "Promo",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680286_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680286/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-gem-jammer",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.39
+        }
+      ]
+    },
+    {
+      "id": 680296,
+      "name": "Annie, Fiery",
+      "number": "001/024",
+      "rarity": "Promo",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680296_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680296/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-annie-fiery",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 25.34
+        }
+      ]
+    },
+    {
+      "id": 680301,
+      "name": "Serrated Dirk",
+      "number": "009/221",
+      "rarity": "Promo",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680301_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680301/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-serrated-dirk",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.21
+        }
+      ]
+    },
+    {
+      "id": 680311,
+      "name": "Navori Scout",
+      "number": "037/221",
+      "rarity": "Promo",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680311_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680311/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-navori-scout",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.32
+        }
+      ]
+    },
+    {
+      "id": 680319,
+      "name": "Stellacorn Herder",
+      "number": "048/221",
+      "rarity": "Promo",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680319_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680319/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-stellacorn-herder",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5.12
+        }
+      ]
+    },
+    {
+      "id": 680323,
+      "name": "Master Yi, Meditative",
+      "number": "004/024",
+      "rarity": "Promo",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680323_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680323/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-master-yi-meditative",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.38
+        }
+      ]
+    },
+    {
+      "id": 680326,
+      "name": "Doran's Shield",
+      "number": "033/221",
+      "rarity": "Promo",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680326_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680326/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-dorans-shield",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.45
+        }
+      ]
+    },
+    {
+      "id": 680334,
+      "name": "Frostcoat Cub",
+      "number": "067/221",
+      "rarity": "Promo",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680334_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680334/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-frostcoat-cub",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.26
+        }
+      ]
+    },
+    {
+      "id": 680336,
+      "name": "Production Surge",
+      "number": "076/221",
+      "rarity": "Promo",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680336_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680336/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-production-surge",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.36
+        }
+      ]
+    },
+    {
+      "id": 680339,
+      "name": "Lux, Illuminated",
+      "number": "006/024",
+      "rarity": "Promo",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680339_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680339/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-lux-illuminated",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 13.88
+        }
+      ]
+    },
+    {
+      "id": 680343,
+      "name": "Cloth Armor",
+      "number": "064/221",
+      "rarity": "Promo",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680343_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680343/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-cloth-armor",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.37
+        }
+      ]
+    },
+    {
+      "id": 680354,
+      "name": "Sea Monkey",
+      "number": "098/221",
+      "rarity": "Promo",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680354_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680354/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-sea-monkey",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.34
+        }
+      ]
+    },
+    {
+      "id": 680360,
+      "name": "Garen, Rugged",
+      "number": "007/024",
+      "rarity": "Promo",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680360_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680360/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-garen-rugged",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 6.36
+        }
+      ]
+    },
+    {
+      "id": 680367,
+      "name": "Fae Dragon",
+      "number": "101/221",
+      "rarity": "Promo",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680367_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680367/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-fae-dragon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.33
+        }
+      ]
+    },
+    {
+      "id": 680376,
+      "name": "Master Yi, Honed",
+      "number": "009/024",
+      "rarity": "Promo",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680376_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680376/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-master-yi-honed",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 9.73
+        }
+      ]
+    },
+    {
+      "id": 680380,
+      "name": "Doran's Blade",
+      "number": "095/221",
+      "rarity": "Promo",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680380_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680380/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-dorans-blade",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.38
+        }
+      ]
+    },
+    {
+      "id": 680406,
+      "name": "Treasure Hunter",
+      "number": "130/221",
+      "rarity": "Promo",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680406_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680406/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-treasure-hunter",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.2
+        }
+      ]
+    },
+    {
+      "id": 680411,
+      "name": "Harpoon Squad",
+      "number": "137/221",
+      "rarity": "Promo",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680411_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680411/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-harpoon-squad",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.28
+        }
+      ]
+    },
+    {
+      "id": 680416,
+      "name": "Annie, Stubborn",
+      "number": "010/024",
+      "rarity": "Promo",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680416_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680416/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-annie-stubborn",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 12.74
+        }
+      ]
+    },
+    {
+      "id": 680423,
+      "name": "Doran's Ring",
+      "number": "124/221",
+      "rarity": "Promo",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680423_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680423/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-dorans-ring",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.35
+        }
+      ]
+    },
+    {
+      "id": 680434,
+      "name": "Unsung Hero",
+      "number": "167/221",
+      "rarity": "Promo",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680434_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680434/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-unsung-hero",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.39
+        }
+      ]
+    },
+    {
+      "id": 680437,
+      "name": "Laurent Duelist",
+      "number": "156/221",
+      "rarity": "Promo",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680437_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680437/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-laurent-duelist",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.26
+        }
+      ]
+    },
+    {
+      "id": 680439,
+      "name": "Lux, Crownguard",
+      "number": "014/024",
+      "rarity": "Promo",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680439_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680439/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-lux-crownguard",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 42.73
+        }
+      ]
+    },
+    {
+      "id": 680441,
+      "name": "Garen, Commander",
+      "number": "013/024",
+      "rarity": "Promo",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680441_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680441/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-garen-commander",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.76
+        }
+      ]
+    },
+    {
+      "id": 680443,
+      "name": "Eye of the Herald",
+      "number": "153/221",
+      "rarity": "Promo",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/680443_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/680443/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-eye-of-the-herald",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.43
+        }
+      ]
+    },
+    {
+      "id": 682465,
+      "name": "Boneshiver",
+      "number": "118a/221",
+      "rarity": "Promo",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/682465_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/682465/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-boneshiver",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 46.94
+        }
+      ]
+    },
+    {
+      "id": 682995,
+      "name": "Renata Glasc, Chem-Baroness",
+      "label": "Metal · Best Of",
+      "number": "201/221",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/682995_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/682995/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-renata-glasc-chem-baroness-metal-best-of",
+      "prices": []
+    },
+    {
+      "id": 684753,
+      "name": "Azir, Emperor of the Sands",
+      "label": "Metal · Best Of",
+      "number": "197/221",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684753_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684753/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-azir-emperor-of-the-sands-metal-best-of",
+      "prices": []
+    },
+    {
+      "id": 684755,
+      "name": "Draven, Glorious Executioner",
+      "label": "Metal · Best Of",
+      "number": "185/221",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684755_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684755/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-draven-glorious-executioner-metal-best-of",
+      "prices": []
+    },
+    {
+      "id": 684756,
+      "name": "Ezreal, Prodigal Explorer",
+      "label": "Metal · Best Of",
+      "number": "199/221",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684756_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684756/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-ezreal-prodigal-explorer-metal-best-of",
+      "prices": []
+    },
+    {
+      "id": 684973,
+      "name": "Fiora, Grand Duelist",
+      "label": "Metal · Best Of",
+      "number": "205/221",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684973_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684973/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-fiora-grand-duelist-metal-best-of",
+      "prices": []
+    },
+    {
+      "id": 684986,
+      "name": "Irelia, Blade Dancer",
+      "label": "Metal · Best Of",
+      "number": "195/221",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684986_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684986/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-irelia-blade-dancer-metal-best-of",
+      "prices": []
+    },
+    {
+      "id": 684988,
+      "name": "Jax, Grandmaster At Arms",
+      "label": "Metal · Best Of",
+      "number": "193/221",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684988_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684988/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-jax-grandmaster-at-arms-metal-best-of",
+      "prices": []
+    },
+    {
+      "id": 684990,
+      "name": "Lucian, Purifier",
+      "label": "Metal · Best Of",
+      "number": "183/221",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684990_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684990/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-lucian-purifier-metal-best-of",
+      "prices": []
+    },
+    {
+      "id": 684992,
+      "name": "Ornn, Fire Below the Mountain",
+      "label": "Metal · Best Of",
+      "number": "189/221",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684992_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684992/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-ornn-fire-below-the-mountain-metal-best-of",
+      "prices": []
+    },
+    {
+      "id": 684993,
+      "name": "Rek'sai, Void Burrower",
+      "label": "Metal · Best Of",
+      "number": "187/221",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684993_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684993/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-reksai-void-burrower-metal-best-of",
+      "prices": []
+    },
+    {
+      "id": 684996,
+      "name": "Rumble, Mechanized Menace",
+      "label": "Metal · Best Of",
+      "number": "181/221",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684996_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684996/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-rumble-mechanized-menace-metal-best-of",
+      "prices": []
+    },
+    {
+      "id": 684997,
+      "name": "Sivir, Battle Mistress",
+      "label": "Metal · Best Of",
+      "number": "203/221",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684997_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684997/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-sivir-battle-mistress-metal-best-of",
+      "prices": []
+    },
+    {
+      "id": 684999,
+      "name": "Edge of Night",
+      "label": "Champion",
+      "number": "139/221",
+      "rarity": "Promo",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684999_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684999/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-edge-of-night-champion",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 97.32
+        }
+      ]
+    },
+    {
+      "id": 685001,
+      "name": "Edge of Night",
+      "label": "Top 8",
+      "number": "139/221",
+      "rarity": "Promo",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685001_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685001/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-edge-of-night-top-8",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.4
+        }
+      ]
+    },
+    {
+      "id": 685261,
+      "name": "Guardian Angel",
+      "label": "Top 8",
+      "number": "051/221",
+      "rarity": "Promo",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685261_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685261/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-guardian-angel-top-8",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.45
+        }
+      ]
+    },
+    {
+      "id": 685263,
+      "name": "Guardian Angel",
+      "label": "Champion",
+      "number": "051/221",
+      "rarity": "Promo",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685263_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685263/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-guardian-angel-champion",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 109.21
+        }
+      ]
+    },
+    {
+      "id": 685264,
+      "name": "Long Sword",
+      "label": "Top 8",
+      "number": "022/221",
+      "rarity": "Promo",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685264_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685264/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-long-sword-top-8",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.09
+        }
+      ]
+    },
+    {
+      "id": 685265,
+      "name": "World Atlas",
+      "number": "086/221",
+      "rarity": "Promo",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685265_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685265/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-world-atlas",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.33
+        }
+      ]
+    },
+    {
+      "id": 689166,
+      "name": "Kai'Sa, Daughter of the Void",
+      "label": "Metal · Prize Wall",
+      "number": "247/298",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/689166_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/689166/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-kaisa-daughter-of-the-void-metal-prize-wall",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2739.2
+        }
+      ]
+    },
+    {
+      "id": 689167,
+      "name": "Volibear, Relentless Storm",
+      "label": "Metal · Prize Wall",
+      "number": "249/298",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/689167_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/689167/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-volibear-relentless-storm-metal-prize-wall",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1283.31
+        }
+      ]
+    },
+    {
+      "id": 689168,
+      "name": "Jinx, Loose Cannon",
+      "label": "Metal · Prize Wall",
+      "number": "251/298",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/689168_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/689168/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-jinx-loose-cannon-metal-prize-wall",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2743.74
+        }
+      ]
+    },
+    {
+      "id": 689169,
+      "name": "Darius, Hand of Noxus",
+      "label": "Metal · Prize Wall",
+      "number": "253/298",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/689169_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/689169/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-darius-hand-of-noxus-metal-prize-wall",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1199.99
+        }
+      ]
+    },
+    {
+      "id": 689170,
+      "name": "Ahri, Nine-Tailed Fox",
+      "label": "Metal · Prize Wall",
+      "number": "255/298",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/689170_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/689170/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-ahri-nine-tailed-fox-metal-prize-wall",
+      "prices": []
+    },
+    {
+      "id": 689171,
+      "name": "Lee Sin, Blind Monk",
+      "label": "Metal · Prize Wall",
+      "number": "257/298",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/689171_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/689171/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-lee-sin-blind-monk-metal-prize-wall",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1024.98
+        }
+      ]
+    },
+    {
+      "id": 689172,
+      "name": "Yasuo, Unforgiven",
+      "label": "Metal · Prize Wall",
+      "number": "259/298",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/689172_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/689172/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-yasuo-unforgiven-metal-prize-wall",
+      "prices": []
+    },
+    {
+      "id": 689173,
+      "name": "Leona, Radiant Dawn",
+      "label": "Metal · Prize Wall",
+      "number": "261/298",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/689173_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/689173/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-leona-radiant-dawn-metal-prize-wall",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1499.99
+        }
+      ]
+    },
+    {
+      "id": 689174,
+      "name": "Teemo, Swift Scout",
+      "label": "Metal · Prize Wall",
+      "number": "263/298",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/689174_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/689174/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-teemo-swift-scout-metal-prize-wall",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4400
+        }
+      ]
+    },
+    {
+      "id": 689175,
+      "name": "Viktor, Herald of the Arcane",
+      "label": "Metal · Prize Wall",
+      "number": "265/298",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/689175_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/689175/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-viktor-herald-of-the-arcane-metal-prize-wall",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1750
+        }
+      ]
+    },
+    {
+      "id": 689176,
+      "name": "Miss Fortune, Bounty Hunter",
+      "label": "Metal · Prize Wall",
+      "number": "267/298",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/689176_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/689176/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-miss-fortune-bounty-hunter-metal-prize-wall",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1999
+        }
+      ]
+    },
+    {
+      "id": 689177,
+      "name": "Sett, The Boss",
+      "label": "Metal · Prize Wall",
+      "number": "269/298",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/689177_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/689177/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-sett-the-boss-metal-prize-wall",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1600.16
+        }
+      ]
+    },
+    {
+      "id": 689178,
+      "name": "Annie, Dark Child",
+      "label": "Metal · Prize Wall",
+      "number": "017/024",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/689178_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/689178/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-annie-dark-child-metal-prize-wall",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2706.16
+        }
+      ]
+    },
+    {
+      "id": 689179,
+      "name": "Master Yi, Wuju Bladesman",
+      "label": "Metal · Prize Wall",
+      "number": "019/024",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/689179_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/689179/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-master-yi-wuju-bladesman-metal-prize-wall",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2222.91
+        }
+      ]
+    },
+    {
+      "id": 689180,
+      "name": "Lux, Lady of Luminosity",
+      "label": "Metal · Prize Wall",
+      "number": "021/024",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/689180_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/689180/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-lux-lady-of-luminosity-metal-prize-wall",
+      "prices": []
+    },
+    {
+      "id": 689181,
+      "name": "Garen, Might of Demacia",
+      "label": "Metal · Prize Wall",
+      "number": "023/024",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/689181_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/689181/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-garen-might-of-demacia-metal-prize-wall",
+      "prices": []
+    },
+    {
+      "id": 689182,
+      "name": "Renata Glasc, Chem-Baroness",
+      "label": "Metal · Prize Wall",
+      "number": "201/221",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/689182_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/689182/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-renata-glasc-chem-baroness-metal-prize-wall",
+      "prices": []
+    },
+    {
+      "id": 689183,
+      "name": "Azir, Emperor of the Sands",
+      "label": "Metal · Prize Wall",
+      "number": "197/221",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/689183_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/689183/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-azir-emperor-of-the-sands-metal-prize-wall",
+      "prices": []
+    },
+    {
+      "id": 689184,
+      "name": "Draven, Glorious Executioner",
+      "label": "Metal · Prize Wall",
+      "number": "185/221",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/689184_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/689184/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-draven-glorious-executioner-metal-prize-wall",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2200
+        }
+      ]
+    },
+    {
+      "id": 689185,
+      "name": "Ezreal, Prodigal Explorer",
+      "label": "Metal · Prize Wall",
+      "number": "199/221",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/689185_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/689185/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-ezreal-prodigal-explorer-metal-prize-wall",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3499.99
+        }
+      ]
+    },
+    {
+      "id": 689186,
+      "name": "Fiora, Grand Duelist",
+      "label": "Metal · Prize Wall",
+      "number": "205/221",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/689186_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/689186/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-fiora-grand-duelist-metal-prize-wall",
+      "prices": []
+    },
+    {
+      "id": 689187,
+      "name": "Irelia, Blade Dancer",
+      "label": "Metal · Prize Wall",
+      "number": "195/221",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/689187_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/689187/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-irelia-blade-dancer-metal-prize-wall",
+      "prices": []
+    },
+    {
+      "id": 689188,
+      "name": "Jax, Grandmaster At Arms",
+      "label": "Metal · Prize Wall",
+      "number": "193/221",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/689188_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/689188/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-jax-grandmaster-at-arms-metal-prize-wall",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1462.49
+        }
+      ]
+    },
+    {
+      "id": 689189,
+      "name": "Lucian, Purifier",
+      "label": "Metal · Prize Wall",
+      "number": "183/221",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/689189_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/689189/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-lucian-purifier-metal-prize-wall",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1348.75
+        }
+      ]
+    },
+    {
+      "id": 689190,
+      "name": "Ornn, Fire Below the Mountain",
+      "label": "Metal · Prize Wall",
+      "number": "189/221",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/689190_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/689190/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-ornn-fire-below-the-mountain-metal-prize-wall",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2500
+        }
+      ]
+    },
+    {
+      "id": 689191,
+      "name": "Rek'sai, Void Burrower",
+      "label": "Metal · Prize Wall",
+      "number": "187/221",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/689191_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/689191/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-reksai-void-burrower-metal-prize-wall",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1049.75
+        }
+      ]
+    },
+    {
+      "id": 689192,
+      "name": "Rumble, Mechanized Menace",
+      "label": "Metal · Prize Wall",
+      "number": "181/221",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/689192_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/689192/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-rumble-mechanized-menace-metal-prize-wall",
+      "prices": []
+    },
+    {
+      "id": 689193,
+      "name": "Sivir, Battle Mistress",
+      "label": "Metal · Prize Wall",
+      "number": "203/221",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/689193_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/689193/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-sivir-battle-mistress-metal-prize-wall",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1499.98
+        }
+      ]
+    },
+    {
+      "id": 692371,
+      "name": "Flash",
+      "number": "011/024",
+      "rarity": "Promo",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/692371_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/692371/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-flash",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2.08
+        }
+      ]
+    },
+    {
+      "id": 692931,
+      "name": "Ashe, Focused",
+      "number": "169/219",
+      "rarity": "Promo",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/692931_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/692931/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-ashe-focused",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.42
+        }
+      ]
+    },
+    {
+      "id": 693156,
+      "name": "Lee Sin, Centered",
+      "number": "151b/298",
+      "rarity": "Rare",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/693156_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/693156/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-lee-sin-centered",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 46.6
+        }
+      ]
+    },
+    {
+      "id": 694605,
+      "name": "Arena Kingpin",
+      "number": "001/219",
+      "rarity": "Promo",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/694605_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/694605/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-arena-kingpin",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.38
+        }
+      ]
+    },
+    {
+      "id": 694606,
+      "name": "Upstage Comedy",
+      "number": "009/219",
+      "rarity": "Promo",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/694606_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/694606/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-upstage-comedy",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.34
+        }
+      ]
+    },
+    {
+      "id": 694607,
+      "name": "Scorchclaw",
+      "number": "016/219",
+      "rarity": "Promo",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/694607_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/694607/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-scorchclaw",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.28
+        }
+      ]
+    },
+    {
+      "id": 694608,
+      "name": "Downstage Dramatics",
+      "number": "061/219",
+      "rarity": "Promo",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/694608_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/694608/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-downstage-dramatics",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.39
+        }
+      ]
+    },
+    {
+      "id": 694609,
+      "name": "Icevale Archer",
+      "number": "065/219",
+      "rarity": "Promo",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/694609_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/694609/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-icevale-archer",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.37
+        }
+      ]
+    },
+    {
+      "id": 694610,
+      "name": "Gustwalker",
+      "number": "075/219",
+      "rarity": "Promo",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/694610_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/694610/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-gustwalker",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.3
+        }
+      ]
+    },
+    {
+      "id": 694611,
+      "name": "Lunar Boon",
+      "number": "125/219",
+      "rarity": "Promo",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/694611_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/694611/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-lunar-boon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.37
+        }
+      ]
+    },
+    {
+      "id": 694612,
+      "name": "Mister Root",
+      "number": "127/219",
+      "rarity": "Promo",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/694612_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/694612/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-mister-root",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.58
+        }
+      ]
+    },
+    {
+      "id": 694613,
+      "name": "Sinister Poro",
+      "number": "137/219",
+      "rarity": "Promo",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/694613_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/694613/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-sinister-poro",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.7
+        }
+      ]
+    },
+    {
+      "id": 694614,
+      "name": "Soul Sword",
+      "number": "039/219",
+      "rarity": "Promo",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/694614_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/694614/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-soul-sword",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.47
+        }
+      ]
+    },
+    {
+      "id": 694615,
+      "name": "Mutated Mouser",
+      "number": "036/219",
+      "rarity": "Promo",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/694615_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/694615/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-mutated-mouser",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.67
+        }
+      ]
+    },
+    {
+      "id": 694616,
+      "name": "Mosstomper",
+      "number": "047/219",
+      "rarity": "Promo",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/694616_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/694616/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-mosstomper",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.25
+        }
+      ]
+    },
+    {
+      "id": 694617,
+      "name": "Dragonsoul Sage",
+      "number": "093/219",
+      "rarity": "Promo",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/694617_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/694617/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-dragonsoul-sage",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.42
+        }
+      ]
+    },
+    {
+      "id": 694618,
+      "name": "Voracious Gromp",
+      "number": "100/219",
+      "rarity": "Promo",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/694618_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/694618/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-voracious-gromp",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.28
+        }
+      ]
+    },
+    {
+      "id": 694619,
+      "name": "Stare Down",
+      "number": "107/219",
+      "rarity": "Promo",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/694619_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/694619/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-stare-down",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.32
+        }
+      ]
+    },
+    {
+      "id": 694620,
+      "name": "Loyal Poro",
+      "number": "156/219",
+      "rarity": "Promo",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/694620_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/694620/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-loyal-poro",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1
+        }
+      ]
+    },
+    {
+      "id": 694621,
+      "name": "Ultrasoft Poro",
+      "number": "160/219",
+      "rarity": "Promo",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/694621_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/694621/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-ultrasoft-poro",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.32
+        }
+      ]
+    },
+    {
+      "id": 694622,
+      "name": "Undying Loyalty",
+      "number": "168/219",
+      "rarity": "Promo",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/694622_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/694622/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-undying-loyalty",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.22
+        }
+      ]
+    },
+    {
+      "id": 696689,
+      "name": "Diana, Scorn of the Moon",
+      "label": "Metal · Prize Wall",
+      "number": "197/219",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/696689_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/696689/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-diana-scorn-of-the-moon-metal-prize-wall",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1899.99
+        }
+      ]
+    },
+    {
+      "id": 696690,
+      "name": "Ivern, Green Father",
+      "label": "Metal · Prize Wall",
+      "number": "195/219",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/696690_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/696690/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-ivern-green-father-metal-prize-wall",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1950
+        }
+      ]
+    },
+    {
+      "id": 696691,
+      "name": "Jhin, Virtuoso",
+      "label": "Metal · Prize Wall",
+      "number": "181/219",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/696691_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/696691/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-jhin-virtuoso-metal-prize-wall",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1300
+        }
+      ]
+    },
+    {
+      "id": 696692,
+      "name": "Kha'Zix, Voidreaver",
+      "label": "Metal · Prize Wall",
+      "number": "201/219",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/696692_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/696692/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-khazix-voidreaver-metal-prize-wall",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2200
+        }
+      ]
+    },
+    {
+      "id": 696693,
+      "name": "LeBlanc, Deceiver",
+      "label": "Metal · Prize Wall",
+      "number": "199/219",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/696693_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/696693/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-leblanc-deceiver-metal-prize-wall",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2400
+        }
+      ]
+    },
+    {
+      "id": 696694,
+      "name": "Lillia, Bashful Bloom",
+      "label": "Metal · Prize Wall",
+      "number": "189/219",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/696694_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/696694/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-lillia-bashful-bloom-metal-prize-wall",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1450
+        }
+      ]
+    },
+    {
+      "id": 696695,
+      "name": "Master Yi, Wuju Master",
+      "label": "Metal · Prize Wall",
+      "number": "191/219",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/696695_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/696695/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-master-yi-wuju-master-metal-prize-wall",
+      "prices": []
+    },
+    {
+      "id": 696696,
+      "name": "Poppy, Keeper of the Hammer",
+      "label": "Metal · Prize Wall",
+      "number": "203/219",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/696696_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/696696/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-poppy-keeper-of-the-hammer-metal-prize-wall",
+      "prices": []
+    },
+    {
+      "id": 696697,
+      "name": "Pyke, Bloodharbor Ripper",
+      "label": "Metal · Prize Wall",
+      "number": "185/219",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/696697_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/696697/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-pyke-bloodharbor-ripper-metal-prize-wall",
+      "prices": []
+    },
+    {
+      "id": 696698,
+      "name": "Rengar, Pridestalker",
+      "label": "Metal · Prize Wall",
+      "number": "183/219",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/696698_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/696698/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-rengar-pridestalker-metal-prize-wall",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1275
+        }
+      ]
+    },
+    {
+      "id": 696700,
+      "name": "Vex, Gloomist",
+      "label": "Metal · Prize Wall",
+      "number": "193/219",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/696700_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/696700/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-vex-gloomist-metal-prize-wall",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 1600
+        }
+      ]
+    },
+    {
+      "id": 696701,
+      "name": "Vi, Piltover Enforcer",
+      "label": "Metal · Prize Wall",
+      "number": "187/219",
+      "rarity": "Promo",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/696701_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/696701/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-vi-piltover-enforcer-metal-prize-wall",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4000
+        }
+      ]
+    },
+    {
+      "id": 696702,
+      "name": "Poppy, Defender of the Meek",
+      "number": "178/219",
+      "rarity": "Promo",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/696702_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/696702/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-poppy-defender-of-the-meek",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 30.78
+        }
+      ]
+    },
+    {
+      "id": 696822,
+      "name": "Yuumi, Magical Cat",
+      "number": "056/219",
+      "rarity": "Promo",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/696822_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/696822/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-yuumi-magical-cat",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.81
+        }
+      ]
+    },
+    {
+      "id": 696823,
+      "name": "Rengar, Trophy Hunter",
+      "number": "120/219",
+      "rarity": "Promo",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/696823_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/696823/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-rengar-trophy-hunter",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 35.31
+        }
+      ]
+    },
+    {
+      "id": 696824,
+      "name": "Rengar, Trophy Hunter",
+      "label": "Champion",
+      "number": "120/219",
+      "rarity": "Promo",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/696824_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/696824/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-rengar-trophy-hunter-champion",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 146.43
+        }
+      ]
+    },
+    {
+      "id": 697492,
+      "name": "Order Rune",
+      "label": "R06c",
+      "number": "R06c",
+      "rarity": "Promo",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/697492_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/697492/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-order-rune-r06c",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 19.89
+        }
+      ]
+    },
+    {
+      "id": 697493,
+      "name": "Chaos Rune",
+      "label": "R05c",
+      "number": "R05c",
+      "rarity": "Promo",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/697493_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/697493/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-chaos-rune-r05c",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 19.95
+        }
+      ]
+    },
+    {
+      "id": 697495,
+      "name": "Body Rune",
+      "label": "R04c",
+      "number": "R04c",
+      "rarity": "Promo",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/697495_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/697495/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-body-rune-r04c",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 20.15
+        }
+      ]
+    },
+    {
+      "id": 697496,
+      "name": "Mind Rune",
+      "label": "R03c",
+      "number": "R03c",
+      "rarity": "Promo",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/697496_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/697496/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-mind-rune-r03c",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 18.87
+        }
+      ]
+    },
+    {
+      "id": 697497,
+      "name": "Calm Rune",
+      "label": "R02c",
+      "number": "R02c",
+      "rarity": "Promo",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/697497_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/697497/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-calm-rune-r02c",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 18.88
+        }
+      ]
+    },
+    {
+      "id": 697499,
+      "name": "Fury Rune",
+      "label": "R01c",
+      "number": "R01c",
+      "rarity": "Promo",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/697499_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/697499/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-fury-rune-r01c",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 19.02
+        }
+      ]
+    },
+    {
+      "id": 701526,
+      "name": "Bird // Buff",
+      "number": "T02 // T03",
+      "rarity": "None",
+      "type": "Unit;Battlefield;Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/701526_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/701526/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-bird-buff",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 5.63
+        }
+      ]
+    },
+    {
+      "id": 704486,
+      "name": "Jayce, Man of Progress",
+      "number": "084/221",
+      "rarity": "Promo",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/704486_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/704486/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-jayce-man-of-progress",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 30.87
+        }
+      ]
+    },
+    {
+      "id": 705529,
+      "name": "Zilean, Time Mage",
+      "number": "086/219",
+      "rarity": "Promo",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705529_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705529/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-zilean-time-mage",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.87
+        }
+      ]
+    },
+    {
+      "id": 705530,
+      "name": "Lillia, Protector of Dreams",
+      "number": "058/219",
+      "rarity": "Promo",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705530_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705530/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-lillia-protector-of-dreams",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.96
+        }
+      ]
+    },
+    {
+      "id": 705531,
+      "name": "Lillia, Protector of Dreams",
+      "label": "Champion",
+      "number": "058/219",
+      "rarity": "Promo",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/705531_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/705531/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-lillia-protector-of-dreams-champion",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 144.23
+        }
+      ]
+    },
+    {
+      "id": 708201,
+      "name": "Riven, Shattered",
+      "number": "041/166",
+      "rarity": "Promo",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/708201_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/708201/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-riven-shattered",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.11
+        }
+      ]
+    },
+    {
+      "id": 709101,
+      "name": "Poppy, Defender of the Meek",
+      "label": "Alternate Art",
+      "number": "178a/219",
+      "rarity": "Promo",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/709101_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/709101/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-poppy-defender-of-the-meek-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 978.76
+        }
+      ]
+    },
+    {
+      "id": 709727,
+      "name": "Blade Twirler",
+      "number": "002/166",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/709727_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/709727/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-blade-twirler",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.64
+        }
+      ]
+    },
+    {
+      "id": 709728,
+      "name": "Dune Surfer",
+      "number": "004/166",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/709728_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/709728/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-dune-surfer",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.51
+        }
+      ]
+    },
+    {
+      "id": 709729,
+      "name": "Shadow Assassin",
+      "number": "013/166",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/709729_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/709729/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-shadow-assassin",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.51
+        }
+      ]
+    },
+    {
+      "id": 709730,
+      "name": "Field Musicians",
+      "number": "026/166",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/709730_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/709730/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-field-musicians",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.53
+        }
+      ]
+    },
+    {
+      "id": 709731,
+      "name": "Ol' Poro",
+      "number": "029/166",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/709731_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/709731/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-ol-poro",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.89
+        }
+      ]
+    },
+    {
+      "id": 709732,
+      "name": "Tomb-Raider Barbara",
+      "number": "037/166",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/709732_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/709732/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-tomb-raider-barbara",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.27
+        }
+      ]
+    },
+    {
+      "id": 709733,
+      "name": "Cloud Drake",
+      "number": "048/166",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/709733_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/709733/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-cloud-drake",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.29
+        }
+      ]
+    },
+    {
+      "id": 709734,
+      "name": "Grumpy Rockbear",
+      "number": "050/166",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/709734_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/709734/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-grumpy-rockbear",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.64
+        }
+      ]
+    },
+    {
+      "id": 709735,
+      "name": "Patched Porobot",
+      "number": "058/166",
+      "rarity": "Uncommon",
+      "type": "Unit;Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/709735_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/709735/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-patched-porobot",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.01
+        }
+      ]
+    },
+    {
+      "id": 709736,
+      "name": "Fretful Feline",
+      "number": "071/166",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/709736_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/709736/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-fretful-feline",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.23
+        }
+      ]
+    },
+    {
+      "id": 709737,
+      "name": "Repair Specialist",
+      "number": "076/166",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/709737_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/709737/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-repair-specialist",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.53
+        }
+      ]
+    },
+    {
+      "id": 709738,
+      "name": "Profiteer",
+      "number": "082/166",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/709738_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/709738/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-profiteer",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.76
+        }
+      ]
+    },
+    {
+      "id": 709739,
+      "name": "Spiderling",
+      "number": "097/166",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/709739_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/709739/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-spiderling",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.63
+        }
+      ]
+    },
+    {
+      "id": 709740,
+      "name": "Tornado Warrior",
+      "number": "099/166",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/709740_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/709740/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-tornado-warrior",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.6
+        }
+      ]
+    },
+    {
+      "id": 709741,
+      "name": "Gust Monk",
+      "number": "101/166",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/709741_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/709741/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-gust-monk",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.88
+        }
+      ]
+    },
+    {
+      "id": 709742,
+      "name": "Horns of the Dragon",
+      "number": "118/166",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/709742_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/709742/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-horns-of-the-dragon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.28
+        }
+      ]
+    },
+    {
+      "id": 709743,
+      "name": "Soulspinner",
+      "number": "123/166",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/709743_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/709743/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-soulspinner",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.52
+        }
+      ]
+    },
+    {
+      "id": 709744,
+      "name": "Hungry Wolf",
+      "number": "125/166",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/709744_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/709744/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-hungry-wolf",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.55
+        }
+      ]
+    },
+    {
+      "id": 709745,
+      "name": "Body Rune",
+      "label": "Vendetta",
+      "number": "R04b",
+      "rarity": "Common",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/709745_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/709745/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-body-rune-vendetta",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.28
+        }
+      ]
+    },
+    {
+      "id": 709746,
+      "name": "Calm Rune",
+      "label": "Vendetta",
+      "number": "R02b",
+      "rarity": "Common",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/709746_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/709746/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-calm-rune-vendetta",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 7.81
+        }
+      ]
+    },
+    {
+      "id": 709747,
+      "name": "Chaos Rune",
+      "label": "Vendetta",
+      "number": "R05b",
+      "rarity": "Common",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/709747_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/709747/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-chaos-rune-vendetta",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 14.66
+        }
+      ]
+    },
+    {
+      "id": 709748,
+      "name": "Fury Rune",
+      "label": "Vendetta",
+      "number": "R01b",
+      "rarity": "Common",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/709748_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/709748/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-fury-rune-vendetta",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 10.89
+        }
+      ]
+    },
+    {
+      "id": 709749,
+      "name": "Mind Rune",
+      "label": "Vendetta",
+      "number": "R03b",
+      "rarity": "Common",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/709749_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/709749/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-mind-rune-vendetta",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 12
+        }
+      ]
+    },
+    {
+      "id": 709750,
+      "name": "Order Rune",
+      "label": "Vendetta",
+      "number": "R06b",
+      "rarity": "Common",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/709750_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/709750/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-order-rune-vendetta",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5.26
+        }
+      ]
+    },
+    {
+      "id": 709987,
+      "name": "Mel, Newly Awakened",
+      "number": "069b/166",
+      "rarity": "Epic",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/709987_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/709987/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-mel-newly-awakened",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 156.99
+        }
+      ]
+    },
+    {
+      "id": 713479,
+      "name": "Kayle, Justified",
+      "label": "Top 8",
+      "number": "134/166",
+      "rarity": "Promo",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/713479_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/713479/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-kayle-justified-top-8",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2
+        }
+      ]
+    },
+    {
+      "id": 713480,
+      "name": "Kayle, Justified",
+      "label": "Champion",
+      "number": "134/166",
+      "rarity": "Promo",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/713480_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/713480/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-kayle-justified-champion",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 77.46
+        }
+      ]
+    },
+    {
+      "id": 713481,
+      "name": "Swain, Visionary",
+      "number": "065/166",
+      "rarity": "Promo",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/713481_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/713481/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-swain-visionary",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.74
+        }
+      ]
+    },
+    {
+      "id": 713482,
+      "name": "Morgana, Vindictive",
+      "number": "017/166",
+      "rarity": "Promo",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/713482_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/713482/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-morgana-vindictive",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.15
+        }
+      ]
+    },
+    {
+      "id": 713483,
+      "name": "Illaoi, Prophet of the Great Kraken",
+      "label": "Top 8",
+      "number": "109/166",
+      "rarity": "Promo",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/713483_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/713483/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-illaoi-prophet-of-the-great-kraken-top-8",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.04
+        }
+      ]
+    },
+    {
+      "id": 713484,
+      "name": "Illaoi, Prophet of the Great Kraken",
+      "label": "Champion",
+      "number": "109/166",
+      "rarity": "Promo",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/713484_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/713484/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-illaoi-prophet-of-the-great-kraken-champion",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 63.16
+        }
+      ]
+    },
+    {
+      "id": 722790,
+      "name": "Akali, Rogue Assassin",
+      "label": "Metal · Best Of",
+      "number": "139/166",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722790_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722790/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-akali-rogue-assassin-metal-best-of",
+      "prices": []
+    },
+    {
+      "id": 722791,
+      "name": "Akali, Rogue Assassin",
+      "label": "Metal · Prize Wall",
+      "number": "139/166",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722791_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722791/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-akali-rogue-assassin-metal-prize-wall",
+      "prices": []
+    },
+    {
+      "id": 722792,
+      "name": "Ambessa, Matriarch of War",
+      "label": "Metal · Best Of",
+      "number": "153/166",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722792_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722792/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-ambessa-matriarch-of-war-metal-best-of",
+      "prices": []
+    },
+    {
+      "id": 722793,
+      "name": "Ambessa, Matriarch of War",
+      "label": "Metal · Prize Wall",
+      "number": "153/166",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722793_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722793/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-ambessa-matriarch-of-war-metal-prize-wall",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2000
+        }
+      ]
+    },
+    {
+      "id": 722794,
+      "name": "Jayce, Defender of Tomorrow",
+      "label": "Metal · Best Of",
+      "number": "149/166",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722794_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722794/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-jayce-defender-of-tomorrow-metal-best-of",
+      "prices": []
+    },
+    {
+      "id": 722795,
+      "name": "Jayce, Defender of Tomorrow",
+      "label": "Metal · Prize Wall",
+      "number": "149/166",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722795_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722795/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-jayce-defender-of-tomorrow-metal-prize-wall",
+      "prices": []
+    },
+    {
+      "id": 722809,
+      "name": "Kennen, Heart of the Tempest",
+      "label": "Metal · Best Of",
+      "number": "155/166",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722809_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722809/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-kennen-heart-of-the-tempest-metal-best-of",
+      "prices": []
+    },
+    {
+      "id": 722810,
+      "name": "Kennen, Heart of the Tempest",
+      "label": "Metal · Prize Wall",
+      "number": "155/166",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722810_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722810/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-kennen-heart-of-the-tempest-metal-prize-wall",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3499.99
+        }
+      ]
+    },
+    {
+      "id": 722813,
+      "name": "Mel, Soul's Reflection",
+      "label": "Metal · Best Of",
+      "number": "151/166",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722813_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722813/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-mel-souls-reflection-metal-best-of",
+      "prices": []
+    },
+    {
+      "id": 722814,
+      "name": "Mel, Soul's Reflection",
+      "label": "Metal · Prize Wall",
+      "number": "151/166",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722814_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722814/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-mel-souls-reflection-metal-prize-wall",
+      "prices": []
+    },
+    {
+      "id": 722815,
+      "name": "Nasus, Curator of the Sands",
+      "label": "Metal · Best Of",
+      "number": "145/166",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722815_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722815/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-nasus-curator-of-the-sands-metal-best-of",
+      "prices": []
+    },
+    {
+      "id": 722816,
+      "name": "Nasus, Curator of the Sands",
+      "label": "Metal · Prize Wall",
+      "number": "145/166",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722816_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722816/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-nasus-curator-of-the-sands-metal-prize-wall",
+      "prices": []
+    },
+    {
+      "id": 722817,
+      "name": "Renekton, Butcher of the Sands",
+      "label": "Metal · Best Of",
+      "number": "141/166",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722817_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722817/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-renekton-butcher-of-the-sands-metal-best-of",
+      "prices": []
+    },
+    {
+      "id": 722820,
+      "name": "Renekton, Butcher of the Sands",
+      "label": "Metal · Prize Wall",
+      "number": "141/166",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722820_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722820/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-renekton-butcher-of-the-sands-metal-prize-wall",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 2000
+        }
+      ]
+    },
+    {
+      "id": 722823,
+      "name": "Shen, Eye of Twilight",
+      "label": "Metal · Best Of",
+      "number": "147/166",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722823_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722823/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-shen-eye-of-twilight-metal-best-of",
+      "prices": []
+    },
+    {
+      "id": 722829,
+      "name": "Shen, Eye of Twilight",
+      "label": "Metal · Prize Wall",
+      "number": "147/166",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722829_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722829/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-shen-eye-of-twilight-metal-prize-wall",
+      "prices": []
+    },
+    {
+      "id": 722830,
+      "name": "Zed, Master of Shadows",
+      "label": "Metal · Prize Wall",
+      "number": "143/166",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722830_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722830/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-zed-master-of-shadows-metal-prize-wall",
+      "prices": []
+    },
+    {
+      "id": 722831,
+      "name": "Zed, Master of Shadows",
+      "label": "Metal · Best Of",
+      "number": "143/166",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722831_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722831/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-zed-master-of-shadows-metal-best-of",
+      "prices": []
+    },
+    {
+      "id": 723239,
+      "name": "Jayce, Brilliant Inventor",
+      "number": "068/166",
+      "rarity": "Promo",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723239_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723239/riftbound-league-of-legends-trading-card-game-riftbound-organized-play-promotional-cards-jayce-brilliant-inventor",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 199.99
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-10-13"
+}

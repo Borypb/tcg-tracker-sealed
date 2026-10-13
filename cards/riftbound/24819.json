@@ -1,0 +1,2123 @@
+{
+  "groupId": 24819,
+  "cards": [
+    {
+      "id": 721334,
+      "name": "Dockside Lock-Up",
+      "number": "136/167",
+      "rarity": "Epic",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721334_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721334/riftbound-league-of-legends-trading-card-game-radiance-dockside-lock-up",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 49.99
+        }
+      ]
+    },
+    {
+      "id": 721335,
+      "name": "Rousing Display",
+      "number": "127/167",
+      "rarity": "Uncommon",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721335_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721335/riftbound-league-of-legends-trading-card-game-radiance-rousing-display",
+      "prices": []
+    },
+    {
+      "id": 721337,
+      "name": "Kai'Sa, Rebel",
+      "number": "063/167",
+      "rarity": "Rare",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721337_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721337/riftbound-league-of-legends-trading-card-game-radiance-kaisa-rebel",
+      "prices": []
+    },
+    {
+      "id": 721340,
+      "name": "Orianna, Lady of Clockwork",
+      "number": "145/167",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721340_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721340/riftbound-league-of-legends-trading-card-game-radiance-orianna-lady-of-clockwork",
+      "prices": []
+    },
+    {
+      "id": 721345,
+      "name": "Seraphine, Starry-Eyed Songstress",
+      "number": "151/167",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721345_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721345/riftbound-league-of-legends-trading-card-game-radiance-seraphine-starry-eyed-songstress",
+      "prices": []
+    },
+    {
+      "id": 721346,
+      "name": "K'Sante, Courageous",
+      "label": "Overnumbered",
+      "number": "178/167",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721346_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721346/riftbound-league-of-legends-trading-card-game-radiance-ksante-courageous-overnumbered",
+      "prices": []
+    },
+    {
+      "id": 721350,
+      "name": "Aphelios, Exalted",
+      "label": "Overnumbered",
+      "number": "179/167",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721350_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721350/riftbound-league-of-legends-trading-card-game-radiance-aphelios-exalted-overnumbered",
+      "prices": []
+    },
+    {
+      "id": 721352,
+      "name": "Ezreal, Dashing",
+      "label": "Overnumbered",
+      "number": "180/167",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721352_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721352/riftbound-league-of-legends-trading-card-game-radiance-ezreal-dashing-overnumbered",
+      "prices": []
+    },
+    {
+      "id": 721354,
+      "name": "Yone, Blademaster",
+      "label": "Overnumbered",
+      "number": "181/167",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721354_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721354/riftbound-league-of-legends-trading-card-game-radiance-yone-blademaster-overnumbered",
+      "prices": []
+    },
+    {
+      "id": 721356,
+      "name": "Kayn, Unleashed",
+      "label": "Overnumbered",
+      "number": "182/167",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721356_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721356/riftbound-league-of-legends-trading-card-game-radiance-kayn-unleashed-overnumbered",
+      "prices": []
+    },
+    {
+      "id": 721357,
+      "name": "Sett, Kingpin",
+      "label": "Overnumbered",
+      "number": "183/167",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/721357_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/721357/riftbound-league-of-legends-trading-card-game-radiance-sett-kingpin-overnumbered",
+      "prices": []
+    },
+    {
+      "id": 722275,
+      "name": "Ahri, Confident",
+      "number": "038/167",
+      "rarity": "Rare",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722275_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722275/riftbound-league-of-legends-trading-card-game-radiance-ahri-confident",
+      "prices": []
+    },
+    {
+      "id": 722276,
+      "name": "Amateur Demolitionist",
+      "number": "001/167",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722276_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722276/riftbound-league-of-legends-trading-card-game-radiance-amateur-demolitionist",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.99
+        }
+      ]
+    },
+    {
+      "id": 722277,
+      "name": "Banner of Conquest",
+      "number": "002/167",
+      "rarity": "Common",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722277_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722277/riftbound-league-of-legends-trading-card-game-radiance-banner-of-conquest",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.99
+        }
+      ]
+    },
+    {
+      "id": 722278,
+      "name": "Bilgewater Tracker",
+      "number": "003/167",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722278_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722278/riftbound-league-of-legends-trading-card-game-radiance-bilgewater-tracker",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.99
+        }
+      ]
+    },
+    {
+      "id": 722279,
+      "name": "Blade of the Exile",
+      "number": "150/167",
+      "rarity": "Epic",
+      "type": "Signature Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722279_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722279/riftbound-league-of-legends-trading-card-game-radiance-blade-of-the-exile",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 49.99
+        }
+      ]
+    },
+    {
+      "id": 722280,
+      "name": "Blossoming Dreamroot",
+      "number": "024/167",
+      "rarity": "Common",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722280_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722280/riftbound-league-of-legends-trading-card-game-radiance-blossoming-dreamroot",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.99
+        }
+      ]
+    },
+    {
+      "id": 722281,
+      "name": "Calm Rune",
+      "number": "R02",
+      "rarity": "Common",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722281_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722281/riftbound-league-of-legends-trading-card-game-radiance-calm-rune",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.99
+        }
+      ]
+    },
+    {
+      "id": 722282,
+      "name": "Calm Rune",
+      "label": "R02a",
+      "number": "R02a",
+      "rarity": "Showcase",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722282_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722282/riftbound-league-of-legends-trading-card-game-radiance-calm-rune-r02a",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 29.99
+        }
+      ]
+    },
+    {
+      "id": 722283,
+      "name": "Chronobreak",
+      "number": "140/167",
+      "rarity": "Epic",
+      "type": "Signature Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722283_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722283/riftbound-league-of-legends-trading-card-game-radiance-chronobreak",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 49.99
+        }
+      ]
+    },
+    {
+      "id": 722284,
+      "name": "Clanging Sentry",
+      "number": "055/167",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722284_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722284/riftbound-league-of-legends-trading-card-game-radiance-clanging-sentry",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 9.99
+        }
+      ]
+    },
+    {
+      "id": 722285,
+      "name": "Clocktower Guardian",
+      "number": "067/167",
+      "rarity": "Epic",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722285_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722285/riftbound-league-of-legends-trading-card-game-radiance-clocktower-guardian",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 49.99
+        }
+      ]
+    },
+    {
+      "id": 722286,
+      "name": "Command: Attack",
+      "number": "033/167",
+      "rarity": "Uncommon",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722286_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722286/riftbound-league-of-legends-trading-card-game-radiance-command-attack",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 9.99
+        }
+      ]
+    },
+    {
+      "id": 722287,
+      "name": "Concert Poster",
+      "number": "116/167",
+      "rarity": "Common",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722287_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722287/riftbound-league-of-legends-trading-card-game-radiance-concert-poster",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.99
+        }
+      ]
+    },
+    {
+      "id": 722288,
+      "name": "Cosmic Vista",
+      "number": "160/167",
+      "rarity": "Uncommon",
+      "type": "Battlefield",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722288_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722288/riftbound-league-of-legends-trading-card-game-radiance-cosmic-vista",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 9.99
+        }
+      ]
+    },
+    {
+      "id": 722289,
+      "name": "Demacian Standard",
+      "number": "156/167",
+      "rarity": "Epic",
+      "type": "Signature Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722289_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722289/riftbound-league-of-legends-trading-card-game-radiance-demacian-standard",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 49.99
+        }
+      ]
+    },
+    {
+      "id": 722290,
+      "name": "Disposal Expert",
+      "number": "093/167",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722290_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722290/riftbound-league-of-legends-trading-card-game-radiance-disposal-expert",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.99
+        }
+      ]
+    },
+    {
+      "id": 722291,
+      "name": "Dune Devourer",
+      "number": "125/167",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722291_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722291/riftbound-league-of-legends-trading-card-game-radiance-dune-devourer",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 9.99
+        }
+      ]
+    },
+    {
+      "id": 722292,
+      "name": "Durand Memorial",
+      "number": "161/167",
+      "rarity": "Uncommon",
+      "type": "Battlefield",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722292_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722292/riftbound-league-of-legends-trading-card-game-radiance-durand-memorial",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 9.99
+        }
+      ]
+    },
+    {
+      "id": 722293,
+      "name": "Ekko, Boy Who Shattered Time",
+      "number": "139/167",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722293_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722293/riftbound-league-of-legends-trading-card-game-radiance-ekko-boy-who-shattered-time",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 19.99
+        }
+      ]
+    },
+    {
+      "id": 722294,
+      "name": "Ekko, Ingenious",
+      "number": "061/167",
+      "rarity": "Rare",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722294_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722294/riftbound-league-of-legends-trading-card-game-radiance-ekko-ingenious",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 19.99
+        }
+      ]
+    },
+    {
+      "id": 722295,
+      "name": "Ekko, Ingenious",
+      "label": "Alternate Art",
+      "number": "061a/167",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722295_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722295/riftbound-league-of-legends-trading-card-game-radiance-ekko-ingenious-alternate-art",
+      "prices": []
+    },
+    {
+      "id": 722296,
+      "name": "Elnuk Herd",
+      "number": "081/167",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722296_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722296/riftbound-league-of-legends-trading-card-game-radiance-elnuk-herd",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 9.99
+        }
+      ]
+    },
+    {
+      "id": 722297,
+      "name": "Evelynn, Consuming",
+      "number": "090/167",
+      "rarity": "Epic",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722297_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722297/riftbound-league-of-legends-trading-card-game-radiance-evelynn-consuming",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 49.99
+        }
+      ]
+    },
+    {
+      "id": 722298,
+      "name": "Evelynn, Consuming",
+      "label": "Alternate Art",
+      "number": "090a/167",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722298_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722298/riftbound-league-of-legends-trading-card-game-radiance-evelynn-consuming-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 69.99
+        }
+      ]
+    },
+    {
+      "id": 722299,
+      "name": "Heimerdinger, Academy Instructor",
+      "number": "132/167",
+      "rarity": "Rare",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722299_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722299/riftbound-league-of-legends-trading-card-game-radiance-heimerdinger-academy-instructor",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 19.99
+        }
+      ]
+    },
+    {
+      "id": 722300,
+      "name": "Hexplosive Minefield",
+      "number": "142/167",
+      "rarity": "Epic",
+      "type": "Signature Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722300_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722300/riftbound-league-of-legends-trading-card-game-radiance-hexplosive-minefield",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 49.99
+        }
+      ]
+    },
+    {
+      "id": 722301,
+      "name": "Hold 'Em",
+      "number": "070/167",
+      "rarity": "Common",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722301_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722301/riftbound-league-of-legends-trading-card-game-radiance-hold-em",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.99
+        }
+      ]
+    },
+    {
+      "id": 722302,
+      "name": "Hunker Down",
+      "number": "034/167",
+      "rarity": "Uncommon",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722302_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722302/riftbound-league-of-legends-trading-card-game-radiance-hunker-down",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 9.99
+        }
+      ]
+    },
+    {
+      "id": 722303,
+      "name": "Improvised Projectile",
+      "number": "056/167",
+      "rarity": "Uncommon",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722303_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722303/riftbound-league-of-legends-trading-card-game-radiance-improvised-projectile",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 9.99
+        }
+      ]
+    },
+    {
+      "id": 722304,
+      "name": "Invigorating Bloom",
+      "number": "035/167",
+      "rarity": "Uncommon",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722304_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722304/riftbound-league-of-legends-trading-card-game-radiance-invigorating-bloom",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 9.99
+        }
+      ]
+    },
+    {
+      "id": 722305,
+      "name": "Jarvan IV, Exemplar of Demacia",
+      "number": "155/167",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722305_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722305/riftbound-league-of-legends-trading-card-game-radiance-jarvan-iv-exemplar-of-demacia",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 19.99
+        }
+      ]
+    },
+    {
+      "id": 722306,
+      "name": "Jarvan IV, Exemplar of Demacia",
+      "label": "Overnumbered",
+      "number": "176/167",
+      "rarity": "Showcase",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722306_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722306/riftbound-league-of-legends-trading-card-game-radiance-jarvan-iv-exemplar-of-demacia-overnumbered",
+      "prices": []
+    },
+    {
+      "id": 722307,
+      "name": "K'Sante, Courageous",
+      "number": "086/167",
+      "rarity": "Rare",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722307_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722307/riftbound-league-of-legends-trading-card-game-radiance-ksante-courageous",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 19.99
+        }
+      ]
+    },
+    {
+      "id": 722308,
+      "name": "K'Sante, Courageous",
+      "label": "Alternate Art",
+      "number": "086a/167",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722308_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722308/riftbound-league-of-legends-trading-card-game-radiance-ksante-courageous-alternate-art",
+      "prices": []
+    },
+    {
+      "id": 722309,
+      "name": "K'Sante, Dauntless",
+      "number": "045/167",
+      "rarity": "Epic",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722309_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722309/riftbound-league-of-legends-trading-card-game-radiance-ksante-dauntless",
+      "prices": []
+    },
+    {
+      "id": 722310,
+      "name": "K'Sante, Dauntless",
+      "label": "Alternate Art",
+      "number": "045a/167",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722310_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722310/riftbound-league-of-legends-trading-card-game-radiance-ksante-dauntless-alternate-art",
+      "prices": []
+    },
+    {
+      "id": 722311,
+      "name": "K'Sante, Pride of Nazumah",
+      "number": "147/167",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722311_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722311/riftbound-league-of-legends-trading-card-game-radiance-ksante-pride-of-nazumah",
+      "prices": []
+    },
+    {
+      "id": 722312,
+      "name": "K'Sante, Pride of Nazumah",
+      "label": "Overnumbered",
+      "number": "172/167",
+      "rarity": "Showcase",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722312_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722312/riftbound-league-of-legends-trading-card-game-radiance-ksante-pride-of-nazumah-overnumbered",
+      "prices": []
+    },
+    {
+      "id": 722313,
+      "name": "Kai'Sa, Rebel",
+      "label": "SP",
+      "number": "SP4/005",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722313_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722313/riftbound-league-of-legends-trading-card-game-radiance-kaisa-rebel-sp",
+      "prices": []
+    },
+    {
+      "id": 722314,
+      "name": "Lost to the Sands",
+      "number": "013/167",
+      "rarity": "Uncommon",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722314_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722314/riftbound-league-of-legends-trading-card-game-radiance-lost-to-the-sands",
+      "prices": []
+    },
+    {
+      "id": 722315,
+      "name": "Mind Rune",
+      "number": "R03",
+      "rarity": "Common",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722315_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722315/riftbound-league-of-legends-trading-card-game-radiance-mind-rune",
+      "prices": []
+    },
+    {
+      "id": 722316,
+      "name": "Mind Rune",
+      "label": "R03a",
+      "number": "R03a",
+      "rarity": "Showcase",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722316_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722316/riftbound-league-of-legends-trading-card-game-radiance-mind-rune-r03a",
+      "prices": []
+    },
+    {
+      "id": 722317,
+      "name": "Momentary Companion",
+      "number": "095/167",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722317_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722317/riftbound-league-of-legends-trading-card-game-radiance-momentary-companion",
+      "prices": []
+    },
+    {
+      "id": 722318,
+      "name": "Mordekaiser, Dominating",
+      "number": "137/167",
+      "rarity": "Epic",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722318_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722318/riftbound-league-of-legends-trading-card-game-radiance-mordekaiser-dominating",
+      "prices": []
+    },
+    {
+      "id": 722319,
+      "name": "Mordekaiser, Dominating",
+      "label": "Alternate Art",
+      "number": "137a/167",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722319_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722319/riftbound-league-of-legends-trading-card-game-radiance-mordekaiser-dominating-alternate-art",
+      "prices": []
+    },
+    {
+      "id": 722320,
+      "name": "Mournful Spirit",
+      "number": "126/167",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722320_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722320/riftbound-league-of-legends-trading-card-game-radiance-mournful-spirit",
+      "prices": []
+    },
+    {
+      "id": 722321,
+      "name": "Neeko, Bleeding In",
+      "number": "167/167",
+      "rarity": "Epic",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722321_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722321/riftbound-league-of-legends-trading-card-game-radiance-neeko-bleeding-in",
+      "prices": []
+    },
+    {
+      "id": 722322,
+      "name": "Ntofo Strikes",
+      "number": "148/167",
+      "rarity": "Epic",
+      "type": "Signature Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722322_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722322/riftbound-league-of-legends-trading-card-game-radiance-ntofo-strikes",
+      "prices": []
+    },
+    {
+      "id": 722323,
+      "name": "Orianna, Lady of Clockwork",
+      "label": "Overnumbered",
+      "number": "171/167",
+      "rarity": "Showcase",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722323_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722323/riftbound-league-of-legends-trading-card-game-radiance-orianna-lady-of-clockwork-overnumbered",
+      "prices": []
+    },
+    {
+      "id": 722324,
+      "name": "Orianna, Mechanical Marvel",
+      "number": "068/167",
+      "rarity": "Epic",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722324_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722324/riftbound-league-of-legends-trading-card-game-radiance-orianna-mechanical-marvel",
+      "prices": []
+    },
+    {
+      "id": 722325,
+      "name": "Orianna, Mechanical Marvel",
+      "label": "Alternate Art",
+      "number": "068a/167",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722325_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722325/riftbound-league-of-legends-trading-card-game-radiance-orianna-mechanical-marvel-alternate-art",
+      "prices": []
+    },
+    {
+      "id": 722326,
+      "name": "Packed Amphitheater",
+      "number": "164/167",
+      "rarity": "Uncommon",
+      "type": "Battlefield",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722326_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722326/riftbound-league-of-legends-trading-card-game-radiance-packed-amphitheater",
+      "prices": []
+    },
+    {
+      "id": 722327,
+      "name": "Pillaged Armory",
+      "number": "073/167",
+      "rarity": "Common",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722327_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722327/riftbound-league-of-legends-trading-card-game-radiance-pillaged-armory",
+      "prices": []
+    },
+    {
+      "id": 722328,
+      "name": "Primordial Roar",
+      "number": "082/167",
+      "rarity": "Uncommon",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722328_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722328/riftbound-league-of-legends-trading-card-game-radiance-primordial-roar",
+      "prices": []
+    },
+    {
+      "id": 722329,
+      "name": "Rakelstake",
+      "number": "165/167",
+      "rarity": "Uncommon",
+      "type": "Battlefield",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722329_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722329/riftbound-league-of-legends-trading-card-game-radiance-rakelstake",
+      "prices": []
+    },
+    {
+      "id": 722330,
+      "name": "Reckless Innovator",
+      "number": "105/167",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722330_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722330/riftbound-league-of-legends-trading-card-game-radiance-reckless-innovator",
+      "prices": []
+    },
+    {
+      "id": 722331,
+      "name": "Resplendent Rostrum",
+      "number": "046/167",
+      "rarity": "Epic",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722331_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722331/riftbound-league-of-legends-trading-card-game-radiance-resplendent-rostrum",
+      "prices": []
+    },
+    {
+      "id": 722332,
+      "name": "Ruined Monastery",
+      "number": "166/167",
+      "rarity": "Uncommon",
+      "type": "Battlefield",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722332_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722332/riftbound-league-of-legends-trading-card-game-radiance-ruined-monastery",
+      "prices": []
+    },
+    {
+      "id": 722333,
+      "name": "Runeblade Anvil",
+      "number": "012/167",
+      "rarity": "Uncommon",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722333_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722333/riftbound-league-of-legends-trading-card-game-radiance-runeblade-anvil",
+      "prices": []
+    },
+    {
+      "id": 722334,
+      "name": "Satchel Charge",
+      "number": "096/167",
+      "rarity": "Common",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722334_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722334/riftbound-league-of-legends-trading-card-game-radiance-satchel-charge",
+      "prices": []
+    },
+    {
+      "id": 722335,
+      "name": "Seraphine, Not Alone",
+      "number": "138/167",
+      "rarity": "Epic",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722335_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722335/riftbound-league-of-legends-trading-card-game-radiance-seraphine-not-alone",
+      "prices": []
+    },
+    {
+      "id": 722336,
+      "name": "Seraphine, Not Alone",
+      "label": "Alternate Art",
+      "number": "138a/167",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722336_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722336/riftbound-league-of-legends-trading-card-game-radiance-seraphine-not-alone-alternate-art",
+      "prices": []
+    },
+    {
+      "id": 722337,
+      "name": "Seraphine, Not Alone",
+      "label": "SP",
+      "number": "SP5/005",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722337_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722337/riftbound-league-of-legends-trading-card-game-radiance-seraphine-not-alone-sp",
+      "prices": []
+    },
+    {
+      "id": 722338,
+      "name": "Seraphine, Starry-Eyed Songstress",
+      "label": "Overnumbered",
+      "number": "174/167",
+      "rarity": "Showcase",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722338_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722338/riftbound-league-of-legends-trading-card-game-radiance-seraphine-starry-eyed-songstress-overnumbered",
+      "prices": []
+    },
+    {
+      "id": 722339,
+      "name": "Stalwart Goatherd",
+      "number": "083/167",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722339_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722339/riftbound-league-of-legends-trading-card-game-radiance-stalwart-goatherd",
+      "prices": []
+    },
+    {
+      "id": 722340,
+      "name": "Supernova",
+      "number": "059/167",
+      "rarity": "Uncommon",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722340_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722340/riftbound-league-of-legends-trading-card-game-radiance-supernova",
+      "prices": []
+    },
+    {
+      "id": 722341,
+      "name": "The Good Stuff",
+      "number": "106/167",
+      "rarity": "Uncommon",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722341_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722341/riftbound-league-of-legends-trading-card-game-radiance-the-good-stuff",
+      "prices": []
+    },
+    {
+      "id": 722342,
+      "name": "Transpositionist",
+      "number": "115/167",
+      "rarity": "Epic",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722342_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722342/riftbound-league-of-legends-trading-card-game-radiance-transpositionist",
+      "prices": []
+    },
+    {
+      "id": 722343,
+      "name": "Zero Point Inflection",
+      "number": "069/167",
+      "rarity": "Epic",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722343_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722343/riftbound-league-of-legends-trading-card-game-radiance-zero-point-inflection",
+      "prices": []
+    },
+    {
+      "id": 722344,
+      "name": "Ziggs, Hexplosives Expert",
+      "number": "141/167",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722344_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722344/riftbound-league-of-legends-trading-card-game-radiance-ziggs-hexplosives-expert",
+      "prices": []
+    },
+    {
+      "id": 722345,
+      "name": "Ziggs, Hexplosives Expert",
+      "label": "Overnumbered",
+      "number": "169/167",
+      "rarity": "Showcase",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722345_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722345/riftbound-league-of-legends-trading-card-game-radiance-ziggs-hexplosives-expert-overnumbered",
+      "prices": []
+    },
+    {
+      "id": 722346,
+      "name": "Ziggs, Short-Fused",
+      "number": "023/167",
+      "rarity": "Epic",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722346_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722346/riftbound-league-of-legends-trading-card-game-radiance-ziggs-short-fused",
+      "prices": []
+    },
+    {
+      "id": 722347,
+      "name": "Ziggs, Short-Fused",
+      "label": "Alternate Art",
+      "number": "023a/167",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722347_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722347/riftbound-league-of-legends-trading-card-game-radiance-ziggs-short-fused-alternate-art",
+      "prices": []
+    },
+    {
+      "id": 722843,
+      "name": "Evelynn, Agony's Embrace",
+      "label": "Overnumbered",
+      "number": "175/167",
+      "rarity": "Showcase",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722843_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722843/riftbound-league-of-legends-trading-card-game-radiance-evelynn-agonys-embrace-overnumbered",
+      "prices": []
+    },
+    {
+      "id": 722844,
+      "name": "Evelynn, Agony's Embrace",
+      "number": "153/167",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722844_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722844/riftbound-league-of-legends-trading-card-game-radiance-evelynn-agonys-embrace",
+      "prices": []
+    },
+    {
+      "id": 722845,
+      "name": "Ahri, Confident",
+      "label": "SP",
+      "number": "SP1/005",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722845_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722845/riftbound-league-of-legends-trading-card-game-radiance-ahri-confident-sp",
+      "prices": []
+    },
+    {
+      "id": 722846,
+      "name": "Akali, Brash",
+      "number": "015/167",
+      "rarity": "Rare",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722846_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722846/riftbound-league-of-legends-trading-card-game-radiance-akali-brash",
+      "prices": []
+    },
+    {
+      "id": 722847,
+      "name": "Akali, Brash",
+      "label": "SP",
+      "number": "SP2/005",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722847_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722847/riftbound-league-of-legends-trading-card-game-radiance-akali-brash-sp",
+      "prices": []
+    },
+    {
+      "id": 722848,
+      "name": "Avalanche",
+      "number": "079/167",
+      "rarity": "Uncommon",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722848_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722848/riftbound-league-of-legends-trading-card-game-radiance-avalanche",
+      "prices": []
+    },
+    {
+      "id": 722849,
+      "name": "Bandle Scouts' Academy",
+      "number": "157/167",
+      "rarity": "Uncommon",
+      "type": "Battlefield",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722849_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722849/riftbound-league-of-legends-trading-card-game-radiance-bandle-scouts-academy",
+      "prices": []
+    },
+    {
+      "id": 722850,
+      "name": "Battlefield Armorer",
+      "number": "130/167",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722850_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722850/riftbound-league-of-legends-trading-card-game-radiance-battlefield-armorer",
+      "prices": []
+    },
+    {
+      "id": 722851,
+      "name": "Bedeviling Stranger",
+      "number": "107/167",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722851_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722851/riftbound-league-of-legends-trading-card-game-radiance-bedeviling-stranger",
+      "prices": []
+    },
+    {
+      "id": 722852,
+      "name": "Black Market",
+      "number": "158/167",
+      "rarity": "Uncommon",
+      "type": "Battlefield",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722852_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722852/riftbound-league-of-legends-trading-card-game-radiance-black-market",
+      "prices": []
+    },
+    {
+      "id": 722853,
+      "name": "Black Rose Sanctum",
+      "number": "159/167",
+      "rarity": "Uncommon",
+      "type": "Battlefield",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722853_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722853/riftbound-league-of-legends-trading-card-game-radiance-black-rose-sanctum",
+      "prices": []
+    },
+    {
+      "id": 722854,
+      "name": "Body Rune",
+      "label": "R04a",
+      "number": "R04a",
+      "rarity": "Showcase",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722854_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722854/riftbound-league-of-legends-trading-card-game-radiance-body-rune-r04a",
+      "prices": []
+    },
+    {
+      "id": 722855,
+      "name": "Body Rune",
+      "number": "R04",
+      "rarity": "Common",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722855_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722855/riftbound-league-of-legends-trading-card-game-radiance-body-rune",
+      "prices": []
+    },
+    {
+      "id": 722856,
+      "name": "Ekko, Boy Who Shattered Time",
+      "label": "Overnumbered",
+      "number": "168/167",
+      "rarity": "Showcase",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722856_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722856/riftbound-league-of-legends-trading-card-game-radiance-ekko-boy-who-shattered-time-overnumbered",
+      "prices": []
+    },
+    {
+      "id": 722857,
+      "name": "Brawl",
+      "number": "004/167",
+      "rarity": "Common",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722857_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722857/riftbound-league-of-legends-trading-card-game-radiance-brawl",
+      "prices": []
+    },
+    {
+      "id": 722858,
+      "name": "Cataclysm",
+      "number": "084/167",
+      "rarity": "Rare",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722858_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722858/riftbound-league-of-legends-trading-card-game-radiance-cataclysm",
+      "prices": []
+    },
+    {
+      "id": 722859,
+      "name": "Chaos Rune",
+      "label": "R05a",
+      "number": "R05a",
+      "rarity": "Showcase",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722859_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722859/riftbound-league-of-legends-trading-card-game-radiance-chaos-rune-r05a",
+      "prices": []
+    },
+    {
+      "id": 722860,
+      "name": "Chaos Rune",
+      "number": "R05",
+      "rarity": "Common",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722860_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722860/riftbound-league-of-legends-trading-card-game-radiance-chaos-rune",
+      "prices": []
+    },
+    {
+      "id": 722861,
+      "name": "Coalesced Energy",
+      "number": "016/167",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722861_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722861/riftbound-league-of-legends-trading-card-game-radiance-coalesced-energy",
+      "prices": []
+    },
+    {
+      "id": 722862,
+      "name": "Consult the Heavens",
+      "number": "025/167",
+      "rarity": "Common",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722862_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722862/riftbound-league-of-legends-trading-card-game-radiance-consult-the-heavens",
+      "prices": []
+    },
+    {
+      "id": 722863,
+      "name": "Demacian Illuminators",
+      "number": "131/167",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722863_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722863/riftbound-league-of-legends-trading-card-game-radiance-demacian-illuminators",
+      "prices": []
+    },
+    {
+      "id": 722864,
+      "name": "Detonation Amplifier",
+      "number": "017/167",
+      "rarity": "Rare",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722864_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722864/riftbound-league-of-legends-trading-card-game-radiance-detonation-amplifier",
+      "prices": []
+    },
+    {
+      "id": 722865,
+      "name": "Drakehound Packmaster",
+      "number": "018/167",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722865_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722865/riftbound-league-of-legends-trading-card-game-radiance-drakehound-packmaster",
+      "prices": []
+    },
+    {
+      "id": 722866,
+      "name": "Ekko, Revolutionary",
+      "label": "Alternate Art",
+      "number": "021a/167",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722866_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722866/riftbound-league-of-legends-trading-card-game-radiance-ekko-revolutionary-alternate-art",
+      "prices": []
+    },
+    {
+      "id": 722867,
+      "name": "Ekko, Revolutionary",
+      "number": "021/167",
+      "rarity": "Epic",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722867_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722867/riftbound-league-of-legends-trading-card-game-radiance-ekko-revolutionary",
+      "prices": []
+    },
+    {
+      "id": 722868,
+      "name": "Encore",
+      "number": "152/167",
+      "rarity": "Epic",
+      "type": "Signature Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722868_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722868/riftbound-league-of-legends-trading-card-game-radiance-encore",
+      "prices": []
+    },
+    {
+      "id": 722869,
+      "name": "Entrenched Boar",
+      "number": "026/167",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722869_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722869/riftbound-league-of-legends-trading-card-game-radiance-entrenched-boar",
+      "prices": []
+    },
+    {
+      "id": 722870,
+      "name": "Ephemeral Ward",
+      "number": "039/167",
+      "rarity": "Rare",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722870_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722870/riftbound-league-of-legends-trading-card-game-radiance-ephemeral-ward",
+      "prices": []
+    },
+    {
+      "id": 722871,
+      "name": "Evelynn, In Control",
+      "number": "109/167",
+      "rarity": "Rare",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722871_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722871/riftbound-league-of-legends-trading-card-game-radiance-evelynn-in-control",
+      "prices": []
+    },
+    {
+      "id": 722872,
+      "name": "Evelynn, In Control",
+      "label": "SP",
+      "number": "SP3/005",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722872_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722872/riftbound-league-of-legends-trading-card-game-radiance-evelynn-in-control-sp",
+      "prices": []
+    },
+    {
+      "id": 722873,
+      "name": "Evelynn, In Control",
+      "label": "Alternate Art",
+      "number": "109a/167",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722873_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722873/riftbound-league-of-legends-trading-card-game-radiance-evelynn-in-control-alternate-art",
+      "prices": []
+    },
+    {
+      "id": 722874,
+      "name": "Fanfare",
+      "number": "047/167",
+      "rarity": "Common",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722874_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722874/riftbound-league-of-legends-trading-card-game-radiance-fanfare",
+      "prices": []
+    },
+    {
+      "id": 722875,
+      "name": "Firelights' Hideout",
+      "number": "162/167",
+      "rarity": "Uncommon",
+      "type": "Battlefield",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722875_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722875/riftbound-league-of-legends-trading-card-game-radiance-firelights-hideout",
+      "prices": []
+    },
+    {
+      "id": 722876,
+      "name": "For Demacia!",
+      "number": "117/167",
+      "rarity": "Common",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722876_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722876/riftbound-league-of-legends-trading-card-game-radiance-for-demacia",
+      "prices": []
+    },
+    {
+      "id": 722877,
+      "name": "Fury Rune",
+      "label": "R01a",
+      "number": "R01a",
+      "rarity": "Showcase",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722877_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722877/riftbound-league-of-legends-trading-card-game-radiance-fury-rune-r01a",
+      "prices": []
+    },
+    {
+      "id": 722878,
+      "name": "Fury Rune",
+      "number": "R01",
+      "rarity": "Common",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722878_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722878/riftbound-league-of-legends-trading-card-game-radiance-fury-rune",
+      "prices": []
+    },
+    {
+      "id": 722879,
+      "name": "Graves, Blasting Through",
+      "number": "085/167",
+      "rarity": "Rare",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722879_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722879/riftbound-league-of-legends-trading-card-game-radiance-graves-blasting-through",
+      "prices": []
+    },
+    {
+      "id": 722880,
+      "name": "Herald of the Emperor",
+      "number": "118/167",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722880_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722880/riftbound-league-of-legends-trading-card-game-radiance-herald-of-the-emperor",
+      "prices": []
+    },
+    {
+      "id": 722881,
+      "name": "High Note",
+      "number": "048/167",
+      "rarity": "Common",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722881_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722881/riftbound-league-of-legends-trading-card-game-radiance-high-note",
+      "prices": []
+    },
+    {
+      "id": 722882,
+      "name": "Hunters' Circle",
+      "number": "163/167",
+      "rarity": "Uncommon",
+      "type": "Battlefield",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722882_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722882/riftbound-league-of-legends-trading-card-game-radiance-hunters-circle",
+      "prices": []
+    },
+    {
+      "id": 722883,
+      "name": "Hunting Dog",
+      "number": "119/167",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722883_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722883/riftbound-league-of-legends-trading-card-game-radiance-hunting-dog",
+      "prices": []
+    },
+    {
+      "id": 722884,
+      "name": "Industrious Mechsmith",
+      "number": "049/167",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722884_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722884/riftbound-league-of-legends-trading-card-game-radiance-industrious-mechsmith",
+      "prices": []
+    },
+    {
+      "id": 722885,
+      "name": "Iridescent Avian",
+      "number": "027/167",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722885_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722885/riftbound-league-of-legends-trading-card-game-radiance-iridescent-avian",
+      "prices": []
+    },
+    {
+      "id": 722886,
+      "name": "Mordekaiser, Iron Revenant",
+      "number": "143/167",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722886_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722886/riftbound-league-of-legends-trading-card-game-radiance-mordekaiser-iron-revenant",
+      "prices": []
+    },
+    {
+      "id": 722887,
+      "name": "Mordekaiser, Iron Revenant",
+      "label": "Overnumbered",
+      "number": "170/167",
+      "rarity": "Showcase",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722887_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722887/riftbound-league-of-legends-trading-card-game-radiance-mordekaiser-iron-revenant-overnumbered",
+      "prices": []
+    },
+    {
+      "id": 722888,
+      "name": "Jarvan IV, Martial Paragon",
+      "label": "Alternate Art",
+      "number": "091a/167",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722888_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722888/riftbound-league-of-legends-trading-card-game-radiance-jarvan-iv-martial-paragon-alternate-art",
+      "prices": []
+    },
+    {
+      "id": 722889,
+      "name": "Jarvan IV, Martial Paragon",
+      "number": "091/167",
+      "rarity": "Epic",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722889_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722889/riftbound-league-of-legends-trading-card-game-radiance-jarvan-iv-martial-paragon",
+      "prices": []
+    },
+    {
+      "id": 722890,
+      "name": "Ki Burst",
+      "number": "028/167",
+      "rarity": "Common",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722890_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722890/riftbound-league-of-legends-trading-card-game-radiance-ki-burst",
+      "prices": []
+    },
+    {
+      "id": 722891,
+      "name": "Last Caress",
+      "number": "154/167",
+      "rarity": "Epic",
+      "type": "Signature Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722891_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722891/riftbound-league-of-legends-trading-card-game-radiance-last-caress",
+      "prices": []
+    },
+    {
+      "id": 722892,
+      "name": "Lingering Animus",
+      "number": "005/167",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722892_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722892/riftbound-league-of-legends-trading-card-game-radiance-lingering-animus",
+      "prices": []
+    },
+    {
+      "id": 722893,
+      "name": "Lulu, Whimsical",
+      "number": "110/167",
+      "rarity": "Rare",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722893_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722893/riftbound-league-of-legends-trading-card-game-radiance-lulu-whimsical",
+      "prices": []
+    },
+    {
+      "id": 722894,
+      "name": "Meticulous Restorationist",
+      "number": "120/167",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722894_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722894/riftbound-league-of-legends-trading-card-game-radiance-meticulous-restorationist",
+      "prices": []
+    },
+    {
+      "id": 722895,
+      "name": "Mysterious Chronomancer",
+      "number": "050/167",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722895_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722895/riftbound-league-of-legends-trading-card-game-radiance-mysterious-chronomancer",
+      "prices": []
+    },
+    {
+      "id": 722896,
+      "name": "Nazuman Ntofo",
+      "number": "071/167",
+      "rarity": "Common",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722896_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722896/riftbound-league-of-legends-trading-card-game-radiance-nazuman-ntofo",
+      "prices": []
+    },
+    {
+      "id": 722897,
+      "name": "Order Rune",
+      "number": "R06",
+      "rarity": "Common",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722897_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722897/riftbound-league-of-legends-trading-card-game-radiance-order-rune",
+      "prices": []
+    },
+    {
+      "id": 722898,
+      "name": "Order Rune",
+      "label": "R06a",
+      "number": "R06a",
+      "rarity": "Showcase",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722898_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722898/riftbound-league-of-legends-trading-card-game-radiance-order-rune-r06a",
+      "prices": []
+    },
+    {
+      "id": 722899,
+      "name": "Overloaded Traveler",
+      "number": "072/167",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722899_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722899/riftbound-league-of-legends-trading-card-game-radiance-overloaded-traveler",
+      "prices": []
+    },
+    {
+      "id": 722900,
+      "name": "Packed Amphitheater",
+      "label": "Overnumbered",
+      "number": "184/167",
+      "rarity": "Showcase",
+      "type": "Battlefield",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722900_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722900/riftbound-league-of-legends-trading-card-game-radiance-packed-amphitheater-overnumbered",
+      "prices": []
+    },
+    {
+      "id": 722901,
+      "name": "Piltovan Guidebot",
+      "number": "057/167",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722901_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722901/riftbound-league-of-legends-trading-card-game-radiance-piltovan-guidebot",
+      "prices": []
+    },
+    {
+      "id": 722902,
+      "name": "Portable Portal",
+      "number": "087/167",
+      "rarity": "Rare",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722902_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722902/riftbound-league-of-legends-trading-card-game-radiance-portable-portal",
+      "prices": []
+    },
+    {
+      "id": 722903,
+      "name": "Rally for War",
+      "number": "007/167",
+      "rarity": "Common",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722903_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722903/riftbound-league-of-legends-trading-card-game-radiance-rally-for-war",
+      "prices": []
+    },
+    {
+      "id": 722904,
+      "name": "Raving Witness",
+      "number": "074/167",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722904_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722904/riftbound-league-of-legends-trading-card-game-radiance-raving-witness",
+      "prices": []
+    },
+    {
+      "id": 722905,
+      "name": "Realm of Death",
+      "number": "144/167",
+      "rarity": "Epic",
+      "type": "Signature Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722905_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722905/riftbound-league-of-legends-trading-card-game-radiance-realm-of-death",
+      "prices": []
+    },
+    {
+      "id": 722906,
+      "name": "Riptide Mage",
+      "number": "058/167",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722906_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722906/riftbound-league-of-legends-trading-card-game-radiance-riptide-mage",
+      "prices": []
+    },
+    {
+      "id": 722907,
+      "name": "Riven, Broken Blade",
+      "number": "043/167",
+      "rarity": "Rare",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722907_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722907/riftbound-league-of-legends-trading-card-game-radiance-riven-broken-blade",
+      "prices": []
+    },
+    {
+      "id": 722908,
+      "name": "Riven, Broken Blade",
+      "label": "Alternate Art",
+      "number": "043a/167",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722908_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722908/riftbound-league-of-legends-trading-card-game-radiance-riven-broken-blade-alternate-art",
+      "prices": []
+    },
+    {
+      "id": 722909,
+      "name": "Scorched Earth",
+      "number": "006/167",
+      "rarity": "Common",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722909_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722909/riftbound-league-of-legends-trading-card-game-radiance-scorched-earth",
+      "prices": []
+    },
+    {
+      "id": 722910,
+      "name": "Shimmering Swimmer",
+      "number": "014/167",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722910_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722910/riftbound-league-of-legends-trading-card-game-radiance-shimmering-swimmer",
+      "prices": []
+    },
+    {
+      "id": 722911,
+      "name": "Siren of the Shallows",
+      "number": "097/167",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722911_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722911/riftbound-league-of-legends-trading-card-game-radiance-siren-of-the-shallows",
+      "prices": []
+    },
+    {
+      "id": 722912,
+      "name": "Siren's Song",
+      "number": "098/167",
+      "rarity": "Common",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722912_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722912/riftbound-league-of-legends-trading-card-game-radiance-sirens-song",
+      "prices": []
+    },
+    {
+      "id": 722913,
+      "name": "Skystrike Squadron",
+      "number": "075/167",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722913_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722913/riftbound-league-of-legends-trading-card-game-radiance-skystrike-squadron",
+      "prices": []
+    },
+    {
+      "id": 722914,
+      "name": "Staunch Survivor",
+      "number": "088/167",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722914_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722914/riftbound-league-of-legends-trading-card-game-radiance-staunch-survivor",
+      "prices": []
+    },
+    {
+      "id": 722915,
+      "name": "Steadfast Outrider",
+      "number": "128/167",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722915_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722915/riftbound-league-of-legends-trading-card-game-radiance-steadfast-outrider",
+      "prices": []
+    },
+    {
+      "id": 722916,
+      "name": "Storm Raptor",
+      "number": "036/167",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722916_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722916/riftbound-league-of-legends-trading-card-game-radiance-storm-raptor",
+      "prices": []
+    },
+    {
+      "id": 722917,
+      "name": "Suave Negotiator",
+      "number": "099/167",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722917_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722917/riftbound-league-of-legends-trading-card-game-radiance-suave-negotiator",
+      "prices": []
+    },
+    {
+      "id": 722918,
+      "name": "The Ball",
+      "number": "146/167",
+      "rarity": "Epic",
+      "type": "Signature Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722918_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722918/riftbound-league-of-legends-trading-card-game-radiance-the-ball",
+      "prices": []
+    },
+    {
+      "id": 722919,
+      "name": "The Empyrean",
+      "number": "060/167",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722919_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722919/riftbound-league-of-legends-trading-card-game-radiance-the-empyrean",
+      "prices": []
+    },
+    {
+      "id": 722920,
+      "name": "The Waters' Wage",
+      "number": "100/167",
+      "rarity": "Common",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722920_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722920/riftbound-league-of-legends-trading-card-game-radiance-the-waters-wage",
+      "prices": []
+    },
+    {
+      "id": 722921,
+      "name": "Trifarian Captain",
+      "number": "129/167",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722921_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722921/riftbound-league-of-legends-trading-card-game-radiance-trifarian-captain",
+      "prices": []
+    },
+    {
+      "id": 722922,
+      "name": "Watchful Curator",
+      "number": "037/167",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/722922_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/722922/riftbound-league-of-legends-trading-card-game-radiance-watchful-curator",
+      "prices": []
+    },
+    {
+      "id": 723201,
+      "name": "An Offer You Can't Refuse",
+      "number": "101/167",
+      "rarity": "Uncommon",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723201_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723201/riftbound-league-of-legends-trading-card-game-radiance-an-offer-you-cant-refuse",
+      "prices": []
+    },
+    {
+      "id": 723202,
+      "name": "Antagonistic Apparatus",
+      "number": "009/167",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723202_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723202/riftbound-league-of-legends-trading-card-game-radiance-antagonistic-apparatus",
+      "prices": []
+    },
+    {
+      "id": 723203,
+      "name": "Bushwhack Trap",
+      "number": "108/167",
+      "rarity": "Rare",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723203_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723203/riftbound-league-of-legends-trading-card-game-radiance-bushwhack-trap",
+      "prices": []
+    },
+    {
+      "id": 723204,
+      "name": "Demon Shade",
+      "number": "102/167",
+      "rarity": "Uncommon",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723204_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723204/riftbound-league-of-legends-trading-card-game-radiance-demon-shade",
+      "prices": []
+    },
+    {
+      "id": 723205,
+      "name": "Firebrand Raider",
+      "number": "019/167",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723205_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723205/riftbound-league-of-legends-trading-card-game-radiance-firebrand-raider",
+      "prices": []
+    },
+    {
+      "id": 723206,
+      "name": "Gravity Field",
+      "number": "062/167",
+      "rarity": "Rare",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723206_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723206/riftbound-league-of-legends-trading-card-game-radiance-gravity-field",
+      "prices": []
+    },
+    {
+      "id": 723207,
+      "name": "Heartening Soul",
+      "number": "040/167",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723207_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723207/riftbound-league-of-legends-trading-card-game-radiance-heartening-soul",
+      "prices": []
+    },
+    {
+      "id": 723208,
+      "name": "Hush",
+      "number": "041/167",
+      "rarity": "Rare",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723208_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723208/riftbound-league-of-legends-trading-card-game-radiance-hush",
+      "prices": []
+    },
+    {
+      "id": 723209,
+      "name": "Jarvan IV, Royal Heir",
+      "number": "133/167",
+      "rarity": "Rare",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723209_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723209/riftbound-league-of-legends-trading-card-game-radiance-jarvan-iv-royal-heir",
+      "prices": []
+    },
+    {
+      "id": 723210,
+      "name": "Jarvan IV, Royal Heir",
+      "label": "Alternate Art",
+      "number": "133a/167",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723210_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723210/riftbound-league-of-legends-trading-card-game-radiance-jarvan-iv-royal-heir-alternate-art",
+      "prices": []
+    },
+    {
+      "id": 723211,
+      "name": "Life from Stone",
+      "number": "029/167",
+      "rarity": "Common",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723211_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723211/riftbound-league-of-legends-trading-card-game-radiance-life-from-stone",
+      "prices": []
+    },
+    {
+      "id": 723212,
+      "name": "Mechanical Bandit",
+      "number": "111/167",
+      "rarity": "Rare",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723212_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723212/riftbound-league-of-legends-trading-card-game-radiance-mechanical-bandit",
+      "prices": []
+    },
+    {
+      "id": 723213,
+      "name": "Mordekaiser, Twice Slain",
+      "number": "020/167",
+      "rarity": "Rare",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723213_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723213/riftbound-league-of-legends-trading-card-game-radiance-mordekaiser-twice-slain",
+      "prices": []
+    },
+    {
+      "id": 723214,
+      "name": "Mordekaiser, Twice Slain",
+      "label": "Alternate Art",
+      "number": "020a/167",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723214_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723214/riftbound-league-of-legends-trading-card-game-radiance-mordekaiser-twice-slain-alternate-art",
+      "prices": []
+    },
+    {
+      "id": 723215,
+      "name": "One-Two Punch",
+      "number": "121/167",
+      "rarity": "Common",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723215_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723215/riftbound-league-of-legends-trading-card-game-radiance-one-two-punch",
+      "prices": []
+    },
+    {
+      "id": 723216,
+      "name": "Parallel Convergence",
+      "number": "051/167",
+      "rarity": "Common",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723216_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723216/riftbound-league-of-legends-trading-card-game-radiance-parallel-convergence",
+      "prices": []
+    },
+    {
+      "id": 723217,
+      "name": "Party Crasher",
+      "number": "122/167",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723217_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723217/riftbound-league-of-legends-trading-card-game-radiance-party-crasher",
+      "prices": []
+    },
+    {
+      "id": 723218,
+      "name": "Resource Extractor",
+      "number": "052/167",
+      "rarity": "Common",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723218_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723218/riftbound-league-of-legends-trading-card-game-radiance-resource-extractor",
+      "prices": []
+    },
+    {
+      "id": 723219,
+      "name": "Riven, Deserter",
+      "number": "114/167",
+      "rarity": "Epic",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723219_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723219/riftbound-league-of-legends-trading-card-game-radiance-riven-deserter",
+      "prices": []
+    },
+    {
+      "id": 723220,
+      "name": "Riven, Deserter",
+      "label": "Alternate Art",
+      "number": "114a/167",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723220_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723220/riftbound-league-of-legends-trading-card-game-radiance-riven-deserter-alternate-art",
+      "prices": []
+    },
+    {
+      "id": 723221,
+      "name": "Sanctum Conservator",
+      "number": "030/167",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723221_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723221/riftbound-league-of-legends-trading-card-game-radiance-sanctum-conservator",
+      "prices": []
+    },
+    {
+      "id": 723222,
+      "name": "Scrutinizing Scope",
+      "number": "064/167",
+      "rarity": "Rare",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723222_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723222/riftbound-league-of-legends-trading-card-game-radiance-scrutinizing-scope",
+      "prices": []
+    },
+    {
+      "id": 723223,
+      "name": "Sneaky Zeebles",
+      "number": "076/167",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723223_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723223/riftbound-league-of-legends-trading-card-game-radiance-sneaky-zeebles",
+      "prices": []
+    },
+    {
+      "id": 723224,
+      "name": "Titanic Shrine",
+      "number": "089/167",
+      "rarity": "Rare",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723224_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723224/riftbound-league-of-legends-trading-card-game-radiance-titanic-shrine",
+      "prices": []
+    },
+    {
+      "id": 723225,
+      "name": "War Scout",
+      "number": "008/167",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723225_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723225/riftbound-league-of-legends-trading-card-game-radiance-war-scout",
+      "prices": []
+    },
+    {
+      "id": 723226,
+      "name": "Wrath of the Freljord",
+      "number": "077/167",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723226_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723226/riftbound-league-of-legends-trading-card-game-radiance-wrath-of-the-freljord",
+      "prices": []
+    },
+    {
+      "id": 723227,
+      "name": "Ziggs, Explosive",
+      "label": "Alternate Art",
+      "number": "112a/167",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723227_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723227/riftbound-league-of-legends-trading-card-game-radiance-ziggs-explosive-alternate-art",
+      "prices": []
+    },
+    {
+      "id": 723228,
+      "name": "Ziggs, Explosive",
+      "number": "112/167",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723228_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723228/riftbound-league-of-legends-trading-card-game-radiance-ziggs-explosive",
+      "prices": []
+    }
+  ],
+  "pricesAt": "2026-10-13"
+}

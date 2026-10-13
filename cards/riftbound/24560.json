@@ -1,0 +1,5198 @@
+{
+  "groupId": 24560,
+  "cards": [
+    {
+      "id": 683790,
+      "name": "Baron Nashor",
+      "number": "147/219",
+      "rarity": "Epic",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/683790_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/683790/riftbound-league-of-legends-trading-card-game-unleashed-baron-nashor",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 21.53
+        }
+      ]
+    },
+    {
+      "id": 684102,
+      "name": "Lillia, Bashful Bloom",
+      "number": "189/219",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684102_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684102/riftbound-league-of-legends-trading-card-game-unleashed-lillia-bashful-bloom",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 684103,
+      "name": "Diana, Scorn of the Moon",
+      "number": "197/219",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684103_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684103/riftbound-league-of-legends-trading-card-game-unleashed-diana-scorn-of-the-moon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 684104,
+      "name": "Kha'Zix, Voidreaver",
+      "number": "201/219",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684104_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684104/riftbound-league-of-legends-trading-card-game-unleashed-khazix-voidreaver",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 684115,
+      "name": "Ivern, Green Father",
+      "number": "195/219",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684115_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684115/riftbound-league-of-legends-trading-card-game-unleashed-ivern-green-father",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 684123,
+      "name": "Crowd Favorite",
+      "number": "102/219",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684123_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684123/riftbound-league-of-legends-trading-card-game-unleashed-crowd-favorite",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.04
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 684124,
+      "name": "Mutated Mouser",
+      "number": "036/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684124_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684124/riftbound-league-of-legends-trading-card-game-unleashed-mutated-mouser",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.28
+        }
+      ]
+    },
+    {
+      "id": 684125,
+      "name": "Vilemaw",
+      "number": "060/219",
+      "rarity": "Epic",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684125_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684125/riftbound-league-of-legends-trading-card-game-unleashed-vilemaw",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 15.3
+        }
+      ]
+    },
+    {
+      "id": 684126,
+      "name": "Frigid Jewel",
+      "number": "074/219",
+      "rarity": "Uncommon",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684126_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684126/riftbound-league-of-legends-trading-card-game-unleashed-frigid-jewel",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.48
+        }
+      ]
+    },
+    {
+      "id": 684201,
+      "name": "Downstage Dramatics",
+      "number": "061/219",
+      "rarity": "Common",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684201_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684201/riftbound-league-of-legends-trading-card-game-unleashed-downstage-dramatics",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.26
+        }
+      ]
+    },
+    {
+      "id": 684202,
+      "name": "Abandon",
+      "number": "131/219",
+      "rarity": "Uncommon",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684202_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684202/riftbound-league-of-legends-trading-card-game-unleashed-abandon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.41
+        },
+        {
+          "sub": "Foil",
+          "usd": 3.45
+        }
+      ]
+    },
+    {
+      "id": 684203,
+      "name": "Lilting Lullaby",
+      "number": "190/219",
+      "rarity": "Epic",
+      "type": "Signature Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684203_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684203/riftbound-league-of-legends-trading-card-game-unleashed-lilting-lullaby",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.92
+        }
+      ]
+    },
+    {
+      "id": 684204,
+      "name": "Ivern, Friend to All",
+      "number": "177/219",
+      "rarity": "Epic",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684204_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684204/riftbound-league-of-legends-trading-card-game-unleashed-ivern-friend-to-all",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.09
+        }
+      ]
+    },
+    {
+      "id": 684205,
+      "name": "Master Yi, Unstoppable",
+      "number": "059/219",
+      "rarity": "Epic",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684205_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684205/riftbound-league-of-legends-trading-card-game-unleashed-master-yi-unstoppable",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.92
+        }
+      ]
+    },
+    {
+      "id": 684206,
+      "name": "Gemhand Hunter",
+      "number": "094/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684206_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684206/riftbound-league-of-legends-trading-card-game-unleashed-gemhand-hunter",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.22
+        }
+      ]
+    },
+    {
+      "id": 684207,
+      "name": "Nidalee, Cat Form",
+      "number": "114/219",
+      "rarity": "Rare",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684207_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684207/riftbound-league-of-legends-trading-card-game-unleashed-nidalee-cat-form",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.45
+        }
+      ]
+    },
+    {
+      "id": 684208,
+      "name": "LeBlanc, Deceiver",
+      "number": "199/219",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684208_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684208/riftbound-league-of-legends-trading-card-game-unleashed-leblanc-deceiver",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.2
+        }
+      ]
+    },
+    {
+      "id": 684209,
+      "name": "Mirror Image",
+      "number": "200/219",
+      "rarity": "Epic",
+      "type": "Signature Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684209_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684209/riftbound-league-of-legends-trading-card-game-unleashed-mirror-image",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 9.44
+        }
+      ]
+    },
+    {
+      "id": 684210,
+      "name": "Kha'Zix, Voidreaver",
+      "label": "Signature",
+      "number": "236*/219",
+      "rarity": "Showcase",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684210_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684210/riftbound-league-of-legends-trading-card-game-unleashed-khazix-voidreaver-signature",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 417.62
+        }
+      ]
+    },
+    {
+      "id": 684211,
+      "name": "Baron Nashor",
+      "label": "Alternate Art",
+      "number": "147a/219",
+      "rarity": "Showcase",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684211_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684211/riftbound-league-of-legends-trading-card-game-unleashed-baron-nashor-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 26.19
+        }
+      ]
+    },
+    {
+      "id": 684212,
+      "name": "Mosstomper",
+      "number": "047/219",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684212_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684212/riftbound-league-of-legends-trading-card-game-unleashed-mosstomper",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.28
+        }
+      ]
+    },
+    {
+      "id": 684213,
+      "name": "Inferna",
+      "number": "002/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684213_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684213/riftbound-league-of-legends-trading-card-game-unleashed-inferna",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.36
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 684214,
+      "name": "Vex, Gloomist",
+      "number": "193/219",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684214_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684214/riftbound-league-of-legends-trading-card-game-unleashed-vex-gloomist",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 684215,
+      "name": "Rengar, Trophy Hunter",
+      "number": "120/219",
+      "rarity": "Epic",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684215_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684215/riftbound-league-of-legends-trading-card-game-unleashed-rengar-trophy-hunter",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 29.3
+        }
+      ]
+    },
+    {
+      "id": 684216,
+      "name": "Rengar, Trophy Hunter",
+      "label": "Alternate Art",
+      "number": "120a/219",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684216_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684216/riftbound-league-of-legends-trading-card-game-unleashed-rengar-trophy-hunter-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 40.04
+        }
+      ]
+    },
+    {
+      "id": 684474,
+      "name": "Hwei, Brooding Painter",
+      "number": "080/219",
+      "rarity": "Rare",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684474_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684474/riftbound-league-of-legends-trading-card-game-unleashed-hwei-brooding-painter",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.15
+        }
+      ]
+    },
+    {
+      "id": 684475,
+      "name": "Vi, Piltover Enforcer",
+      "number": "187/219",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684475_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684475/riftbound-league-of-legends-trading-card-game-unleashed-vi-piltover-enforcer",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.2
+        }
+      ]
+    },
+    {
+      "id": 684476,
+      "name": "LeBlanc, Everywhere At Once",
+      "number": "090/219",
+      "rarity": "Epic",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684476_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684476/riftbound-league-of-legends-trading-card-game-unleashed-leblanc-everywhere-at-once",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.03
+        }
+      ]
+    },
+    {
+      "id": 684477,
+      "name": "Curtain Call",
+      "number": "182/219",
+      "rarity": "Epic",
+      "type": "Signature Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684477_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684477/riftbound-league-of-legends-trading-card-game-unleashed-curtain-call",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.2
+        }
+      ]
+    },
+    {
+      "id": 684478,
+      "name": "Heedless Resurrection",
+      "number": "142/219",
+      "rarity": "Rare",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684478_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684478/riftbound-league-of-legends-trading-card-game-unleashed-heedless-resurrection",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.32
+        }
+      ]
+    },
+    {
+      "id": 684479,
+      "name": "Sacrifice",
+      "number": "173/219",
+      "rarity": "Rare",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684479_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684479/riftbound-league-of-legends-trading-card-game-unleashed-sacrifice",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.79
+        }
+      ]
+    },
+    {
+      "id": 684480,
+      "name": "Smite",
+      "number": "007/219",
+      "rarity": "Common",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684480_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684480/riftbound-league-of-legends-trading-card-game-unleashed-smite",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 684481,
+      "name": "Jhin, Meticulous Killer",
+      "number": "089/219",
+      "rarity": "Epic",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684481_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684481/riftbound-league-of-legends-trading-card-game-unleashed-jhin-meticulous-killer",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.57
+        }
+      ]
+    },
+    {
+      "id": 684482,
+      "name": "Jhin, Meticulous Killer",
+      "label": "Alternate Art",
+      "number": "089a/219",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684482_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684482/riftbound-league-of-legends-trading-card-game-unleashed-jhin-meticulous-killer-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.4
+        }
+      ]
+    },
+    {
+      "id": 684483,
+      "name": "Iascylla",
+      "number": "050/219",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684483_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684483/riftbound-league-of-legends-trading-card-game-unleashed-iascylla",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 684484,
+      "name": "Hunter's Machete",
+      "number": "096/219",
+      "rarity": "Common",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684484_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684484/riftbound-league-of-legends-trading-card-game-unleashed-hunters-machete",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.19
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 684485,
+      "name": "Alpha Strike",
+      "number": "192/219",
+      "rarity": "Epic",
+      "type": "Signature Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684485_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684485/riftbound-league-of-legends-trading-card-game-unleashed-alpha-strike",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.68
+        }
+      ]
+    },
+    {
+      "id": 684486,
+      "name": "Nilah, Joyful Ascetic",
+      "number": "115/219",
+      "rarity": "Rare",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684486_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684486/riftbound-league-of-legends-trading-card-game-unleashed-nilah-joyful-ascetic",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.22
+        }
+      ]
+    },
+    {
+      "id": 684487,
+      "name": "Upstage Comedy",
+      "number": "009/219",
+      "rarity": "Common",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684487_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684487/riftbound-league-of-legends-trading-card-game-unleashed-upstage-comedy",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.26
+        }
+      ]
+    },
+    {
+      "id": 684488,
+      "name": "Dancing Grenade",
+      "number": "020/219",
+      "rarity": "Rare",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684488_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684488/riftbound-league-of-legends-trading-card-game-unleashed-dancing-grenade",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.24
+        }
+      ]
+    },
+    {
+      "id": 684489,
+      "name": "Jhin, Murderous Artist",
+      "number": "022/219",
+      "rarity": "Rare",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684489_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684489/riftbound-league-of-legends-trading-card-game-unleashed-jhin-murderous-artist",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.44
+        }
+      ]
+    },
+    {
+      "id": 684490,
+      "name": "Jhin, Murderous Artist",
+      "label": "Alternate Art",
+      "number": "022a/219",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684490_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684490/riftbound-league-of-legends-trading-card-game-unleashed-jhin-murderous-artist-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5.61
+        }
+      ]
+    },
+    {
+      "id": 684491,
+      "name": "Master Yi, Unstoppable",
+      "label": "Alternate Art",
+      "number": "059a/219",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684491_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684491/riftbound-league-of-legends-trading-card-game-unleashed-master-yi-unstoppable-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.49
+        }
+      ]
+    },
+    {
+      "id": 684492,
+      "name": "Vilemaw",
+      "label": "Alternate Art",
+      "number": "060a/219",
+      "rarity": "Showcase",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684492_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684492/riftbound-league-of-legends-trading-card-game-unleashed-vilemaw-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 18.53
+        }
+      ]
+    },
+    {
+      "id": 684493,
+      "name": "Crescent Guardian",
+      "number": "122/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684493_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684493/riftbound-league-of-legends-trading-card-game-unleashed-crescent-guardian",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.1
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.05
+        }
+      ]
+    },
+    {
+      "id": 684494,
+      "name": "Insightful Investigator",
+      "number": "135/219",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684494_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684494/riftbound-league-of-legends-trading-card-game-unleashed-insightful-investigator",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.29
+        }
+      ]
+    },
+    {
+      "id": 684495,
+      "name": "Diana, No Longer Human",
+      "number": "149/219",
+      "rarity": "Epic",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684495_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684495/riftbound-league-of-legends-trading-card-game-unleashed-diana-no-longer-human",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.79
+        }
+      ]
+    },
+    {
+      "id": 684496,
+      "name": "Diana, No Longer Human",
+      "label": "Alternate Art",
+      "number": "149a/219",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684496_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684496/riftbound-league-of-legends-trading-card-game-unleashed-diana-no-longer-human-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.74
+        }
+      ]
+    },
+    {
+      "id": 684497,
+      "name": "Ashe, Focused",
+      "number": "169/219",
+      "rarity": "Rare",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684497_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684497/riftbound-league-of-legends-trading-card-game-unleashed-ashe-focused",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.17
+        }
+      ]
+    },
+    {
+      "id": 684498,
+      "name": "Atakhan",
+      "number": "170/219",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684498_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684498/riftbound-league-of-legends-trading-card-game-unleashed-atakhan",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 684499,
+      "name": "Ivern, Friend to All",
+      "label": "Alternate Art",
+      "number": "177a/219",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684499_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684499/riftbound-league-of-legends-trading-card-game-unleashed-ivern-friend-to-all-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.43
+        }
+      ]
+    },
+    {
+      "id": 684500,
+      "name": "Jhin, Virtuoso",
+      "number": "181/219",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684500_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684500/riftbound-league-of-legends-trading-card-game-unleashed-jhin-virtuoso",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.21
+        }
+      ]
+    },
+    {
+      "id": 684501,
+      "name": "Lillia, Bashful Bloom",
+      "label": "Overnumbered",
+      "number": "230/219",
+      "rarity": "Showcase",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684501_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684501/riftbound-league-of-legends-trading-card-game-unleashed-lillia-bashful-bloom-overnumbered",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 75.25
+        }
+      ]
+    },
+    {
+      "id": 684502,
+      "name": "Lillia, Bashful Bloom",
+      "label": "Signature",
+      "number": "230*/219",
+      "rarity": "Showcase",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684502_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684502/riftbound-league-of-legends-trading-card-game-unleashed-lillia-bashful-bloom-signature",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 504.48
+        }
+      ]
+    },
+    {
+      "id": 684503,
+      "name": "Ivern, Green Father",
+      "label": "Overnumbered",
+      "number": "233/219",
+      "rarity": "Showcase",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684503_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684503/riftbound-league-of-legends-trading-card-game-unleashed-ivern-green-father-overnumbered",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 64.04
+        }
+      ]
+    },
+    {
+      "id": 684504,
+      "name": "Ivern, Green Father",
+      "label": "Signature",
+      "number": "233*/219",
+      "rarity": "Showcase",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684504_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684504/riftbound-league-of-legends-trading-card-game-unleashed-ivern-green-father-signature",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 399.52
+        }
+      ]
+    },
+    {
+      "id": 684505,
+      "name": "Diana, Scorn of the Moon",
+      "label": "Overnumbered",
+      "number": "234/219",
+      "rarity": "Showcase",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684505_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684505/riftbound-league-of-legends-trading-card-game-unleashed-diana-scorn-of-the-moon-overnumbered",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 235.34
+        }
+      ]
+    },
+    {
+      "id": 684506,
+      "name": "Diana, Scorn of the Moon",
+      "label": "Signature",
+      "number": "234*/219",
+      "rarity": "Showcase",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684506_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684506/riftbound-league-of-legends-trading-card-game-unleashed-diana-scorn-of-the-moon-signature",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1529.86
+        }
+      ]
+    },
+    {
+      "id": 684507,
+      "name": "Kha'Zix, Voidreaver",
+      "label": "Overnumbered",
+      "number": "236/219",
+      "rarity": "Showcase",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684507_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684507/riftbound-league-of-legends-trading-card-game-unleashed-khazix-voidreaver-overnumbered",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 106.86
+        }
+      ]
+    },
+    {
+      "id": 684509,
+      "name": "Pyke, Returned",
+      "number": "145/219",
+      "rarity": "Rare",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684509_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684509/riftbound-league-of-legends-trading-card-game-unleashed-pyke-returned",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.97
+        }
+      ]
+    },
+    {
+      "id": 684510,
+      "name": "Inviolus Vox",
+      "number": "027/219",
+      "rarity": "Epic",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684510_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684510/riftbound-league-of-legends-trading-card-game-unleashed-inviolus-vox",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.51
+        }
+      ]
+    },
+    {
+      "id": 684511,
+      "name": "Ivern, Nurturer",
+      "number": "051/219",
+      "rarity": "Rare",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684511_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684511/riftbound-league-of-legends-trading-card-game-unleashed-ivern-nurturer",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.2
+        }
+      ]
+    },
+    {
+      "id": 684512,
+      "name": "Diana, Lunari",
+      "number": "079/219",
+      "rarity": "Rare",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684512_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684512/riftbound-league-of-legends-trading-card-game-unleashed-diana-lunari",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.2
+        }
+      ]
+    },
+    {
+      "id": 684517,
+      "name": "Poppy, Keeper of the Hammer",
+      "label": "Overnumbered",
+      "number": "237/219",
+      "rarity": "Showcase",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684517_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684517/riftbound-league-of-legends-trading-card-game-unleashed-poppy-keeper-of-the-hammer-overnumbered",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 45.09
+        }
+      ]
+    },
+    {
+      "id": 684521,
+      "name": "Poppy, Keeper of the Hammer",
+      "label": "Signature",
+      "number": "237*/219",
+      "rarity": "Showcase",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684521_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684521/riftbound-league-of-legends-trading-card-game-unleashed-poppy-keeper-of-the-hammer-signature",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 427.53
+        }
+      ]
+    },
+    {
+      "id": 684523,
+      "name": "Poppy, Keeper of the Hammer",
+      "number": "203/219",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684523_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684523/riftbound-league-of-legends-trading-card-game-unleashed-poppy-keeper-of-the-hammer",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.22
+        }
+      ]
+    },
+    {
+      "id": 684527,
+      "name": "Moonfall",
+      "number": "198/219",
+      "rarity": "Epic",
+      "type": "Signature Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684527_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684527/riftbound-league-of-legends-trading-card-game-unleashed-moonfall",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 6.7
+        }
+      ]
+    },
+    {
+      "id": 684531,
+      "name": "Fresh Beans",
+      "number": "011/219",
+      "rarity": "Uncommon",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684531_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684531/riftbound-league-of-legends-trading-card-game-unleashed-fresh-beans",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.26
+        }
+      ]
+    },
+    {
+      "id": 684538,
+      "name": "Yuumi, Magical Cat",
+      "number": "056/219",
+      "rarity": "Rare",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684538_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684538/riftbound-league-of-legends-trading-card-game-unleashed-yuumi-magical-cat",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 684546,
+      "name": "Rift Herald",
+      "number": "179/219",
+      "rarity": "Epic",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684546_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684546/riftbound-league-of-legends-trading-card-game-unleashed-rift-herald",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 8.71
+        }
+      ]
+    },
+    {
+      "id": 684584,
+      "name": "Mischievous Marai",
+      "number": "003/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684584_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684584/riftbound-league-of-legends-trading-card-game-unleashed-mischievous-marai",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.29
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 684585,
+      "name": "Vi, Hotheaded",
+      "number": "030/219",
+      "rarity": "Epic",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684585_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684585/riftbound-league-of-legends-trading-card-game-unleashed-vi-hotheaded",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.33
+        }
+      ]
+    },
+    {
+      "id": 684586,
+      "name": "Vi, Hotheaded",
+      "label": "Alternate Art",
+      "number": "030a/219",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684586_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684586/riftbound-league-of-legends-trading-card-game-unleashed-vi-hotheaded-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.47
+        }
+      ]
+    },
+    {
+      "id": 684587,
+      "name": "Shadow Watcher",
+      "number": "037/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684587_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684587/riftbound-league-of-legends-trading-card-game-unleashed-shadow-watcher",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 684588,
+      "name": "Lillia, Protector of Dreams",
+      "label": "Alternate Art",
+      "number": "058a/219",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684588_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684588/riftbound-league-of-legends-trading-card-game-unleashed-lillia-protector-of-dreams-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 6.98
+        }
+      ]
+    },
+    {
+      "id": 684589,
+      "name": "Lillia, Protector of Dreams",
+      "number": "058/219",
+      "rarity": "Epic",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684589_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684589/riftbound-league-of-legends-trading-card-game-unleashed-lillia-protector-of-dreams",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.59
+        }
+      ]
+    },
+    {
+      "id": 684590,
+      "name": "Icevale Archer",
+      "number": "065/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684590_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684590/riftbound-league-of-legends-trading-card-game-unleashed-icevale-archer",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 684591,
+      "name": "Crescent Strike",
+      "number": "072/219",
+      "rarity": "Uncommon",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684591_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684591/riftbound-league-of-legends-trading-card-game-unleashed-crescent-strike",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.23
+        }
+      ]
+    },
+    {
+      "id": 684592,
+      "name": "Blue Sentinel",
+      "number": "087/219",
+      "rarity": "Epic",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684592_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684592/riftbound-league-of-legends-trading-card-game-unleashed-blue-sentinel",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.63
+        }
+      ]
+    },
+    {
+      "id": 684593,
+      "name": "Blue Sentinel",
+      "label": "Alternate Art",
+      "number": "087a/219",
+      "rarity": "Showcase",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684593_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684593/riftbound-league-of-legends-trading-card-game-unleashed-blue-sentinel-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.19
+        }
+      ]
+    },
+    {
+      "id": 684595,
+      "name": "Ivern, Nurturer",
+      "label": "Alternate Art",
+      "number": "051a/219",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684595_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684595/riftbound-league-of-legends-trading-card-game-unleashed-ivern-nurturer-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.12
+        }
+      ]
+    },
+    {
+      "id": 684596,
+      "name": "Gutter Palace",
+      "number": "088/219",
+      "rarity": "Epic",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684596_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684596/riftbound-league-of-legends-trading-card-game-unleashed-gutter-palace",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.39
+        }
+      ]
+    },
+    {
+      "id": 684597,
+      "name": "LeBlanc, Everywhere At Once",
+      "label": "Alternate Art",
+      "number": "090a/219",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684597_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684597/riftbound-league-of-legends-trading-card-game-unleashed-leblanc-everywhere-at-once-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 8.08
+        }
+      ]
+    },
+    {
+      "id": 684598,
+      "name": "Demacian Diplomat",
+      "number": "092/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684598_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684598/riftbound-league-of-legends-trading-card-game-unleashed-demacian-diplomat",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.15
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.04
+        }
+      ]
+    },
+    {
+      "id": 684599,
+      "name": "Call to Battle",
+      "number": "101/219",
+      "rarity": "Uncommon",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684599_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684599/riftbound-league-of-legends-trading-card-game-unleashed-call-to-battle",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.23
+        }
+      ]
+    },
+    {
+      "id": 684600,
+      "name": "Master Yi, Tempered",
+      "number": "113/219",
+      "rarity": "Rare",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684600_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684600/riftbound-league-of-legends-trading-card-game-unleashed-master-yi-tempered",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.17
+        }
+      ]
+    },
+    {
+      "id": 684601,
+      "name": "Master Yi, Tempered",
+      "label": "Alternate Art",
+      "number": "113a/219",
+      "rarity": "Showcase",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684601_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684601/riftbound-league-of-legends-trading-card-game-unleashed-master-yi-tempered-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.02
+        }
+      ]
+    },
+    {
+      "id": 684602,
+      "name": "Kha'Zix, Evolving Hunter",
+      "number": "119/219",
+      "rarity": "Epic",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684602_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684602/riftbound-league-of-legends-trading-card-game-unleashed-khazix-evolving-hunter",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.62
+        }
+      ]
+    },
+    {
+      "id": 684603,
+      "name": "Kha'Zix, Evolving Hunter",
+      "label": "Alternate Art",
+      "number": "119a/219",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684603_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684603/riftbound-league-of-legends-trading-card-game-unleashed-khazix-evolving-hunter-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.8
+        }
+      ]
+    },
+    {
+      "id": 684604,
+      "name": "Star-Crossed",
+      "number": "128/219",
+      "rarity": "Common",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684604_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684604/riftbound-league-of-legends-trading-card-game-unleashed-star-crossed",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.61
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.26
+        }
+      ]
+    },
+    {
+      "id": 684605,
+      "name": "Walking Roost",
+      "number": "130/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684605_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684605/riftbound-league-of-legends-trading-card-game-unleashed-walking-roost",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.16
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.03
+        }
+      ]
+    },
+    {
+      "id": 684606,
+      "name": "Sinister Poro",
+      "number": "137/219",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684606_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684606/riftbound-league-of-legends-trading-card-game-unleashed-sinister-poro",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.34
+        }
+      ]
+    },
+    {
+      "id": 684607,
+      "name": "The List",
+      "number": "138/219",
+      "rarity": "Uncommon",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684607_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684607/riftbound-league-of-legends-trading-card-game-unleashed-the-list",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.24
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.78
+        }
+      ]
+    },
+    {
+      "id": 684608,
+      "name": "Pyke, Returned",
+      "label": "Alternate Art",
+      "number": "145a/219",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684608_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684608/riftbound-league-of-legends-trading-card-game-unleashed-pyke-returned-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 9.78
+        }
+      ]
+    },
+    {
+      "id": 684609,
+      "name": "Cursed Sarcophagus",
+      "number": "148/219",
+      "rarity": "Epic",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684609_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684609/riftbound-league-of-legends-trading-card-game-unleashed-cursed-sarcophagus",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.44
+        }
+      ]
+    },
+    {
+      "id": 684610,
+      "name": "Crimson Pigeons",
+      "number": "154/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684610_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684610/riftbound-league-of-legends-trading-card-game-unleashed-crimson-pigeons",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.23
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.05
+        }
+      ]
+    },
+    {
+      "id": 684611,
+      "name": "Loyal Poro",
+      "number": "156/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684611_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684611/riftbound-league-of-legends-trading-card-game-unleashed-loyal-poro",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.24
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 684612,
+      "name": "Scrutinizing Sergeant",
+      "number": "157/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684612_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684612/riftbound-league-of-legends-trading-card-game-unleashed-scrutinizing-sergeant",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.11
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.04
+        }
+      ]
+    },
+    {
+      "id": 684613,
+      "name": "Ultrasoft Poro",
+      "number": "160/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684613_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684613/riftbound-league-of-legends-trading-card-game-unleashed-ultrasoft-poro",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.29
+        }
+      ]
+    },
+    {
+      "id": 684614,
+      "name": "Stalking Wolf",
+      "number": "166/219",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684614_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684614/riftbound-league-of-legends-trading-card-game-unleashed-stalking-wolf",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.17
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 684618,
+      "name": "Rengar, Pridestalker",
+      "number": "183/219",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684618_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684618/riftbound-league-of-legends-trading-card-game-unleashed-rengar-pridestalker",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.24
+        }
+      ]
+    },
+    {
+      "id": 684619,
+      "name": "Pyke, Bloodharbor Ripper",
+      "number": "185/219",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684619_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684619/riftbound-league-of-legends-trading-card-game-unleashed-pyke-bloodharbor-ripper",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 684620,
+      "name": "Master Yi, Wuju Master",
+      "number": "191/219",
+      "rarity": "Rare",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684620_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684620/riftbound-league-of-legends-trading-card-game-unleashed-master-yi-wuju-master",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 684625,
+      "name": "Keeper's Verdict",
+      "number": "204/219",
+      "rarity": "Epic",
+      "type": "Signature Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684625_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684625/riftbound-league-of-legends-trading-card-game-unleashed-keepers-verdict",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.59
+        }
+      ]
+    },
+    {
+      "id": 684628,
+      "name": "Pouty Poro",
+      "label": "Overnumbered",
+      "number": "220/219",
+      "rarity": "Showcase",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684628_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684628/riftbound-league-of-legends-trading-card-game-unleashed-pouty-poro-overnumbered",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 215.46
+        }
+      ]
+    },
+    {
+      "id": 684632,
+      "name": "Lonely Poro",
+      "label": "Overnumbered",
+      "number": "221/219",
+      "rarity": "Showcase",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684632_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684632/riftbound-league-of-legends-trading-card-game-unleashed-lonely-poro-overnumbered",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 365.31
+        }
+      ]
+    },
+    {
+      "id": 684633,
+      "name": "Plundering Poro",
+      "label": "Overnumbered",
+      "number": "222/219",
+      "rarity": "Showcase",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684633_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684633/riftbound-league-of-legends-trading-card-game-unleashed-plundering-poro-overnumbered",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 195.08
+        }
+      ]
+    },
+    {
+      "id": 684635,
+      "name": "Veteran Poro",
+      "label": "Overnumbered",
+      "number": "223/219",
+      "rarity": "Showcase",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684635_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684635/riftbound-league-of-legends-trading-card-game-unleashed-veteran-poro-overnumbered",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 175
+        }
+      ]
+    },
+    {
+      "id": 684636,
+      "name": "Mystic Poro",
+      "label": "Overnumbered",
+      "number": "224/219",
+      "rarity": "Showcase",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684636_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684636/riftbound-league-of-legends-trading-card-game-unleashed-mystic-poro-overnumbered",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 183.88
+        }
+      ]
+    },
+    {
+      "id": 684638,
+      "name": "Daring Poro",
+      "label": "Overnumbered",
+      "number": "225/219",
+      "rarity": "Showcase",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684638_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684638/riftbound-league-of-legends-trading-card-game-unleashed-daring-poro-overnumbered",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 168.23
+        }
+      ]
+    },
+    {
+      "id": 684649,
+      "name": "Soul Shepherd",
+      "number": "077/219",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684649_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684649/riftbound-league-of-legends-trading-card-game-unleashed-soul-shepherd",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.3
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 684650,
+      "name": "Undying Loyalty",
+      "number": "168/219",
+      "rarity": "Uncommon",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684650_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684650/riftbound-league-of-legends-trading-card-game-unleashed-undying-loyalty",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.31
+        }
+      ]
+    },
+    {
+      "id": 684651,
+      "name": "Back Off",
+      "number": "042/219",
+      "rarity": "Uncommon",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684651_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684651/riftbound-league-of-legends-trading-card-game-unleashed-back-off",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.25
+        },
+        {
+          "sub": "Foil",
+          "usd": 1.63
+        }
+      ]
+    },
+    {
+      "id": 684652,
+      "name": "Friendship",
+      "number": "046/219",
+      "rarity": "Uncommon",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684652_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684652/riftbound-league-of-legends-trading-card-game-unleashed-friendship",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.37
+        }
+      ]
+    },
+    {
+      "id": 684653,
+      "name": "Towering Pairofant",
+      "number": "008/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684653_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684653/riftbound-league-of-legends-trading-card-game-unleashed-towering-pairofant",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.08
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.05
+        }
+      ]
+    },
+    {
+      "id": 684654,
+      "name": "Mageseeker Investigator",
+      "number": "163/219",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684654_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684654/riftbound-league-of-legends-trading-card-game-unleashed-mageseeker-investigator",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.21
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 684655,
+      "name": "Deadly Flourish",
+      "number": "073/219",
+      "rarity": "Uncommon",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684655_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684655/riftbound-league-of-legends-trading-card-game-unleashed-deadly-flourish",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.28
+        },
+        {
+          "sub": "Foil",
+          "usd": 5.9
+        }
+      ]
+    },
+    {
+      "id": 684656,
+      "name": "Elder Dragon",
+      "label": "Alternate Art",
+      "number": "118a/219",
+      "rarity": "Showcase",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684656_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684656/riftbound-league-of-legends-trading-card-game-unleashed-elder-dragon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 25.39
+        }
+      ]
+    },
+    {
+      "id": 684657,
+      "name": "Hextech Gauntlets",
+      "number": "188/219",
+      "rarity": "Epic",
+      "type": "Signature Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684657_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684657/riftbound-league-of-legends-trading-card-game-unleashed-hextech-gauntlets",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.47
+        }
+      ]
+    },
+    {
+      "id": 684668,
+      "name": "Blighted Battleaxe",
+      "number": "019/219",
+      "rarity": "Rare",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684668_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684668/riftbound-league-of-legends-trading-card-game-unleashed-blighted-battleaxe",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.31
+        }
+      ]
+    },
+    {
+      "id": 684675,
+      "name": "Gardens of Becoming",
+      "number": "213/219",
+      "rarity": "Uncommon",
+      "type": "Battlefield",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684675_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684675/riftbound-league-of-legends-trading-card-game-unleashed-gardens-of-becoming",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.21
+        }
+      ]
+    },
+    {
+      "id": 684676,
+      "name": "Vaults of Helia",
+      "number": "219/219",
+      "rarity": "Uncommon",
+      "type": "Battlefield",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684676_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684676/riftbound-league-of-legends-trading-card-game-unleashed-vaults-of-helia",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.24
+        }
+      ]
+    },
+    {
+      "id": 684677,
+      "name": "Ripper's Bay",
+      "number": "214/219",
+      "rarity": "Uncommon",
+      "type": "Battlefield",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684677_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684677/riftbound-league-of-legends-trading-card-game-unleashed-rippers-bay",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.27
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 684678,
+      "name": "Frozen Fortress",
+      "number": "212/219",
+      "rarity": "Uncommon",
+      "type": "Battlefield",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/684678_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/684678/riftbound-league-of-legends-trading-card-game-unleashed-frozen-fortress",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.29
+        }
+      ]
+    },
+    {
+      "id": 685002,
+      "name": "Sharkling",
+      "number": "006/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685002_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685002/riftbound-league-of-legends-trading-card-game-unleashed-sharkling",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.24
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 685003,
+      "name": "Pyke, Dockside Butcher",
+      "number": "028/219",
+      "rarity": "Epic",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685003_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685003/riftbound-league-of-legends-trading-card-game-unleashed-pyke-dockside-butcher",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 16.13
+        }
+      ]
+    },
+    {
+      "id": 685004,
+      "name": "Pyke, Dockside Butcher",
+      "label": "Alternate Art",
+      "number": "028a/219",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685004_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685004/riftbound-league-of-legends-trading-card-game-unleashed-pyke-dockside-butcher-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 17.87
+        }
+      ]
+    },
+    {
+      "id": 685005,
+      "name": "Combat Experience",
+      "number": "031/219",
+      "rarity": "Common",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685005_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685005/riftbound-league-of-legends-trading-card-game-unleashed-combat-experience",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.12
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.04
+        }
+      ]
+    },
+    {
+      "id": 685006,
+      "name": "Wily Newtfish",
+      "number": "108/219",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685006_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685006/riftbound-league-of-legends-trading-card-game-unleashed-wily-newtfish",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.22
+        }
+      ]
+    },
+    {
+      "id": 685007,
+      "name": "Elder Dragon",
+      "number": "118/219",
+      "rarity": "Epic",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685007_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685007/riftbound-league-of-legends-trading-card-game-unleashed-elder-dragon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 19.34
+        }
+      ]
+    },
+    {
+      "id": 685020,
+      "name": "Existential Dread",
+      "number": "134/219",
+      "rarity": "Uncommon",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685020_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685020/riftbound-league-of-legends-trading-card-game-unleashed-existential-dread",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.23
+        },
+        {
+          "sub": "Foil",
+          "usd": 1.32
+        }
+      ]
+    },
+    {
+      "id": 685021,
+      "name": "Dusk Rose Lab",
+      "number": "209/219",
+      "rarity": "Uncommon",
+      "type": "Battlefield",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685021_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685021/riftbound-league-of-legends-trading-card-game-unleashed-dusk-rose-lab",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.28
+        }
+      ]
+    },
+    {
+      "id": 685022,
+      "name": "Forbidding Waste",
+      "number": "210/219",
+      "rarity": "Uncommon",
+      "type": "Battlefield",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685022_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685022/riftbound-league-of-legends-trading-card-game-unleashed-forbidding-waste",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.32
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 685023,
+      "name": "Forgotten Library",
+      "number": "211/219",
+      "rarity": "Uncommon",
+      "type": "Battlefield",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685023_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685023/riftbound-league-of-legends-trading-card-game-unleashed-forgotten-library",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.17
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 685025,
+      "name": "The Academy",
+      "number": "216/219",
+      "rarity": "Uncommon",
+      "type": "Battlefield",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685025_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685025/riftbound-league-of-legends-trading-card-game-unleashed-the-academy",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 685026,
+      "name": "Galio, Indefatigable",
+      "number": "171/219",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685026_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685026/riftbound-league-of-legends-trading-card-game-unleashed-galio-indefatigable",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.21
+        }
+      ]
+    },
+    {
+      "id": 685027,
+      "name": "Kha'Zix, Mutating Horror",
+      "number": "143/219",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685027_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685027/riftbound-league-of-legends-trading-card-game-unleashed-khazix-mutating-horror",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.27
+        }
+      ]
+    },
+    {
+      "id": 685028,
+      "name": "Rift Herald",
+      "label": "Alternate Art",
+      "number": "179a/219",
+      "rarity": "Showcase",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685028_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685028/riftbound-league-of-legends-trading-card-game-unleashed-rift-herald-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 13.98
+        }
+      ]
+    },
+    {
+      "id": 685029,
+      "name": "Zilean, Time Mage",
+      "number": "086/219",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685029_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685029/riftbound-league-of-legends-trading-card-game-unleashed-zilean-time-mage",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.25
+        }
+      ]
+    },
+    {
+      "id": 685193,
+      "name": "Trapping Grounds",
+      "number": "217/219",
+      "rarity": "Uncommon",
+      "type": "Battlefield",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685193_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685193/riftbound-league-of-legends-trading-card-game-unleashed-trapping-grounds",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.18
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.05
+        }
+      ]
+    },
+    {
+      "id": 685196,
+      "name": "Gustwalker",
+      "number": "075/219",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685196_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685196/riftbound-league-of-legends-trading-card-game-unleashed-gustwalker",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.25
+        }
+      ]
+    },
+    {
+      "id": 685197,
+      "name": "Soul Sword",
+      "number": "039/219",
+      "rarity": "Common",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685197_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685197/riftbound-league-of-legends-trading-card-game-unleashed-soul-sword",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.28
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 685198,
+      "name": "Herald of Spring",
+      "number": "034/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685198_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685198/riftbound-league-of-legends-trading-card-game-unleashed-herald-of-spring",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 685200,
+      "name": "Concentrate",
+      "number": "091/219",
+      "rarity": "Common",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685200_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685200/riftbound-league-of-legends-trading-card-game-unleashed-concentrate",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.23
+        }
+      ]
+    },
+    {
+      "id": 685203,
+      "name": "Blood Rose",
+      "number": "109/219",
+      "rarity": "Rare",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685203_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685203/riftbound-league-of-legends-trading-card-game-unleashed-blood-rose",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.16
+        }
+      ]
+    },
+    {
+      "id": 685204,
+      "name": "Megatusk",
+      "number": "126/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685204_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685204/riftbound-league-of-legends-trading-card-game-unleashed-megatusk",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.09
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.03
+        }
+      ]
+    },
+    {
+      "id": 685233,
+      "name": "Thrill of the Hunt",
+      "number": "184/219",
+      "rarity": "Epic",
+      "type": "Signature Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685233_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685233/riftbound-league-of-legends-trading-card-game-unleashed-thrill-of-the-hunt",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 8.39
+        }
+      ]
+    },
+    {
+      "id": 685253,
+      "name": "Shadow's Call",
+      "number": "165/219",
+      "rarity": "Uncommon",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685253_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685253/riftbound-league-of-legends-trading-card-game-unleashed-shadows-call",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.82
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.29
+        }
+      ]
+    },
+    {
+      "id": 685487,
+      "name": "Rengar, Unseen",
+      "number": "024/219",
+      "rarity": "Rare",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685487_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685487/riftbound-league-of-legends-trading-card-game-unleashed-rengar-unseen",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.39
+        }
+      ]
+    },
+    {
+      "id": 685488,
+      "name": "Rengar, Unseen",
+      "label": "Alternate Art",
+      "number": "024a/219",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685488_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685488/riftbound-league-of-legends-trading-card-game-unleashed-rengar-unseen-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.94
+        }
+      ]
+    },
+    {
+      "id": 685489,
+      "name": "Enthusiastic Promoter",
+      "number": "043/219",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685489_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685489/riftbound-league-of-legends-trading-card-game-unleashed-enthusiastic-promoter",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.24
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 685490,
+      "name": "Turn to Dust",
+      "number": "070/219",
+      "rarity": "Common",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685490_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685490/riftbound-league-of-legends-trading-card-game-unleashed-turn-to-dust",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.81
+        }
+      ]
+    },
+    {
+      "id": 685491,
+      "name": "Kha'Zix, Mutating Horror",
+      "label": "Alternate Art",
+      "number": "143a/219",
+      "rarity": "Showcase",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685491_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685491/riftbound-league-of-legends-trading-card-game-unleashed-khazix-mutating-horror-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 7.14
+        }
+      ]
+    },
+    {
+      "id": 685492,
+      "name": "The Ruination",
+      "number": "180/219",
+      "rarity": "Epic",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685492_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685492/riftbound-league-of-legends-trading-card-game-unleashed-the-ruination",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 6.56
+        }
+      ]
+    },
+    {
+      "id": 685493,
+      "name": "Black Flame Altar",
+      "number": "208/219",
+      "rarity": "Uncommon",
+      "type": "Battlefield",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685493_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685493/riftbound-league-of-legends-trading-card-game-unleashed-black-flame-altar",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.21
+        }
+      ]
+    },
+    {
+      "id": 685516,
+      "name": "Red Brambleback",
+      "number": "029/219",
+      "rarity": "Epic",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685516_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685516/riftbound-league-of-legends-trading-card-game-unleashed-red-brambleback",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.9
+        }
+      ]
+    },
+    {
+      "id": 685519,
+      "name": "Scuttle Crab",
+      "number": "053/219",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685519_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685519/riftbound-league-of-legends-trading-card-game-unleashed-scuttle-crab",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.86
+        }
+      ]
+    },
+    {
+      "id": 685520,
+      "name": "Poppy, Paragon",
+      "number": "116/219",
+      "rarity": "Rare",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685520_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685520/riftbound-league-of-legends-trading-card-game-unleashed-poppy-paragon",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.28
+        }
+      ]
+    },
+    {
+      "id": 685521,
+      "name": "Vi, Piltover Enforcer",
+      "label": "Overnumbered",
+      "number": "229/219",
+      "rarity": "Showcase",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685521_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685521/riftbound-league-of-legends-trading-card-game-unleashed-vi-piltover-enforcer-overnumbered",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 91.82
+        }
+      ]
+    },
+    {
+      "id": 685522,
+      "name": "Vi, Piltover Enforcer",
+      "label": "Signature",
+      "number": "229*/219",
+      "rarity": "Showcase",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685522_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685522/riftbound-league-of-legends-trading-card-game-unleashed-vi-piltover-enforcer-signature",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 641
+        }
+      ]
+    },
+    {
+      "id": 685523,
+      "name": "Diana, Lunari",
+      "label": "Alternate Art",
+      "number": "079a/219",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685523_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685523/riftbound-league-of-legends-trading-card-game-unleashed-diana-lunari-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.16
+        }
+      ]
+    },
+    {
+      "id": 685524,
+      "name": "Jhin, Virtuoso",
+      "label": "Signature",
+      "number": "226*/219",
+      "rarity": "Showcase",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685524_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685524/riftbound-league-of-legends-trading-card-game-unleashed-jhin-virtuoso-signature",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 603.8
+        }
+      ]
+    },
+    {
+      "id": 685525,
+      "name": "Pyke, Bloodharbor Ripper",
+      "label": "Signature",
+      "number": "228*/219",
+      "rarity": "Showcase",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685525_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685525/riftbound-league-of-legends-trading-card-game-unleashed-pyke-bloodharbor-ripper-signature",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 579.26
+        }
+      ]
+    },
+    {
+      "id": 685526,
+      "name": "Rengar, Pridestalker",
+      "label": "Signature",
+      "number": "227*/219",
+      "rarity": "Showcase",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685526_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685526/riftbound-league-of-legends-trading-card-game-unleashed-rengar-pridestalker-signature",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 573.47
+        }
+      ]
+    },
+    {
+      "id": 685527,
+      "name": "Master Yi, Wuju Master",
+      "label": "Overnumbered",
+      "number": "231/219",
+      "rarity": "Showcase",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685527_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685527/riftbound-league-of-legends-trading-card-game-unleashed-master-yi-wuju-master-overnumbered",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 49.27
+        }
+      ]
+    },
+    {
+      "id": 685528,
+      "name": "Revna the Lorekeeper",
+      "number": "005/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685528_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685528/riftbound-league-of-legends-trading-card-game-unleashed-revna-the-lorekeeper",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.16
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.05
+        }
+      ]
+    },
+    {
+      "id": 685529,
+      "name": "Starhound",
+      "number": "167/219",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685529_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685529/riftbound-league-of-legends-trading-card-game-unleashed-starhound",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.23
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 685530,
+      "name": "Isolate",
+      "number": "124/219",
+      "rarity": "Common",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685530_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685530/riftbound-league-of-legends-trading-card-game-unleashed-isolate",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.17
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 685532,
+      "name": "Forgotten Signpost",
+      "number": "045/219",
+      "rarity": "Uncommon",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685532_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685532/riftbound-league-of-legends-trading-card-game-unleashed-forgotten-signpost",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.36
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 685534,
+      "name": "Enthralling Protector",
+      "number": "162/219",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685534_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685534/riftbound-league-of-legends-trading-card-game-unleashed-enthralling-protector",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.05
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.24
+        }
+      ]
+    },
+    {
+      "id": 685535,
+      "name": "Bone Skewer",
+      "number": "139/219",
+      "rarity": "Rare",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685535_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685535/riftbound-league-of-legends-trading-card-game-unleashed-bone-skewer",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.34
+        }
+      ]
+    },
+    {
+      "id": 685536,
+      "name": "Targonian Visionary",
+      "number": "098/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685536_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685536/riftbound-league-of-legends-trading-card-game-unleashed-targonian-visionary",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.12
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.04
+        }
+      ]
+    },
+    {
+      "id": 685537,
+      "name": "Prepared Neophyte",
+      "number": "004/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685537_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685537/riftbound-league-of-legends-trading-card-game-unleashed-prepared-neophyte",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.16
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.05
+        }
+      ]
+    },
+    {
+      "id": 685538,
+      "name": "Determined Sentry",
+      "number": "111/219",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685538_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685538/riftbound-league-of-legends-trading-card-game-unleashed-determined-sentry",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.25
+        }
+      ]
+    },
+    {
+      "id": 685568,
+      "name": "LeBlanc, Fragmented",
+      "number": "172/219",
+      "rarity": "Rare",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685568_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685568/riftbound-league-of-legends-trading-card-game-unleashed-leblanc-fragmented",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.33
+        }
+      ]
+    },
+    {
+      "id": 685569,
+      "name": "LeBlanc, Fragmented",
+      "label": "Alternate Art",
+      "number": "172a/219",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685569_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685569/riftbound-league-of-legends-trading-card-game-unleashed-leblanc-fragmented-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.4
+        }
+      ]
+    },
+    {
+      "id": 685570,
+      "name": "Tricksy Tentacles",
+      "number": "054/219",
+      "rarity": "Rare",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685570_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685570/riftbound-league-of-legends-trading-card-game-unleashed-tricksy-tentacles",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 685571,
+      "name": "Undying Legion",
+      "number": "025/219",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685571_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685571/riftbound-league-of-legends-trading-card-game-unleashed-undying-legion",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.16
+        }
+      ]
+    },
+    {
+      "id": 685572,
+      "name": "Sumpworks Map",
+      "number": "085/219",
+      "rarity": "Rare",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685572_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685572/riftbound-league-of-legends-trading-card-game-unleashed-sumpworks-map",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 685573,
+      "name": "Disposal Order",
+      "number": "103/219",
+      "rarity": "Uncommon",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685573_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685573/riftbound-league-of-legends-trading-card-game-unleashed-disposal-order",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.41
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 685582,
+      "name": "Blast Cone",
+      "number": "133/219",
+      "rarity": "Uncommon",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685582_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685582/riftbound-league-of-legends-trading-card-game-unleashed-blast-cone",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.17
+        }
+      ]
+    },
+    {
+      "id": 685583,
+      "name": "Mister Root",
+      "number": "127/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685583_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685583/riftbound-league-of-legends-trading-card-game-unleashed-mister-root",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.35
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 685584,
+      "name": "Right of Conquest",
+      "number": "015/219",
+      "rarity": "Uncommon",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685584_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685584/riftbound-league-of-legends-trading-card-game-unleashed-right-of-conquest",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.24
+        }
+      ]
+    },
+    {
+      "id": 685585,
+      "name": "Monch",
+      "number": "035/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685585_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685585/riftbound-league-of-legends-trading-card-game-unleashed-monch",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.15
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 685586,
+      "name": "Lotus Trap",
+      "number": "013/219",
+      "rarity": "Uncommon",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685586_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685586/riftbound-league-of-legends-trading-card-game-unleashed-lotus-trap",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.35
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 685587,
+      "name": "Xerath, Freed",
+      "number": "026/219",
+      "rarity": "Rare",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685587_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685587/riftbound-league-of-legends-trading-card-game-unleashed-xerath-freed",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.16
+        }
+      ]
+    },
+    {
+      "id": 685588,
+      "name": "Red Brambleback",
+      "label": "Alternate Art",
+      "number": "029a/219",
+      "rarity": "Showcase",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685588_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685588/riftbound-league-of-legends-trading-card-game-unleashed-red-brambleback-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.32
+        }
+      ]
+    },
+    {
+      "id": 685589,
+      "name": "Sprite Fountain",
+      "number": "078/219",
+      "rarity": "Uncommon",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685589_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685589/riftbound-league-of-legends-trading-card-game-unleashed-sprite-fountain",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 6.88
+        },
+        {
+          "sub": "Normal",
+          "usd": 2.88
+        }
+      ]
+    },
+    {
+      "id": 685590,
+      "name": "Voracious Gromp",
+      "number": "100/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685590_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685590/riftbound-league-of-legends-trading-card-game-unleashed-voracious-gromp",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.17
+        }
+      ]
+    },
+    {
+      "id": 685591,
+      "name": "Poppy, Paragon",
+      "label": "Alternate Art",
+      "number": "116a/219",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685591_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685591/riftbound-league-of-legends-trading-card-game-unleashed-poppy-paragon-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.47
+        }
+      ]
+    },
+    {
+      "id": 685592,
+      "name": "Bewitching Spirit",
+      "number": "121/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685592_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685592/riftbound-league-of-legends-trading-card-game-unleashed-bewitching-spirit",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.34
+        }
+      ]
+    },
+    {
+      "id": 685593,
+      "name": "Evershade Stalker",
+      "number": "123/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685593_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685593/riftbound-league-of-legends-trading-card-game-unleashed-evershade-stalker",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.2
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 685594,
+      "name": "Heroic Charge",
+      "number": "155/219",
+      "rarity": "Common",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685594_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685594/riftbound-league-of-legends-trading-card-game-unleashed-heroic-charge",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.2
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 685595,
+      "name": "Vi, Peacekeeper",
+      "number": "176/219",
+      "rarity": "Rare",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685595_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685595/riftbound-league-of-legends-trading-card-game-unleashed-vi-peacekeeper",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.64
+        }
+      ]
+    },
+    {
+      "id": 685596,
+      "name": "Vi, Peacekeeper",
+      "label": "Alternate Art",
+      "number": "176a/219",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685596_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685596/riftbound-league-of-legends-trading-card-game-unleashed-vi-peacekeeper-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 12.78
+        }
+      ]
+    },
+    {
+      "id": 685597,
+      "name": "Poppy, Defender of the Meek",
+      "number": "178/219",
+      "rarity": "Epic",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685597_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685597/riftbound-league-of-legends-trading-card-game-unleashed-poppy-defender-of-the-meek",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.58
+        }
+      ]
+    },
+    {
+      "id": 685598,
+      "name": "Poppy, Defender of the Meek",
+      "label": "Alternate Art",
+      "number": "178a/219",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685598_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685598/riftbound-league-of-legends-trading-card-game-unleashed-poppy-defender-of-the-meek-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.3
+        }
+      ]
+    },
+    {
+      "id": 685599,
+      "name": "Daisy!",
+      "number": "196/219",
+      "rarity": "Epic",
+      "type": "Signature Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685599_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685599/riftbound-league-of-legends-trading-card-game-unleashed-daisy",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.13
+        }
+      ]
+    },
+    {
+      "id": 685600,
+      "name": "Void Assault",
+      "number": "202/219",
+      "rarity": "Epic",
+      "type": "Signature Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685600_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685600/riftbound-league-of-legends-trading-card-game-unleashed-void-assault",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.86
+        }
+      ]
+    },
+    {
+      "id": 685601,
+      "name": "Star Spring",
+      "number": "215/219",
+      "rarity": "Uncommon",
+      "type": "Battlefield",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685601_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685601/riftbound-league-of-legends-trading-card-game-unleashed-star-spring",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.4
+        }
+      ]
+    },
+    {
+      "id": 685602,
+      "name": "Jhin, Virtuoso",
+      "label": "Overnumbered",
+      "number": "226/219",
+      "rarity": "Showcase",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685602_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685602/riftbound-league-of-legends-trading-card-game-unleashed-jhin-virtuoso-overnumbered",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 70.45
+        }
+      ]
+    },
+    {
+      "id": 685603,
+      "name": "Rengar, Pridestalker",
+      "label": "Overnumbered",
+      "number": "227/219",
+      "rarity": "Showcase",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685603_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685603/riftbound-league-of-legends-trading-card-game-unleashed-rengar-pridestalker-overnumbered",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 105.65
+        }
+      ]
+    },
+    {
+      "id": 685604,
+      "name": "Pyke, Bloodharbor Ripper",
+      "label": "Overnumbered",
+      "number": "228/219",
+      "rarity": "Showcase",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685604_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685604/riftbound-league-of-legends-trading-card-game-unleashed-pyke-bloodharbor-ripper-overnumbered",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 90.45
+        }
+      ]
+    },
+    {
+      "id": 685605,
+      "name": "Master Yi, Wuju Master",
+      "label": "Signature",
+      "number": "231*/219",
+      "rarity": "Showcase",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685605_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685605/riftbound-league-of-legends-trading-card-game-unleashed-master-yi-wuju-master-signature",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 445.29
+        }
+      ]
+    },
+    {
+      "id": 685606,
+      "name": "Vex, Gloomist",
+      "label": "Overnumbered",
+      "number": "232/219",
+      "rarity": "Showcase",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685606_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685606/riftbound-league-of-legends-trading-card-game-unleashed-vex-gloomist-overnumbered",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 153.81
+        }
+      ]
+    },
+    {
+      "id": 685607,
+      "name": "Vex, Gloomist",
+      "label": "Signature",
+      "number": "232*/219",
+      "rarity": "Showcase",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685607_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685607/riftbound-league-of-legends-trading-card-game-unleashed-vex-gloomist-signature",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 653.33
+        }
+      ]
+    },
+    {
+      "id": 685608,
+      "name": "LeBlanc, Deceiver",
+      "label": "Overnumbered",
+      "number": "235/219",
+      "rarity": "Showcase",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685608_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685608/riftbound-league-of-legends-trading-card-game-unleashed-leblanc-deceiver-overnumbered",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 234.46
+        }
+      ]
+    },
+    {
+      "id": 685609,
+      "name": "LeBlanc, Deceiver",
+      "label": "Signature",
+      "number": "235*/219",
+      "rarity": "Showcase",
+      "type": "Legend",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685609_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685609/riftbound-league-of-legends-trading-card-game-unleashed-leblanc-deceiver-signature",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 989.24
+        }
+      ]
+    },
+    {
+      "id": 685653,
+      "name": "Gentle Gemdragon",
+      "number": "104/219",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685653_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685653/riftbound-league-of-legends-trading-card-game-unleashed-gentle-gemdragon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.33
+        }
+      ]
+    },
+    {
+      "id": 685654,
+      "name": "Fate Weaver",
+      "number": "064/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685654_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685654/riftbound-league-of-legends-trading-card-game-unleashed-fate-weaver",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.04
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 685655,
+      "name": "Yeti Brawler",
+      "number": "018/219",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685655_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685655/riftbound-league-of-legends-trading-card-game-unleashed-yeti-brawler",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.28
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 685656,
+      "name": "Stare Down",
+      "number": "107/219",
+      "rarity": "Uncommon",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685656_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685656/riftbound-league-of-legends-trading-card-game-unleashed-stare-down",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.29
+        }
+      ]
+    },
+    {
+      "id": 685657,
+      "name": "Vault Breaker",
+      "number": "010/219",
+      "rarity": "Common",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685657_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685657/riftbound-league-of-legends-trading-card-game-unleashed-vault-breaker",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.21
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 685658,
+      "name": "Honeyfruit",
+      "number": "049/219",
+      "rarity": "Rare",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685658_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685658/riftbound-league-of-legends-trading-card-game-unleashed-honeyfruit",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.25
+        }
+      ]
+    },
+    {
+      "id": 685664,
+      "name": "Evelynn, Entrancing",
+      "number": "141/219",
+      "rarity": "Rare",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685664_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685664/riftbound-league-of-legends-trading-card-game-unleashed-evelynn-entrancing",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.18
+        }
+      ]
+    },
+    {
+      "id": 685666,
+      "name": "Sprite Queen",
+      "number": "084/219",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685666_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685666/riftbound-league-of-legends-trading-card-game-unleashed-sprite-queen",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.22
+        }
+      ]
+    },
+    {
+      "id": 685668,
+      "name": "Tactical Retreat",
+      "number": "175/219",
+      "rarity": "Rare",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685668_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685668/riftbound-league-of-legends-trading-card-game-unleashed-tactical-retreat",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.23
+        }
+      ]
+    },
+    {
+      "id": 685673,
+      "name": "Shadow",
+      "number": "194/219",
+      "rarity": "Epic",
+      "type": "Signature Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685673_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685673/riftbound-league-of-legends-trading-card-game-unleashed-shadow",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.4
+        }
+      ]
+    },
+    {
+      "id": 685675,
+      "name": "Death from Below",
+      "number": "186/219",
+      "rarity": "Epic",
+      "type": "Signature Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685675_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685675/riftbound-league-of-legends-trading-card-game-unleashed-death-from-below",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.78
+        }
+      ]
+    },
+    {
+      "id": 685676,
+      "name": "Lord Broadmane",
+      "number": "012/219",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685676_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685676/riftbound-league-of-legends-trading-card-game-unleashed-lord-broadmane",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.26
+        }
+      ]
+    },
+    {
+      "id": 685677,
+      "name": "Frisky Hunter",
+      "number": "033/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685677_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685677/riftbound-league-of-legends-trading-card-game-unleashed-frisky-hunter",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.21
+        }
+      ]
+    },
+    {
+      "id": 685678,
+      "name": "Dramatic Visionary",
+      "number": "062/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685678_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685678/riftbound-league-of-legends-trading-card-game-unleashed-dramatic-visionary",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.16
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.05
+        }
+      ]
+    },
+    {
+      "id": 685679,
+      "name": "Eclipse",
+      "number": "063/219",
+      "rarity": "Common",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685679_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685679/riftbound-league-of-legends-trading-card-game-unleashed-eclipse",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.26
+        }
+      ]
+    },
+    {
+      "id": 685680,
+      "name": "Petal Pixie",
+      "number": "076/219",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685680_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685680/riftbound-league-of-legends-trading-card-game-unleashed-petal-pixie",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.25
+        }
+      ]
+    },
+    {
+      "id": 685681,
+      "name": "Dragonsoul Sage",
+      "number": "093/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685681_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685681/riftbound-league-of-legends-trading-card-game-unleashed-dragonsoul-sage",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 685682,
+      "name": "Black Rose Dignitary",
+      "number": "152/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685682_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685682/riftbound-league-of-legends-trading-card-game-unleashed-black-rose-dignitary",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.26
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 685683,
+      "name": "Abandoned Hall",
+      "number": "205/219",
+      "rarity": "Uncommon",
+      "type": "Battlefield",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685683_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685683/riftbound-league-of-legends-trading-card-game-unleashed-abandoned-hall",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.39
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.13
+        }
+      ]
+    },
+    {
+      "id": 685917,
+      "name": "Grim Resolve",
+      "number": "095/219",
+      "rarity": "Common",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685917_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685917/riftbound-league-of-legends-trading-card-game-unleashed-grim-resolve",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.24
+        }
+      ]
+    },
+    {
+      "id": 685925,
+      "name": "Baron Nashor",
+      "label": "Ultimate",
+      "number": "238/219",
+      "rarity": "Showcase",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685925_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685925/riftbound-league-of-legends-trading-card-game-unleashed-baron-nashor-ultimate",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1828.46
+        }
+      ]
+    },
+    {
+      "id": 685933,
+      "name": "Sprite Burst",
+      "number": "069/219",
+      "rarity": "Common",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685933_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685933/riftbound-league-of-legends-trading-card-game-unleashed-sprite-burst",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.32
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 685934,
+      "name": "Safety Inspector",
+      "number": "164/219",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685934_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685934/riftbound-league-of-legends-trading-card-game-unleashed-safety-inspector",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.17
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.85
+        }
+      ]
+    },
+    {
+      "id": 685936,
+      "name": "Divining Shells",
+      "number": "161/219",
+      "rarity": "Uncommon",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685936_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685936/riftbound-league-of-legends-trading-card-game-unleashed-divining-shells",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.38
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 685938,
+      "name": "Kinkou Initiate",
+      "number": "097/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685938_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685938/riftbound-league-of-legends-trading-card-game-unleashed-kinkou-initiate",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.29
+        }
+      ]
+    },
+    {
+      "id": 685939,
+      "name": "Ruined Rex",
+      "number": "067/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685939_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685939/riftbound-league-of-legends-trading-card-game-unleashed-ruined-rex",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 685941,
+      "name": "Skyward Strike",
+      "number": "038/219",
+      "rarity": "Common",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685941_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685941/riftbound-league-of-legends-trading-card-game-unleashed-skyward-strike",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.25
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 685942,
+      "name": "Arena Kingpin",
+      "number": "001/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685942_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685942/riftbound-league-of-legends-trading-card-game-unleashed-arena-kingpin",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.14
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.05
+        }
+      ]
+    },
+    {
+      "id": 685943,
+      "name": "Scorchclaw",
+      "number": "016/219",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685943_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685943/riftbound-league-of-legends-trading-card-game-unleashed-scorchclaw",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.17
+        }
+      ]
+    },
+    {
+      "id": 685944,
+      "name": "Monster Harpoon",
+      "number": "014/219",
+      "rarity": "Uncommon",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685944_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685944/riftbound-league-of-legends-trading-card-game-unleashed-monster-harpoon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.28
+        }
+      ]
+    },
+    {
+      "id": 685945,
+      "name": "Alpha Wildclaw",
+      "number": "057/219",
+      "rarity": "Epic",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685945_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685945/riftbound-league-of-legends-trading-card-game-unleashed-alpha-wildclaw",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.79
+        }
+      ]
+    },
+    {
+      "id": 685946,
+      "name": "Smoke and Mirrors",
+      "number": "083/219",
+      "rarity": "Rare",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685946_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685946/riftbound-league-of-legends-trading-card-game-unleashed-smoke-and-mirrors",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.56
+        }
+      ]
+    },
+    {
+      "id": 685947,
+      "name": "Nami, Headstrong",
+      "number": "052/219",
+      "rarity": "Rare",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685947_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685947/riftbound-league-of-legends-trading-card-game-unleashed-nami-headstrong",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.29
+        }
+      ]
+    },
+    {
+      "id": 685948,
+      "name": "Maduli the Gatekeeper",
+      "number": "144/219",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685948_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685948/riftbound-league-of-legends-trading-card-game-unleashed-maduli-the-gatekeeper",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 685949,
+      "name": "Vex, Apathetic",
+      "number": "150/219",
+      "rarity": "Epic",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685949_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685949/riftbound-league-of-legends-trading-card-game-unleashed-vex-apathetic",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 15.17
+        }
+      ]
+    },
+    {
+      "id": 685950,
+      "name": "Vex, Apathetic",
+      "label": "Alternate Art",
+      "number": "150a/219",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685950_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685950/riftbound-league-of-legends-trading-card-game-unleashed-vex-apathetic-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 24.51
+        }
+      ]
+    },
+    {
+      "id": 685951,
+      "name": "Altar of Blood",
+      "number": "206/219",
+      "rarity": "Uncommon",
+      "type": "Battlefield",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685951_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685951/riftbound-league-of-legends-trading-card-game-unleashed-altar-of-blood",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.22
+        }
+      ]
+    },
+    {
+      "id": 685952,
+      "name": "Amateur Recital",
+      "number": "207/219",
+      "rarity": "Uncommon",
+      "type": "Battlefield",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/685952_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/685952/riftbound-league-of-legends-trading-card-game-unleashed-amateur-recital",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.24
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 686270,
+      "name": "Square Up",
+      "number": "017/219",
+      "rarity": "Uncommon",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/686270_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/686270/riftbound-league-of-legends-trading-card-game-unleashed-square-up",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.43
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 686271,
+      "name": "Double Trouble",
+      "number": "032/219",
+      "rarity": "Common",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/686271_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/686271/riftbound-league-of-legends-trading-card-game-unleashed-double-trouble",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.19
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 686272,
+      "name": "Flurry of Feathers",
+      "number": "044/219",
+      "rarity": "Uncommon",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/686272_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/686272/riftbound-league-of-legends-trading-card-game-unleashed-flurry-of-feathers",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.16
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.44
+        }
+      ]
+    },
+    {
+      "id": 686273,
+      "name": "Trevor Snoozebottom",
+      "number": "048/219",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/686273_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/686273/riftbound-league-of-legends-trading-card-game-unleashed-trevor-snoozebottom",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.21
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 686274,
+      "name": "Moonlight Affliction",
+      "number": "066/219",
+      "rarity": "Common",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/686274_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/686274/riftbound-league-of-legends-trading-card-game-unleashed-moonlight-affliction",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.04
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 686276,
+      "name": "Spectral Centaur",
+      "number": "068/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/686276_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/686276/riftbound-league-of-legends-trading-card-game-unleashed-spectral-centaur",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.18
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        }
+      ]
+    },
+    {
+      "id": 686277,
+      "name": "Chakram Dancer",
+      "number": "071/219",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/686277_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/686277/riftbound-league-of-legends-trading-card-game-unleashed-chakram-dancer",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.24
+        }
+      ]
+    },
+    {
+      "id": 686278,
+      "name": "Imposing Challenger",
+      "number": "105/219",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/686278_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/686278/riftbound-league-of-legends-trading-card-game-unleashed-imposing-challenger",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.3
+        }
+      ]
+    },
+    {
+      "id": 686313,
+      "name": "Grim Apothecary",
+      "number": "021/219",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/686313_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/686313/riftbound-league-of-legends-trading-card-game-unleashed-grim-apothecary",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.27
+        }
+      ]
+    },
+    {
+      "id": 686314,
+      "name": "Katarina, Reckless",
+      "number": "023/219",
+      "rarity": "Rare",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/686314_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/686314/riftbound-league-of-legends-trading-card-game-unleashed-katarina-reckless",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.22
+        }
+      ]
+    },
+    {
+      "id": 686315,
+      "name": "Wuju Apprentice",
+      "number": "040/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/686315_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/686315/riftbound-league-of-legends-trading-card-game-unleashed-wuju-apprentice",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.04
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 686316,
+      "name": "Allay, Eager Admirer",
+      "number": "041/219",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/686316_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/686316/riftbound-league-of-legends-trading-card-game-unleashed-allay-eager-admirer",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.4
+        }
+      ]
+    },
+    {
+      "id": 686317,
+      "name": "Vex, Mocking",
+      "number": "055/219",
+      "rarity": "Rare",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/686317_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/686317/riftbound-league-of-legends-trading-card-game-unleashed-vex-mocking",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 686318,
+      "name": "Vex, Mocking",
+      "label": "Alternate Art",
+      "number": "055a/219",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/686318_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/686318/riftbound-league-of-legends-trading-card-game-unleashed-vex-mocking-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.39
+        }
+      ]
+    },
+    {
+      "id": 686319,
+      "name": "Keeper of Masks",
+      "number": "081/219",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/686319_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/686319/riftbound-league-of-legends-trading-card-game-unleashed-keeper-of-masks",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 686320,
+      "name": "Lillia, Fae Fawn",
+      "number": "082/219",
+      "rarity": "Rare",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/686320_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/686320/riftbound-league-of-legends-trading-card-game-unleashed-lillia-fae-fawn",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.34
+        }
+      ]
+    },
+    {
+      "id": 686321,
+      "name": "Lillia, Fae Fawn",
+      "label": "Alternate Art",
+      "number": "082a/219",
+      "rarity": "Showcase",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/686321_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/686321/riftbound-league-of-legends-trading-card-game-unleashed-lillia-fae-fawn-alternate-art",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 9.84
+        }
+      ]
+    },
+    {
+      "id": 686322,
+      "name": "Towering Combatant",
+      "number": "099/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/686322_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/686322/riftbound-league-of-legends-trading-card-game-unleashed-towering-combatant",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.16
+        }
+      ]
+    },
+    {
+      "id": 686323,
+      "name": "Repulse",
+      "number": "106/219",
+      "rarity": "Uncommon",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/686323_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/686323/riftbound-league-of-legends-trading-card-game-unleashed-repulse",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2.34
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.32
+        }
+      ]
+    },
+    {
+      "id": 686324,
+      "name": "Clash of Giants",
+      "number": "110/219",
+      "rarity": "Rare",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/686324_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/686324/riftbound-league-of-legends-trading-card-game-unleashed-clash-of-giants",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.15
+        }
+      ]
+    },
+    {
+      "id": 686325,
+      "name": "Irresistible Faefolk",
+      "number": "112/219",
+      "rarity": "Rare",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/686325_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/686325/riftbound-league-of-legends-trading-card-game-unleashed-irresistible-faefolk",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.79
+        }
+      ]
+    },
+    {
+      "id": 686326,
+      "name": "Arachnoid Horror",
+      "number": "117/219",
+      "rarity": "Epic",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/686326_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/686326/riftbound-league-of-legends-trading-card-game-unleashed-arachnoid-horror",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.88
+        }
+      ]
+    },
+    {
+      "id": 686327,
+      "name": "Lunar Boon",
+      "number": "125/219",
+      "rarity": "Common",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/686327_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/686327/riftbound-league-of-legends-trading-card-game-unleashed-lunar-boon",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.25
+        }
+      ]
+    },
+    {
+      "id": 686328,
+      "name": "Vicious Snapjaws",
+      "number": "129/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/686328_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/686328/riftbound-league-of-legends-trading-card-game-unleashed-vicious-snapjaws",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.04
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.18
+        }
+      ]
+    },
+    {
+      "id": 686329,
+      "name": "Angler Beast",
+      "number": "132/219",
+      "rarity": "Uncommon",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/686329_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/686329/riftbound-league-of-legends-trading-card-game-unleashed-angler-beast",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.15
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.54
+        }
+      ]
+    },
+    {
+      "id": 686330,
+      "name": "Scryer's Bloom",
+      "number": "136/219",
+      "rarity": "Uncommon",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/686330_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/686330/riftbound-league-of-legends-trading-card-game-unleashed-scryers-bloom",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.34
+        }
+      ]
+    },
+    {
+      "id": 686331,
+      "name": "Conscription",
+      "number": "140/219",
+      "rarity": "Rare",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/686331_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/686331/riftbound-league-of-legends-trading-card-game-unleashed-conscription",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 686332,
+      "name": "Syndra, Transcendent",
+      "number": "146/219",
+      "rarity": "Rare",
+      "type": "Champion Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/686332_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/686332/riftbound-league-of-legends-trading-card-game-unleashed-syndra-transcendent",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.23
+        }
+      ]
+    },
+    {
+      "id": 686333,
+      "name": "Bandle Soldier",
+      "number": "151/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/686333_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/686333/riftbound-league-of-legends-trading-card-game-unleashed-bandle-soldier",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.11
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.04
+        }
+      ]
+    },
+    {
+      "id": 686334,
+      "name": "Carrion Dredger",
+      "number": "153/219",
+      "rarity": "Common",
+      "type": "Unit",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/686334_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/686334/riftbound-league-of-legends-trading-card-game-unleashed-carrion-dredger",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.3
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 686335,
+      "name": "Shepherd's Heirloom",
+      "number": "158/219",
+      "rarity": "Common",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/686335_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/686335/riftbound-league-of-legends-trading-card-game-unleashed-shepherds-heirloom",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.31
+        }
+      ]
+    },
+    {
+      "id": 686336,
+      "name": "Soul Harvest",
+      "number": "159/219",
+      "rarity": "Common",
+      "type": "Spell",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/686336_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/686336/riftbound-league-of-legends-trading-card-game-unleashed-soul-harvest",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.06
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.16
+        }
+      ]
+    },
+    {
+      "id": 686337,
+      "name": "Shard of Undoing",
+      "number": "174/219",
+      "rarity": "Rare",
+      "type": "Gear",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/686337_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/686337/riftbound-league-of-legends-trading-card-game-unleashed-shard-of-undoing",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.19
+        }
+      ]
+    },
+    {
+      "id": 686338,
+      "name": "Valley of Idols",
+      "number": "218/219",
+      "rarity": "Uncommon",
+      "type": "Battlefield",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/686338_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/686338/riftbound-league-of-legends-trading-card-game-unleashed-valley-of-idols",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        },
+        {
+          "sub": "Foil",
+          "usd": 0.21
+        }
+      ]
+    },
+    {
+      "id": 692932,
+      "name": "Fury Rune",
+      "label": "R01a",
+      "number": "R01a",
+      "rarity": "Showcase",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/692932_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/692932/riftbound-league-of-legends-trading-card-game-unleashed-fury-rune-r01a",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.38
+        }
+      ]
+    },
+    {
+      "id": 692933,
+      "name": "Calm Rune",
+      "label": "R02a",
+      "number": "R02a",
+      "rarity": "Showcase",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/692933_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/692933/riftbound-league-of-legends-trading-card-game-unleashed-calm-rune-r02a",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 9.93
+        }
+      ]
+    },
+    {
+      "id": 692934,
+      "name": "Mind Rune",
+      "label": "R03a",
+      "number": "R03a",
+      "rarity": "Showcase",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/692934_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/692934/riftbound-league-of-legends-trading-card-game-unleashed-mind-rune-r03a",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.49
+        }
+      ]
+    },
+    {
+      "id": 692935,
+      "name": "Body Rune",
+      "label": "R04a",
+      "number": "R04a",
+      "rarity": "Showcase",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/692935_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/692935/riftbound-league-of-legends-trading-card-game-unleashed-body-rune-r04a",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.52
+        }
+      ]
+    },
+    {
+      "id": 692936,
+      "name": "Chaos Rune",
+      "label": "R05a",
+      "number": "R05a",
+      "rarity": "Showcase",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/692936_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/692936/riftbound-league-of-legends-trading-card-game-unleashed-chaos-rune-r05a",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 8.29
+        }
+      ]
+    },
+    {
+      "id": 692937,
+      "name": "Order Rune",
+      "label": "R06a",
+      "number": "R06a",
+      "rarity": "Showcase",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/692937_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/692937/riftbound-league-of-legends-trading-card-game-unleashed-order-rune-r06a",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4.28
+        }
+      ]
+    },
+    {
+      "id": 694646,
+      "name": "Body Rune",
+      "label": "R04b",
+      "number": "R04b",
+      "rarity": "Promo",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/694646_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/694646/riftbound-league-of-legends-trading-card-game-unleashed-body-rune-r04b",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 3.73
+        }
+      ]
+    },
+    {
+      "id": 694647,
+      "name": "Calm Rune",
+      "label": "R02b",
+      "number": "R02b",
+      "rarity": "Promo",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/694647_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/694647/riftbound-league-of-legends-trading-card-game-unleashed-calm-rune-r02b",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 7.8
+        }
+      ]
+    },
+    {
+      "id": 694648,
+      "name": "Chaos Rune",
+      "label": "R05b",
+      "number": "R05b",
+      "rarity": "Promo",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/694648_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/694648/riftbound-league-of-legends-trading-card-game-unleashed-chaos-rune-r05b",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 9.03
+        }
+      ]
+    },
+    {
+      "id": 694649,
+      "name": "Fury Rune",
+      "label": "R01b",
+      "number": "R01b",
+      "rarity": "Promo",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/694649_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/694649/riftbound-league-of-legends-trading-card-game-unleashed-fury-rune-r01b",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5.69
+        }
+      ]
+    },
+    {
+      "id": 694650,
+      "name": "Mind Rune",
+      "label": "R03b",
+      "number": "R03b",
+      "rarity": "Promo",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/694650_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/694650/riftbound-league-of-legends-trading-card-game-unleashed-mind-rune-r03b",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 6.67
+        }
+      ]
+    },
+    {
+      "id": 694651,
+      "name": "Order Rune",
+      "label": "R06b",
+      "number": "R06b",
+      "rarity": "Promo",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/694651_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/694651/riftbound-league-of-legends-trading-card-game-unleashed-order-rune-r06b",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4
+        }
+      ]
+    },
+    {
+      "id": 695874,
+      "name": "Reflection // Buff",
+      "number": "T06 // T04",
+      "rarity": "None",
+      "type": "Unit;Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/695874_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/695874/riftbound-league-of-legends-trading-card-game-unleashed-reflection-buff",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 695875,
+      "name": "Bird // Buff",
+      "number": "T02 // T04",
+      "rarity": "None",
+      "type": "Unit;Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/695875_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/695875/riftbound-league-of-legends-trading-card-game-unleashed-bird-buff",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 695876,
+      "name": "Bird // Gold",
+      "number": "T02 // T05",
+      "rarity": "None",
+      "type": "Unit;Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/695876_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/695876/riftbound-league-of-legends-trading-card-game-unleashed-bird-gold",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 695877,
+      "name": "Sprite // Gold",
+      "number": "T07 // T05",
+      "rarity": "None",
+      "type": "Unit;Gear;Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/695877_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/695877/riftbound-league-of-legends-trading-card-game-unleashed-sprite-gold",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 695878,
+      "name": "Reflection // Gold",
+      "number": "T06 // T05",
+      "rarity": "None",
+      "type": "Unit;Gear;Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/695878_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/695878/riftbound-league-of-legends-trading-card-game-unleashed-reflection-gold",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        }
+      ]
+    },
+    {
+      "id": 695879,
+      "name": "Baron Pit // Gold",
+      "number": "T01 // T05",
+      "rarity": "None",
+      "type": "Gear;Battlefield;Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/695879_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/695879/riftbound-league-of-legends-trading-card-game-unleashed-baron-pit-gold",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.14
+        }
+      ]
+    },
+    {
+      "id": 695880,
+      "name": "Brush // Buff",
+      "number": "T03 // T04",
+      "rarity": "None",
+      "type": "Battlefield;Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/695880_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/695880/riftbound-league-of-legends-trading-card-game-unleashed-brush-buff",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 696614,
+      "name": "Fury Rune",
+      "number": "R01",
+      "rarity": "Common",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/696614_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/696614/riftbound-league-of-legends-trading-card-game-unleashed-fury-rune",
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 0.99
+        },
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 696615,
+      "name": "Body Rune",
+      "number": "R04",
+      "rarity": "Common",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/696615_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/696615/riftbound-league-of-legends-trading-card-game-unleashed-body-rune",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.11
+        }
+      ]
+    },
+    {
+      "id": 696616,
+      "name": "Calm Rune",
+      "number": "R02",
+      "rarity": "Common",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/696616_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/696616/riftbound-league-of-legends-trading-card-game-unleashed-calm-rune",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.12
+        }
+      ]
+    },
+    {
+      "id": 696617,
+      "name": "Chaos Rune",
+      "number": "R05",
+      "rarity": "Common",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/696617_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/696617/riftbound-league-of-legends-trading-card-game-unleashed-chaos-rune",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 696618,
+      "name": "Mind Rune",
+      "number": "R03",
+      "rarity": "Common",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/696618_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/696618/riftbound-league-of-legends-trading-card-game-unleashed-mind-rune",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.1
+        },
+        {
+          "sub": "Foil",
+          "usd": 5.08
+        }
+      ]
+    },
+    {
+      "id": 696619,
+      "name": "Order Rune",
+      "number": "R06",
+      "rarity": "Common",
+      "type": "Rune",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/696619_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/696619/riftbound-league-of-legends-trading-card-game-unleashed-order-rune",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    },
+    {
+      "id": 696620,
+      "name": "XP Tracker // Gold",
+      "number": "T08 // T05",
+      "rarity": "None",
+      "type": "Gear;Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/696620_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/696620/riftbound-league-of-legends-trading-card-game-unleashed-xp-tracker-gold",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.07
+        }
+      ]
+    },
+    {
+      "id": 696621,
+      "name": "XP Tracker // Buff",
+      "number": "T08 // T04",
+      "rarity": "None",
+      "type": "Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/696621_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/696621/riftbound-league-of-legends-trading-card-game-unleashed-xp-tracker-buff",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.08
+        }
+      ]
+    },
+    {
+      "id": 696622,
+      "name": "Sprite // Buff",
+      "number": "T07 // T04",
+      "rarity": "None",
+      "type": "Unit;Token",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/696622_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/696622/riftbound-league-of-legends-trading-card-game-unleashed-sprite-buff",
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 0.09
+        }
+      ]
+    }
+  ],
+  "pricesAt": "2026-10-13"
+}

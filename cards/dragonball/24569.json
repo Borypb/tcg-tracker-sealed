@@ -42,7 +42,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.43
+          "usd": 0.41
         }
       ]
     },
@@ -162,7 +162,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 3.78
+          "usd": 3.98
         }
       ]
     },
@@ -177,7 +177,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.89
+          "usd": 0.88
         }
       ]
     },
@@ -237,7 +237,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.32
+          "usd": 0.33
         }
       ]
     },
@@ -357,7 +357,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.22
+          "usd": 0.24
         }
       ]
     },
@@ -372,7 +372,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.3
+          "usd": 0.33
         }
       ]
     },
@@ -402,7 +402,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.07
+          "usd": 0.08
         }
       ]
     },
@@ -417,7 +417,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 2.98
+          "usd": 3.03
         }
       ]
     },
@@ -507,7 +507,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.11
+          "usd": 0.12
         }
       ]
     },
@@ -687,7 +687,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.1
+          "usd": 0.11
         }
       ]
     },
@@ -732,7 +732,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.1
+          "usd": 0.09
         }
       ]
     },
@@ -986,7 +986,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.14
+          "usd": 0.15
         }
       ]
     },
@@ -1112,7 +1112,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 70.97
+          "usd": 69.66
         }
       ]
     },
@@ -1294,7 +1294,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.13
+          "usd": 0.12
         }
       ]
     },
@@ -1309,7 +1309,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.21
+          "usd": 0.2
         }
       ]
     },
@@ -1354,7 +1354,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.24
+          "usd": 0.23
         }
       ]
     },
@@ -1519,7 +1519,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.12
+          "usd": 0.1
         }
       ]
     },
@@ -1594,7 +1594,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.45
+          "usd": 0.41
         }
       ]
     },
@@ -1607,7 +1607,12 @@
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/681997_200w.jpg",
       "url": "https://www.tcgplayer.com/product/681997/dragon-ball-super-fusion-world-dual-evolution-golden-frieza-br-alternate-art",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 44.22
+        }
+      ]
     },
     {
       "id": 681998,
@@ -1620,7 +1625,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 1.65
+          "usd": 1.68
         }
       ]
     },
@@ -1651,7 +1656,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 5.66
+          "usd": 5.82
         }
       ]
     },
@@ -1679,12 +1684,7 @@
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/682015_200w.jpg",
       "url": "https://www.tcgplayer.com/product/682015/dragon-ball-super-fusion-world-dual-evolution-cheelai-br",
-      "prices": [
-        {
-          "sub": "Holofoil",
-          "usd": 11.59
-        }
-      ]
+      "prices": []
     },
     {
       "id": 682016,
@@ -1807,7 +1807,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 1.96
+          "usd": 1.99
         }
       ]
     },
@@ -1823,7 +1823,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 91.44
+          "usd": 91.23
         }
       ]
     },
@@ -1854,7 +1854,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 35.31
+          "usd": 35.47
         }
       ]
     },
@@ -1869,7 +1869,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 1.88
+          "usd": 1.92
         }
       ]
     },
@@ -1993,7 +1993,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.29
+          "usd": 0.3
         }
       ]
     },
@@ -2086,7 +2086,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 7.17
+          "usd": 7.04
         }
       ]
     },
@@ -2132,7 +2132,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 3.32
+          "usd": 3.49
         }
       ]
     },
@@ -2210,7 +2210,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 7.14
+          "usd": 6.98
         }
       ]
     },
@@ -2272,7 +2272,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.28
+          "usd": 0.29
         }
       ]
     },
@@ -2381,7 +2381,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 31.11
+          "usd": 31.55
         }
       ]
     },
@@ -2397,7 +2397,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 116.5
+          "usd": 116.63
         }
       ]
     },
@@ -2428,7 +2428,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 24.95
+          "usd": 24.94
         }
       ]
     },
@@ -2470,7 +2470,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 23.37
+          "usd": 23.28
         }
       ]
     },

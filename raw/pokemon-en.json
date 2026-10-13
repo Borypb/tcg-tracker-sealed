@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "en",
   "categoryId": 3,
-  "harvestedAt": "2026-10-13T11:10:20.670Z",
+  "harvestedAt": "2026-10-13T20:39:32.942Z",
   "groups": {
     "604": {
       "name": "Base Set",
@@ -150,7 +150,7 @@
     "630": {
       "name": "Fossil",
       "abbreviation": "FO",
-      "modifiedOn": "2026-10-05T13:32:37.913",
+      "modifiedOn": "2026-10-12T19:48:03.723",
       "publishedOn": "1999-10-10",
       "setCode": "base3",
       "products": [
@@ -2128,7 +2128,7 @@
     "1411": {
       "name": "EX Dragon Frontiers",
       "abbreviation": "DF",
-      "modifiedOn": "2026-09-09T15:22:34.003",
+      "modifiedOn": "2026-10-13T02:56:25.523",
       "publishedOn": "2006-11-08",
       "setCode": "ex15",
       "products": [
@@ -2388,7 +2388,7 @@
     "1417": {
       "name": "Legends Awakened",
       "abbreviation": "LA",
-      "modifiedOn": "2026-06-24T22:12:23.25",
+      "modifiedOn": "2026-10-13T02:57:12.077",
       "publishedOn": "2008-08-20",
       "setCode": "dp6",
       "products": [
@@ -4191,7 +4191,7 @@
     "1539": {
       "name": "League & Championship Cards",
       "abbreviation": "PR",
-      "modifiedOn": "2026-09-28T14:18:45.86",
+      "modifiedOn": "2026-10-13T04:23:44.003",
       "publishedOn": "2016-06-01",
       "products": []
     },
@@ -4411,7 +4411,7 @@
     "1661": {
       "name": "XY - BREAKthrough",
       "abbreviation": "BKT",
-      "modifiedOn": "2026-10-02T19:23:11.353",
+      "modifiedOn": "2026-10-13T02:44:18.553",
       "publishedOn": "2015-11-04",
       "setCode": "xy8",
       "products": [
@@ -4670,22 +4670,6 @@
           "releasedOn": "2015-11-04",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/229477_200w.jpg",
           "url": "https://www.tcgplayer.com/product/229477/pokemon-xy-breakthrough-xy-breakthrough-pin-collection-zoroark"
-        },
-        {
-          "tcgplayerId": 276596,
-          "name": "BREAKthrough Sleeved Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2015-11-04",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/276596_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/276596/pokemon-xy-breakthrough-breakthrough-sleeved-booster-pack-art-bundle-set-of-4"
-        },
-        {
-          "tcgplayerId": 531445,
-          "name": "BREAKthrough Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2015-11-04",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/531445_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/531445/pokemon-xy-breakthrough-breakthrough-booster-pack-art-bundle-set-of-4"
         },
         {
           "tcgplayerId": 550675,
@@ -5895,7 +5879,7 @@
     "1863": {
       "name": "SM Base Set",
       "abbreviation": "SM01",
-      "modifiedOn": "2026-09-23T01:17:37.11",
+      "modifiedOn": "2026-10-13T02:11:38.51",
       "publishedOn": "2017-02-03",
       "setCode": "sm1",
       "products": [
@@ -6108,28 +6092,12 @@
           "url": "https://www.tcgplayer.com/product/244314/pokemon-sm-base-set-sun-and-moon-gx-challenge-box-decidueye"
         },
         {
-          "tcgplayerId": 267036,
-          "name": "Sun & Moon Booster Pack Art Bundle [Set of 5]",
-          "kind": "booster",
-          "releasedOn": "2017-02-03",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/267036_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/267036/pokemon-sm-base-set-sun-and-moon-booster-pack-art-bundle-set-of-5"
-        },
-        {
           "tcgplayerId": 267958,
           "name": "Spring 2017 Collector's Chest Tin",
           "kind": "tin",
           "releasedOn": "2017-02-03",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/267958_200w.jpg",
           "url": "https://www.tcgplayer.com/product/267958/pokemon-sm-base-set-spring-2017-collectors-chest-tin"
-        },
-        {
-          "tcgplayerId": 276574,
-          "name": "Sun & Moon Sleeved Booster Pack Art Bundle [Set of 5]",
-          "kind": "booster",
-          "releasedOn": "2017-02-03",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/276574_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/276574/pokemon-sm-base-set-sun-and-moon-sleeved-booster-pack-art-bundle-set-of-5"
         },
         {
           "tcgplayerId": 455776,
@@ -13645,7 +13613,7 @@
     "2545": {
       "name": "SWSH: Sword & Shield Promo Cards",
       "abbreviation": "SWSD",
-      "modifiedOn": "2026-10-05T13:21:06.54",
+      "modifiedOn": "2026-10-13T02:55:27.247",
       "publishedOn": "2019-11-15",
       "setCode": "swshp",
       "products": []
@@ -18338,7 +18306,7 @@
     "22872": {
       "name": "SV: Scarlet & Violet Promo Cards",
       "abbreviation": "SVP",
-      "modifiedOn": "2026-10-12T17:09:08.977",
+      "modifiedOn": "2026-10-13T02:47:25.92",
       "publishedOn": "2023-03-31",
       "setCode": "svp",
       "products": []
@@ -19412,7 +19380,7 @@
     "23286": {
       "name": "SV04: Paradox Rift",
       "abbreviation": "PAR",
-      "modifiedOn": "2026-09-15T00:11:55.897",
+      "modifiedOn": "2026-10-13T02:46:08.73",
       "publishedOn": "2023-11-03",
       "setCode": "sv04",
       "products": [
@@ -19481,22 +19449,6 @@
           "url": "https://www.tcgplayer.com/product/512828/pokemon-sv04-paradox-rift-paradox-rift-booster-box-case"
         },
         {
-          "tcgplayerId": 512831,
-          "name": "Paradox Rift Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2023-11-03",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/512831_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/512831/pokemon-sv04-paradox-rift-paradox-rift-booster-pack-art-bundle-set-of-4"
-        },
-        {
-          "tcgplayerId": 512834,
-          "name": "Paradox Rift Elite Trainer Boxes [Set of 2]",
-          "kind": "etb",
-          "releasedOn": "2023-11-03",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/512834_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/512834/pokemon-sv04-paradox-rift-paradox-rift-elite-trainer-boxes-set-of-2"
-        },
-        {
           "tcgplayerId": 513433,
           "name": "Paradox Rift 3 Pack Blister [Arctibax]",
           "kind": "blister",
@@ -19511,14 +19463,6 @@
           "releasedOn": "2023-11-03",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/513434_200w.jpg",
           "url": "https://www.tcgplayer.com/product/513434/pokemon-sv04-paradox-rift-paradox-rift-3-pack-blister-cetitan"
-        },
-        {
-          "tcgplayerId": 513437,
-          "name": "Paradox Rift 3 Pack Blister [Set of 2]",
-          "kind": "blister",
-          "releasedOn": "2023-11-03",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/513437_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/513437/pokemon-sv04-paradox-rift-paradox-rift-3-pack-blister-set-of-2"
         },
         {
           "tcgplayerId": 513511,
@@ -19539,7 +19483,7 @@
         {
           "tcgplayerId": 514069,
           "name": "Paradox Rift Build & Battle Box Display",
-          "kind": "build_battle",
+          "kind": "case",
           "releasedOn": "2023-11-03",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/514069_200w.jpg",
           "url": "https://www.tcgplayer.com/product/514069/pokemon-sv04-paradox-rift-paradox-rift-build-and-battle-box-display"
@@ -19555,7 +19499,7 @@
         {
           "tcgplayerId": 514071,
           "name": "Paradox Rift Build & Battle Stadium Case",
-          "kind": "build_battle",
+          "kind": "case",
           "releasedOn": "2023-11-03",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/514071_200w.jpg",
           "url": "https://www.tcgplayer.com/product/514071/pokemon-sv04-paradox-rift-paradox-rift-build-and-battle-stadium-case"
@@ -19583,22 +19527,6 @@
           "releasedOn": "2023-11-03",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/517210_200w.jpg",
           "url": "https://www.tcgplayer.com/product/517210/pokemon-sv04-paradox-rift-paradox-rift-sleeved-booster-pack"
-        },
-        {
-          "tcgplayerId": 524394,
-          "name": "Paradox Rift Pokemon Center Elite Trainer Box (Exclusive) [Set of 2]",
-          "kind": "etb",
-          "releasedOn": "2023-11-03",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/524394_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/524394/pokemon-sv04-paradox-rift-paradox-rift-pokemon-center-elite-trainer-box-exclusive-set-of-2"
-        },
-        {
-          "tcgplayerId": 526674,
-          "name": "Paradox Rift Sleeved Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2023-11-03",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/526674_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/526674/pokemon-sv04-paradox-rift-paradox-rift-sleeved-booster-pack-art-bundle-set-of-4"
         },
         {
           "tcgplayerId": 546605,
@@ -19643,7 +19571,7 @@
         {
           "tcgplayerId": 641808,
           "name": "Paradox Rift Sleeved Booster Case",
-          "kind": "booster",
+          "kind": "case",
           "releasedOn": "2023-11-03",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/641808_200w.jpg",
           "url": "https://www.tcgplayer.com/product/641808/pokemon-sv04-paradox-rift-paradox-rift-sleeved-booster-case"
@@ -20255,7 +20183,7 @@
     "23473": {
       "name": "SV06: Twilight Masquerade",
       "abbreviation": "TWM",
-      "modifiedOn": "2026-10-12T17:48:37.43",
+      "modifiedOn": "2026-10-13T02:46:47.057",
       "publishedOn": "2024-05-24",
       "setCode": "sv06",
       "products": [
@@ -20898,7 +20826,7 @@
     "23651": {
       "name": "SV08: Surging Sparks",
       "abbreviation": "SSP",
-      "modifiedOn": "2026-10-01T19:37:37.34",
+      "modifiedOn": "2026-10-13T00:02:55.823",
       "publishedOn": "2024-11-08",
       "setCode": "sv08",
       "products": [
@@ -20913,7 +20841,7 @@
         {
           "tcgplayerId": 565600,
           "name": "Surging Sparks Build & Battle Box Display",
-          "kind": "build_battle",
+          "kind": "case",
           "releasedOn": "2024-11-08",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/565600_200w.jpg",
           "url": "https://www.tcgplayer.com/product/565600/pokemon-sv08-surging-sparks-surging-sparks-build-and-battle-box-display"
@@ -20927,28 +20855,12 @@
           "url": "https://www.tcgplayer.com/product/565602/pokemon-sv08-surging-sparks-surging-sparks-sleeved-booster-pack"
         },
         {
-          "tcgplayerId": 565603,
-          "name": "Surging Sparks Sleeved Booster Pack Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2024-11-08",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/565603_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/565603/pokemon-sv08-surging-sparks-surging-sparks-sleeved-booster-pack-bundle-set-of-4"
-        },
-        {
           "tcgplayerId": 565604,
           "name": "Surging Sparks Booster Pack",
           "kind": "booster",
           "releasedOn": "2024-11-08",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/565604_200w.jpg",
           "url": "https://www.tcgplayer.com/product/565604/pokemon-sv08-surging-sparks-surging-sparks-booster-pack"
-        },
-        {
-          "tcgplayerId": 565605,
-          "name": "Surging Sparks Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2024-11-08",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/565605_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/565605/pokemon-sv08-surging-sparks-surging-sparks-booster-pack-art-bundle-set-of-4"
         },
         {
           "tcgplayerId": 565606,
@@ -21057,7 +20969,7 @@
         {
           "tcgplayerId": 593687,
           "name": "Surging Sparks Sleeved Booster Pack Case",
-          "kind": "booster",
+          "kind": "case",
           "releasedOn": "2024-11-08",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/593687_200w.jpg",
           "url": "https://www.tcgplayer.com/product/593687/pokemon-sv08-surging-sparks-surging-sparks-sleeved-booster-pack-case"
@@ -21113,7 +21025,7 @@
         {
           "tcgplayerId": 711388,
           "name": "Surging Sparks 3 Pack Blisters Case",
-          "kind": "blister",
+          "kind": "case",
           "releasedOn": "2024-11-08",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/711388_200w.jpg",
           "url": "https://www.tcgplayer.com/product/711388/pokemon-sv08-surging-sparks-surging-sparks-3-pack-blisters-case"
@@ -22697,7 +22609,7 @@
     "24451": {
       "name": "ME: Mega Evolution Promo",
       "abbreviation": "MEP",
-      "modifiedOn": "2026-10-09T20:39:41.99",
+      "modifiedOn": "2026-10-13T15:32:59.31",
       "publishedOn": "2025-09-26",
       "setCode": "mep",
       "products": []

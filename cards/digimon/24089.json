@@ -72,7 +72,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.14
+          "usd": 0.13
         }
       ]
     },
@@ -117,7 +117,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.07
+          "usd": 0.08
         }
       ]
     },
@@ -297,7 +297,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 2.07
+          "usd": 2.08
         }
       ]
     },
@@ -417,7 +417,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 4.65
+          "usd": 4.64
         }
       ]
     },
@@ -447,7 +447,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.18
+          "usd": 0.17
         }
       ]
     },
@@ -507,7 +507,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.08
+          "usd": 0.09
         }
       ]
     },
@@ -702,7 +702,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.97
+          "usd": 1.95
         }
       ]
     },
@@ -882,7 +882,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.13
+          "usd": 0.12
         }
       ]
     },
@@ -1175,7 +1175,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5.53
+          "usd": 5.35
         }
       ]
     },
@@ -1237,7 +1237,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 4.65
+          "usd": 4.51
         }
       ]
     },
@@ -1268,7 +1268,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 17.57
+          "usd": 17.56
         }
       ]
     },
@@ -1299,7 +1299,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 16.26
+          "usd": 16.1
         }
       ]
     },
@@ -1523,7 +1523,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 20.79
+          "usd": 21.38
         }
       ]
     },
@@ -1555,7 +1555,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 6.09
+          "usd": 6.05
         }
       ]
     },
@@ -1587,7 +1587,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 405.96
+          "usd": 414.79
         }
       ]
     },
@@ -1603,7 +1603,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.37
+          "usd": 1.36
         }
       ]
     },
@@ -1758,7 +1758,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.9
+          "usd": 1.92
         }
       ]
     },
@@ -1822,7 +1822,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 4.45
+          "usd": 4.47
         }
       ]
     },
@@ -1838,7 +1838,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 3.93
+          "usd": 3.98
         }
       ]
     },
@@ -1854,7 +1854,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 18.5
+          "usd": 18.48
         }
       ]
     },
@@ -2043,7 +2043,12 @@
       "type": "Option",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/652735_200w.jpg",
       "url": "https://www.tcgplayer.com/product/652735/digimon-card-game-sinister-order-god-grade-unleashed-limited-foil",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 5.29
+        }
+      ]
     },
     {
       "id": 652736,
@@ -2137,7 +2142,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 2.24
+          "usd": 2.15
         }
       ]
     },
@@ -2185,7 +2190,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.39
+          "usd": 0.36
         }
       ]
     },

@@ -10,7 +10,7 @@
           "name": "Brightness of Hope",
           "code": "FB11",
           "releasedAt": "2026-10-16",
-          "modifiedOn": "2026-09-18T17:23:34.243",
+          "modifiedOn": "2026-10-13T13:54:06.143",
           "count": 162,
           "file": "cards/dragonball/24716.json",
           "version": "dd12d65afa21"
@@ -43,7 +43,7 @@
           "modifiedOn": "2026-07-22T19:56:44.387",
           "count": 75,
           "file": "cards/dragonball/24733.json",
-          "version": "b5d089dca5f4"
+          "version": "07e92aa68829"
         },
         {
           "groupId": 24569,
@@ -63,7 +63,7 @@
           "modifiedOn": "2026-04-03T19:46:36.427",
           "count": 75,
           "file": "cards/dragonball/24663.json",
-          "version": "a53446a5ce65"
+          "version": "168e8ee39e1c"
         },
         {
           "groupId": 24571,
@@ -93,7 +93,7 @@
           "modifiedOn": "2026-04-03T19:25:26.393",
           "count": 70,
           "file": "cards/dragonball/24518.json",
-          "version": "222de31c8c3d"
+          "version": "d521966a7889"
         },
         {
           "groupId": 24450,
@@ -123,7 +123,7 @@
           "modifiedOn": "2025-11-14T18:54:06.083",
           "count": 69,
           "file": "cards/dragonball/24492.json",
-          "version": "82f9eb6652ab"
+          "version": "541c848bcb7c"
         },
         {
           "groupId": 24397,
@@ -143,7 +143,7 @@
           "modifiedOn": "2025-09-12T12:16:28.703",
           "count": 70,
           "file": "cards/dragonball/24419.json",
-          "version": "e3c59d86a3cc"
+          "version": "0cbc1d1f5703"
         },
         {
           "groupId": 24335,
@@ -163,7 +163,7 @@
           "modifiedOn": "2025-09-25T16:36:50.563",
           "count": 69,
           "file": "cards/dragonball/24368.json",
-          "version": "521073bfe78c"
+          "version": "a3fcda5fe277"
         },
         {
           "groupId": 24336,
@@ -213,7 +213,7 @@
           "modifiedOn": "2026-03-17T16:15:28.593",
           "count": 76,
           "file": "cards/dragonball/24248.json",
-          "version": "01e9706583a2"
+          "version": "1aff783fb3d6"
         },
         {
           "groupId": 24239,
@@ -273,7 +273,7 @@
           "modifiedOn": "2025-02-07T14:30:23.957",
           "count": 71,
           "file": "cards/dragonball/24186.json",
-          "version": "8d285c9e44ef"
+          "version": "93836fb19cc9"
         },
         {
           "groupId": 23823,
@@ -323,7 +323,7 @@
           "modifiedOn": "2024-11-13T21:46:40.337",
           "count": 81,
           "file": "cards/dragonball/23769.json",
-          "version": "7f2500223e9b"
+          "version": "6895611fd71f"
         },
         {
           "groupId": 23517,
@@ -353,7 +353,7 @@
           "modifiedOn": "2024-11-06T21:22:56.987",
           "count": 91,
           "file": "cards/dragonball/23518.json",
-          "version": "810e38fd2db9"
+          "version": "24275e2f1f0f"
         },
         {
           "groupId": 23519,
@@ -413,7 +413,7 @@
           "modifiedOn": "2024-10-10T20:07:19.48",
           "count": 92,
           "file": "cards/dragonball/23471.json",
-          "version": "8e317f01080b"
+          "version": "364d34b760bc"
         },
         {
           "groupId": 23401,
@@ -433,7 +433,7 @@
           "modifiedOn": "2025-03-04T14:42:50.56",
           "count": 88,
           "file": "cards/dragonball/23407.json",
-          "version": "3c13ec8b0a95"
+          "version": "2408fa1e5343"
         },
         {
           "groupId": 23408,
@@ -568,6 +568,16 @@
       "category": "Digimon Card Game",
       "sets": [
         {
+          "groupId": 24865,
+          "name": "Ignition of X",
+          "code": "BT27",
+          "releasedAt": "2026-12-11",
+          "modifiedOn": "2026-10-13T12:17:30.317",
+          "count": 1,
+          "file": "cards/digimon/24865.json",
+          "version": "9afd058d3b1d"
+        },
+        {
           "groupId": 24635,
           "name": "Chivalrous XIII",
           "code": "EX-13",
@@ -595,7 +605,7 @@
           "modifiedOn": "2026-09-04T12:52:49.797",
           "count": 49,
           "file": "cards/digimon/24824.json",
-          "version": "673d9a2021d7"
+          "version": "01f8a64de37c"
         },
         {
           "groupId": 24631,
@@ -635,7 +645,7 @@
           "modifiedOn": "2026-07-16T18:29:23.08",
           "count": 49,
           "file": "cards/digimon/24627.json",
-          "version": "2869d3a73984"
+          "version": "713bf150843c"
         },
         {
           "groupId": 24618,
@@ -665,7 +675,7 @@
           "modifiedOn": "2026-06-29T18:53:02.323",
           "count": 12,
           "file": "cards/digimon/24628.json",
-          "version": "f137903f8eb7"
+          "version": "fbfa66ef35d2"
         },
         {
           "groupId": 24629,
@@ -675,7 +685,7 @@
           "modifiedOn": "2026-06-29T18:53:21.39",
           "count": 12,
           "file": "cards/digimon/24629.json",
-          "version": "e922c0204368"
+          "version": "bfe069151dda"
         },
         {
           "groupId": 24561,
@@ -725,7 +735,7 @@
           "modifiedOn": "2026-02-24T14:06:05.137",
           "count": 50,
           "file": "cards/digimon/24595.json",
-          "version": "40b295e45087"
+          "version": "ead0702b6941"
         },
         {
           "groupId": 24456,
@@ -745,7 +755,7 @@
           "modifiedOn": "2026-02-23T18:43:48.853",
           "count": 5,
           "file": "cards/digimon/24491.json",
-          "version": "a0913ff49c57"
+          "version": "433270a4f908"
         },
         {
           "groupId": 24426,
@@ -775,7 +785,7 @@
           "modifiedOn": "2026-02-24T17:57:32.963",
           "count": 50,
           "file": "cards/digimon/24488.json",
-          "version": "674cd4ec706f"
+          "version": "477d2b3e330a"
         },
         {
           "groupId": 24089,
@@ -805,7 +815,7 @@
           "modifiedOn": "2026-02-22T18:26:55.043",
           "count": 48,
           "file": "cards/digimon/24079.json",
-          "version": "38be071a58e1"
+          "version": "08c1b51e4c08"
         },
         {
           "groupId": 24077,
@@ -845,7 +855,7 @@
           "modifiedOn": "2025-10-13T18:22:34.813",
           "count": 11,
           "file": "cards/digimon/24292.json",
-          "version": "5be017c19707"
+          "version": "749209802ee3"
         },
         {
           "groupId": 23993,
@@ -865,7 +875,7 @@
           "modifiedOn": "2025-04-18T16:39:34.483",
           "count": 11,
           "file": "cards/digimon/24271.json",
-          "version": "4ed1b3499c65"
+          "version": "bab153848309"
         },
         {
           "groupId": 24061,
@@ -875,7 +885,7 @@
           "modifiedOn": "2026-02-22T18:39:18.51",
           "count": 50,
           "file": "cards/digimon/24061.json",
-          "version": "3ae9158cd664"
+          "version": "06f0fd7266ab"
         },
         {
           "groupId": 24178,
@@ -985,7 +995,7 @@
           "modifiedOn": "2026-02-22T18:34:09.64",
           "count": 50,
           "file": "cards/digimon/23559.json",
-          "version": "eb43b650d18a"
+          "version": "5a762e063234"
         },
         {
           "groupId": 23414,
@@ -1015,7 +1025,7 @@
           "modifiedOn": "2026-02-22T18:23:46.193",
           "count": 48,
           "file": "cards/digimon/23413.json",
-          "version": "9c9e7829c15e"
+          "version": "d9a5cb08a8e8"
         },
         {
           "groupId": 23259,
@@ -1035,7 +1045,7 @@
           "modifiedOn": "2026-02-22T18:22:32.9",
           "count": 13,
           "file": "cards/digimon/23450.json",
-          "version": "9511ded3a7e5"
+          "version": "7dcbd82ce893"
         },
         {
           "groupId": 23254,
@@ -1055,7 +1065,7 @@
           "modifiedOn": "2026-02-22T18:29:59.75",
           "count": 58,
           "file": "cards/digimon/23324.json",
-          "version": "84378a808041"
+          "version": "ac90c4267f7e"
         },
         {
           "groupId": 23247,
@@ -1085,7 +1095,7 @@
           "modifiedOn": "2026-02-22T18:24:04.94",
           "count": 48,
           "file": "cards/digimon/23179.json",
-          "version": "bfb978e77aca"
+          "version": "bf45ced6f884"
         },
         {
           "groupId": 23189,
@@ -1115,7 +1125,7 @@
           "modifiedOn": "2023-10-10T17:16:37.497",
           "count": 14,
           "file": "cards/digimon/23327.json",
-          "version": "6fd6a39c45ad"
+          "version": "932710ccb47d"
         },
         {
           "groupId": 23328,
@@ -1125,7 +1135,7 @@
           "modifiedOn": "2023-12-14T14:19:14.937",
           "count": 14,
           "file": "cards/digimon/23328.json",
-          "version": "d81dd5c35db9"
+          "version": "af4c0dd521b0"
         },
         {
           "groupId": 23017,
@@ -1155,7 +1165,7 @@
           "modifiedOn": "2026-02-22T18:39:06.93",
           "count": 56,
           "file": "cards/digimon/23149.json",
-          "version": "4c0fabd83b21"
+          "version": "be9e821ac5b4"
         },
         {
           "groupId": 23147,
@@ -1185,7 +1195,7 @@
           "modifiedOn": "2026-02-22T18:23:11.467",
           "count": 56,
           "file": "cards/digimon/23013.json",
-          "version": "29921be4db85"
+          "version": "72ac43249680"
         },
         {
           "groupId": 17703,
@@ -1205,7 +1215,7 @@
           "modifiedOn": "2026-03-02T15:32:15.23",
           "count": 17,
           "file": "cards/digimon/23074.json",
-          "version": "53116780ed06"
+          "version": "5c7208ee4d62"
         },
         {
           "groupId": 17691,
@@ -1225,7 +1235,7 @@
           "modifiedOn": "2026-02-22T18:27:30.233",
           "count": 56,
           "file": "cards/digimon/17702.json",
-          "version": "f65202e5f62c"
+          "version": "ce24fef2fb93"
         },
         {
           "groupId": 3163,
@@ -1275,7 +1285,7 @@
           "modifiedOn": "2026-02-22T18:41:25.483",
           "count": 56,
           "file": "cards/digimon/3182.json",
-          "version": "bfe025569a57"
+          "version": "60c4a1fcdad0"
         },
         {
           "groupId": 3103,
@@ -1295,7 +1305,7 @@
           "modifiedOn": "2026-02-22T18:41:05.05",
           "count": 58,
           "file": "cards/digimon/3128.json",
-          "version": "46e1b2c1842a"
+          "version": "9b363b72dd96"
         },
         {
           "groupId": 3072,
@@ -1335,7 +1345,7 @@
           "modifiedOn": "2026-02-22T18:32:43.02",
           "count": 58,
           "file": "cards/digimon/3069.json",
-          "version": "040e0e54c1e7"
+          "version": "6812cf707595"
         },
         {
           "groupId": 3035,
@@ -1375,7 +1385,7 @@
           "modifiedOn": "2026-02-22T18:32:57.81",
           "count": 56,
           "file": "cards/digimon/3024.json",
-          "version": "84d5746e817a"
+          "version": "4fff2ad35d23"
         },
         {
           "groupId": 2924,
@@ -1395,7 +1405,7 @@
           "modifiedOn": "2026-02-22T18:29:28.823",
           "count": 56,
           "file": "cards/digimon/2955.json",
-          "version": "7d690c65250a"
+          "version": "2a8861f06e63"
         },
         {
           "groupId": 2880,
@@ -1445,7 +1455,7 @@
           "modifiedOn": "2026-02-22T18:23:36.093",
           "count": 56,
           "file": "cards/digimon/2886.json",
-          "version": "ef8b274772f9"
+          "version": "d4ef9fd3a511"
         },
         {
           "groupId": 2832,
@@ -1455,7 +1465,7 @@
           "modifiedOn": "2026-02-22T18:30:32.167",
           "count": 56,
           "file": "cards/digimon/2832.json",
-          "version": "b0953a4a2339"
+          "version": "58d7351be4dd"
         },
         {
           "groupId": 2763,
@@ -1565,6 +1575,132 @@
           "count": 54,
           "file": "cards/digimon/2987.json",
           "version": "00bd2d0f8686"
+        }
+      ]
+    },
+    "riftbound": {
+      "categoryId": 89,
+      "category": "Riftbound League of Legends Trading Card Game",
+      "sets": [
+        {
+          "groupId": 24819,
+          "name": "Radiance",
+          "code": "RAD",
+          "releasedAt": "2026-10-23",
+          "modifiedOn": "2026-10-09T18:21:56.457",
+          "count": 192,
+          "file": "cards/riftbound/24819.json",
+          "version": "3b1cd25e45fb"
+        },
+        {
+          "groupId": 24861,
+          "name": "T1 2025 Worlds Champion Bundles",
+          "code": "T12025",
+          "releasedAt": "2026-08-01",
+          "modifiedOn": "2026-10-05T18:15:46.257",
+          "count": 15,
+          "file": "cards/riftbound/24861.json",
+          "version": "c1a6ac746172"
+        },
+        {
+          "groupId": 24698,
+          "name": "Vendetta",
+          "code": "VEN",
+          "releasedAt": "2026-07-31",
+          "modifiedOn": "2026-10-12T12:55:49.4",
+          "count": 248,
+          "file": "cards/riftbound/24698.json",
+          "version": "391657d81f8c"
+        },
+        {
+          "groupId": 24560,
+          "name": "Unleashed",
+          "code": "UNL",
+          "releasedAt": "2026-05-08",
+          "modifiedOn": "2026-08-17T18:31:38.02",
+          "count": 308,
+          "file": "cards/riftbound/24560.json",
+          "version": "3b6140146afd"
+        },
+        {
+          "groupId": 24519,
+          "name": "Spiritforged",
+          "code": "SFD",
+          "releasedAt": "2026-02-13",
+          "modifiedOn": "2026-09-29T20:35:58.87",
+          "count": 309,
+          "file": "cards/riftbound/24519.json",
+          "version": "a09289fd0a6a"
+        },
+        {
+          "groupId": 24552,
+          "name": "Riftbound Judge Promotional Cards",
+          "code": "JDG",
+          "releasedAt": "2025-12-01",
+          "modifiedOn": "2026-10-02T12:45:49.813",
+          "count": 4,
+          "file": "cards/riftbound/24552.json",
+          "version": "658132a1a0da"
+        },
+        {
+          "groupId": 24344,
+          "name": "Origins",
+          "code": "OGN",
+          "releasedAt": "2025-10-31",
+          "modifiedOn": "2026-08-12T20:21:07.447",
+          "count": 353,
+          "file": "cards/riftbound/24344.json",
+          "version": "236bf3df6275"
+        },
+        {
+          "groupId": 24439,
+          "name": "Origins: Proving Grounds",
+          "code": "OGS",
+          "releasedAt": "2025-10-31",
+          "modifiedOn": "2026-08-12T20:22:47.78",
+          "count": 28,
+          "file": "cards/riftbound/24439.json",
+          "version": "77ad416ac742"
+        },
+        {
+          "groupId": 24528,
+          "name": "Riftbound Organized Play Promotional Cards",
+          "code": "OPP",
+          "releasedAt": "2025-10-31",
+          "modifiedOn": "2026-10-12T12:41:25.713",
+          "count": 241,
+          "file": "cards/riftbound/24528.json",
+          "version": "f2bed2306f99"
+        },
+        {
+          "groupId": 24343,
+          "name": "Riftbound Promotional Cards",
+          "code": "PR",
+          "releasedAt": "2025-10-31",
+          "modifiedOn": "2026-09-09T18:45:41.583",
+          "count": 11,
+          "file": "cards/riftbound/24343.json",
+          "version": "ad2a6967fb41"
+        },
+        {
+          "groupId": 24502,
+          "name": "Riftbound Worlds Bundle 2025",
+          "code": "RWB",
+          "releasedAt": "2025-10-28",
+          "modifiedOn": "2026-10-05T18:04:31.84",
+          "count": 7,
+          "file": "cards/riftbound/24502.json",
+          "version": "266314a8f947"
+        },
+        {
+          "groupId": 24797,
+          "name": "Secret Garden",
+          "code": "SGN",
+          "releasedAt": "2025-07-30",
+          "modifiedOn": "2026-08-12T20:31:38.323",
+          "count": 3,
+          "file": "cards/riftbound/24797.json",
+          "version": "6c79db1260ba"
         }
       ]
     }

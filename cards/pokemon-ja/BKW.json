@@ -1,0 +1,156 @@
+{
+  "code": "BKW",
+  "name": "ポケモンカードゲームBW バトル強化デッキ60「ホワイトキュレムEX」",
+  "official": "images",
+  "cards": [
+    {
+      "id": 28390,
+      "name": "ファイヤーEX",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BKW/028390_P_FAIYAEX.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28391,
+      "name": "ヒトモシ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BKW/028391_P_HITOMOSHI.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28392,
+      "name": "キバニア",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BKW/028392_P_KIBANIA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28393,
+      "name": "サメハダー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BKW/028393_P_SAMEHADA.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 28394,
+      "name": "バニプッチ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BKW/028394_P_BANIPUCCHI.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28395,
+      "name": "バニリッチ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BKW/028395_P_BANIRICCHI.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 28396,
+      "name": "バイバニラ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BKW/028396_P_BAIBANIRA.jpg",
+      "stage": "2&nbsp;進化"
+    },
+    {
+      "id": 28397,
+      "name": "ホワイトキュレムEX",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BKW/028397_P_HOWAITOKYUREMUEX.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28398,
+      "name": "エネコ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BKW/028398_P_ENEKO.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28399,
+      "name": "ハイパーボール",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BKW/028399_T_HAIPABORU.jpg"
+    },
+    {
+      "id": 28400,
+      "name": "ふしぎなアメ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BKW/028400_T_FUSHIGINAAME.jpg"
+    },
+    {
+      "id": 28401,
+      "name": "ポケモンいれかえ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BKW/028401_T_POKEMONIREKAE.jpg"
+    },
+    {
+      "id": 28402,
+      "name": "ポケモンキャッチャー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BKW/028402_T_POKEMONKYACCHA.jpg"
+    },
+    {
+      "id": 28403,
+      "name": "ランダムレシーバー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BKW/028403_T_RANDAMURESHIBA.jpg"
+    },
+    {
+      "id": 28404,
+      "name": "アララギ博士",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BKW/028404_T_ARARAGIHAKASE.jpg"
+    },
+    {
+      "id": 28405,
+      "name": "チェレン",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BKW/028405_T_CHIEREN.jpg"
+    },
+    {
+      "id": 28406,
+      "name": "フウロ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BKW/028406_T_FUURO.jpg"
+    },
+    {
+      "id": 28407,
+      "name": "プラズマエネルギー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BKW/028407_E_PURAZUMAENERUGI.jpg"
+    },
+    {
+      "id": 28408,
+      "name": "基本炎エネルギー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BKW/028408_E_KIHONHONOOENERUGI.jpg"
+    },
+    {
+      "id": 28409,
+      "name": "基本水エネルギー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BKW/028409_E_KIHONMIZUENERUGI.jpg"
+    }
+  ]
+}

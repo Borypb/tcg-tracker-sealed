@@ -1,0 +1,552 @@
+{
+  "code": "BW4-B",
+  "name": "ポケモンカードゲームBW 拡張パック「ダークラッシュ」",
+  "official": "images",
+  "cards": [
+    {
+      "id": 27761,
+      "name": "フシギダネ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027761_P_FUSHIGIDANE.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 27762,
+      "name": "フシギソウ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027762_P_FUSHIGISOU.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 27763,
+      "name": "フシギバナ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027763_P_FUSHIGIBANA.jpg",
+      "stage": "2&nbsp;進化"
+    },
+    {
+      "id": 27764,
+      "name": "マスキッパ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027764_P_MASUKIPPA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 27765,
+      "name": "カブルモ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027765_P_KABURUMO.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 27766,
+      "name": "チョボマキ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027766_P_CHOBOMAKI.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 27767,
+      "name": "アギルダー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027767_P_AGIRUDA.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 27768,
+      "name": "ブースター",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027768_P_BUSUTA.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 27769,
+      "name": "エンテイEX",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027769_P_ENTEIEX.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 27770,
+      "name": "アチャモ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027770_P_ACHAMO.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 27771,
+      "name": "ワカシャモ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027771_P_WAKASHAMO.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 27772,
+      "name": "バシャーモ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027772_P_BASHAMO.jpg",
+      "stage": "2&nbsp;進化"
+    },
+    {
+      "id": 27773,
+      "name": "クイタラン",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027773_P_KUITARAN.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 27774,
+      "name": "メラルバ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027774_P_MERARUBA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 27775,
+      "name": "ウルガモス",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027775_P_URUGAMOSU.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 27776,
+      "name": "ヤドン",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027776_P_YADON.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 27777,
+      "name": "ヤドラン",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027777_P_YADORAN.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 27778,
+      "name": "シャワーズ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027778_P_SHAWAZU.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 27779,
+      "name": "ポッチャマ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027779_P_POCCHAMA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 27780,
+      "name": "ポッタイシ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027780_P_POTTAISHI.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 27781,
+      "name": "エンペルト",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027781_P_ENPERUTO.jpg",
+      "stage": "2&nbsp;進化"
+    },
+    {
+      "id": 27782,
+      "name": "コアルヒー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027782_P_KOARUHI.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 27783,
+      "name": "スワンナ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027783_P_SUWANNA.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 27784,
+      "name": "サンダース",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027784_P_SANDASU.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 27785,
+      "name": "ライコウEX",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027785_P_RAIKOUEX.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 27786,
+      "name": "プラスル",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027786_P_PURASURU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 27787,
+      "name": "マイナン",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027787_P_MAINAN.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 27788,
+      "name": "バチュル",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027788_P_BACHURU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 27789,
+      "name": "デンチュラ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027789_P_DENCHURA.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 27790,
+      "name": "シビシラス",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027790_P_SHIBISHIRASU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 27791,
+      "name": "シビビール",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027791_P_SHIBIBIRU.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 27792,
+      "name": "シビルドン",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027792_P_SHIBIRUDON.jpg",
+      "stage": "2&nbsp;進化"
+    },
+    {
+      "id": 27793,
+      "name": "エーフィ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027793_P_EFI.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 27794,
+      "name": "ヤドキング",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027794_P_YADOKINGU.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 27795,
+      "name": "コロモリ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027795_P_KOROMORI.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 27796,
+      "name": "ココロモリ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027796_P_KOKOROMORI.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 27797,
+      "name": "デスマス",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027797_P_DESUMASU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 27798,
+      "name": "デスカーン",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027798_P_DESUKAN.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 27799,
+      "name": "プテラ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027799_P_PUTERA.jpg",
+      "stage": "復元"
+    },
+    {
+      "id": 27800,
+      "name": "モグリュー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027800_P_MOGURYU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 27801,
+      "name": "ドリュウズ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027801_P_DORYUUZU.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 27802,
+      "name": "ブラッキー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027802_P_BURAKKI.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 27803,
+      "name": "ヤミラミ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027803_P_YAMIRAMI.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 27804,
+      "name": "ダークライEX",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027804_P_DAKURAIEX.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 27805,
+      "name": "メグロコ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027805_P_MEGUROKO.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 27806,
+      "name": "ワルビル",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027806_P_WARUBIRU.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 27807,
+      "name": "ワルビアル",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027807_P_WARUBIARU.jpg",
+      "stage": "2&nbsp;進化"
+    },
+    {
+      "id": 27808,
+      "name": "ゾロア",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027808_P_ZOROA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 27809,
+      "name": "ゾロアーク",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027809_P_ZOROAKU.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 27810,
+      "name": "バルチャイ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027810_P_BARUCHAI.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 27811,
+      "name": "バルジーナ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027811_P_BARUJINA.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 27812,
+      "name": "シュバルゴ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027812_P_SHUBARUGO.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 27813,
+      "name": "ギアル",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027813_P_GIARU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 27814,
+      "name": "ギギアル",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027814_P_GIGIARU.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 27815,
+      "name": "ギギギアル",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027815_P_GIGIGIARU.jpg",
+      "stage": "2&nbsp;進化"
+    },
+    {
+      "id": 27816,
+      "name": "ラッキー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027816_P_RAKKI.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 27817,
+      "name": "ハピナス",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027817_P_HAPINASU.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 27818,
+      "name": "イーブイ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027818_P_IBUI.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 27819,
+      "name": "ヨーテリー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027819_P_YOTERI.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 27820,
+      "name": "ハーデリア",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027820_P_HADERIA.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 27821,
+      "name": "ムーランド",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027821_P_MURANDO.jpg",
+      "stage": "2&nbsp;進化"
+    },
+    {
+      "id": 27822,
+      "name": "トルネロスEX",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027822_P_TORUNEROSUEX.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 27823,
+      "name": "改造ハンマー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027823_T_KAIZOUHANMA.jpg"
+    },
+    {
+      "id": 27824,
+      "name": "ダークパッチ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027824_T_DAKUPACCHI.jpg"
+    },
+    {
+      "id": 27825,
+      "name": "ふしぎなアメ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027825_T_FUSHIGINAAME.jpg"
+    },
+    {
+      "id": 27826,
+      "name": "ひみつのコハク プテラ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027826_T_HIMITSUNOKOHAKUPUTERA.jpg"
+    },
+    {
+      "id": 27827,
+      "name": "悪のツメ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027827_T_AKUNOTSUME.jpg"
+    },
+    {
+      "id": 27828,
+      "name": "バッドチームのジムとサブ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027828_T_BADDOCHIMUNOJIMUTOSABU.jpg"
+    },
+    {
+      "id": 27829,
+      "name": "ネジ山",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027829_T_NEJIYAMA.jpg"
+    }
+  ]
+}

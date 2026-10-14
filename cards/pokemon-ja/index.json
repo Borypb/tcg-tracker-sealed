@@ -1,0 +1,2139 @@
+{
+  "updatedAt": "2026-10-14",
+  "sets": [
+    {
+      "code": "M6a",
+      "name": "30th CELEBRATION",
+      "releasedAt": "2026-09-16",
+      "count": 138,
+      "file": "cards/pokemon-ja/M6a.json",
+      "version": "10ff7bb4d369"
+    },
+    {
+      "code": "M6",
+      "name": "ストームエメラルダ",
+      "releasedAt": "2026-07-31",
+      "count": 110,
+      "file": "cards/pokemon-ja/M6.json",
+      "version": "99035d3e9a2f"
+    },
+    {
+      "code": "M5",
+      "name": "アビスアイ",
+      "releasedAt": "2026-05-22",
+      "count": 118,
+      "file": "cards/pokemon-ja/M5.json",
+      "version": "b8edf844cb54"
+    },
+    {
+      "code": "M4",
+      "name": "ニンジャスピナー",
+      "releasedAt": "2026-03-13",
+      "count": 120,
+      "file": "cards/pokemon-ja/M4.json",
+      "version": "93ec66bf0d04"
+    },
+    {
+      "code": "M3",
+      "name": "ムニキスゼロ",
+      "releasedAt": "2026-01-23",
+      "count": 117,
+      "file": "cards/pokemon-ja/M3.json",
+      "version": "aa14ee55e496"
+    },
+    {
+      "code": "M2a",
+      "name": "MEGAドリームex",
+      "releasedAt": "2025-11-28",
+      "count": 250,
+      "file": "cards/pokemon-ja/M2a.json",
+      "version": "9ea527cf2cd2"
+    },
+    {
+      "code": "M2",
+      "name": "インフェルノX",
+      "releasedAt": "2025-09-26",
+      "count": 116,
+      "file": "cards/pokemon-ja/M2.json",
+      "version": "1e69039161a5"
+    },
+    {
+      "code": "SV10",
+      "name": "ロケット団の栄光",
+      "releasedAt": "2025-04-18",
+      "count": 132,
+      "file": "cards/pokemon-ja/SV10.json",
+      "version": "d19bd03dc590"
+    },
+    {
+      "code": "SV8",
+      "name": "超電ブレイカー",
+      "releasedAt": "2024-10-18",
+      "count": 138,
+      "file": "cards/pokemon-ja/SV8.json",
+      "version": "fa5938dd1bd8"
+    },
+    {
+      "code": "S12a",
+      "name": "VSTARユニバース",
+      "releasedAt": "2022-12-02",
+      "count": 351,
+      "file": "cards/pokemon-ja/S12a.json",
+      "version": "a79959595be7"
+    },
+    {
+      "code": "S11a",
+      "name": "白熱のアルカナ",
+      "releasedAt": "2022-09-02",
+      "count": 140,
+      "file": "cards/pokemon-ja/S11a.json",
+      "version": "39e03ccbbbc7"
+    },
+    {
+      "code": "S10b",
+      "name": "Pokémon GO",
+      "releasedAt": "2022-06-17",
+      "count": 101,
+      "file": "cards/pokemon-ja/S10b.json",
+      "version": "0720f56da4ed"
+    },
+    {
+      "code": "S10a",
+      "name": "ダークファンタズマ",
+      "releasedAt": "2022-05-13",
+      "count": 148,
+      "file": "cards/pokemon-ja/S10a.json",
+      "version": "c2797c8892d5"
+    },
+    {
+      "code": "S9a",
+      "name": "バトルリージョン",
+      "releasedAt": "2022-02-25",
+      "count": 138,
+      "file": "cards/pokemon-ja/S9a.json",
+      "version": "a1bbc130b27e"
+    },
+    {
+      "code": "S8b",
+      "name": "VMAXクライマックス",
+      "releasedAt": "2021-12-03",
+      "count": 279,
+      "file": "cards/pokemon-ja/S8b.json",
+      "version": "e1440a0c7d05"
+    },
+    {
+      "code": "S8",
+      "name": "フュージョンアーツ",
+      "releasedAt": "2021-09-24",
+      "count": 115,
+      "file": "cards/pokemon-ja/S8.json",
+      "version": "b0ebcccf6220"
+    },
+    {
+      "code": "S6a",
+      "name": "イーブイヒーローズ",
+      "releasedAt": "2021-05-28",
+      "count": 87,
+      "file": "cards/pokemon-ja/S6a.json",
+      "version": "862a260a9757"
+    },
+    {
+      "code": "S5a",
+      "name": "双璧のファイター",
+      "releasedAt": "2021-03-19",
+      "count": 84,
+      "file": "cards/pokemon-ja/S5a.json",
+      "version": "ed9502febfda"
+    },
+    {
+      "code": "S4a",
+      "name": "シャイニースターV",
+      "releasedAt": "2020-11-20",
+      "count": 326,
+      "file": "cards/pokemon-ja/S4a.json",
+      "version": "94cac0aee2f3"
+    },
+    {
+      "code": "S4",
+      "name": "仰天のボルテッカー ",
+      "releasedAt": "2020-09-18",
+      "count": 111,
+      "file": "cards/pokemon-ja/S4.json",
+      "version": "b7b3dba18e90"
+    },
+    {
+      "code": "S3a",
+      "name": "伝説の鼓動",
+      "releasedAt": "2020-07-10",
+      "count": 85,
+      "file": "cards/pokemon-ja/S3a.json",
+      "version": "fc91536e607f"
+    },
+    {
+      "code": "S3",
+      "name": "ムゲンゾーン",
+      "releasedAt": "2020-06-05",
+      "count": 110,
+      "file": "cards/pokemon-ja/S3.json",
+      "version": "31c72a339736"
+    },
+    {
+      "code": "S2a",
+      "name": "爆炎ウォーカー",
+      "releasedAt": "2020-04-24",
+      "count": 78,
+      "file": "cards/pokemon-ja/S2a.json",
+      "version": "1bcfd275c7f5"
+    },
+    {
+      "code": "S2",
+      "name": "反逆クラッシュ",
+      "releasedAt": "2020-03-06",
+      "count": 106,
+      "file": "cards/pokemon-ja/S2.json",
+      "version": "a0df49c31090"
+    },
+    {
+      "code": "S1a",
+      "name": "VMAXライジング",
+      "releasedAt": "2020-02-07",
+      "count": 78,
+      "file": "cards/pokemon-ja/S1a.json",
+      "version": "9cda033e2e3e"
+    },
+    {
+      "code": "SM12a",
+      "name": "TAG TEAM GX タッグオールスターズ",
+      "releasedAt": "2019-10-04",
+      "count": 210,
+      "file": "cards/pokemon-ja/SM12a.json",
+      "version": "b2b6c2f5b1eb"
+    },
+    {
+      "code": "SM10a",
+      "name": "ジージーエンド",
+      "releasedAt": "2019-04-05",
+      "count": 62,
+      "file": "cards/pokemon-ja/SM10a.json",
+      "version": "06d5976f74cf"
+    },
+    {
+      "code": "S8a-P",
+      "name": "S8a-P",
+      "count": 25,
+      "file": "cards/pokemon-ja/S8a-P.json",
+      "version": "fdc50640ecce"
+    },
+    {
+      "code": "MF",
+      "name": "30th CELEBRATION プレミアムデッキセット エーフィ・ブラッキー",
+      "count": 49,
+      "file": "cards/pokemon-ja/MF.json",
+      "version": "f9ec1763df24"
+    },
+    {
+      "code": "MEM",
+      "name": "MEM",
+      "count": 18,
+      "file": "cards/pokemon-ja/MEM.json",
+      "version": "29a72c03ae1d"
+    },
+    {
+      "code": "MEZ",
+      "name": "MEZ",
+      "count": 20,
+      "file": "cards/pokemon-ja/MEZ.json",
+      "version": "f81f04d5cb4c"
+    },
+    {
+      "code": "MEE",
+      "name": "MEE",
+      "count": 20,
+      "file": "cards/pokemon-ja/MEE.json",
+      "version": "910eb57740a4"
+    },
+    {
+      "code": "MC",
+      "name": "MC",
+      "count": 774,
+      "file": "cards/pokemon-ja/MC.json",
+      "version": "88bbda1817ce"
+    },
+    {
+      "code": "MBD",
+      "name": "MBD",
+      "count": 22,
+      "file": "cards/pokemon-ja/MBD.json",
+      "version": "e1f25201b8d7"
+    },
+    {
+      "code": "MBG",
+      "name": "MBG",
+      "count": 22,
+      "file": "cards/pokemon-ja/MBG.json",
+      "version": "e9ba08ad37a7"
+    },
+    {
+      "code": "M-P",
+      "name": "M-P",
+      "count": 171,
+      "file": "cards/pokemon-ja/M-P.json",
+      "version": "4ff2bb93a9ad"
+    },
+    {
+      "code": "MA",
+      "name": "MA",
+      "count": 43,
+      "file": "cards/pokemon-ja/MA.json",
+      "version": "09e64e82a41d"
+    },
+    {
+      "code": "M1S",
+      "name": "M1S",
+      "count": 92,
+      "file": "cards/pokemon-ja/M1S.json",
+      "version": "df38ff0648c8"
+    },
+    {
+      "code": "M1L",
+      "name": "M1L",
+      "count": 92,
+      "file": "cards/pokemon-ja/M1L.json",
+      "version": "5ee408b1fe38"
+    },
+    {
+      "code": "SV11W",
+      "name": "SV11W",
+      "count": 174,
+      "file": "cards/pokemon-ja/SV11W.json",
+      "version": "43b599cfa49f"
+    },
+    {
+      "code": "SV11B",
+      "name": "SV11B",
+      "count": 174,
+      "file": "cards/pokemon-ja/SV11B.json",
+      "version": "a8cf28b76ff0"
+    },
+    {
+      "code": "SVOD",
+      "name": "SVOD",
+      "count": 19,
+      "file": "cards/pokemon-ja/SVOD.json",
+      "version": "836f6ef50f2f"
+    },
+    {
+      "code": "SVOM",
+      "name": "SVOM",
+      "count": 20,
+      "file": "cards/pokemon-ja/SVOM.json",
+      "version": "fc603a1791c0"
+    },
+    {
+      "code": "SVN",
+      "name": "SVN",
+      "count": 45,
+      "file": "cards/pokemon-ja/SVN.json",
+      "version": "7a29c494f64f"
+    },
+    {
+      "code": "SVM",
+      "name": "SVM",
+      "count": 175,
+      "file": "cards/pokemon-ja/SVM.json",
+      "version": "feafa9afb829"
+    },
+    {
+      "code": "SVJP",
+      "name": "SVJP",
+      "count": 19,
+      "file": "cards/pokemon-ja/SVJP.json",
+      "version": "a94f9e0e6d52"
+    },
+    {
+      "code": "SVJL",
+      "name": "SVJL",
+      "count": 21,
+      "file": "cards/pokemon-ja/SVJL.json",
+      "version": "363aa6d30192"
+    },
+    {
+      "code": "XY-P",
+      "name": "XY-P",
+      "count": 14,
+      "file": "cards/pokemon-ja/XY-P.json",
+      "version": "be011dcca624"
+    },
+    {
+      "code": "SVI",
+      "name": "SVI",
+      "count": 102,
+      "file": "cards/pokemon-ja/SVI.json",
+      "version": "73c330026cef"
+    },
+    {
+      "code": "SVHM",
+      "name": "SVHM",
+      "count": 53,
+      "file": "cards/pokemon-ja/SVHM.json",
+      "version": "4e175f3fec37"
+    },
+    {
+      "code": "SVHK",
+      "name": "SVHK",
+      "count": 53,
+      "file": "cards/pokemon-ja/SVHK.json",
+      "version": "cbe99bf63330"
+    },
+    {
+      "code": "SV5M",
+      "name": "SV5M",
+      "count": 100,
+      "file": "cards/pokemon-ja/SV5M.json",
+      "version": "8c30209434a9"
+    },
+    {
+      "code": "SVG",
+      "name": "SVG",
+      "count": 52,
+      "file": "cards/pokemon-ja/SVG.json",
+      "version": "b8623b8ec8c5"
+    },
+    {
+      "code": "CLK",
+      "name": "CLK",
+      "count": 2,
+      "file": "cards/pokemon-ja/CLK.json",
+      "version": "a52518cb7d60"
+    },
+    {
+      "code": "CLL",
+      "name": "CLL",
+      "count": 2,
+      "file": "cards/pokemon-ja/CLL.json",
+      "version": "f27a8ef7bf9e"
+    },
+    {
+      "code": "CLF",
+      "name": "CLF",
+      "count": 2,
+      "file": "cards/pokemon-ja/CLF.json",
+      "version": "062b385c2cee"
+    },
+    {
+      "code": "SVEL",
+      "name": "SVEL",
+      "count": 22,
+      "file": "cards/pokemon-ja/SVEL.json",
+      "version": "7392b259d8fc"
+    },
+    {
+      "code": "SVEM",
+      "name": "SVEM",
+      "count": 22,
+      "file": "cards/pokemon-ja/SVEM.json",
+      "version": "b41aabdcfebc"
+    },
+    {
+      "code": "SVF",
+      "name": "SVF",
+      "count": 38,
+      "file": "cards/pokemon-ja/SVF.json",
+      "version": "02b5f5b7eeba"
+    },
+    {
+      "code": "WCS23",
+      "name": "WCS23",
+      "count": 32,
+      "file": "cards/pokemon-ja/WCS23.json",
+      "version": "d8917029e350"
+    },
+    {
+      "code": "SVD",
+      "name": "SVD",
+      "count": 139,
+      "file": "cards/pokemon-ja/SVD.json",
+      "version": "85628648356b"
+    },
+    {
+      "code": "SVP1",
+      "name": "SVP1",
+      "count": 7,
+      "file": "cards/pokemon-ja/SVP1.json",
+      "version": "e570062424e9"
+    },
+    {
+      "code": "SVC",
+      "name": "SVC",
+      "count": 24,
+      "file": "cards/pokemon-ja/SVC.json",
+      "version": "6317159757bd"
+    },
+    {
+      "code": "SVB",
+      "name": "SVB",
+      "count": 28,
+      "file": "cards/pokemon-ja/SVB.json",
+      "version": "653c91819649"
+    },
+    {
+      "code": "SVAW",
+      "name": "SVAW",
+      "count": 26,
+      "file": "cards/pokemon-ja/SVAW.json",
+      "version": "2d886809a944"
+    },
+    {
+      "code": "SVAL",
+      "name": "SVAL",
+      "count": 24,
+      "file": "cards/pokemon-ja/SVAL.json",
+      "version": "52b9ea07592d"
+    },
+    {
+      "code": "SVAM",
+      "name": "SVAM",
+      "count": 26,
+      "file": "cards/pokemon-ja/SVAM.json",
+      "version": "89574cfc935d"
+    },
+    {
+      "code": "SV-P",
+      "name": "SV-P",
+      "count": 322,
+      "file": "cards/pokemon-ja/SV-P.json",
+      "version": "b5f678ef15d2"
+    },
+    {
+      "code": "SO",
+      "name": "SO",
+      "count": 32,
+      "file": "cards/pokemon-ja/SO.json",
+      "version": "0ac661943bd2"
+    },
+    {
+      "code": "SP6",
+      "name": "SP6",
+      "count": 6,
+      "file": "cards/pokemon-ja/SP6.json",
+      "version": "adc2162a1821"
+    },
+    {
+      "code": "SPD",
+      "name": "SPD",
+      "count": 21,
+      "file": "cards/pokemon-ja/SPD.json",
+      "version": "efa83c2ae4f2"
+    },
+    {
+      "code": "SPZ",
+      "name": "SPZ",
+      "count": 21,
+      "file": "cards/pokemon-ja/SPZ.json",
+      "version": "8881bf8470bb"
+    },
+    {
+      "code": "S8a-G",
+      "name": "S8a-G",
+      "count": 16,
+      "file": "cards/pokemon-ja/S8a-G.json",
+      "version": "e44af2999af4"
+    },
+    {
+      "code": "S10D",
+      "name": "S10D",
+      "count": 88,
+      "file": "cards/pokemon-ja/S10D.json",
+      "version": "fe7fc4a21b78"
+    },
+    {
+      "code": "SLD",
+      "name": "SLD",
+      "count": 20,
+      "file": "cards/pokemon-ja/SLD.json",
+      "version": "694fcd46e60f"
+    },
+    {
+      "code": "SLL",
+      "name": "SLL",
+      "count": 21,
+      "file": "cards/pokemon-ja/SLL.json",
+      "version": "e146fe68faef"
+    },
+    {
+      "code": "SN",
+      "name": "SN",
+      "count": 25,
+      "file": "cards/pokemon-ja/SN.json",
+      "version": "98b0f60a8695"
+    },
+    {
+      "code": "SK",
+      "name": "SK",
+      "count": 30,
+      "file": "cards/pokemon-ja/SK.json",
+      "version": "6ccfc56f0169"
+    },
+    {
+      "code": "SI",
+      "name": "SI",
+      "count": 563,
+      "file": "cards/pokemon-ja/SI.json",
+      "version": "fc21b304ecc8"
+    },
+    {
+      "code": "SJ",
+      "name": "SJ",
+      "count": 30,
+      "file": "cards/pokemon-ja/SJ.json",
+      "version": "59c369d27f24"
+    },
+    {
+      "code": "S8a",
+      "name": "S8a",
+      "count": 34,
+      "file": "cards/pokemon-ja/S8a.json",
+      "version": "094fa1b6853c"
+    },
+    {
+      "code": "SP5",
+      "name": "SP5",
+      "count": 4,
+      "file": "cards/pokemon-ja/SP5.json",
+      "version": "6bd267b17d66"
+    },
+    {
+      "code": "SH",
+      "name": "SH",
+      "count": 78,
+      "file": "cards/pokemon-ja/SH.json",
+      "version": "a62e3c2a5d05"
+    },
+    {
+      "code": "S7R",
+      "name": "S7R",
+      "count": 79,
+      "file": "cards/pokemon-ja/S7R.json",
+      "version": "d55584c22877"
+    },
+    {
+      "code": "S7D",
+      "name": "S7D",
+      "count": 79,
+      "file": "cards/pokemon-ja/S7D.json",
+      "version": "6ec0ab0a7925"
+    },
+    {
+      "code": "SP4",
+      "name": "SP4",
+      "count": 8,
+      "file": "cards/pokemon-ja/SP4.json",
+      "version": "8e2c563ee7ac"
+    },
+    {
+      "code": "SGI",
+      "name": "SGI",
+      "count": 24,
+      "file": "cards/pokemon-ja/SGI.json",
+      "version": "5b10295707ff"
+    },
+    {
+      "code": "SGG",
+      "name": "SGG",
+      "count": 21,
+      "file": "cards/pokemon-ja/SGG.json",
+      "version": "ca1f4c7229b0"
+    },
+    {
+      "code": "SP3",
+      "name": "SP3",
+      "count": 6,
+      "file": "cards/pokemon-ja/SP3.json",
+      "version": "5e4e05ef7ddd"
+    },
+    {
+      "code": "S6K",
+      "name": "S6K",
+      "count": 83,
+      "file": "cards/pokemon-ja/S6K.json",
+      "version": "4849e1358f3e"
+    },
+    {
+      "code": "S6H",
+      "name": "S6H",
+      "count": 83,
+      "file": "cards/pokemon-ja/S6H.json",
+      "version": "66150f5a373c"
+    },
+    {
+      "code": "SF",
+      "name": "SF",
+      "count": 33,
+      "file": "cards/pokemon-ja/SF.json",
+      "version": "df059f32ea54"
+    },
+    {
+      "code": "S5R",
+      "name": "S5R",
+      "count": 81,
+      "file": "cards/pokemon-ja/S5R.json",
+      "version": "80f0e10678ab"
+    },
+    {
+      "code": "S5I",
+      "name": "S5I",
+      "count": 81,
+      "file": "cards/pokemon-ja/S5I.json",
+      "version": "f96600c3db7a"
+    },
+    {
+      "code": "SC2",
+      "name": "SC2",
+      "count": 21,
+      "file": "cards/pokemon-ja/SC2.json",
+      "version": "a730f7d04d11"
+    },
+    {
+      "code": "SEF",
+      "name": "SEF",
+      "count": 21,
+      "file": "cards/pokemon-ja/SEF.json",
+      "version": "cf67ebbe59d8"
+    },
+    {
+      "code": "SEK",
+      "name": "SEK",
+      "count": 20,
+      "file": "cards/pokemon-ja/SEK.json",
+      "version": "0dd713665005"
+    },
+    {
+      "code": "SP2",
+      "name": "SP2",
+      "count": 8,
+      "file": "cards/pokemon-ja/SP2.json",
+      "version": "534e38ac3e6d"
+    },
+    {
+      "code": "SD",
+      "name": "SD",
+      "count": 127,
+      "file": "cards/pokemon-ja/SD.json",
+      "version": "54e0d4d2c277"
+    },
+    {
+      "code": "SCS",
+      "name": "SCS",
+      "count": 41,
+      "file": "cards/pokemon-ja/SCS.json",
+      "version": "378c143523d6"
+    },
+    {
+      "code": "SP1",
+      "name": "SP1",
+      "count": 7,
+      "file": "cards/pokemon-ja/SP1.json",
+      "version": "7fb3d3d29969"
+    },
+    {
+      "code": "SB",
+      "name": "SB",
+      "count": 24,
+      "file": "cards/pokemon-ja/SB.json",
+      "version": "f6b85212e95b"
+    },
+    {
+      "code": "S1H",
+      "name": "S1H",
+      "count": 68,
+      "file": "cards/pokemon-ja/S1H.json",
+      "version": "cee952a98e38"
+    },
+    {
+      "code": "S1W",
+      "name": "S1W",
+      "count": 68,
+      "file": "cards/pokemon-ja/S1W.json",
+      "version": "2136ec43a082"
+    },
+    {
+      "code": "S-P",
+      "name": "S-P",
+      "count": 334,
+      "file": "cards/pokemon-ja/S-P.json",
+      "version": "535db9943d76"
+    },
+    {
+      "code": "SA",
+      "name": "SA",
+      "count": 122,
+      "file": "cards/pokemon-ja/SA.json",
+      "version": "b7ea22ec2233"
+    },
+    {
+      "code": "BW",
+      "name": "BW",
+      "count": 15,
+      "file": "cards/pokemon-ja/BW.json",
+      "version": "1cfc44c63ed7"
+    },
+    {
+      "code": "SM12",
+      "name": "SM12",
+      "count": 108,
+      "file": "cards/pokemon-ja/SM12.json",
+      "version": "53fc97f418b1"
+    },
+    {
+      "code": "SM11b",
+      "name": "SM11b",
+      "count": 68,
+      "file": "cards/pokemon-ja/SM11b.json",
+      "version": "fb72b3557c67"
+    },
+    {
+      "code": "SM11a",
+      "name": "SM11a",
+      "count": 73,
+      "file": "cards/pokemon-ja/SM11a.json",
+      "version": "49c8f64e892e"
+    },
+    {
+      "code": "SMM",
+      "name": "SMM",
+      "count": 31,
+      "file": "cards/pokemon-ja/SMM.json",
+      "version": "95ab3687f87d"
+    },
+    {
+      "code": "SM11",
+      "name": "SM11",
+      "count": 106,
+      "file": "cards/pokemon-ja/SM11.json",
+      "version": "1ad291280546"
+    },
+    {
+      "code": "SMP2",
+      "name": "SMP2",
+      "count": 25,
+      "file": "cards/pokemon-ja/SMP2.json",
+      "version": "70abba0df649"
+    },
+    {
+      "code": "SM10b",
+      "name": "SM10b",
+      "count": 62,
+      "file": "cards/pokemon-ja/SM10b.json",
+      "version": "98391462377e"
+    },
+    {
+      "code": "SMSMP",
+      "name": "SMSMP",
+      "count": 1,
+      "file": "cards/pokemon-ja/SMSMP.json",
+      "version": "38ff881b5540"
+    },
+    {
+      "code": "SMJ",
+      "name": "SMJ",
+      "count": 35,
+      "file": "cards/pokemon-ja/SMJ.json",
+      "version": "51bca2b69f33"
+    },
+    {
+      "code": "SML",
+      "name": "SML",
+      "count": 69,
+      "file": "cards/pokemon-ja/SML.json",
+      "version": "79ac6a69deb4"
+    },
+    {
+      "code": "SMN",
+      "name": "SMN",
+      "count": 29,
+      "file": "cards/pokemon-ja/SMN.json",
+      "version": "061ca4bc152d"
+    },
+    {
+      "code": "SM10",
+      "name": "SM10",
+      "count": 107,
+      "file": "cards/pokemon-ja/SM10.json",
+      "version": "67d0ef48f831"
+    },
+    {
+      "code": "SM9b",
+      "name": "SM9b",
+      "count": 62,
+      "file": "cards/pokemon-ja/SM9b.json",
+      "version": "3ca800bf0886"
+    },
+    {
+      "code": "SMK",
+      "name": "SMK",
+      "count": 31,
+      "file": "cards/pokemon-ja/SMK.json",
+      "version": "a0397685605b"
+    },
+    {
+      "code": "SM9a",
+      "name": "SM9a",
+      "count": 63,
+      "file": "cards/pokemon-ja/SM9a.json",
+      "version": "69efc50d71a7"
+    },
+    {
+      "code": "SM9",
+      "name": "SM9",
+      "count": 109,
+      "file": "cards/pokemon-ja/SM9.json",
+      "version": "b5b973f4feb7"
+    },
+    {
+      "code": "SMI",
+      "name": "SMI",
+      "count": 38,
+      "file": "cards/pokemon-ja/SMI.json",
+      "version": "d13ef196e5f8"
+    },
+    {
+      "code": "XY7",
+      "name": "XY7",
+      "count": 11,
+      "file": "cards/pokemon-ja/XY7.json",
+      "version": "780f8eacb31b"
+    },
+    {
+      "code": "XY6",
+      "name": "XY6",
+      "count": 11,
+      "file": "cards/pokemon-ja/XY6.json",
+      "version": "56cdc81aa721"
+    },
+    {
+      "code": "SM8b",
+      "name": "SM8b",
+      "count": 243,
+      "file": "cards/pokemon-ja/SM8b.json",
+      "version": "fb6b8397064a"
+    },
+    {
+      "code": "SM8a",
+      "name": "SM8a",
+      "count": 58,
+      "file": "cards/pokemon-ja/SM8a.json",
+      "version": "98c5302021f1"
+    },
+    {
+      "code": "SM8",
+      "name": "SM8",
+      "count": 103,
+      "file": "cards/pokemon-ja/SM8.json",
+      "version": "8c4a9c50b768"
+    },
+    {
+      "code": "SM7b",
+      "name": "SM7b",
+      "count": 56,
+      "file": "cards/pokemon-ja/SM7b.json",
+      "version": "91570fbdbe57"
+    },
+    {
+      "code": "SM7a",
+      "name": "SM7a",
+      "count": 66,
+      "file": "cards/pokemon-ja/SM7a.json",
+      "version": "bb5ed0820ad2"
+    },
+    {
+      "code": "SMH",
+      "name": "SMH",
+      "count": 131,
+      "file": "cards/pokemon-ja/SMH.json",
+      "version": "045c640c6085"
+    },
+    {
+      "code": "SM7",
+      "name": "SM7",
+      "count": 104,
+      "file": "cards/pokemon-ja/SM7.json",
+      "version": "bbc171e57562"
+    },
+    {
+      "code": "SM6b",
+      "name": "SM6b",
+      "count": 77,
+      "file": "cards/pokemon-ja/SM6b.json",
+      "version": "c0f08532442f"
+    },
+    {
+      "code": "SM6a",
+      "name": "SM6a",
+      "count": 59,
+      "file": "cards/pokemon-ja/SM6a.json",
+      "version": "f8faf57ccfc1"
+    },
+    {
+      "code": "SM6",
+      "name": "SM6",
+      "count": 102,
+      "file": "cards/pokemon-ja/SM6.json",
+      "version": "3f14dffd2e75"
+    },
+    {
+      "code": "SMG",
+      "name": "SMG",
+      "count": 12,
+      "file": "cards/pokemon-ja/SMG.json",
+      "version": "46510bd506b9"
+    },
+    {
+      "code": "SM5p",
+      "name": "SM5p",
+      "count": 56,
+      "file": "cards/pokemon-ja/SM5p.json",
+      "version": "0fd9d795ef09"
+    },
+    {
+      "code": "SMF",
+      "name": "SMF",
+      "count": 12,
+      "file": "cards/pokemon-ja/SMF.json",
+      "version": "63cf278a6b65"
+    },
+    {
+      "code": "SM5M",
+      "name": "SM5M",
+      "count": 72,
+      "file": "cards/pokemon-ja/SM5M.json",
+      "version": "91da46dec620"
+    },
+    {
+      "code": "SM5S",
+      "name": "SM5S",
+      "count": 72,
+      "file": "cards/pokemon-ja/SM5S.json",
+      "version": "61e7d9b742cd"
+    },
+    {
+      "code": "SME",
+      "name": "SME",
+      "count": 21,
+      "file": "cards/pokemon-ja/SME.json",
+      "version": "b92c4a38e6b3"
+    },
+    {
+      "code": "SM4p",
+      "name": "SM4p",
+      "count": 120,
+      "file": "cards/pokemon-ja/SM4p.json",
+      "version": "e2b253c3ae81"
+    },
+    {
+      "code": "SM4S",
+      "name": "SM4S",
+      "count": 55,
+      "file": "cards/pokemon-ja/SM4S.json",
+      "version": "d8166d2e3004"
+    },
+    {
+      "code": "SM4A",
+      "name": "SM4A",
+      "count": 55,
+      "file": "cards/pokemon-ja/SM4A.json",
+      "version": "09444b17d570"
+    },
+    {
+      "code": "SM3p",
+      "name": "SM3p",
+      "count": 77,
+      "file": "cards/pokemon-ja/SM3p.json",
+      "version": "02c3bea53f99"
+    },
+    {
+      "code": "SM3N",
+      "name": "SM3N",
+      "count": 57,
+      "file": "cards/pokemon-ja/SM3N.json",
+      "version": "d43148a8b65c"
+    },
+    {
+      "code": "SM3H",
+      "name": "SM3H",
+      "count": 57,
+      "file": "cards/pokemon-ja/SM3H.json",
+      "version": "aa2a4af6b44b"
+    },
+    {
+      "code": "XY",
+      "name": "XY",
+      "count": 396,
+      "file": "cards/pokemon-ja/XY.json",
+      "version": "f6573cd8a8df"
+    },
+    {
+      "code": "SMD",
+      "name": "SMD",
+      "count": 32,
+      "file": "cards/pokemon-ja/SMD.json",
+      "version": "467ef8f78245"
+    },
+    {
+      "code": "SM2p",
+      "name": "SM2p",
+      "count": 61,
+      "file": "cards/pokemon-ja/SM2p.json",
+      "version": "15cdb54b4a0a"
+    },
+    {
+      "code": "SM2L",
+      "name": "SM2L",
+      "count": 55,
+      "file": "cards/pokemon-ja/SM2L.json",
+      "version": "b012a5747bc3"
+    },
+    {
+      "code": "SMC",
+      "name": "SMC",
+      "count": 21,
+      "file": "cards/pokemon-ja/SMC.json",
+      "version": "19fcb0faa429"
+    },
+    {
+      "code": "SM2K",
+      "name": "SM2K",
+      "count": 55,
+      "file": "cards/pokemon-ja/SM2K.json",
+      "version": "f0f22c9ee801"
+    },
+    {
+      "code": "SMP1",
+      "name": "SMP1",
+      "count": 13,
+      "file": "cards/pokemon-ja/SMP1.json",
+      "version": "c2f74e8c2af5"
+    },
+    {
+      "code": "SM1p",
+      "name": "SM1p",
+      "count": 63,
+      "file": "cards/pokemon-ja/SM1p.json",
+      "version": "ab879a2850bb"
+    },
+    {
+      "code": "SMP",
+      "name": "SMP",
+      "count": 443,
+      "file": "cards/pokemon-ja/SMP.json",
+      "version": "9a949eb09123"
+    },
+    {
+      "code": "SM-XY",
+      "name": "SM-XY",
+      "count": 12,
+      "file": "cards/pokemon-ja/SM-XY.json",
+      "version": "9aac77a883e7"
+    },
+    {
+      "code": "SMB",
+      "name": "SMB",
+      "count": 15,
+      "file": "cards/pokemon-ja/SMB.json",
+      "version": "991ec7611709"
+    },
+    {
+      "code": "SMA",
+      "name": "SMA",
+      "count": 68,
+      "file": "cards/pokemon-ja/SMA.json",
+      "version": "e3bcbc33529f"
+    },
+    {
+      "code": "SM1M",
+      "name": "SM1M",
+      "count": 66,
+      "file": "cards/pokemon-ja/SM1M.json",
+      "version": "89fd85d9a511"
+    },
+    {
+      "code": "SM1S",
+      "name": "SM1S",
+      "count": 66,
+      "file": "cards/pokemon-ja/SM1S.json",
+      "version": "92d83f7c3ac2"
+    },
+    {
+      "code": "SM0",
+      "name": "SM0",
+      "count": 4,
+      "file": "cards/pokemon-ja/SM0.json",
+      "version": "865f77cee925"
+    },
+    {
+      "code": "CP6",
+      "name": "CP6",
+      "count": 99,
+      "file": "cards/pokemon-ja/CP6.json",
+      "version": "88a5801a739c"
+    },
+    {
+      "code": "CP5",
+      "name": "CP5",
+      "count": 38,
+      "file": "cards/pokemon-ja/CP5.json",
+      "version": "a59cfe51636a"
+    },
+    {
+      "code": "XY11-Br",
+      "name": "XY11-Br",
+      "count": 55,
+      "file": "cards/pokemon-ja/XY11-Br.json",
+      "version": "9fdd815587ed"
+    },
+    {
+      "code": "XY11-Bb",
+      "name": "XY11-Bb",
+      "count": 55,
+      "file": "cards/pokemon-ja/XY11-Bb.json",
+      "version": "7fb5f0dd56e0"
+    },
+    {
+      "code": "CP4",
+      "name": "CP4",
+      "count": 138,
+      "file": "cards/pokemon-ja/CP4.json",
+      "version": "6c5b04de3bb2"
+    },
+    {
+      "code": "XYH",
+      "name": "XYH",
+      "count": 27,
+      "file": "cards/pokemon-ja/XYH.json",
+      "version": "0e78e3fa6a43"
+    },
+    {
+      "code": "XYG",
+      "name": "XYG",
+      "count": 19,
+      "file": "cards/pokemon-ja/XYG.json",
+      "version": "0a218e98ba5f"
+    },
+    {
+      "code": "XY10-B",
+      "name": "XY10-B",
+      "count": 83,
+      "file": "cards/pokemon-ja/XY10-B.json",
+      "version": "ea7e8ab4f3fc"
+    },
+    {
+      "code": "20th",
+      "name": "20th",
+      "count": 84,
+      "file": "cards/pokemon-ja/20th.json",
+      "version": "6fe5ea843a60"
+    },
+    {
+      "code": "CP3",
+      "name": "CP3",
+      "count": 32,
+      "file": "cards/pokemon-ja/CP3.json",
+      "version": "2668c3aff931"
+    },
+    {
+      "code": "XY9-B",
+      "name": "XY9-B",
+      "count": 85,
+      "file": "cards/pokemon-ja/XY9-B.json",
+      "version": "a0aab4d140dd"
+    },
+    {
+      "code": "XYF",
+      "name": "XYF",
+      "count": 16,
+      "file": "cards/pokemon-ja/XYF.json",
+      "version": "eb03db27ae29"
+    },
+    {
+      "code": "SNPo",
+      "name": "SNPo",
+      "count": 9,
+      "file": "cards/pokemon-ja/SNPo.json",
+      "version": "528cd42088bc"
+    },
+    {
+      "code": "SNPr",
+      "name": "SNPr",
+      "count": 9,
+      "file": "cards/pokemon-ja/SNPr.json",
+      "version": "8fbf880c9006"
+    },
+    {
+      "code": "XY8-Br",
+      "name": "XY8-Br",
+      "count": 62,
+      "file": "cards/pokemon-ja/XY8-Br.json",
+      "version": "b92ee2f8c77e"
+    },
+    {
+      "code": "XY8-Bb",
+      "name": "XY8-Bb",
+      "count": 62,
+      "file": "cards/pokemon-ja/XY8-Bb.json",
+      "version": "bde9289720e7"
+    },
+    {
+      "code": "MMB-S",
+      "name": "MMB-S",
+      "count": 58,
+      "file": "cards/pokemon-ja/MMB-S.json",
+      "version": "f0f13005b335"
+    },
+    {
+      "code": "MMB-P",
+      "name": "MMB-P",
+      "count": 58,
+      "file": "cards/pokemon-ja/MMB-P.json",
+      "version": "a0205a505280"
+    },
+    {
+      "code": "XYE",
+      "name": "XYE",
+      "count": 32,
+      "file": "cards/pokemon-ja/XYE.json",
+      "version": "d35c2d022b62"
+    },
+    {
+      "code": "CP2",
+      "name": "CP2",
+      "count": 27,
+      "file": "cards/pokemon-ja/CP2.json",
+      "version": "4f266d97f51c"
+    },
+    {
+      "code": "XY7-B",
+      "name": "XY7-B",
+      "count": 84,
+      "file": "cards/pokemon-ja/XY7-B.json",
+      "version": "8bf353f355fa"
+    },
+    {
+      "code": "XYD",
+      "name": "XYD",
+      "count": 20,
+      "file": "cards/pokemon-ja/XYD.json",
+      "version": "a94a1eed41d7"
+    },
+    {
+      "code": "XY6-B",
+      "name": "XY6-B",
+      "count": 78,
+      "file": "cards/pokemon-ja/XY6-B.json",
+      "version": "4ff8efb30b4a"
+    },
+    {
+      "code": "CP1",
+      "name": "CP1",
+      "count": 34,
+      "file": "cards/pokemon-ja/CP1.json",
+      "version": "66a472bc9b14"
+    },
+    {
+      "code": "XY5-Bt",
+      "name": "XY5-Bt",
+      "count": 78,
+      "file": "cards/pokemon-ja/XY5-Bt.json",
+      "version": "3b478810f43f"
+    },
+    {
+      "code": "XY5-Bg",
+      "name": "XY5-Bg",
+      "count": 78,
+      "file": "cards/pokemon-ja/XY5-Bg.json",
+      "version": "611ec3ccfbb4"
+    },
+    {
+      "code": "XYC",
+      "name": "XYC",
+      "count": 25,
+      "file": "cards/pokemon-ja/XYC.json",
+      "version": "7cd9f6368dc1"
+    },
+    {
+      "code": "XYB",
+      "name": "XYB",
+      "count": 19,
+      "file": "cards/pokemon-ja/XYB.json",
+      "version": "3defb014d874"
+    },
+    {
+      "code": "XY4",
+      "name": "XY4",
+      "count": 95,
+      "file": "cards/pokemon-ja/XY4.json",
+      "version": "f88d8d9e6e3c"
+    },
+    {
+      "code": "XY3",
+      "name": "「ライジングフィスト」誤植に関するお詫びとお知らせ",
+      "count": 103,
+      "file": "cards/pokemon-ja/XY3.json",
+      "version": "672602cbbb4a"
+    },
+    {
+      "code": "XYA",
+      "name": "XYA",
+      "count": 23,
+      "file": "cards/pokemon-ja/XYA.json",
+      "version": "1c876ee0099c"
+    },
+    {
+      "code": "XY2",
+      "name": "XY2",
+      "count": 87,
+      "file": "cards/pokemon-ja/XY2.json",
+      "version": "ac88aff529b9"
+    },
+    {
+      "code": "Y30",
+      "name": "Y30",
+      "count": 15,
+      "file": "cards/pokemon-ja/Y30.json",
+      "version": "1060deaeae96"
+    },
+    {
+      "code": "X30",
+      "name": "X30",
+      "count": 15,
+      "file": "cards/pokemon-ja/X30.json",
+      "version": "2e744f029d0c"
+    },
+    {
+      "code": "XYP",
+      "name": "XYP",
+      "count": 456,
+      "file": "cards/pokemon-ja/XYP.json",
+      "version": "f870154fb7d0"
+    },
+    {
+      "code": "XY1-By",
+      "name": "XY1-By",
+      "count": 63,
+      "file": "cards/pokemon-ja/XY1-By.json",
+      "version": "db22fc8b1c48"
+    },
+    {
+      "code": "XY1-Bx",
+      "name": "XY1-Bx",
+      "count": 63,
+      "file": "cards/pokemon-ja/XY1-Bx.json",
+      "version": "c5dd34f1e289"
+    },
+    {
+      "code": "HXY",
+      "name": "HXY",
+      "count": 51,
+      "file": "cards/pokemon-ja/HXY.json",
+      "version": "01afdaee8e91"
+    },
+    {
+      "code": "BW10-B",
+      "name": "ポケモンカードゲームBW コンセプトパック「EXバトルブースト」",
+      "count": 93,
+      "file": "cards/pokemon-ja/BW10-B.json",
+      "version": "037753a375bc"
+    },
+    {
+      "code": "MG",
+      "name": "ポケモンカードゲームBW 30枚デッキ対戦set「ミュウツーVSゲノセクト」",
+      "count": 34,
+      "file": "cards/pokemon-ja/MG.json",
+      "version": "5b4c55d79500"
+    },
+    {
+      "code": "BW9-B",
+      "name": "ポケモンカードゲームBW 拡張パック「メガロキャノン」",
+      "count": 76,
+      "file": "cards/pokemon-ja/BW9-B.json",
+      "version": "e61263088220"
+    },
+    {
+      "code": "KK",
+      "name": "ポケモンカードゲームBW 「最強爆流コンボデッキ60 カメックス＋キュレムEX」",
+      "count": 19,
+      "file": "cards/pokemon-ja/KK.json",
+      "version": "984b4f438086"
+    },
+    {
+      "code": "SC",
+      "name": "ポケモンカードゲームBW コンセプトパック「シャイニーコレクション」",
+      "count": 20,
+      "file": "cards/pokemon-ja/SC.json",
+      "version": "b40bd495cec0"
+    },
+    {
+      "code": "BW8-Brn",
+      "name": "ポケモンカードゲームBW 拡張パック「ライデンナックル」",
+      "count": 51,
+      "file": "cards/pokemon-ja/BW8-Brn.json",
+      "version": "c913dba97d8f"
+    },
+    {
+      "code": "BW8-Brf",
+      "name": "ポケモンカードゲームBW 拡張パック「ラセンフォース」",
+      "count": 51,
+      "file": "cards/pokemon-ja/BW8-Brf.json",
+      "version": "4057a1aabe38"
+    },
+    {
+      "code": "WAK",
+      "name": "ポケモンカードゲームBW みんなのWAKUWAKUバトル",
+      "count": 72,
+      "file": "cards/pokemon-ja/WAK.json",
+      "version": "72d53b9e097c"
+    },
+    {
+      "code": "PBG",
+      "name": "ポケモンカードゲームBW プラズマ団バトルギフトセット",
+      "count": 18,
+      "file": "cards/pokemon-ja/PBG.json",
+      "version": "1255a6e52aee"
+    },
+    {
+      "code": "BKW",
+      "name": "ポケモンカードゲームBW バトル強化デッキ60「ホワイトキュレムEX」",
+      "count": 20,
+      "file": "cards/pokemon-ja/BKW.json",
+      "version": "2efb79086908"
+    },
+    {
+      "code": "BKB",
+      "name": "ポケモンカードゲームBW バトル強化デッキ60「ブラックキュレムEX」",
+      "count": 20,
+      "file": "cards/pokemon-ja/BKB.json",
+      "version": "12dd9f1c3d72"
+    },
+    {
+      "code": "MDB",
+      "name": "ポケモンカードゲームBW 「トッププレイヤーが選ぶ100＋40枚 マスターデッキビルドBOX EX」",
+      "count": 51,
+      "file": "cards/pokemon-ja/MDB.json",
+      "version": "a38051648a3f"
+    },
+    {
+      "code": "PPD",
+      "name": "ポケモンカードゲームBW 「プラズマ団パワードデッキ30」",
+      "count": 19,
+      "file": "cards/pokemon-ja/PPD.json",
+      "version": "3d1fdede98be"
+    },
+    {
+      "code": "BW7-B",
+      "name": "ポケモンカードゲームBW 拡張パック「プラズマゲイル」",
+      "count": 70,
+      "file": "cards/pokemon-ja/BW7-B.json",
+      "version": "81c079af445a"
+    },
+    {
+      "code": "BW6-Bc",
+      "name": "ポケモンカードゲームBW 拡張パック「コールドフレア」",
+      "count": 59,
+      "file": "cards/pokemon-ja/BW6-Bc.json",
+      "version": "97cb4510c342"
+    },
+    {
+      "code": "BW6-Bf",
+      "name": "ポケモンカードゲームBW 拡張パック「フリーズボルト」",
+      "count": 59,
+      "file": "cards/pokemon-ja/BW6-Bf.json",
+      "version": "c5703ed3ab69"
+    },
+    {
+      "code": "HSZm",
+      "name": "ポケモンカードゲームBW はじめてセット 全国図鑑版 （ミジュマルデッキ）",
+      "count": 16,
+      "file": "cards/pokemon-ja/HSZm.json",
+      "version": "2eff4754bd28"
+    },
+    {
+      "code": "HSZp",
+      "name": "ポケモンカードゲームBW はじめてセット 全国図鑑版 （ポカブデッキ）",
+      "count": 16,
+      "file": "cards/pokemon-ja/HSZp.json",
+      "version": "42c6f2c16a7f"
+    },
+    {
+      "code": "HSZt",
+      "name": "ポケモンカードゲームBW はじめてセット 全国図鑑版 （ツタージャデッキ）",
+      "count": 16,
+      "file": "cards/pokemon-ja/HSZt.json",
+      "version": "6e145dee9c21"
+    },
+    {
+      "code": "KLD",
+      "name": "ポケモンカードゲームBW バトル強化デッキ30「ケルディオ」",
+      "count": 18,
+      "file": "cards/pokemon-ja/KLD.json",
+      "version": "60af21564a73"
+    },
+    {
+      "code": "GBR",
+      "name": "ポケモンカードゲームBW 「ガブリアスデッキ30」",
+      "count": 18,
+      "file": "cards/pokemon-ja/GBR.json",
+      "version": "6d866c6a3abe"
+    },
+    {
+      "code": "SZD",
+      "name": "ポケモンカードゲームBW 「サザンドラデッキ30」",
+      "count": 18,
+      "file": "cards/pokemon-ja/SZD.json",
+      "version": "c79d392b4348"
+    },
+    {
+      "code": "BW5-Brn",
+      "name": "ポケモンカードゲームBW 拡張パック「リューノブレード」",
+      "count": 50,
+      "file": "cards/pokemon-ja/BW5-Brn.json",
+      "version": "35eebb2f90f0"
+    },
+    {
+      "code": "BW5-Brz",
+      "name": "ポケモンカードゲームBW　拡張パック「リューズブラスト」",
+      "count": 50,
+      "file": "cards/pokemon-ja/BW5-Brz.json",
+      "version": "84db1306f928"
+    },
+    {
+      "code": "DS",
+      "name": "ポケモンカードゲームBW 拡張パック「ドラゴンセレクション」",
+      "count": 20,
+      "file": "cards/pokemon-ja/DS.json",
+      "version": "5cf4ab70d3eb"
+    },
+    {
+      "code": "BW4-B",
+      "name": "ポケモンカードゲームBW 拡張パック「ダークラッシュ」",
+      "count": 69,
+      "file": "cards/pokemon-ja/BW4-B.json",
+      "version": "fc2c3992726c"
+    },
+    {
+      "code": "HSPm",
+      "name": "ポケモンカードゲームBW はじめてセット ピカチュウver. （ミジュマルデッキ）",
+      "count": 16,
+      "file": "cards/pokemon-ja/HSPm.json",
+      "version": "9f9f6e66db2f"
+    },
+    {
+      "code": "HSPp",
+      "name": "ポケモンカードゲームBW はじめてセット ピカチュウver. （ポカブデッキ）",
+      "count": 16,
+      "file": "cards/pokemon-ja/HSPp.json",
+      "version": "fe2f9e3679f9"
+    },
+    {
+      "code": "HSPt",
+      "name": "ポケモンカードゲームBW はじめてセット ピカチュウver. （ツタージャデッキ）",
+      "count": 16,
+      "file": "cards/pokemon-ja/HSPt.json",
+      "version": "a279eb48be2d"
+    },
+    {
+      "code": "BGSv",
+      "name": "ポケモンカードゲームBW バトルギフトセット「ボルトロスVSトルネロス」 （ボルトロスデッキ）",
+      "count": 16,
+      "file": "cards/pokemon-ja/BGSv.json",
+      "version": "6c88caa576b9"
+    },
+    {
+      "code": "BGSt",
+      "name": "ポケモンカードゲームBW バトルギフトセット「ボルトロスVSトルネロス」 （トルネロスデッキ）",
+      "count": 16,
+      "file": "cards/pokemon-ja/BGSt.json",
+      "version": "dcdf866d61cf"
+    },
+    {
+      "code": "BKZ",
+      "name": "ポケモンカードゲームBW バトル強化デッキ60「ゼクロムEX」",
+      "count": 20,
+      "file": "cards/pokemon-ja/BKZ.json",
+      "version": "60dd4feb10e1"
+    },
+    {
+      "code": "BKR",
+      "name": "ポケモンカードゲームBW バトル強化デッキ60「レシラムEX」",
+      "count": 20,
+      "file": "cards/pokemon-ja/BKR.json",
+      "version": "1d3c3347a054"
+    },
+    {
+      "code": "BW3-Bh",
+      "name": "ポケモンカードゲームBW 拡張パック「ヘイルブリザード」",
+      "count": 52,
+      "file": "cards/pokemon-ja/BW3-Bh.json",
+      "version": "5359b0e2ab2b"
+    },
+    {
+      "code": "BW3-Bp",
+      "name": "ポケモンカードゲームBW 拡張パック「サイコドライブ」",
+      "count": 52,
+      "file": "cards/pokemon-ja/BW3-Bp.json",
+      "version": "7b3645c18370"
+    },
+    {
+      "code": "BW2-B",
+      "name": "ポケモンカードゲームBW 拡張パック「レッドコレクション」",
+      "count": 66,
+      "file": "cards/pokemon-ja/BW2-B.json",
+      "version": "9b9715015a69"
+    },
+    {
+      "code": "BTV",
+      "name": "ポケモンカードゲームBW バトルテーマデッキ「ビクティニ」",
+      "count": 26,
+      "file": "cards/pokemon-ja/BTV.json",
+      "version": "8eeb2d797bc5"
+    },
+    {
+      "code": "BKc",
+      "name": "ポケモンカードゲームBW バトル強化デッキ コバルオン",
+      "count": 14,
+      "file": "cards/pokemon-ja/BKc.json",
+      "version": "f0f449bdfad3"
+    },
+    {
+      "code": "BKt",
+      "name": "ポケモンカードゲームBW バトル強化デッキ テラキオン",
+      "count": 14,
+      "file": "cards/pokemon-ja/BKt.json",
+      "version": "fdb358ab5f80"
+    },
+    {
+      "code": "BKv",
+      "name": "ポケモンカードゲームBW バトル強化デッキ ビリジオン",
+      "count": 14,
+      "file": "cards/pokemon-ja/BKv.json",
+      "version": "04f0663c9b8b"
+    },
+    {
+      "code": "BWP",
+      "name": "BWP",
+      "count": 246,
+      "file": "cards/pokemon-ja/BWP.json",
+      "version": "a0dac37424c2"
+    },
+    {
+      "code": "BW1-Bw",
+      "name": "ポケモンカードゲームBW 拡張パック「ホワイトコレクション」",
+      "count": 53,
+      "file": "cards/pokemon-ja/BW1-Bw.json",
+      "version": "d8030bc43237"
+    },
+    {
+      "code": "BW1-Bb",
+      "name": "ポケモンカードゲームBW 拡張パック「ブラックコレクション」",
+      "count": 53,
+      "file": "cards/pokemon-ja/BW1-Bb.json",
+      "version": "877758b8a22c"
+    },
+    {
+      "code": "HSm",
+      "name": "ポケモンカードゲームBW はじめてセット （ミジュマルデッキ）",
+      "count": 19,
+      "file": "cards/pokemon-ja/HSm.json",
+      "version": "4da61401819d"
+    },
+    {
+      "code": "HSp",
+      "name": "ポケモンカードゲームBW はじめてセット （ポカブデッキ）",
+      "count": 19,
+      "file": "cards/pokemon-ja/HSp.json",
+      "version": "7fc407e8fd4c"
+    },
+    {
+      "code": "HSt",
+      "name": "ポケモンカードゲームBW はじめてセット （ツタージャデッキ）",
+      "count": 19,
+      "file": "cards/pokemon-ja/HSt.json",
+      "version": "98d49dcd5f63"
+    },
+    {
+      "code": "CS1m",
+      "name": "ポケモンカードゲームBW コレクションシート 旅立ちの仲間 ミジュマル",
+      "count": 3,
+      "file": "cards/pokemon-ja/CS1m.json",
+      "version": "0ec695cd684b"
+    },
+    {
+      "code": "CS1p",
+      "name": "ポケモンカードゲームBW コレクションシート 旅立ちの仲間 ポカブ",
+      "count": 3,
+      "file": "cards/pokemon-ja/CS1p.json",
+      "version": "479b1c626563"
+    },
+    {
+      "code": "CS1t",
+      "name": "ポケモンカードゲームBW コレクションシート 旅立ちの仲間 ツタージャ",
+      "count": 3,
+      "file": "cards/pokemon-ja/CS1t.json",
+      "version": "805d0767a6b0"
+    },
+    {
+      "code": "PW",
+      "name": "ポケモンカードゲーム ピカチュウ ワールド",
+      "count": 2,
+      "file": "cards/pokemon-ja/PW.json",
+      "version": "4927ece1f6e6"
+    },
+    {
+      "code": "L3-B",
+      "name": "ポケモンカードゲームLEGEND 拡張パック「頂上大激突」",
+      "count": 74,
+      "file": "cards/pokemon-ja/L3-B.json",
+      "version": "679e251f4a46"
+    },
+    {
+      "code": "LL",
+      "name": "ポケモンカードゲーム 強化パック「ロストリンク」",
+      "count": 38,
+      "file": "cards/pokemon-ja/LL.json",
+      "version": "05b57711f6f4"
+    },
+    {
+      "code": "L2-B",
+      "name": "ポケモンカードゲームLEGEND 拡張パック「よみがえる伝説」",
+      "count": 74,
+      "file": "cards/pokemon-ja/L2-B.json",
+      "version": "9b0dcfb4dd86"
+    },
+    {
+      "code": "L2-Sh",
+      "name": "ポケモンカードゲームLEGEND 構築スタンダードデッキ「ハガネール鋼」",
+      "count": 20,
+      "file": "cards/pokemon-ja/L2-Sh.json",
+      "version": "e705c925bf17"
+    },
+    {
+      "code": "L2-Sb",
+      "name": "ポケモンカードゲームLEGEND 構築スタンダードデッキ「バンギラス悪」",
+      "count": 20,
+      "file": "cards/pokemon-ja/L2-Sb.json",
+      "version": "154c6e5670e8"
+    },
+    {
+      "code": "Br",
+      "name": "ポケモンカードゲーム バトルスタートデッキ ライチュウ",
+      "count": 12,
+      "file": "cards/pokemon-ja/Br.json",
+      "version": "3a879f80ddc8"
+    },
+    {
+      "code": "Bk",
+      "name": "ポケモンカードゲーム バトルスタートデッキ カメックス",
+      "count": 11,
+      "file": "cards/pokemon-ja/Bk.json",
+      "version": "5a6106603154"
+    },
+    {
+      "code": "Bb",
+      "name": "ポケモンカードゲーム バトルスタートデッキ ブーバーン",
+      "count": 10,
+      "file": "cards/pokemon-ja/Bb.json",
+      "version": "ff2e156d1c49"
+    },
+    {
+      "code": "Bd",
+      "name": "ポケモンカードゲーム バトルスタートデッキ ドダイトス",
+      "count": 11,
+      "file": "cards/pokemon-ja/Bd.json",
+      "version": "c1dc77c43aa8"
+    },
+    {
+      "code": "Em",
+      "name": "ポケモンカードゲーム エキスパートデッキ リーフィアVSメタグロス ＋Online（メタグロスデッキ）",
+      "count": 15,
+      "file": "cards/pokemon-ja/Em.json",
+      "version": "5a13754a295e"
+    },
+    {
+      "code": "El",
+      "name": "ポケモンカードゲーム エキスパートデッキ リーフィアVSメタグロス ＋Online（リーフィアデッキ）",
+      "count": 16,
+      "file": "cards/pokemon-ja/El.json",
+      "version": "40a01d96201f"
+    },
+    {
+      "code": "LP",
+      "name": "LP",
+      "count": 92,
+      "file": "cards/pokemon-ja/LP.json",
+      "version": "5fb2b43958ea"
+    },
+    {
+      "code": "L1-Bss",
+      "name": "ポケモンカードゲームLEGEND 拡張パック「ソウルシルバーコレクション」",
+      "count": 68,
+      "file": "cards/pokemon-ja/L1-Bss.json",
+      "version": "2f826d23809e"
+    },
+    {
+      "code": "L1-Bhg",
+      "name": "ポケモンカードゲームLEGEND 拡張パック「ハートゴールドコレクション」",
+      "count": 68,
+      "file": "cards/pokemon-ja/L1-Bhg.json",
+      "version": "00c92c9a92be"
+    },
+    {
+      "code": "DPt-MRP09",
+      "name": "映画公開記念ランダムパック2009",
+      "count": 22,
+      "file": "cards/pokemon-ja/DPt-MRP09.json",
+      "version": "33c6d1d4c673"
+    },
+    {
+      "code": "Ran",
+      "name": "乱戦！ポケモンスクランブル×ポケモンカードゲーム",
+      "count": 19,
+      "file": "cards/pokemon-ja/Ran.json",
+      "version": "ffdc06c5afba"
+    },
+    {
+      "code": "DPt4-B",
+      "name": "ポケモンカードゲームDPt 拡張パック「アルセウス光臨」",
+      "count": 90,
+      "file": "cards/pokemon-ja/DPt4-B.json",
+      "version": "79e620ab2555"
+    },
+    {
+      "code": "DPt4-Slp",
+      "name": "ポケモンカードゲームDPt 構築スタンダードデッキ「アルセウスLV.X雷＆超」",
+      "count": 17,
+      "file": "cards/pokemon-ja/DPt4-Slp.json",
+      "version": "eaaf96633a33"
+    },
+    {
+      "code": "DPt4-Sgf",
+      "name": "ポケモンカードゲームDPt 構築スタンダードデッキ「アルセウスLV.X草＆炎」",
+      "count": 17,
+      "file": "cards/pokemon-ja/DPt4-Sgf.json",
+      "version": "7cf0bf2a2b21"
+    },
+    {
+      "code": "CPm",
+      "name": "ポケモンカードゲーム　コレクションパック　ミュウツーLV.X",
+      "count": 12,
+      "file": "cards/pokemon-ja/CPm.json",
+      "version": "2a3547641787"
+    },
+    {
+      "code": "CPs",
+      "name": "ポケモンカードゲーム　コレクションパック　シェイミLV.X",
+      "count": 12,
+      "file": "cards/pokemon-ja/CPs.json",
+      "version": "64b0bc5c214d"
+    },
+    {
+      "code": "CPr",
+      "name": "ポケモンカードゲーム　コレクションパック　レジギガスLV.X",
+      "count": 12,
+      "file": "cards/pokemon-ja/CPr.json",
+      "version": "392480369d3d"
+    },
+    {
+      "code": "DPt3-B",
+      "name": "ポケモンカードゲームDPt 拡張パック「フロンティアの鼓動」",
+      "count": 100,
+      "file": "cards/pokemon-ja/DPt3-B.json",
+      "version": "db9a340ef43a"
+    },
+    {
+      "code": "DPt3-Sl",
+      "name": "ポケモンカードゲームDPt 対戦スターターパックSP「ガブリアスVSリザードン」（リザードンデッキ）",
+      "count": 16,
+      "file": "cards/pokemon-ja/DPt3-Sl.json",
+      "version": "6848687c27df"
+    },
+    {
+      "code": "DPt3-Sg",
+      "name": "ポケモンカードゲームDPt 対戦スターターパックSP「ガブリアスVSリザードン」（ガブリアスデッキ）",
+      "count": 16,
+      "file": "cards/pokemon-ja/DPt3-Sg.json",
+      "version": "ab58f5313bbf"
+    },
+    {
+      "code": "DPt2-B",
+      "name": "ポケモンカードゲームDPt 拡張パック「時の果ての絆」",
+      "count": 90,
+      "file": "cards/pokemon-ja/DPt2-B.json",
+      "version": "cd061d4de6d7"
+    },
+    {
+      "code": "DPt2-Se",
+      "name": "ポケモンカードゲームDPt 対戦スターターパックSP「ゴウカザルVSエルレイド」（エルレイドデッキ）",
+      "count": 18,
+      "file": "cards/pokemon-ja/DPt2-Se.json",
+      "version": "0f17ed77d803"
+    },
+    {
+      "code": "DPt2-Sg",
+      "name": "ポケモンカードゲームDPt 対戦スターターパックSP「ゴウカザルVSエルレイド」（ゴウカザルデッキ）",
+      "count": 18,
+      "file": "cards/pokemon-ja/DPt2-Sg.json",
+      "version": "082855b5f033"
+    },
+    {
+      "code": "DPt-GBpi",
+      "name": "ポケモンカードゲームDPtギフトボックス（ピカチュウデッキ）",
+      "count": 16,
+      "file": "cards/pokemon-ja/DPt-GBpi.json",
+      "version": "8e798b9b7851"
+    },
+    {
+      "code": "DPt-GBpo",
+      "name": "ポケモンカードゲームDPtギフトボックス（ポッチャマデッキ）",
+      "count": 15,
+      "file": "cards/pokemon-ja/DPt-GBpo.json",
+      "version": "f0562aa82424"
+    },
+    {
+      "code": "DPt-GBna",
+      "name": "ポケモンカードゲームDPtギフトボックス（ナエトルデッキ）",
+      "count": 14,
+      "file": "cards/pokemon-ja/DPt-GBna.json",
+      "version": "fcb14e5840bf"
+    },
+    {
+      "code": "DPt-GBhi",
+      "name": "ポケモンカードゲームDPtギフトボックス（ヒコザルデッキ）",
+      "count": 13,
+      "file": "cards/pokemon-ja/DPt-GBhi.json",
+      "version": "959eeb5d8cc3"
+    },
+    {
+      "code": "DPtP",
+      "name": "ポケモンバトルツアー09 チャレンジデッキ",
+      "count": 65,
+      "file": "cards/pokemon-ja/DPtP.json",
+      "version": "65a9ab6c5fcc"
+    },
+    {
+      "code": "DPt1-B",
+      "name": "ポケモンカードゲームDPt 拡張パック「ギンガの覇道」",
+      "count": 96,
+      "file": "cards/pokemon-ja/DPt1-B.json",
+      "version": "a7be594299a4"
+    },
+    {
+      "code": "DPt-EPp",
+      "name": "ポケモンカードゲームDPt エントリーパック(パルキアデッキ)",
+      "count": 13,
+      "file": "cards/pokemon-ja/DPt-EPp.json",
+      "version": "8a3e9acaca53"
+    },
+    {
+      "code": "DPt-EPd",
+      "name": "ポケモンカードゲームDPt エントリーパック(ディアルガデッキ)",
+      "count": 13,
+      "file": "cards/pokemon-ja/DPt-EPd.json",
+      "version": "2b7928d41806"
+    },
+    {
+      "code": "DPt-EPg",
+      "name": "ポケモンカードゲームDPt エントリーパック(ギラティナデッキ)",
+      "count": 13,
+      "file": "cards/pokemon-ja/DPt-EPg.json",
+      "version": "fc3448372a81"
+    },
+    {
+      "code": "MPS08",
+      "name": "映画公開記念　プレミアムシート2008",
+      "count": 9,
+      "file": "cards/pokemon-ja/MPS08.json",
+      "version": "c6ffd3f6af0c"
+    },
+    {
+      "code": "DPs-B",
+      "name": "ポケモンカードゲームDP 拡張パック「破空の激闘」",
+      "count": 92,
+      "file": "cards/pokemon-ja/DPs-B.json",
+      "version": "4eb8d34a3cb9"
+    },
+    {
+      "code": "DPs-S",
+      "name": "ポケモンカードゲームDP 対戦スターターパック「ギラティナVSディアルガ」(ギラティナデッキ)",
+      "count": 28,
+      "file": "cards/pokemon-ja/DPs-S.json",
+      "version": "9235183c0ccc"
+    },
+    {
+      "code": "DP5",
+      "name": "ポケモンカードゲームDP 拡張パック「怒りの神殿」",
+      "count": 154,
+      "file": "cards/pokemon-ja/DP5.json",
+      "version": "d359c7951db6"
+    },
+    {
+      "code": "EP08",
+      "name": "ポケモンカードゲームDP エントリーパック’08 DX",
+      "count": 1,
+      "file": "cards/pokemon-ja/EP08.json",
+      "version": "2e545214d392"
+    },
+    {
+      "code": "DP",
+      "name": "ポケモンカードゲームDP エントリーパック’08",
+      "count": 42,
+      "file": "cards/pokemon-ja/DP.json",
+      "version": "cad6235fe06f"
+    },
+    {
+      "code": "DP4",
+      "name": "ポケモンカードゲームDP 拡張パック「夜明けの疾走」",
+      "count": 163,
+      "file": "cards/pokemon-ja/DP4.json",
+      "version": "0562690f2c64"
+    },
+    {
+      "code": "PPP",
+      "name": "PPP",
+      "count": 7,
+      "file": "cards/pokemon-ja/PPP.json",
+      "version": "ffc4c187eae8"
+    },
+    {
+      "code": "DPP",
+      "name": "ポケモンカードゲームDP　映画10周年記念　プレミアムシート",
+      "count": 175,
+      "file": "cards/pokemon-ja/DPP.json",
+      "version": "6533c834676f"
+    },
+    {
+      "code": "WCP",
+      "name": "ポケモンカードゲーム　ワールドチャンピオンズパック",
+      "count": 108,
+      "file": "cards/pokemon-ja/WCP.json",
+      "version": "d8a074afee50"
+    },
+    {
+      "code": "DP3",
+      "name": "ポケモンカードゲームDP 拡張パック「ひかる闇」",
+      "count": 145,
+      "file": "cards/pokemon-ja/DP3.json",
+      "version": "6ad8243a3d84"
+    },
+    {
+      "code": "DP2",
+      "name": "ポケモンカードゲームDP 拡張パック「湖の秘密」",
+      "count": 145,
+      "file": "cards/pokemon-ja/DP2.json",
+      "version": "a29faa419558"
+    },
+    {
+      "code": "DP1",
+      "name": "ポケモンカードゲームDP ランダム構築スターター　スタンダードデッキ",
+      "count": 124,
+      "file": "cards/pokemon-ja/DP1.json",
+      "version": "e5031dc66ecf"
+    }
+  ]
+}

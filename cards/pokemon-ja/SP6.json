@@ -1,0 +1,55 @@
+{
+  "code": "SP6",
+  "name": "SP6",
+  "official": "images",
+  "cards": [
+    {
+      "id": 41955,
+      "name": "ロトムV",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SP6/041955_P_ROTOMUV.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 41956,
+      "name": "ロトムVSTAR",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SP6/041956_P_ROTOMUVSTAR.jpg",
+      "stage": "V進化"
+    },
+    {
+      "id": 41957,
+      "name": "ザシアンV",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SP6/041957_P_ZASHIANV.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 41958,
+      "name": "ザシアンVSTAR",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SP6/041958_P_ZASHIANVSTAR.jpg",
+      "stage": "V進化"
+    },
+    {
+      "id": 41959,
+      "name": "ザマゼンタV",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SP6/041959_P_ZAMAZENTAV.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 41960,
+      "name": "ザマゼンタVSTAR",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SP6/041960_P_ZAMAZENTAVSTAR.jpg",
+      "stage": "V進化"
+    }
+  ]
+}

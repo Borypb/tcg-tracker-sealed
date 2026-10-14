@@ -1,0 +1,551 @@
+{
+  "code": "WAK",
+  "name": "ポケモンカードゲームBW みんなのWAKUWAKUバトル",
+  "official": "images",
+  "cards": [
+    {
+      "id": 28434,
+      "name": "モンジャラ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028434_P_MONJARA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28435,
+      "name": "モジャンボ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028435_P_MOJANBO.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 28436,
+      "name": "マラカッチ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028436_P_MARAKACCHI.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28437,
+      "name": "シキジカ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028437_P_SHIKIJIKA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28438,
+      "name": "ビリジオン",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028438_P_BIRIJION.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28439,
+      "name": "きずぐすり",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028439_T_KIZUGUSURI.jpg"
+    },
+    {
+      "id": 28440,
+      "name": "モンスターボール",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028440_T_MONSUTABORU.jpg"
+    },
+    {
+      "id": 28441,
+      "name": "マコモのお手伝い",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028441_T_MAKOMONOOTETSUDAI.jpg"
+    },
+    {
+      "id": 28442,
+      "name": "基本草エネルギー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028442_E_KIHONKUSAENERUGI.jpg"
+    },
+    {
+      "id": 28443,
+      "name": "ブーバー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028443_P_BUBA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28444,
+      "name": "ブーバーン",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028444_P_BUBAN.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 28445,
+      "name": "ビクティニ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028445_P_BIKUTEINI.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28446,
+      "name": "クイタラン",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028446_P_KUITARAN.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28447,
+      "name": "メラルバ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028447_P_MERARUBA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28448,
+      "name": "プラスパワー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028448_T_PURASUPAWA.jpg"
+    },
+    {
+      "id": 28449,
+      "name": "モンスターボール",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028449_T_MONSUTABORU.jpg"
+    },
+    {
+      "id": 28450,
+      "name": "マコモのお手伝い",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028450_T_MAKOMONOOTETSUDAI.jpg"
+    },
+    {
+      "id": 28451,
+      "name": "基本炎エネルギー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028451_E_KIHONHONOOENERUGI.jpg"
+    },
+    {
+      "id": 28452,
+      "name": "マリル",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028452_P_MARIRU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28453,
+      "name": "マリルリ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028453_P_MARIRURI.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 28454,
+      "name": "プルリル",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028454_P_PURURIRU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28455,
+      "name": "ママンボウ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028455_P_MAMANBOU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28456,
+      "name": "ケルディオ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028456_P_KERUDEIO.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28457,
+      "name": "きずぐすり",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028457_T_KIZUGUSURI.jpg"
+    },
+    {
+      "id": 28458,
+      "name": "モンスターボール",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028458_T_MONSUTABORU.jpg"
+    },
+    {
+      "id": 28459,
+      "name": "オーキド博士の出むかえ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028459_T_OKIDOHAKASENODEMUKAE.jpg"
+    },
+    {
+      "id": 28460,
+      "name": "基本水エネルギー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028460_E_KIHONMIZUENERUGI.jpg"
+    },
+    {
+      "id": 28461,
+      "name": "ピカチュウ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028461_P_PIKACHUU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28462,
+      "name": "エレブー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028462_P_EREBU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28463,
+      "name": "エレキブル",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028463_P_EREKIBURU.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 28464,
+      "name": "マッギョ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028464_P_MAGGYO.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28465,
+      "name": "ボルトロス",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028465_P_BORUTOROSU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28466,
+      "name": "プラスパワー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028466_T_PURASUPAWA.jpg"
+    },
+    {
+      "id": 28467,
+      "name": "モンスターボール",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028467_T_MONSUTABORU.jpg"
+    },
+    {
+      "id": 28468,
+      "name": "オーキド博士の出むかえ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028468_T_OKIDOHAKASENODEMUKAE.jpg"
+    },
+    {
+      "id": 28469,
+      "name": "基本雷エネルギー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028469_E_KIHONKAMINARIENERUGI.jpg"
+    },
+    {
+      "id": 28470,
+      "name": "シンボラー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028470_P_SHINBORA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28471,
+      "name": "ゴチム",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028471_P_GOCHIMU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28472,
+      "name": "ゴチミル",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028472_P_GOCHIMIRU.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 28473,
+      "name": "ゴチルゼル",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028473_P_GOCHIRUZERU.jpg",
+      "stage": "2&nbsp;進化"
+    },
+    {
+      "id": 28474,
+      "name": "メロエッタ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028474_P_MEROETTA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28475,
+      "name": "ポケモンキャッチャー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028475_T_POKEMONKYACCHA.jpg"
+    },
+    {
+      "id": 28476,
+      "name": "モンスターボール",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028476_T_MONSUTABORU.jpg"
+    },
+    {
+      "id": 28477,
+      "name": "マコモのお手伝い",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028477_T_MAKOMONOOTETSUDAI.jpg"
+    },
+    {
+      "id": 28478,
+      "name": "基本超エネルギー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028478_E_KIHONCHOUENERUGI.jpg"
+    },
+    {
+      "id": 28479,
+      "name": "リオル",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028479_P_RIORU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28480,
+      "name": "ルカリオ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028480_P_RUKARIO.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 28481,
+      "name": "ナゲキ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028481_P_NAGEKI.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28482,
+      "name": "ゴビット",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028482_P_GOBITTO.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28483,
+      "name": "テラキオン",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028483_P_TERAKION.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28484,
+      "name": "ポケモンいれかえ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028484_T_POKEMONIREKAE.jpg"
+    },
+    {
+      "id": 28485,
+      "name": "モンスターボール",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028485_T_MONSUTABORU.jpg"
+    },
+    {
+      "id": 28486,
+      "name": "オーキド博士の出むかえ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028486_T_OKIDOHAKASENODEMUKAE.jpg"
+    },
+    {
+      "id": 28487,
+      "name": "基本闘エネルギー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028487_E_KIHONTOUENERUGI.jpg"
+    },
+    {
+      "id": 28488,
+      "name": "メグロコ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028488_P_MEGUROKO.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28489,
+      "name": "ズルッグ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028489_P_ZURUGGU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28490,
+      "name": "ズルズキン",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028490_P_ZURUZUKIN.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 28491,
+      "name": "ゾロア",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028491_P_ZOROA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28492,
+      "name": "ゾロアーク",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028492_P_ZOROAKU.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 28493,
+      "name": "ポケモンキャッチャー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028493_T_POKEMONKYACCHA.jpg"
+    },
+    {
+      "id": 28494,
+      "name": "モンスターボール",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028494_T_MONSUTABORU.jpg"
+    },
+    {
+      "id": 28495,
+      "name": "オーキド博士の出むかえ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028495_T_OKIDOHAKASENODEMUKAE.jpg"
+    },
+    {
+      "id": 28496,
+      "name": "基本悪エネルギー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028496_E_KIHONAKUENERUGI.jpg"
+    },
+    {
+      "id": 28497,
+      "name": "ココドラ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028497_P_KOKODORA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28498,
+      "name": "コドラ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028498_P_KODORA.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 28499,
+      "name": "ボスゴドラ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028499_P_BOSUGODORA.jpg",
+      "stage": "2&nbsp;進化"
+    },
+    {
+      "id": 28500,
+      "name": "アイアント",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028500_P_AIANTO.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28501,
+      "name": "コバルオン",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028501_P_KOBARUON.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28502,
+      "name": "ポケモンいれかえ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028502_T_POKEMONIREKAE.jpg"
+    },
+    {
+      "id": 28503,
+      "name": "モンスターボール",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028503_T_MONSUTABORU.jpg"
+    },
+    {
+      "id": 28504,
+      "name": "マコモのお手伝い",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028504_T_MAKOMONOOTETSUDAI.jpg"
+    },
+    {
+      "id": 28505,
+      "name": "基本鋼エネルギー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/WAK/028505_E_KIHONKOUENERUGI.jpg"
+    }
+  ]
+}

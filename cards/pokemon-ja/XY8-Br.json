@@ -1,0 +1,496 @@
+{
+  "code": "XY8-Br",
+  "name": "XY8-Br",
+  "official": "images",
+  "cards": [
+    {
+      "id": 31369,
+      "name": "パラス",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031369_P_PARASU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 31370,
+      "name": "パラセクト",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031370_P_PARASEKUTO.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 31371,
+      "name": "ハリマロン",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031371_P_HARIMARON.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 31372,
+      "name": "ハリボーグ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031372_P_HARIBOGU.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 31373,
+      "name": "ブリガロン",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031373_P_BURIGARON.jpg",
+      "stage": "2&nbsp;進化"
+    },
+    {
+      "id": 31375,
+      "name": "メェークル",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031375_P_MEEKURU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 31376,
+      "name": "ゴーゴート",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031376_P_GOGOTO.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 31377,
+      "name": "ヘルガーEX",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031377_P_HERUGAEX.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 31378,
+      "name": "<span class=\"pcg pcg-megamark\"></span>ヘルガーEX",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031378_P_MHERUGAEX.jpg",
+      "stage": "M進化"
+    },
+    {
+      "id": 31379,
+      "name": "バオップ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031379_P_BAOPPU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 31380,
+      "name": "バオッキー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031380_P_BAOKKI.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 31381,
+      "name": "トサキント",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031381_P_TOSAKINTO.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 31382,
+      "name": "アズマオウ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031382_P_AZUMAOU.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 31383,
+      "name": "ヒトデマン",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031383_P_HITODEMAN.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 31384,
+      "name": "スターミー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031384_P_SUTAMI.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 31385,
+      "name": "テッポウオ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031385_P_TEPPOUO.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 31386,
+      "name": "ポッチャマ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031386_P_POCCHAMA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 31387,
+      "name": "ポッタイシ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031387_P_POTTAISHI.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 31388,
+      "name": "エンペルト",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031388_P_ENPERUTO.jpg",
+      "stage": "2&nbsp;進化"
+    },
+    {
+      "id": 31389,
+      "name": "ユキカブリ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031389_P_YUKIKABURI.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 31390,
+      "name": "ユキノオー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031390_P_YUKINOO.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 31391,
+      "name": "コイル",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031391_P_KOIRU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 31392,
+      "name": "レアコイル",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031392_P_REAKOIRU.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 31393,
+      "name": "ジバコイル",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031393_P_JIBAKOIRU.jpg",
+      "stage": "2&nbsp;進化"
+    },
+    {
+      "id": 31394,
+      "name": "ライコウ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031394_P_RAIKOU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 31395,
+      "name": "ミュウツーEX",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031395_P_MYUUTSUEX.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 31396,
+      "name": "<span class=\"pcg pcg-megamark\"></span>ミュウツーEX",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031396_P_MMYUUTSUEX.jpg",
+      "stage": "M進化"
+    },
+    {
+      "id": 31397,
+      "name": "ムウマ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031397_P_MUUMA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 31398,
+      "name": "ムウマージ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031398_P_MUUMAJI.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 31399,
+      "name": "ラルトス",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031399_P_RARUTOSU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 31400,
+      "name": "キルリア",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031400_P_KIRURIA.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 31401,
+      "name": "クレセリア",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031401_P_KURESERIA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 31402,
+      "name": "カラカラ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031402_P_KARAKARA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 31403,
+      "name": "ガラガラ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031403_P_GARAGARA.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 31405,
+      "name": "ウリムー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031405_P_URIMU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 31406,
+      "name": "イノムー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031406_P_INOMU.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 31407,
+      "name": "マンムー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031407_P_MANMU.jpg",
+      "stage": "2&nbsp;進化"
+    },
+    {
+      "id": 31408,
+      "name": "エルレイド",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031408_P_ERUREIDO.jpg",
+      "stage": "2&nbsp;進化"
+    },
+    {
+      "id": 31409,
+      "name": "ゾロア",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031409_P_ZOROA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 31410,
+      "name": "イベルタル",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031410_P_IBERUTARU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 31411,
+      "name": "ドーミラー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031411_P_DOMIRA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 31412,
+      "name": "ドータクン",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031412_P_DOTAKUN.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 31413,
+      "name": "バリヤード",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031413_P_BARIYADO.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 31414,
+      "name": "シュシュプ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031414_P_SHUSHUPU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 31415,
+      "name": "フレフワン",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031415_P_FUREFUWAN.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 31416,
+      "name": "キバゴ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031416_P_KIBAGO.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 31417,
+      "name": "ドードー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031417_P_DODO.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 31418,
+      "name": "ドードリオ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031418_P_DODORIO.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 31419,
+      "name": "ムックル",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031419_P_MUKKURU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 31420,
+      "name": "ムクバード",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031420_P_MUKUBADO.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 31421,
+      "name": "ムクホーク",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031421_P_MUKUHOKU.jpg",
+      "stage": "2&nbsp;進化"
+    },
+    {
+      "id": 31422,
+      "name": "ヘビーボール",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031422_T_HEBIBORU.jpg"
+    },
+    {
+      "id": 31423,
+      "name": "とつげきチョッキ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031423_T_TOTSUGEKICHOKKI.jpg"
+    },
+    {
+      "id": 31424,
+      "name": "ヘルガーソウルリンク",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031424_T_HERUGASOURURINKU.jpg"
+    },
+    {
+      "id": 31425,
+      "name": "ミュウツーソウルリンク",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031425_T_MYUUTSUSOURURINKU.jpg"
+    },
+    {
+      "id": 31426,
+      "name": "サカキの計画",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031426_T_SAKAKINOKEIKAKU.jpg"
+    },
+    {
+      "id": 31427,
+      "name": "バーニングエネルギー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/031427_E_BANINGUENERUGI.jpg"
+    },
+    {
+      "id": 35828,
+      "name": "ヘルガーEX",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/035828_P_HERUGAEX.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 35829,
+      "name": "<span class=\"pcg pcg-megamark\"></span>ヘルガーEX",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/035829_P_MHERUGAEX.jpg",
+      "stage": "M進化"
+    },
+    {
+      "id": 35830,
+      "name": "ミュウツーEX",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/035830_P_MYUUTSUEX.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 35831,
+      "name": "<span class=\"pcg pcg-megamark\"></span>ミュウツーEX",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/035831_P_MMYUUTSUEX.jpg",
+      "stage": "M進化"
+    },
+    {
+      "id": 35832,
+      "name": "サカキの計画",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY8-Br/035832_T_SAKAKINOKEIKAKU.jpg"
+    }
+  ]
+}

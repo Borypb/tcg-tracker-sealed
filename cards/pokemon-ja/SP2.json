@@ -1,0 +1,67 @@
+{
+  "code": "SP2",
+  "name": "SP2",
+  "official": "images",
+  "cards": [
+    {
+      "id": 38635,
+      "name": "ダダリンVMAX",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SP2/038635_P_DADARINVMAX.jpg",
+      "stage": "V進化"
+    },
+    {
+      "id": 38636,
+      "name": "エースバーンVMAX",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SP2/038636_P_ESUBANVMAX.jpg",
+      "stage": "V進化"
+    },
+    {
+      "id": 38637,
+      "name": "モルペコVMAX",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SP2/038637_P_MORUPEKOVMAX.jpg",
+      "stage": "V進化"
+    },
+    {
+      "id": 38638,
+      "name": "ウッウVMAX",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SP2/038638_P_UTSUUVMAX.jpg",
+      "stage": "V進化"
+    },
+    {
+      "id": 38639,
+      "name": "基本草エネルギー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SP2/038639_E_KIHONKUSAENERUGI.jpg"
+    },
+    {
+      "id": 38640,
+      "name": "基本炎エネルギー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SP2/038640_E_KIHONHONOOENERUGI.jpg"
+    },
+    {
+      "id": 38641,
+      "name": "基本水エネルギー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SP2/038641_E_KIHONMIZUENERUGI.jpg"
+    },
+    {
+      "id": 38642,
+      "name": "基本雷エネルギー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SP2/038642_E_KIHONKAMINARIENERUGI.jpg"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "code": "PPP",
+  "name": "PPP",
+  "official": "images",
+  "cards": [
+    {
+      "id": 8000,
+      "name": "ナエトル",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/PPP/008000_P_NAETORU.gif",
+      "stage": "たね"
+    },
+    {
+      "id": 8001,
+      "name": "ヒコザル",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/PPP/008001_P_HIKOZARU.gif",
+      "stage": "たね"
+    },
+    {
+      "id": 8002,
+      "name": "ポッチャマ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/PPP/008002_P_POCCHAMA.gif",
+      "stage": "たね"
+    },
+    {
+      "id": 8003,
+      "name": "マナフィ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/PPP/008003_P_MANAFI.gif",
+      "stage": "たね"
+    },
+    {
+      "id": 8004,
+      "name": "ディアルガ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/PPP/008004_P_DEIARUGA.gif",
+      "stage": "たね"
+    },
+    {
+      "id": 8005,
+      "name": "パルキア",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/PPP/008005_P_PARUKIA.gif",
+      "stage": "たね"
+    },
+    {
+      "id": 20027,
+      "name": "ダークライ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/PPP/020027_P_DAKURAI.gif",
+      "stage": "たね"
+    }
+  ]
+}

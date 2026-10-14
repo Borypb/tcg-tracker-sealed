@@ -1,0 +1,21 @@
+{
+  "code": "CLK",
+  "name": "CLK",
+  "official": "images",
+  "cards": [
+    {
+      "id": 44415,
+      "name": "基本水エネルギー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/CLK/044415_E_KIHONMIZUENERUGI.jpg"
+    },
+    {
+      "id": 44417,
+      "name": "基本超エネルギー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/CLK/044417_E_KIHONCHIXYOUENERUGI.jpg"
+    }
+  ]
+}

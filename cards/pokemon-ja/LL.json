@@ -1,0 +1,307 @@
+{
+  "code": "LL",
+  "name": "ポケモンカードゲーム 強化パック「ロストリンク」",
+  "official": "images",
+  "cards": [
+    {
+      "id": 26001,
+      "name": "コンパン",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026001_P_KONPAN.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 26003,
+      "name": "モルフォン",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026003_P_MORUFON.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 26005,
+      "name": "モンジャラ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026005_P_MONJARA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 26007,
+      "name": "モジャンボ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026007_P_MOJANBO.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 26009,
+      "name": "バルビート",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026009_P_BARUBITO.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 26011,
+      "name": "イルミーゼ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026011_P_IRUMIZE.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 26013,
+      "name": "マスキッパ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026013_P_MASUKIPPA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 26015,
+      "name": "ジーランス",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026015_P_JIRANSU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 26017,
+      "name": "コイル",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026017_P_KOIRU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 26019,
+      "name": "レアコイル",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026019_P_REAKOIRU.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 26021,
+      "name": "ジバコイル",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026021_P_JIBAKOIRU.jpg",
+      "stage": "2&nbsp;進化"
+    },
+    {
+      "id": 26023,
+      "name": "パチリス",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026023_P_PACHIRISU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 26025,
+      "name": "ゴース",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026025_P_GOSU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 26026,
+      "name": "ゴースト",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026026_P_GOSUTO.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 26028,
+      "name": "ゲンガー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026028_P_GENGA.jpg",
+      "stage": "2&nbsp;進化"
+    },
+    {
+      "id": 26031,
+      "name": "マネネ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026031_P_MANENE.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 26033,
+      "name": "バリヤード",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026033_P_BARIYADO.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 26035,
+      "name": "ミュウ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026035_P_MYUU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 26037,
+      "name": "ハブネーク",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026037_P_HABUNEKU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 26039,
+      "name": "カゲボウズ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026039_P_KAGEBOUZU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 26041,
+      "name": "ジュペッタ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026041_P_JUPETTA.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 26043,
+      "name": "ミカルゲ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026043_P_MIKARUGE.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 26045,
+      "name": "ディグダ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026045_P_DEIGUDA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 26047,
+      "name": "ダグトリオ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026047_P_DAGUTORIO.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 26049,
+      "name": "リオル",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026049_P_RIORU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 26050,
+      "name": "ルカリオ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026050_P_RUKARIO.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 26052,
+      "name": "アブソル",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026052_P_ABUSORU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 26054,
+      "name": "カビゴン",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026054_P_KABIGON.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 26056,
+      "name": "ミニリュウ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026056_P_MINIRYUU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 26058,
+      "name": "ハクリュー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026058_P_HAKURYU.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 26060,
+      "name": "カイリュー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026060_P_KAIRYU.jpg",
+      "stage": "2&nbsp;進化"
+    },
+    {
+      "id": 26062,
+      "name": "チルット",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026062_P_CHIRUTTO.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 26063,
+      "name": "チルタリス",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026063_P_CHIRUTARISU.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 26065,
+      "name": "ザングース",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026065_P_ZANGUSU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 26071,
+      "name": "研究の記録",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026071_T_KENKYUUNOKIROKU.jpg"
+    },
+    {
+      "id": 26073,
+      "name": "ロストリムーバー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026073_T_ROSUTORIMUBA.jpg"
+    },
+    {
+      "id": 26075,
+      "name": "探究者",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026075_T_TANKYUUSHA.jpg"
+    },
+    {
+      "id": 26077,
+      "name": "ロストワールド",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/LL/026077_T_ROSUTOWARUDO.jpg"
+    }
+  ]
+}

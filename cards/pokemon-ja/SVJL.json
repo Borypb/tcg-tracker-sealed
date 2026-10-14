@@ -1,0 +1,164 @@
+{
+  "code": "SVJL",
+  "name": "SVJL",
+  "official": "images",
+  "cards": [
+    {
+      "id": 45801,
+      "name": "ヒトカゲ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVJL/045801_P_HITOKAGE.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 45802,
+      "name": "リザード",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVJL/045802_P_RIZADO.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 45803,
+      "name": "かがやくリザードン",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVJL/045803_P_KAGAYAKURIZADON.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 45804,
+      "name": "ファイヤー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVJL/045804_P_FUAIYA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 45805,
+      "name": "エンテイ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVJL/045805_P_ENTEI.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 45806,
+      "name": "リザードンex",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVJL/045806_P_RIZADONEX.jpg",
+      "stage": "2&nbsp;進化"
+    },
+    {
+      "id": 45807,
+      "name": "ビッパ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVJL/045807_P_BIPPA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 45808,
+      "name": "ビーダル",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVJL/045808_P_BIDARU.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 45809,
+      "name": "アルセウスV",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVJL/045809_P_ARUSEUSUV.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 45810,
+      "name": "アルセウスVSTAR",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVJL/045810_P_ARUSEUSUVSTAR.jpg",
+      "stage": "V進化"
+    },
+    {
+      "id": 45811,
+      "name": "すごいつりざお",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVJL/045811_T_SUGOITSURIZAO.jpg"
+    },
+    {
+      "id": 45812,
+      "name": "ネストボール",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVJL/045812_T_NESUTOBORU.jpg"
+    },
+    {
+      "id": 45813,
+      "name": "ハイパーボール",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVJL/045813_T_HAIPABORU.jpg"
+    },
+    {
+      "id": 45814,
+      "name": "ふしぎなアメ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVJL/045814_T_FUSHIGINAAME.jpg"
+    },
+    {
+      "id": 45815,
+      "name": "ポケモンいれかえ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVJL/045815_T_POKEMONIREKAE.jpg"
+    },
+    {
+      "id": 45816,
+      "name": "シロナの覇気",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVJL/045816_T_SHIRONANOHAKI.jpg"
+    },
+    {
+      "id": 45817,
+      "name": "ナンジャモ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVJL/045817_T_NANJIXYAMO.jpg"
+    },
+    {
+      "id": 45818,
+      "name": "博士の研究",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVJL/045818_T_HAKASENOKENKIXYUU.jpg"
+    },
+    {
+      "id": 45819,
+      "name": "ボスの指令",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVJL/045819_T_BOSUNOSHIREI.jpg"
+    },
+    {
+      "id": 45820,
+      "name": "ボウルタウン",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVJL/045820_T_BOURUTAUN.jpg"
+    },
+    {
+      "id": 45821,
+      "name": "ダブルターボエネルギー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVJL/045821_E_DABURUTABOENERUGI.jpg"
+    }
+  ]
+}

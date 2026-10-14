@@ -1,0 +1,31 @@
+{
+  "code": "CS1p",
+  "name": "ポケモンカードゲームBW コレクションシート 旅立ちの仲間 ポカブ",
+  "official": "images",
+  "cards": [
+    {
+      "id": 27004,
+      "name": "ポカブ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/CS1p/027004_P_POKABU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 27005,
+      "name": "シママ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/CS1p/027005_P_SHIMAMA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 27006,
+      "name": "マメパト",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/CS1p/027006_P_MAMEPATO.jpg",
+      "stage": "たね"
+    }
+  ]
+}

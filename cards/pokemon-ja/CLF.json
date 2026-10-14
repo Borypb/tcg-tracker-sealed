@@ -1,0 +1,21 @@
+{
+  "code": "CLF",
+  "name": "CLF",
+  "official": "images",
+  "cards": [
+    {
+      "id": 44413,
+      "name": "基本草エネルギー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/CLF/044413_E_KIHONKUSAENERUGI.jpg"
+    },
+    {
+      "id": 44418,
+      "name": "基本闘エネルギー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/CLF/044418_E_KIHONTOUENERUGI.jpg"
+    }
+  ]
+}

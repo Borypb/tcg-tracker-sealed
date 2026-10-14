@@ -1,0 +1,543 @@
+{
+  "code": "L1-Bss",
+  "name": "ポケモンカードゲームLEGEND 拡張パック「ソウルシルバーコレクション」",
+  "official": "images",
+  "cards": [
+    {
+      "id": 25132,
+      "name": "キャタピー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025132_P_KYATAPI.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25133,
+      "name": "トランセル",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025133_P_TORANSERU.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 25135,
+      "name": "バタフリー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025135_P_BATAFURI.jpg",
+      "stage": "2&nbsp;進化"
+    },
+    {
+      "id": 25137,
+      "name": "パラス",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025137_P_PARASU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25139,
+      "name": "パラセクト",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025139_P_PARASEKUTO.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 25141,
+      "name": "チコリータ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025141_P_CHIKORITA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25143,
+      "name": "ベイリーフ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025143_P_BEIRIFU.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 25145,
+      "name": "メガニウム",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025145_P_MEGANIUMU.jpg",
+      "stage": "2&nbsp;進化"
+    },
+    {
+      "id": 25147,
+      "name": "メガニウム",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025147_P_MEGANIUMU.jpg",
+      "stage": "2&nbsp;進化"
+    },
+    {
+      "id": 25149,
+      "name": "レディバ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025149_P_REDEIBA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25151,
+      "name": "レディアン",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025151_P_REDEIAN.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 25153,
+      "name": "ロコン",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025153_P_ROKON.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25155,
+      "name": "キュウコン",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025155_P_KYUUKON.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 25157,
+      "name": "ヒノアラシ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025157_P_HINOARASHI.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25159,
+      "name": "マグマラシ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025159_P_MAGUMARASHI.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 25161,
+      "name": "バクフーン",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025161_P_BAKUFUN.jpg",
+      "stage": "2&nbsp;進化"
+    },
+    {
+      "id": 25163,
+      "name": "バクフーン",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025163_P_BAKUFUN.jpg",
+      "stage": "2&nbsp;進化"
+    },
+    {
+      "id": 25165,
+      "name": "ニョロモ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025165_P_NYOROMO.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25167,
+      "name": "ニョロゾ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025167_P_NYOROZO.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 25169,
+      "name": "ニョロボン",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025169_P_NYOROBON.jpg",
+      "stage": "2&nbsp;進化"
+    },
+    {
+      "id": 25171,
+      "name": "ニョロトノ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025171_P_NYOROTONO.jpg",
+      "stage": "2&nbsp;進化"
+    },
+    {
+      "id": 25173,
+      "name": "コイキング",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025173_P_KOIKINGU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25174,
+      "name": "ギャラドス",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025174_P_GYARADOSU.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 25176,
+      "name": "マリル",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025176_P_MARIRU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25178,
+      "name": "マリルリ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025178_P_MARIRURI.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 25180,
+      "name": "ウパー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025180_P_UPA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25182,
+      "name": "ヌオー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025182_P_NUO.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 25184,
+      "name": "デリバード",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025184_P_DERIBADO.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25189,
+      "name": "ピチュー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025189_P_PICHU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25191,
+      "name": "ピカチュウ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025191_P_PIKACHUU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25193,
+      "name": "ライチュウ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025193_P_RAICHUU.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 25195,
+      "name": "ズバット",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025195_P_ZUBATTO.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25197,
+      "name": "ゴルバット",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025197_P_GORUBATTO.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 25198,
+      "name": "クロバット",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025198_P_KUROBATTO.jpg",
+      "stage": "2&nbsp;進化"
+    },
+    {
+      "id": 25200,
+      "name": "クロバット",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025200_P_KUROBATTO.jpg",
+      "stage": "2&nbsp;進化"
+    },
+    {
+      "id": 25202,
+      "name": "スリープ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025202_P_SURIPU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25204,
+      "name": "スリーパー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025204_P_SURIPA.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 25206,
+      "name": "タマタマ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025206_P_TAMATAMA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25207,
+      "name": "ナッシー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025207_P_NASSHI.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 25209,
+      "name": "ネイティ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025209_P_NEITEI.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25211,
+      "name": "ネイティオ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025211_P_NEITEIO.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 25213,
+      "name": "アンノーン",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025213_P_ANNON.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25215,
+      "name": "サンド",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025215_P_SANDO.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25217,
+      "name": "サンドパン",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025217_P_SANDOPAN.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 25219,
+      "name": "ウソッキー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025219_P_USOKKI.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25221,
+      "name": "バルキー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025221_P_BARUKI.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25223,
+      "name": "カポエラー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025223_P_KAPOERA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25225,
+      "name": "ププリン",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025225_P_PUPURIN.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25227,
+      "name": "プリン",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025227_P_PURIN.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25228,
+      "name": "プクリン",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025228_P_PUKURIN.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 25230,
+      "name": "ニャース",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025230_P_NYASU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25232,
+      "name": "ペルシアン",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025232_P_PERUSHIAN.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 25234,
+      "name": "カモネギ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025234_P_KAMONEGI.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25236,
+      "name": "エイパム",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025236_P_EIPAMU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25238,
+      "name": "ブルー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025238_P_BURU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25240,
+      "name": "グランブル",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025240_P_GURANBURU.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 25242,
+      "name": "ヒメグマ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025242_P_HIMEGUMA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25243,
+      "name": "リングマ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025243_P_RINGUMA.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 25245,
+      "name": "リングマ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025245_P_RINGUMA.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 25248,
+      "name": "ミルタンク",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025248_P_MIRUTANKU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25250,
+      "name": "なんでもなおし",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025250_T_NANDEMONAOSHI.jpg"
+    },
+    {
+      "id": 25252,
+      "name": "ポケギア3.0",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025252_T_POKEGIA.jpg"
+    },
+    {
+      "id": 25254,
+      "name": "ポケモン通信",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025254_T_POKEMONTSUUSHIN.jpg"
+    },
+    {
+      "id": 25256,
+      "name": "モーモーミルク",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025256_T_MOMOMIRUKU.jpg"
+    },
+    {
+      "id": 25258,
+      "name": "釣り人",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025258_T_TSURIBITO.jpg"
+    },
+    {
+      "id": 25260,
+      "name": "ポケモンコレクター",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025260_T_POKEMONKOREKUTA.jpg"
+    },
+    {
+      "id": 25262,
+      "name": "モノマネむすめ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025262_T_MONOMANEMUSUME.jpg"
+    },
+    {
+      "id": 25264,
+      "name": "レインボーエネルギー",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L1-Bss/025264_E_REINBOENERUGI.jpg"
+    }
+  ]
+}

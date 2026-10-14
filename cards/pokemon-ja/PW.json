@@ -1,0 +1,23 @@
+{
+  "code": "PW",
+  "name": "ポケモンカードゲーム ピカチュウ ワールド",
+  "official": "images",
+  "cards": [
+    {
+      "id": 26189,
+      "name": "ピカチュウ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/PW/026189_P_PIKACHUU.gif",
+      "stage": "たね"
+    },
+    {
+      "id": 26190,
+      "name": "ピカチュウ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/PW/026190_P_PIKACHUU.gif",
+      "stage": "たね"
+    }
+  ]
+}

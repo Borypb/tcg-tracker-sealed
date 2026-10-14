@@ -1,0 +1,91 @@
+{
+  "code": "Bd",
+  "name": "ポケモンカードゲーム バトルスタートデッキ ドダイトス",
+  "official": "images",
+  "cards": [
+    {
+      "id": 25407,
+      "name": "トロピウス",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/Bd/025407_P_TOROPIUSU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25409,
+      "name": "ナエトル",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/Bd/025409_P_NAETORU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25411,
+      "name": "ハヤシガメ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/Bd/025411_P_HAYASHIGAME.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 25413,
+      "name": "ドダイトス",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/Bd/025413_P_DODAITOSU.gif",
+      "stage": "2&nbsp;進化"
+    },
+    {
+      "id": 25414,
+      "name": "ドダイトス",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/Bd/025414_P_DODAITOSU.jpg",
+      "stage": "2&nbsp;進化"
+    },
+    {
+      "id": 25415,
+      "name": "チェリンボ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/Bd/025415_P_CHIERINBO.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25416,
+      "name": "チェリム",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/Bd/025416_P_CHIERIMU.jpg",
+      "stage": "1&nbsp;進化"
+    },
+    {
+      "id": 25418,
+      "name": "デュアルボール",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/Bd/025418_T_DEYUARUBORU.jpg"
+    },
+    {
+      "id": 25420,
+      "name": "ふっかつそう",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/Bd/025420_T_FUKKATSUSOU.jpg"
+    },
+    {
+      "id": 25422,
+      "name": "モンスターボール",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/Bd/025422_T_MONSUTABORU.jpg"
+    },
+    {
+      "id": 25424,
+      "name": "MCのおしゃべり",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/Bd/025424_T_MCNOOSHABERI.jpg"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "code": "CS1m",
+  "name": "ポケモンカードゲームBW コレクションシート 旅立ちの仲間 ミジュマル",
+  "official": "images",
+  "cards": [
+    {
+      "id": 27007,
+      "name": "ミジュマル",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/CS1m/027007_P_MIJUMARU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 27008,
+      "name": "メグロコ",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/CS1m/027008_P_MEGUROKO.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 27009,
+      "name": "ゾロア",
+      "number": "assets",
+      "total": "images",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/CS1m/027009_P_ZOROA.jpg",
+      "stage": "たね"
+    }
+  ]
+}

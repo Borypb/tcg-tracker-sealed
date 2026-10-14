@@ -157,7 +157,7 @@ export async function jpCards() {
     }
     const product = [...products.entries()].sort((a, b) => b[1] - a[1])[0]?.[0];
     const meta = info.get(code.toLowerCase());
-    const name = meta?.name ?? product?.replace(/^(強化)?拡張パック\s*|^ハイクラスパック\s*|^スターター(セット|デッキ)\s*/, "") ?? code;
+    const name = (meta?.name ?? product?.replace(/^(強化)?拡張パック\s*|^ハイクラスパック\s*|^スターター(セット|デッキ)\s*/, "") ?? code).replace(/[「」]/g, "").trim();
     const file = `${DIR}/${code}.json`;
     await writeJson(file, { code, name, official, cards: rows });
     sets.push({ code, name, official: official ? Number(official) || undefined : undefined, releasedAt: meta?.releasedAt, count: rows.length, file, version: hash(rows), firstId: rows[0].id });

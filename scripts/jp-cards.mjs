@@ -55,10 +55,12 @@ async function listAll() {
 /** page de détail : « 001 / 103 », produit (« 拡張パック 30th CELEBRATION ») */
 async function detail(id) {
   const html = await get(`${SITE}/card-search/details.php/card/${id}/regu/all`, "text");
-  const sub = html.match(/<div class="subtext[^"]*">([\s\S]*?)<\/div>/)?.[1] ?? "";
-  const num = sub.replace(/&nbsp;/g, " ").match(/([0-9A-Za-z-]+)\s*\/\s*([0-9A-Za-z-]+)/);
-  const product = html.match(/<li class="List_item">([^<]+)<\/li>/)?.[1]?.trim();
-  const stage = html.match(/<span class="type">([^<]+)<\/span>/)?.[1]?.trim();
+  const text = (s) => s.replace(/<[^>]+>/g, " ").replace(/&nbsp;/g, " ").replace(/&amp;/g, "&").replace(/\s+/g, " ").trim();
+  // « <img … alt="M6a" /> 001 / 103 » : on retire les balises avant de chercher le numéro
+  const sub = text(html.match(/<div class="subtext[^"]*">([\s\S]*?)<\/div>/)?.[1] ?? "");
+  const num = sub.match(/([0-9]{1,3}[A-Za-z]?|[A-Z]{1,4}-?[0-9]{1,3})\s*\/\s*([0-9A-Za-z-]{1,6})/);
+  const product = text(html.match(/<li class="List_item">([\s\S]*?)<\/li>/)?.[1] ?? "") || undefined;
+  const stage = text(html.match(/<span class="type">([\s\S]*?)<\/span>/)?.[1] ?? "") || undefined;
   return { number: num?.[1], total: num?.[2], product, stage };
 }
 
@@ -111,20 +113,28 @@ export async function jpCards() {
   console.log(`extensions à compléter : ${wanted.length} sur ${byCode.size} (${wanted.map(([c]) => c).join(", ")})`);
 
   // pages de détail manquantes, les plus récentes d'abord (identifiants les plus grands)
-  const todo = wanted.flatMap(([, cards]) => cards).filter((c) => !cache[c.id]).sort((a, b) => b.id - a.id).slice(0, MAX_DETAILS);
+  // (une entrée sans vrai numéro, d'une ancienne version du script, est relue)
+  const valid = (d) => d && /\d/.test(d.number ?? "");
+  const todo = wanted.flatMap(([, cards]) => cards).filter((c) => !valid(cache[c.id])).sort((a, b) => b.id - a.id).slice(0, MAX_DETAILS);
   let done = 0;
-  for (const c of todo) {
-    try {
-      cache[c.id] = await detail(c.id);
-    } catch (e) {
-      console.warn(`détail ${c.id} : ${e.message}`);
+  let next = 0;
+  // deux lectures à la fois, avec une pause : environ 5 pages par seconde
+  const worker = async () => {
+    while (next < todo.length) {
+      const c = todo[next++];
+      try {
+        cache[c.id] = await detail(c.id);
+      } catch (e) {
+        console.warn(`détail ${c.id} : ${e.message}`);
+      }
+      if (++done % 500 === 0) {
+        console.log(`détails : ${done}/${todo.length}`);
+        await writeJson(CACHE, cache);
+      }
+      await sleep(200);
     }
-    if (++done % 200 === 0) {
-      console.log(`détails : ${done}/${todo.length}`);
-      await writeJson(CACHE, cache);
-    }
-    await sleep(150);
-  }
+  };
+  await Promise.all([worker(), worker()]);
   await writeJson(CACHE, cache);
 
   const prev = await readJson(`${DIR}/index.json`, { sets: [] });
@@ -132,7 +142,7 @@ export async function jpCards() {
   for (const [code, cards] of wanted) {
     const rows = cards
       .map((c) => ({ ...c, ...(cache[c.id] ?? {}) }))
-      .filter((c) => c.number)
+      .filter((c) => /\d/.test(c.number ?? ""))
       .sort((a, b) => a.id - b.id)
       .map((c) => ({ id: c.id, name: c.name, number: c.number, total: c.total, image: c.image, stage: c.stage }));
     if (!rows.length) continue;

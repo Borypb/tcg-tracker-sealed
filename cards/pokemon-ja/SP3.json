@@ -1,50 +1,50 @@
 {
   "code": "SP3",
-  "name": "SP3",
-  "official": "images",
+  "name": "ジャンボパックセット 白銀のランス＆漆黒のガイスト",
+  "official": "006",
   "cards": [
     {
       "id": 39502,
       "name": "はくばバドレックスV",
-      "number": "assets",
-      "total": "images",
+      "number": "001",
+      "total": "006",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SP3/039502_P_HAKUBABADOREKKUSUV.jpg",
       "stage": "たね"
     },
     {
       "id": 39503,
       "name": "こくばバドレックスV",
-      "number": "assets",
-      "total": "images",
+      "number": "002",
+      "total": "006",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SP3/039503_P_KOKUBABADOREKKUSUV.jpg",
       "stage": "たね"
     },
     {
       "id": 39504,
       "name": "妖しいカンヅメ",
-      "number": "assets",
-      "total": "images",
+      "number": "003",
+      "total": "006",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SP3/039504_T_AYASHIIKANDUME.jpg"
     },
     {
       "id": 39505,
       "name": "たっぷりバケツ",
-      "number": "assets",
-      "total": "images",
+      "number": "004",
+      "total": "006",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SP3/039505_T_TAPPURIBAKETSU.jpg"
     },
     {
       "id": 39506,
       "name": "ウォッシュ水エネルギー",
-      "number": "assets",
-      "total": "images",
+      "number": "005",
+      "total": "006",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SP3/039506_E_UOSSHUMIZUENERUGI.jpg"
     },
     {
       "id": 39507,
       "name": "ホラー超エネルギー",
-      "number": "assets",
-      "total": "images",
+      "number": "006",
+      "total": "006",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SP3/039507_E_HORACHOUENERUGI.jpg"
     }
   ]

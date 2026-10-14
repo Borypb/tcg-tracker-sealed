@@ -1,154 +1,140 @@
 {
   "code": "XYD",
-  "name": "XYD",
-  "official": "images",
+  "name": "ポケモンカードゲームXY メガバトルデッキ60「 レックウザEX」",
+  "official": "018",
   "cards": [
     {
       "id": 30934,
       "name": "ビクティニ",
-      "number": "assets",
-      "total": "images",
+      "number": "001",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYD/030934_P_BIKUTEINI.jpg",
       "stage": "たね"
     },
     {
       "id": 30935,
       "name": "ラクライ",
-      "number": "assets",
-      "total": "images",
+      "number": "002",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYD/030935_P_RAKURAI.jpg",
       "stage": "たね"
     },
     {
       "id": 30936,
       "name": "ライボルト",
-      "number": "assets",
-      "total": "images",
+      "number": "003",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYD/030936_P_RAIBORUTO.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 30937,
       "name": "タツベイ",
-      "number": "assets",
-      "total": "images",
+      "number": "004",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYD/030937_P_TATSUBEI.jpg",
       "stage": "たね"
     },
     {
       "id": 30938,
       "name": "レックウザEX",
-      "number": "assets",
-      "total": "images",
+      "number": "005",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYD/030938_P_REKKUUZAEX.jpg",
       "stage": "たね"
     },
     {
       "id": 30939,
       "name": "<span class=\"pcg pcg-megamark\"></span>レックウザEX",
-      "number": "assets",
-      "total": "images",
+      "number": "006",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYD/030939_P_MREKKUUZAEX.jpg",
       "stage": "M進化"
     },
     {
       "id": 30940,
       "name": "ゼクロム",
-      "number": "assets",
-      "total": "images",
+      "number": "007",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYD/030940_P_ZEKUROMU.jpg",
       "stage": "たね"
     },
     {
       "id": 30941,
       "name": "ダートじてんしゃ",
-      "number": "assets",
-      "total": "images",
+      "number": "008",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYD/030941_T_DATOJITENSHA.jpg"
     },
     {
       "id": 30942,
       "name": "ハイパーボール",
-      "number": "assets",
-      "total": "images",
+      "number": "009",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYD/030942_T_HAIPABORU.jpg"
     },
     {
       "id": 30943,
       "name": "ポケモンいれかえ",
-      "number": "assets",
-      "total": "images",
+      "number": "010",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYD/030943_T_POKEMONIREKAE.jpg"
     },
     {
       "id": 30944,
       "name": "メガターボ",
-      "number": "assets",
-      "total": "images",
+      "number": "011",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYD/030944_T_MEGATABO.jpg"
     },
     {
       "id": 30945,
       "name": "レックウザソウルリンク",
-      "number": "assets",
-      "total": "images",
+      "number": "012",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYD/030945_T_REKKUUZASOURURINKU.jpg"
     },
     {
       "id": 30946,
       "name": "オダマキ博士の観察",
-      "number": "assets",
-      "total": "images",
+      "number": "013",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYD/030946_T_ODAMAKIHAKASENOKANSATSU.jpg"
     },
     {
       "id": 30947,
       "name": "ダイゴ",
-      "number": "assets",
-      "total": "images",
+      "number": "014",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYD/030947_T_DAIGO.jpg"
     },
     {
       "id": 30948,
       "name": "ティエルノ",
-      "number": "assets",
-      "total": "images",
+      "number": "015",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYD/030948_T_TEIERUNO.jpg"
     },
     {
       "id": 30949,
       "name": "プラターヌ博士",
-      "number": "assets",
-      "total": "images",
+      "number": "016",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYD/030949_T_PURATANUHAKASE.jpg"
     },
     {
       "id": 30950,
       "name": "フラダリ",
-      "number": "assets",
-      "total": "images",
+      "number": "017",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYD/030950_T_FURADARI.jpg"
     },
     {
       "id": 30951,
       "name": "ダブルドラゴンエネルギー",
-      "number": "assets",
-      "total": "images",
+      "number": "018",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYD/030951_E_DABURUDORAGONENERUGI.jpg"
-    },
-    {
-      "id": 30952,
-      "name": "基本炎エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYD/030952_E_KIHONHONOOENERUGI.jpg"
-    },
-    {
-      "id": 30953,
-      "name": "基本雷エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYD/030953_E_KIHONKAMINARIENERUGI.jpg"
     }
   ]
 }

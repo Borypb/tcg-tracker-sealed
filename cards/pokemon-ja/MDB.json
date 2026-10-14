@@ -1,390 +1,355 @@
 {
   "code": "MDB",
   "name": "ポケモンカードゲームBW 「トッププレイヤーが選ぶ100＋40枚 マスターデッキビルドBOX EX」",
-  "official": "images",
+  "official": "046",
   "cards": [
     {
       "id": 28314,
       "name": "ビクティニ",
-      "number": "assets",
-      "total": "images",
+      "number": "001",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028314_P_BIKUTEINI.jpg",
       "stage": "たね"
     },
     {
       "id": 28315,
       "name": "ポカブ",
-      "number": "assets",
-      "total": "images",
+      "number": "002",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028315_P_POKABU.jpg",
       "stage": "たね"
     },
     {
       "id": 28316,
       "name": "チャオブー",
-      "number": "assets",
-      "total": "images",
+      "number": "003",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028316_P_CHAOBU.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 28317,
       "name": "エンブオー",
-      "number": "assets",
-      "total": "images",
+      "number": "004",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028317_P_ENBUO.jpg",
-      "stage": "2&nbsp;進化"
+      "stage": "2 進化"
     },
     {
       "id": 28318,
       "name": "レシラム",
-      "number": "assets",
-      "total": "images",
+      "number": "005",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028318_P_RESHIRAMU.jpg",
       "stage": "たね"
     },
     {
       "id": 28319,
       "name": "ポッチャマ",
-      "number": "assets",
-      "total": "images",
+      "number": "006",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028319_P_POCCHAMA.jpg",
       "stage": "たね"
     },
     {
       "id": 28320,
       "name": "ポッタイシ",
-      "number": "assets",
-      "total": "images",
+      "number": "007",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028320_P_POTTAISHI.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 28321,
       "name": "エンペルト",
-      "number": "assets",
-      "total": "images",
+      "number": "008",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028321_P_ENPERUTO.jpg",
-      "stage": "2&nbsp;進化"
+      "stage": "2 進化"
     },
     {
       "id": 28322,
       "name": "キュレム",
-      "number": "assets",
-      "total": "images",
+      "number": "009",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028322_P_KYUREMU.jpg",
       "stage": "たね"
     },
     {
       "id": 28323,
       "name": "エモンガ",
-      "number": "assets",
-      "total": "images",
+      "number": "010",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028323_P_EMONGA.jpg",
       "stage": "たね"
     },
     {
       "id": 28324,
       "name": "シビシラス",
-      "number": "assets",
-      "total": "images",
+      "number": "011",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028324_P_SHIBISHIRASU.jpg",
       "stage": "たね"
     },
     {
       "id": 28325,
       "name": "シビビール",
-      "number": "assets",
-      "total": "images",
+      "number": "012",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028325_P_SHIBIBIRU.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 28326,
       "name": "ゼクロム",
-      "number": "assets",
-      "total": "images",
+      "number": "013",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028326_P_ZEKUROMU.jpg",
       "stage": "たね"
     },
     {
       "id": 28327,
       "name": "ミュウツーEX",
-      "number": "assets",
-      "total": "images",
+      "number": "014",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028327_P_MYUUTSUEX.jpg",
       "stage": "たね"
     },
     {
       "id": 28328,
       "name": "ラルトス",
-      "number": "assets",
-      "total": "images",
+      "number": "015",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028328_P_RARUTOSU.jpg",
       "stage": "たね"
     },
     {
       "id": 28329,
       "name": "キルリア",
-      "number": "assets",
-      "total": "images",
+      "number": "016",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028329_P_KIRURIA.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 28330,
       "name": "サーナイト",
-      "number": "assets",
-      "total": "images",
+      "number": "017",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028330_P_SANAITO.jpg",
-      "stage": "2&nbsp;進化"
+      "stage": "2 進化"
     },
     {
       "id": 28331,
       "name": "ユニラン",
-      "number": "assets",
-      "total": "images",
+      "number": "018",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028331_P_YUNIRAN.jpg",
       "stage": "たね"
     },
     {
       "id": 28332,
       "name": "ダブラン",
-      "number": "assets",
-      "total": "images",
+      "number": "019",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028332_P_DABURAN.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 28333,
       "name": "ランクルス",
-      "number": "assets",
-      "total": "images",
+      "number": "020",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028333_P_RANKURUSU.jpg",
-      "stage": "2&nbsp;進化"
+      "stage": "2 進化"
     },
     {
       "id": 28334,
       "name": "ダークライEX",
-      "number": "assets",
-      "total": "images",
+      "number": "021",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028334_P_DAKURAIEX.jpg",
       "stage": "たね"
     },
     {
       "id": 28335,
       "name": "ゾロア",
-      "number": "assets",
-      "total": "images",
+      "number": "022",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028335_P_ZOROA.jpg",
       "stage": "たね"
     },
     {
       "id": 28336,
       "name": "ゾロアーク",
-      "number": "assets",
-      "total": "images",
+      "number": "023",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028336_P_ZOROAKU.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 28337,
       "name": "ゾロアーク",
-      "number": "assets",
-      "total": "images",
+      "number": "024",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028337_P_ZOROAKU.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 28338,
       "name": "レックウザEX",
-      "number": "assets",
-      "total": "images",
+      "number": "025",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028338_P_REKKUUZAEX.jpg",
       "stage": "たね"
     },
     {
       "id": 28339,
       "name": "トルネロス",
-      "number": "assets",
-      "total": "images",
+      "number": "026",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028339_P_TORUNEROSU.jpg",
       "stage": "たね"
     },
     {
       "id": 28340,
       "name": "クラッシュハンマー",
-      "number": "assets",
-      "total": "images",
+      "number": "027",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028340_T_KURASSHUHANMA.jpg"
     },
     {
       "id": 28341,
       "name": "げんきのかけら",
-      "number": "assets",
-      "total": "images",
+      "number": "028",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028341_T_GENKINOKAKERA.jpg"
     },
     {
       "id": 28342,
       "name": "ダークパッチ",
-      "number": "assets",
-      "total": "images",
+      "number": "029",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028342_T_DAKUPACCHI.jpg"
     },
     {
       "id": 28343,
       "name": "ハイパーボール",
-      "number": "assets",
-      "total": "images",
+      "number": "030",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028343_T_HAIPABORU.jpg"
     },
     {
       "id": 28344,
       "name": "ふしぎなアメ",
-      "number": "assets",
-      "total": "images",
+      "number": "031",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028344_T_FUSHIGINAAME.jpg"
     },
     {
       "id": 28345,
       "name": "プラスパワー",
-      "number": "assets",
-      "total": "images",
+      "number": "032",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028345_T_PURASUPAWA.jpg"
     },
     {
       "id": 28346,
       "name": "ヘビーボール",
-      "number": "assets",
-      "total": "images",
+      "number": "033",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028346_T_HEBIBORU.jpg"
     },
     {
       "id": 28347,
       "name": "ポケモンキャッチャー",
-      "number": "assets",
-      "total": "images",
+      "number": "034",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028347_T_POKEMONKYACCHA.jpg"
     },
     {
       "id": 28348,
       "name": "まんたんのくすり",
-      "number": "assets",
-      "total": "images",
+      "number": "035",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028348_T_MANTANNOKUSURI.jpg"
     },
     {
       "id": 28349,
       "name": "ランダムレシーバー",
-      "number": "assets",
-      "total": "images",
+      "number": "036",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028349_T_RANDAMURESHIBA.jpg"
     },
     {
       "id": 28350,
       "name": "レベルボール",
-      "number": "assets",
-      "total": "images",
+      "number": "037",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028350_T_REBERUBORU.jpg"
     },
     {
       "id": 28351,
       "name": "ゴツゴツメット",
-      "number": "assets",
-      "total": "images",
+      "number": "038",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028351_T_GOTSUGOTSUMETTO.jpg"
     },
     {
       "id": 28352,
       "name": "しんかのきせき",
-      "number": "assets",
-      "total": "images",
+      "number": "039",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028352_T_SHINKANOKISEKI.jpg"
     },
     {
       "id": 28353,
       "name": "アララギ博士",
-      "number": "assets",
-      "total": "images",
+      "number": "040",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028353_T_ARARAGIHAKASE.jpg"
     },
     {
       "id": 28354,
       "name": "N",
-      "number": "assets",
-      "total": "images",
+      "number": "041",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028354_T_N.jpg"
     },
     {
       "id": 28355,
       "name": "チェレン",
-      "number": "assets",
-      "total": "images",
+      "number": "042",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028355_T_CHIEREN.jpg"
     },
     {
       "id": 28356,
       "name": "ベル",
-      "number": "assets",
-      "total": "images",
+      "number": "043",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028356_T_BERU.jpg"
     },
     {
       "id": 28357,
       "name": "ダブル無色エネルギー",
-      "number": "assets",
-      "total": "images",
+      "number": "044",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028357_E_DABURUMUSHOKUENERUGI.jpg"
     },
     {
       "id": 28358,
       "name": "ブレンドエネルギー 草炎超悪",
-      "number": "assets",
-      "total": "images",
+      "number": "045",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028358_E_BURENDOENERUGIKUSAHONOOCHOUAKU.jpg"
     },
     {
       "id": 28359,
       "name": "ブレンドエネルギー 水雷闘鋼",
-      "number": "assets",
-      "total": "images",
+      "number": "046",
+      "total": "046",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028359_E_BURENDOENERUGISUIRAITOUKOU.jpg"
-    },
-    {
-      "id": 28360,
-      "name": "基本炎エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028360_E_KIHONHONOOENERUGI.jpg"
-    },
-    {
-      "id": 28361,
-      "name": "基本水エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028361_E_KIHONMIZUENERUGI.jpg"
-    },
-    {
-      "id": 28362,
-      "name": "基本雷エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028362_E_KIHONKAMINARIENERUGI.jpg"
-    },
-    {
-      "id": 28363,
-      "name": "基本超エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028363_E_KIHONCHOUENERUGI.jpg"
-    },
-    {
-      "id": 28364,
-      "name": "基本悪エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/MDB/028364_E_KIHONAKUENERUGI.jpg"
     }
   ]
 }

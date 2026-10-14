@@ -1,128 +1,114 @@
 {
   "code": "HSPp",
   "name": "ポケモンカードゲームBW はじめてセット ピカチュウver. （ポカブデッキ）",
-  "official": "images",
+  "official": "034",
   "cards": [
     {
       "id": 27717,
       "name": "ヤナップ",
-      "number": "assets",
-      "total": "images",
+      "number": "004",
+      "total": "034",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSPp/027717_P_YANAPPU.jpg",
       "stage": "たね"
     },
     {
       "id": 27718,
       "name": "ポカブ",
-      "number": "assets",
-      "total": "images",
+      "number": "006",
+      "total": "034",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSPp/027718_P_POKABU.jpg",
       "stage": "たね"
     },
     {
       "id": 27719,
       "name": "チャオブー",
-      "number": "assets",
-      "total": "images",
+      "number": "007",
+      "total": "034",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSPp/027719_P_CHAOBU.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 27720,
       "name": "エンブオー",
-      "number": "assets",
-      "total": "images",
+      "number": "008",
+      "total": "034",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSPp/027720_P_ENBUO.gif",
-      "stage": "2&nbsp;進化"
+      "stage": "2 進化"
     },
     {
       "id": 27721,
       "name": "ダルマッカ",
-      "number": "assets",
-      "total": "images",
+      "number": "010",
+      "total": "034",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSPp/027721_P_DARUMAKKA.jpg",
       "stage": "たね"
     },
     {
       "id": 27722,
       "name": "シママ",
-      "number": "assets",
-      "total": "images",
+      "number": "016",
+      "total": "034",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSPp/027722_P_SHIMAMA.jpg",
       "stage": "たね"
     },
     {
       "id": 27723,
       "name": "ゼブライカ",
-      "number": "assets",
-      "total": "images",
+      "number": "017",
+      "total": "034",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSPp/027723_P_ZEBURAIKA.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 27724,
       "name": "バチュル",
-      "number": "assets",
-      "total": "images",
+      "number": "018",
+      "total": "034",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSPp/027724_P_BACHURU.jpg",
       "stage": "たね"
     },
     {
       "id": 27725,
       "name": "バッフロン",
-      "number": "assets",
-      "total": "images",
+      "number": "027",
+      "total": "034",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSPp/027725_P_BAFFURON.jpg",
       "stage": "たね"
     },
     {
       "id": 27726,
       "name": "エネルギー回収",
-      "number": "assets",
-      "total": "images",
+      "number": "028",
+      "total": "034",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSPp/027726_T_ENERUGIKAISHUU.jpg"
     },
     {
       "id": 27727,
       "name": "きずぐすり",
-      "number": "assets",
-      "total": "images",
+      "number": "030",
+      "total": "034",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSPp/027727_T_KIZUGUSURI.jpg"
     },
     {
       "id": 27728,
       "name": "ポケモンいれかえ",
-      "number": "assets",
-      "total": "images",
+      "number": "032",
+      "total": "034",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSPp/027728_T_POKEMONIREKAE.jpg"
     },
     {
       "id": 27729,
       "name": "ポケモン図鑑",
-      "number": "assets",
-      "total": "images",
+      "number": "033",
+      "total": "034",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSPp/027729_T_POKEMONZUKAN.jpg"
     },
     {
       "id": 27730,
       "name": "モンスターボール",
-      "number": "assets",
-      "total": "images",
+      "number": "034",
+      "total": "034",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSPp/027730_T_MONSUTABORU.jpg"
-    },
-    {
-      "id": 27731,
-      "name": "基本炎エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSPp/027731_E_KIHONHONOOENERUGI.jpg"
-    },
-    {
-      "id": 27732,
-      "name": "基本雷エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSPp/027732_E_KIHONKAMINARIENERUGI.jpg"
     }
   ]
 }

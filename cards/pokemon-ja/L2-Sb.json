@@ -1,159 +1,79 @@
 {
   "code": "L2-Sb",
   "name": "ポケモンカードゲームLEGEND 構築スタンダードデッキ「バンギラス悪」",
-  "official": "images",
+  "official": "019",
   "cards": [
     {
       "id": 25501,
       "name": "サワムラー",
-      "number": "assets",
-      "total": "images",
+      "number": "001",
+      "total": "019",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/L2-Sb/025501_P_SAWAMURA.jpg",
       "stage": "たね"
     },
     {
       "id": 25503,
       "name": "エビワラー",
-      "number": "assets",
-      "total": "images",
+      "number": "002",
+      "total": "019",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/L2-Sb/025503_P_EBIWARA.jpg",
       "stage": "たね"
     },
     {
       "id": 25505,
       "name": "ヨーギラス",
-      "number": "assets",
-      "total": "images",
+      "number": "003",
+      "total": "019",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/L2-Sb/025505_P_YOGIRASU.jpg",
       "stage": "たね"
     },
     {
       "id": 25507,
       "name": "サナギラス",
-      "number": "assets",
-      "total": "images",
+      "number": "004",
+      "total": "019",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/L2-Sb/025507_P_SANAGIRASU.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 25509,
       "name": "ヤミカラス",
-      "number": "assets",
-      "total": "images",
+      "number": "005",
+      "total": "019",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/L2-Sb/025509_P_YAMIKARASU.jpg",
       "stage": "たね"
     },
     {
       "id": 25510,
       "name": "ドンカラス",
-      "number": "assets",
-      "total": "images",
+      "number": "006",
+      "total": "019",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/L2-Sb/025510_P_DONKARASU.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 25512,
       "name": "デルビル",
-      "number": "assets",
-      "total": "images",
+      "number": "007",
+      "total": "019",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/L2-Sb/025512_P_DERUBIRU.jpg",
       "stage": "たね"
     },
     {
       "id": 25513,
       "name": "ヘルガー",
-      "number": "assets",
-      "total": "images",
+      "number": "008",
+      "total": "019",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/L2-Sb/025513_P_HERUGA.gif",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 25515,
       "name": "バンギラス",
-      "number": "assets",
-      "total": "images",
+      "number": "009",
+      "total": "019",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/L2-Sb/025515_P_BANGIRASU.gif",
-      "stage": "2&nbsp;進化"
-    },
-    {
-      "id": 25517,
-      "name": "バンギラス",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L2-Sb/025517_P_BANGIRASU.jpg",
-      "stage": "2&nbsp;進化"
-    },
-    {
-      "id": 25519,
-      "name": "スカンプー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L2-Sb/025519_P_SUKANPU.jpg",
-      "stage": "たね"
-    },
-    {
-      "id": 25520,
-      "name": "スカタンク",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L2-Sb/025520_P_SUKATANKU.jpg",
-      "stage": "1&nbsp;進化"
-    },
-    {
-      "id": 25522,
-      "name": "エネルギー交換装置",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L2-Sb/025522_T_ENERUGIKOUKANSOUCHI.jpg"
-    },
-    {
-      "id": 25524,
-      "name": "ポケモンリバース",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L2-Sb/025524_T_POKEMONRIBASU.jpg"
-    },
-    {
-      "id": 25526,
-      "name": "ウツギはかせの育てかた",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L2-Sb/025526_T_UTSUGIHAKASENOSODATEKATA.jpg"
-    },
-    {
-      "id": 25528,
-      "name": "オーキドはかせの新理論",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L2-Sb/025528_T_OKIDOHAKASENOSHINRIRON.jpg"
-    },
-    {
-      "id": 25530,
-      "name": "ポケモンコレクター",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L2-Sb/025530_T_POKEMONKOREKUTA.jpg"
-    },
-    {
-      "id": 25532,
-      "name": "マサキ",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L2-Sb/025532_T_MASAKI.jpg"
-    },
-    {
-      "id": 25534,
-      "name": "ロケット団の手口",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L2-Sb/025534_T_ROKETTODANNOTEGUCHI.jpg"
-    },
-    {
-      "id": 25536,
-      "name": "特殊悪エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L2-Sb/025536_E_TOKUSHUAKUENERUGI.jpg"
+      "stage": "2 進化"
     }
   ]
 }

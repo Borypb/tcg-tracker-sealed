@@ -1,101 +1,101 @@
 {
   "code": "CPm",
-  "name": "ポケモンカードゲーム　コレクションパック　ミュウツーLV.X",
-  "official": "images",
+  "name": "ポケモンカードゲーム コレクションパック ミュウツーLV.X",
+  "official": "012",
   "cards": [
     {
       "id": 23551,
       "name": "ミノムッチ すなちのミノ",
-      "number": "assets",
-      "total": "images",
+      "number": "001",
+      "total": "012",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/CPm/023551_P_MINOMUCCHISUNACHINOMINO.jpg",
       "stage": "たね"
     },
     {
       "id": 23553,
       "name": "ポッチャマ",
-      "number": "assets",
-      "total": "images",
+      "number": "002",
+      "total": "012",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/CPm/023553_P_POCCHAMA.jpg",
       "stage": "たね"
     },
     {
       "id": 23555,
       "name": "ブイゼル",
-      "number": "assets",
-      "total": "images",
+      "number": "003",
+      "total": "012",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/CPm/023555_P_BUIZERU.jpg",
       "stage": "たね"
     },
     {
       "id": 23557,
       "name": "レントラー",
-      "number": "assets",
-      "total": "images",
+      "number": "004",
+      "total": "012",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/CPm/023557_P_RENTORA.gif",
-      "stage": "2&nbsp;進化"
+      "stage": "2 進化"
     },
     {
       "id": 23559,
       "name": "パチリス",
-      "number": "assets",
-      "total": "images",
+      "number": "005",
+      "total": "012",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/CPm/023559_P_PACHIRISU.jpg",
       "stage": "たね"
     },
     {
       "id": 23561,
       "name": "ミュウツー",
-      "number": "assets",
-      "total": "images",
+      "number": "006",
+      "total": "012",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/CPm/023561_P_MYUUTSU.gif",
       "stage": "レベルアップ"
     },
     {
       "id": 23564,
       "name": "ヨノワール",
-      "number": "assets",
-      "total": "images",
+      "number": "007",
+      "total": "012",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/CPm/023564_P_YONOWARU.gif",
-      "stage": "2&nbsp;進化"
+      "stage": "2 進化"
     },
     {
       "id": 23566,
       "name": "リオル",
-      "number": "assets",
-      "total": "images",
+      "number": "008",
+      "total": "012",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/CPm/023566_P_RIORU.gif",
       "stage": "たね"
     },
     {
       "id": 23568,
       "name": "ルカリオ",
-      "number": "assets",
-      "total": "images",
+      "number": "009",
+      "total": "012",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/CPm/023568_P_RUKARIO.gif",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 23570,
       "name": "ディアルガ",
-      "number": "assets",
-      "total": "images",
+      "number": "010",
+      "total": "012",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/CPm/023570_P_DEIARUGA.jpg",
       "stage": "たね"
     },
     {
       "id": 23573,
       "name": "ゴンベ",
-      "number": "assets",
-      "total": "images",
+      "number": "011",
+      "total": "012",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/CPm/023573_P_GONBE.jpg",
       "stage": "たね"
     },
     {
       "id": 23575,
       "name": "時空のゆがみ",
-      "number": "assets",
-      "total": "images",
+      "number": "012",
+      "total": "012",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/CPm/023575_T_JIKUUNOYUGAMI.gif"
     }
   ]

@@ -1,194 +1,180 @@
 {
   "code": "XYC",
-  "name": "XYC",
-  "official": "images",
+  "name": "ポケモンカードゲームXY スーパーレジェンドセット60「ゼルネアスEX・イベルタルEX」",
+  "official": "023",
   "cards": [
     {
       "id": 30616,
       "name": "ヤンチャム",
-      "number": "assets",
-      "total": "images",
+      "number": "001",
+      "total": "023",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYC/030616_P_YANCHAMU.jpg",
       "stage": "たね"
     },
     {
       "id": 30617,
       "name": "ゴロンダ",
-      "number": "assets",
-      "total": "images",
+      "number": "002",
+      "total": "023",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYC/030617_P_GORONDA.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 30618,
       "name": "マーイーカ",
-      "number": "assets",
-      "total": "images",
+      "number": "003",
+      "total": "023",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYC/030618_P_MAIKA.jpg",
       "stage": "たね"
     },
     {
       "id": 30619,
       "name": "カラマネロ",
-      "number": "assets",
-      "total": "images",
+      "number": "004",
+      "total": "023",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYC/030619_P_KARAMANERO.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 30620,
       "name": "イベルタルEX",
-      "number": "assets",
-      "total": "images",
+      "number": "005",
+      "total": "023",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYC/030620_P_IBERUTARUEX.jpg",
       "stage": "たね"
     },
     {
       "id": 30621,
       "name": "イベルタルEX",
-      "number": "assets",
-      "total": "images",
+      "number": "006",
+      "total": "023",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYC/030621_P_IBERUTARUEX.jpg",
       "stage": "たね"
     },
     {
       "id": 30622,
       "name": "シュシュプ",
-      "number": "assets",
-      "total": "images",
+      "number": "007",
+      "total": "023",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYC/030622_P_SHUSHUPU.jpg",
       "stage": "たね"
     },
     {
       "id": 30623,
       "name": "フレフワン",
-      "number": "assets",
-      "total": "images",
+      "number": "008",
+      "total": "023",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYC/030623_P_FUREFUWAN.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 30624,
       "name": "ペロッパフ",
-      "number": "assets",
-      "total": "images",
+      "number": "009",
+      "total": "023",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYC/030624_P_PEROPPAFU.jpg",
       "stage": "たね"
     },
     {
       "id": 30625,
       "name": "ペロリーム",
-      "number": "assets",
-      "total": "images",
+      "number": "010",
+      "total": "023",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYC/030625_P_PERORIMU.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 30626,
       "name": "ゼルネアスEX",
-      "number": "assets",
-      "total": "images",
+      "number": "011",
+      "total": "023",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYC/030626_P_ZERUNEASUEX.jpg",
       "stage": "たね"
     },
     {
       "id": 30627,
       "name": "ゼルネアスEX",
-      "number": "assets",
-      "total": "images",
+      "number": "012",
+      "total": "023",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYC/030627_P_ZERUNEASUEX.jpg",
       "stage": "たね"
     },
     {
       "id": 30628,
       "name": "ハイパーボール",
-      "number": "assets",
-      "total": "images",
+      "number": "013",
+      "total": "023",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYC/030628_T_HAIPABORU.jpg"
     },
     {
       "id": 30629,
       "name": "ポケモンいれかえ",
-      "number": "assets",
-      "total": "images",
+      "number": "014",
+      "total": "023",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYC/030629_T_POKEMONIREKAE.jpg"
     },
     {
       "id": 30630,
       "name": "ポケモンキャッチャー",
-      "number": "assets",
-      "total": "images",
+      "number": "015",
+      "total": "023",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYC/030630_T_POKEMONKYACCHA.jpg"
     },
     {
       "id": 30631,
       "name": "レッドカード",
-      "number": "assets",
-      "total": "images",
+      "number": "016",
+      "total": "023",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYC/030631_T_REDDOKADO.jpg"
     },
     {
       "id": 30632,
       "name": "ローラースケート",
-      "number": "assets",
-      "total": "images",
+      "number": "017",
+      "total": "023",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYC/030632_T_RORASUKETO.jpg"
     },
     {
       "id": 30633,
       "name": "サナ",
-      "number": "assets",
-      "total": "images",
+      "number": "018",
+      "total": "023",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYC/030633_T_SANA.jpg"
     },
     {
       "id": 30634,
       "name": "ティエルノ",
-      "number": "assets",
-      "total": "images",
+      "number": "019",
+      "total": "023",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYC/030634_T_TEIERUNO.jpg"
     },
     {
       "id": 30635,
       "name": "プラターヌ博士",
-      "number": "assets",
-      "total": "images",
+      "number": "020",
+      "total": "023",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYC/030635_T_PURATANUHAKASE.jpg"
     },
     {
       "id": 30636,
       "name": "シャドーサークル",
-      "number": "assets",
-      "total": "images",
+      "number": "021",
+      "total": "023",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYC/030636_T_SHADOSAKURU.jpg"
     },
     {
       "id": 30637,
       "name": "フェアリーガーデン",
-      "number": "assets",
-      "total": "images",
+      "number": "022",
+      "total": "023",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYC/030637_T_FEARIGADEN.jpg"
     },
     {
       "id": 30638,
       "name": "ダブル無色エネルギー",
-      "number": "assets",
-      "total": "images",
+      "number": "023",
+      "total": "023",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYC/030638_E_DABURUMUSHOKUENERUGI.jpg"
-    },
-    {
-      "id": 30639,
-      "name": "基本悪エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYC/030639_E_KIHONAKUENERUGI.jpg"
-    },
-    {
-      "id": 30640,
-      "name": "基本フェアリーエネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYC/030640_E_KIHONYOUENERUGI.jpg"
     }
   ]
 }

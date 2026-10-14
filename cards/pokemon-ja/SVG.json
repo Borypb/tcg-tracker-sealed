@@ -1,401 +1,401 @@
 {
   "code": "SVG",
-  "name": "SVG",
-  "official": "images",
+  "name": "スペシャルデッキセットex フシギバナ・リザードン・カメックス",
+  "official": "049",
   "cards": [
     {
       "id": 44472,
       "name": "フシギダネ",
-      "number": "assets",
-      "total": "images",
+      "number": "001",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044472_P_FUSHIGIDANE.jpg",
       "stage": "たね"
     },
     {
       "id": 44473,
       "name": "フシギソウ",
-      "number": "assets",
-      "total": "images",
+      "number": "002",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044473_P_FUSHIGISOU.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 44474,
       "name": "フシギバナex",
-      "number": "assets",
-      "total": "images",
+      "number": "003",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044474_P_FUSHIGIBANAEX.jpg",
-      "stage": "2&nbsp;進化"
+      "stage": "2 進化"
     },
     {
       "id": 44475,
       "name": "ストライク",
-      "number": "assets",
-      "total": "images",
+      "number": "004",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044475_P_SUTORAIKU.jpg",
       "stage": "たね"
     },
     {
       "id": 44476,
       "name": "トロピウス",
-      "number": "assets",
-      "total": "images",
+      "number": "005",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044476_P_TOROPIUSU.jpg",
       "stage": "たね"
     },
     {
       "id": 44477,
       "name": "マスキッパ",
-      "number": "assets",
-      "total": "images",
+      "number": "006",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044477_P_MASUKIPPA.jpg",
       "stage": "たね"
     },
     {
       "id": 44478,
       "name": "ヒトカゲ",
-      "number": "assets",
-      "total": "images",
+      "number": "007",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044478_P_HITOKAGE.jpg",
       "stage": "たね"
     },
     {
       "id": 44479,
       "name": "リザード",
-      "number": "assets",
-      "total": "images",
+      "number": "008",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044479_P_RIZADO.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 44480,
       "name": "リザードンex",
-      "number": "assets",
-      "total": "images",
+      "number": "009",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044480_P_RIZADONEX.jpg",
-      "stage": "2&nbsp;進化"
+      "stage": "2 進化"
     },
     {
       "id": 44481,
       "name": "ファイヤー",
-      "number": "assets",
-      "total": "images",
+      "number": "010",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044481_P_FUAIYA.jpg",
       "stage": "たね"
     },
     {
       "id": 44482,
       "name": "ボルケニオン",
-      "number": "assets",
-      "total": "images",
+      "number": "011",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044482_P_BORUKENION.jpg",
       "stage": "たね"
     },
     {
       "id": 44483,
       "name": "カルボウ",
-      "number": "assets",
-      "total": "images",
+      "number": "012",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044483_P_KARUBOU.jpg",
       "stage": "たね"
     },
     {
       "id": 44484,
       "name": "グレンアルマ",
-      "number": "assets",
-      "total": "images",
+      "number": "013",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044484_P_GURENARUMA.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 44485,
       "name": "ゼニガメ",
-      "number": "assets",
-      "total": "images",
+      "number": "014",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044485_P_ZENIGAME.jpg",
       "stage": "たね"
     },
     {
       "id": 44486,
       "name": "カメール",
-      "number": "assets",
-      "total": "images",
+      "number": "015",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044486_P_KAMERU.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 44487,
       "name": "カメックスex",
-      "number": "assets",
-      "total": "images",
+      "number": "016",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044487_P_KAMEKKUSUEX.jpg",
-      "stage": "2&nbsp;進化"
+      "stage": "2 進化"
     },
     {
       "id": 44488,
       "name": "ママンボウ",
-      "number": "assets",
-      "total": "images",
+      "number": "017",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044488_P_MAMANBOU.jpg",
       "stage": "たね"
     },
     {
       "id": 44489,
       "name": "ケルディオ",
-      "number": "assets",
-      "total": "images",
+      "number": "018",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044489_P_KERUDEIO.jpg",
       "stage": "たね"
     },
     {
       "id": 44490,
       "name": "ヘイラッシャ",
-      "number": "assets",
-      "total": "images",
+      "number": "019",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044490_P_HEIRASSHIXYA.jpg",
       "stage": "たね"
     },
     {
       "id": 44491,
       "name": "ガルーラ",
-      "number": "assets",
-      "total": "images",
+      "number": "020",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044491_P_GARURA.jpg",
       "stage": "たね"
     },
     {
       "id": 44492,
       "name": "カビゴン",
-      "number": "assets",
-      "total": "images",
+      "number": "021",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044492_P_KABIGON.jpg",
       "stage": "たね"
     },
     {
       "id": 44493,
       "name": "ジグザグマ",
-      "number": "assets",
-      "total": "images",
+      "number": "022",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044493_P_JIGUZAGUMA.jpg",
       "stage": "たね"
     },
     {
       "id": 44494,
       "name": "マッスグマ",
-      "number": "assets",
-      "total": "images",
+      "number": "023",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044494_P_MASSUGUMA.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 44495,
       "name": "ザングース",
-      "number": "assets",
-      "total": "images",
+      "number": "024",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044495_P_ZANGUSU.jpg",
       "stage": "たね"
     },
     {
       "id": 44496,
       "name": "チラーミィ",
-      "number": "assets",
-      "total": "images",
+      "number": "025",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044496_P_CHIRAMII.jpg",
       "stage": "たね"
     },
     {
       "id": 44497,
       "name": "チラチーノ",
-      "number": "assets",
-      "total": "images",
+      "number": "026",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044497_P_CHIRACHINO.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 44498,
       "name": "グルトン",
-      "number": "assets",
-      "total": "images",
+      "number": "027",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044498_P_GURUTON.jpg",
       "stage": "たね"
     },
     {
       "id": 44499,
       "name": "パフュートン",
-      "number": "assets",
-      "total": "images",
+      "number": "028",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044499_P_PAFUXYUTON.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 44500,
       "name": "カラミンゴ",
-      "number": "assets",
-      "total": "images",
+      "number": "029",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044500_P_KARAMINGO.jpg",
       "stage": "たね"
     },
     {
       "id": 44501,
       "name": "エネルギーシール",
-      "number": "assets",
-      "total": "images",
+      "number": "030",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044501_T_ENERUGISHIRU.jpg"
     },
     {
       "id": 44502,
       "name": "スーパーエネルギー回収",
-      "number": "assets",
-      "total": "images",
+      "number": "031",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044502_T_SUPAENERUGIKAISHIXYUU.jpg"
     },
     {
       "id": 44503,
       "name": "すごいつりざお",
-      "number": "assets",
-      "total": "images",
+      "number": "032",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044503_T_SUGOITSURIZAO.jpg"
     },
     {
       "id": 44504,
       "name": "ネストボール",
-      "number": "assets",
-      "total": "images",
+      "number": "033",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044504_T_NESUTOBORU.jpg"
     },
     {
       "id": 44505,
       "name": "ハイパーボール",
-      "number": "assets",
-      "total": "images",
+      "number": "034",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044505_T_HAIPABORU.jpg"
     },
     {
       "id": 44506,
       "name": "ふしぎなアメ",
-      "number": "assets",
-      "total": "images",
+      "number": "035",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044506_T_FUSHIGINAAME.jpg"
     },
     {
       "id": 44507,
       "name": "ポケモンいれかえ",
-      "number": "assets",
-      "total": "images",
+      "number": "036",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044507_T_POKEMONIREKAE.jpg"
     },
     {
       "id": 44508,
       "name": "カイ",
-      "number": "assets",
-      "total": "images",
+      "number": "037",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044508_T_KAI.jpg"
     },
     {
       "id": 44509,
       "name": "サワロ",
-      "number": "assets",
-      "total": "images",
+      "number": "038",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044509_T_SAWARO.jpg"
     },
     {
       "id": 44510,
       "name": "シロナの覇気",
-      "number": "assets",
-      "total": "images",
+      "number": "039",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044510_T_SHIRONANOHAKI.jpg"
     },
     {
       "id": 44511,
       "name": "ナタネの活気",
-      "number": "assets",
-      "total": "images",
+      "number": "040",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044511_T_NATANENOKAKKI.jpg"
     },
     {
       "id": 44512,
       "name": "ナンジャモ",
-      "number": "assets",
-      "total": "images",
+      "number": "041",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044512_T_NANJIXYAMO.jpg"
     },
     {
       "id": 44513,
       "name": "ネモ",
-      "number": "assets",
-      "total": "images",
+      "number": "042",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044513_T_NEMO.jpg"
     },
     {
       "id": 44514,
       "name": "ネモ",
-      "number": "assets",
-      "total": "images",
+      "number": "043",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044514_T_NEMO.jpg"
     },
     {
       "id": 44515,
       "name": "博士の研究",
-      "number": "assets",
-      "total": "images",
+      "number": "044",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044515_T_HAKASENOKENKIXYUU.jpg"
     },
     {
       "id": 44516,
       "name": "博士の研究",
-      "number": "assets",
-      "total": "images",
+      "number": "045",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044516_T_HAKASENOKENKIXYUU.jpg"
     },
     {
       "id": 44517,
       "name": "ボスの指令",
-      "number": "assets",
-      "total": "images",
+      "number": "046",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044517_T_BOSUNOSHIREI.jpg"
     },
     {
       "id": 44518,
       "name": "テーブルシティ",
-      "number": "assets",
-      "total": "images",
+      "number": "047",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044518_T_TEBURUSHITEI.jpg"
     },
     {
       "id": 44519,
       "name": "ビーチコート",
-      "number": "assets",
-      "total": "images",
+      "number": "048",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044519_T_BICHIKOTO.jpg"
     },
     {
       "id": 44520,
       "name": "マグマの滝壺",
-      "number": "assets",
-      "total": "images",
+      "number": "049",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044520_T_MAGUMANOTAKITSUBO.jpg"
     },
     {
       "id": 44521,
       "name": "フシギダネ",
-      "number": "assets",
-      "total": "images",
+      "number": "050",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044521_P_FUSHIGIDANE.jpg",
       "stage": "たね"
     },
     {
       "id": 44522,
       "name": "ヒトカゲ",
-      "number": "assets",
-      "total": "images",
+      "number": "051",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044522_P_HITOKAGE.jpg",
       "stage": "たね"
     },
     {
       "id": 44523,
       "name": "ゼニガメ",
-      "number": "assets",
-      "total": "images",
+      "number": "052",
+      "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVG/044523_P_ZENIGAME.jpg",
       "stage": "たね"
     }

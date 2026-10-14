@@ -1,63 +1,63 @@
 {
   "code": "SVP1",
-  "name": "SVP1",
-  "official": "images",
+  "name": "exスペシャルセット",
+  "official": "007",
   "cards": [
     {
       "id": 43314,
       "name": "ノノクラゲ",
-      "number": "assets",
-      "total": "images",
+      "number": "001",
+      "total": "007",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVP1/043314_P_NONOKURAGE.jpg",
       "stage": "たね"
     },
     {
       "id": 43315,
       "name": "リククラゲex",
-      "number": "assets",
-      "total": "images",
+      "number": "002",
+      "total": "007",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVP1/043315_P_RIKUKURAGEEX.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 43316,
       "name": "パモ",
-      "number": "assets",
-      "total": "images",
+      "number": "003",
+      "total": "007",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVP1/043316_P_PAMO.jpg",
       "stage": "たね"
     },
     {
       "id": 43317,
       "name": "パモット",
-      "number": "assets",
-      "total": "images",
+      "number": "004",
+      "total": "007",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVP1/043317_P_PAMOTTO.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 43318,
       "name": "パーモットex",
-      "number": "assets",
-      "total": "images",
+      "number": "005",
+      "total": "007",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVP1/043318_P_PAMOTTOEX.jpg",
-      "stage": "2&nbsp;進化"
+      "stage": "2 進化"
     },
     {
       "id": 43319,
       "name": "ボチ",
-      "number": "assets",
-      "total": "images",
+      "number": "006",
+      "total": "007",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVP1/043319_P_BOCHI.jpg",
       "stage": "たね"
     },
     {
       "id": 43320,
       "name": "ハカドッグex",
-      "number": "assets",
-      "total": "images",
+      "number": "007",
+      "total": "007",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SVP1/043320_P_HAKADOGGUEX.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     }
   ]
 }

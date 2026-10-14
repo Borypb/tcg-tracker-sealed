@@ -1,119 +1,55 @@
 {
   "code": "Y30",
-  "name": "Y30",
-  "official": "images",
+  "name": "ポケモンカードゲームXY 「イベルタルデッキ30」",
+  "official": "014",
   "cards": [
     {
       "id": 30190,
       "name": "ニューラ",
-      "number": "assets",
-      "total": "images",
+      "number": "001",
+      "total": "014",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/Y30/030190_P_NYURA.jpg",
       "stage": "たね"
     },
     {
       "id": 30191,
       "name": "ヤミラミ",
-      "number": "assets",
-      "total": "images",
+      "number": "002",
+      "total": "014",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/Y30/030191_P_YAMIRAMI.jpg",
       "stage": "たね"
     },
     {
       "id": 30192,
       "name": "メグロコ",
-      "number": "assets",
-      "total": "images",
+      "number": "003",
+      "total": "014",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/Y30/030192_P_MEGUROKO.jpg",
       "stage": "たね"
     },
     {
       "id": 30193,
       "name": "ワルビル",
-      "number": "assets",
-      "total": "images",
+      "number": "004",
+      "total": "014",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/Y30/030193_P_WARUBIRU.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 30194,
       "name": "マーイーカ",
-      "number": "assets",
-      "total": "images",
+      "number": "005",
+      "total": "014",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/Y30/030194_P_MAIKA.jpg",
       "stage": "たね"
     },
     {
       "id": 30195,
       "name": "カラマネロ",
-      "number": "assets",
-      "total": "images",
+      "number": "006",
+      "total": "014",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/Y30/030195_P_KARAMANERO.jpg",
-      "stage": "1&nbsp;進化"
-    },
-    {
-      "id": 30196,
-      "name": "イベルタル",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/Y30/030196_P_IBERUTARU.jpg",
-      "stage": "たね"
-    },
-    {
-      "id": 30197,
-      "name": "クラッシュハンマー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/Y30/030197_T_KURASSHUHANMA.jpg"
-    },
-    {
-      "id": 30198,
-      "name": "スーパーボール",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/Y30/030198_T_SUPABORU.jpg"
-    },
-    {
-      "id": 30199,
-      "name": "ポケモンいれかえ",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/Y30/030199_T_POKEMONIREKAE.jpg"
-    },
-    {
-      "id": 30200,
-      "name": "ポケモンキャッチャー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/Y30/030200_T_POKEMONKYACCHA.jpg"
-    },
-    {
-      "id": 30201,
-      "name": "サナ",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/Y30/030201_T_SANA.jpg"
-    },
-    {
-      "id": 30202,
-      "name": "ティエルノ",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/Y30/030202_T_TEIERUNO.jpg"
-    },
-    {
-      "id": 30203,
-      "name": "シャドーサークル",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/Y30/030203_T_SHADOSAKURU.jpg"
-    },
-    {
-      "id": 30204,
-      "name": "基本悪エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/Y30/030204_E_KIHONAKUENERUGI.jpg"
+      "stage": "1 進化"
     }
   ]
 }

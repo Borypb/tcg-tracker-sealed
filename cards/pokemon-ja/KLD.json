@@ -1,141 +1,120 @@
 {
   "code": "KLD",
   "name": "ポケモンカードゲームBW バトル強化デッキ30「ケルディオ」",
-  "official": "images",
+  "official": "015",
   "cards": [
     {
       "id": 28006,
       "name": "コダック",
-      "number": "assets",
-      "total": "images",
+      "number": "001",
+      "total": "015",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/KLD/028006_P_KODAKKU.jpg",
       "stage": "たね"
     },
     {
       "id": 28007,
       "name": "ゴルダック",
-      "number": "assets",
-      "total": "images",
+      "number": "002",
+      "total": "015",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/KLD/028007_P_GORUDAKKU.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 28008,
       "name": "フリージオ",
-      "number": "assets",
-      "total": "images",
+      "number": "003",
+      "total": "015",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/KLD/028008_P_FURIJIO.jpg",
       "stage": "たね"
     },
     {
       "id": 28009,
       "name": "ケルディオ",
-      "number": "assets",
-      "total": "images",
+      "number": "004",
+      "total": "015",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/KLD/028009_P_KERUDEIO.jpg",
       "stage": "たね"
     },
     {
       "id": 28010,
       "name": "バルチャイ",
-      "number": "assets",
-      "total": "images",
+      "number": "005",
+      "total": "015",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/KLD/028010_P_BARUCHAI.jpg",
       "stage": "たね"
     },
     {
       "id": 28011,
       "name": "バルジーナ",
-      "number": "assets",
-      "total": "images",
+      "number": "006",
+      "total": "015",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/KLD/028011_P_BARUJINA.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 28012,
       "name": "エアームド",
-      "number": "assets",
-      "total": "images",
+      "number": "007",
+      "total": "015",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/KLD/028012_P_EAMUDO.jpg",
       "stage": "たね"
     },
     {
       "id": 28013,
       "name": "ギアル",
-      "number": "assets",
-      "total": "images",
+      "number": "008",
+      "total": "015",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/KLD/028013_P_GIARU.jpg",
       "stage": "たね"
     },
     {
       "id": 28014,
       "name": "エネルギー転送",
-      "number": "assets",
-      "total": "images",
+      "number": "009",
+      "total": "015",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/KLD/028014_T_ENERUGITENSOU.jpg"
     },
     {
       "id": 28015,
       "name": "スーパーボール",
-      "number": "assets",
-      "total": "images",
+      "number": "010",
+      "total": "015",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/KLD/028015_T_SUPABORU.jpg"
     },
     {
       "id": 28016,
       "name": "ポケモンいれかえ",
-      "number": "assets",
-      "total": "images",
+      "number": "011",
+      "total": "015",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/KLD/028016_T_POKEMONIREKAE.jpg"
     },
     {
       "id": 28017,
       "name": "ゴツゴツメット",
-      "number": "assets",
-      "total": "images",
+      "number": "012",
+      "total": "015",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/KLD/028017_T_GOTSUGOTSUMETTO.jpg"
     },
     {
       "id": 28018,
       "name": "しんかのきせき",
-      "number": "assets",
-      "total": "images",
+      "number": "013",
+      "total": "015",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/KLD/028018_T_SHINKANOKISEKI.jpg"
     },
     {
       "id": 28019,
       "name": "チェレン",
-      "number": "assets",
-      "total": "images",
+      "number": "014",
+      "total": "015",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/KLD/028019_T_CHIEREN.jpg"
     },
     {
       "id": 28020,
       "name": "ベル",
-      "number": "assets",
-      "total": "images",
+      "number": "015",
+      "total": "015",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/KLD/028020_T_BERU.jpg"
-    },
-    {
-      "id": 28021,
-      "name": "基本水エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/KLD/028021_E_KIHONMIZUENERUGI.jpg"
-    },
-    {
-      "id": 28022,
-      "name": "基本悪エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/KLD/028022_E_KIHONAKUENERUGI.jpg"
-    },
-    {
-      "id": 28023,
-      "name": "基本鋼エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/KLD/028023_E_KIHONKOUENERUGI.jpg"
     }
   ]
 }

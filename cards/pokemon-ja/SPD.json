@@ -1,162 +1,155 @@
 {
   "code": "SPD",
-  "name": "SPD",
-  "official": "images",
+  "name": "VSTAR&VMAX ハイクラスデッキ デオキシス",
+  "official": "020",
   "cards": [
     {
       "id": 41926,
       "name": "ヒトデマン",
-      "number": "assets",
-      "total": "images",
+      "number": "001",
+      "total": "020",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SPD/041926_P_HITODEMAN.jpg",
       "stage": "たね"
     },
     {
       "id": 41927,
       "name": "ネオラントV",
-      "number": "assets",
-      "total": "images",
+      "number": "002",
+      "total": "020",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SPD/041927_P_NEORANTOV.jpg",
       "stage": "たね"
     },
     {
       "id": 41928,
       "name": "スターミー",
-      "number": "assets",
-      "total": "images",
+      "number": "003",
+      "total": "020",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SPD/041928_P_SUTAMI.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 41929,
       "name": "キリンリキ",
-      "number": "assets",
-      "total": "images",
+      "number": "004",
+      "total": "020",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SPD/041929_P_KIRINRIKI.jpg",
       "stage": "たね"
     },
     {
       "id": 41930,
       "name": "デオキシスV",
-      "number": "assets",
-      "total": "images",
+      "number": "005",
+      "total": "020",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SPD/041930_P_DEOKISHISUV.jpg",
       "stage": "たね"
     },
     {
       "id": 41931,
       "name": "デオキシスVMAX",
-      "number": "assets",
-      "total": "images",
+      "number": "006",
+      "total": "020",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SPD/041931_P_DEOKISHISUVMAX.jpg",
       "stage": "V進化"
     },
     {
       "id": 41932,
       "name": "デオキシスVSTAR",
-      "number": "assets",
-      "total": "images",
+      "number": "007",
+      "total": "020",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SPD/041932_P_DEOKISHISUVSTAR.jpg",
       "stage": "V進化"
     },
     {
       "id": 41933,
       "name": "クレセリア",
-      "number": "assets",
-      "total": "images",
+      "number": "008",
+      "total": "020",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SPD/041933_P_KURESERIA.jpg",
       "stage": "たね"
     },
     {
       "id": 41934,
       "name": "霧の水晶",
-      "number": "assets",
-      "total": "images",
+      "number": "009",
+      "total": "020",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SPD/041934_T_KIRINOSUISHIXYOU.jpg"
     },
     {
       "id": 41935,
       "name": "ハイパーボール",
-      "number": "assets",
-      "total": "images",
+      "number": "010",
+      "total": "020",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SPD/041935_T_HAIPABORU.jpg"
     },
     {
       "id": 41936,
       "name": "ポケモンいれかえ",
-      "number": "assets",
-      "total": "images",
+      "number": "011",
+      "total": "020",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SPD/041936_T_POKEMONIREKAE.jpg"
     },
     {
       "id": 41937,
       "name": "こだわりベルト",
-      "number": "assets",
-      "total": "images",
+      "number": "012",
+      "total": "020",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SPD/041937_T_KODAWARIBERUTO.jpg"
     },
     {
       "id": 41938,
       "name": "葉隠れポンチョ",
-      "number": "assets",
-      "total": "images",
+      "number": "013",
+      "total": "020",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SPD/041938_T_HAGAKUREPONCHIXYO.jpg"
     },
     {
       "id": 41939,
       "name": "クララ",
-      "number": "assets",
-      "total": "images",
+      "number": "014",
+      "total": "020",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SPD/041939_T_KURARA.jpg"
     },
     {
       "id": 41940,
       "name": "サナ",
-      "number": "assets",
-      "total": "images",
+      "number": "015",
+      "total": "020",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SPD/041940_T_SANA.jpg"
     },
     {
       "id": 41941,
       "name": "ジュン",
-      "number": "assets",
-      "total": "images",
+      "number": "016",
+      "total": "020",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SPD/041941_T_JIXYUN.jpg"
     },
     {
       "id": 41942,
       "name": "シロナの覇気",
-      "number": "assets",
-      "total": "images",
+      "number": "017",
+      "total": "020",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SPD/041942_T_SHIRONANOHAKI.jpg"
     },
     {
       "id": 41943,
       "name": "博士の研究",
-      "number": "assets",
-      "total": "images",
+      "number": "018",
+      "total": "020",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SPD/041943_T_HAKASENOKENKIXYUUNANAKAMADOHAKASE.jpg"
     },
     {
       "id": 41944,
       "name": "冒険家の発見",
-      "number": "assets",
-      "total": "images",
+      "number": "019",
+      "total": "020",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SPD/041944_T_BOUKENKANOHAKKEN.jpg"
     },
     {
       "id": 41945,
       "name": "ボスの指令",
-      "number": "assets",
-      "total": "images",
+      "number": "020",
+      "total": "020",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SPD/041945_T_BOSUNOSHIREIAKAGI.jpg"
-    },
-    {
-      "id": 41946,
-      "name": "基本超エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SPD/041946_E_KIHONCHIXYOUENERUGI.jpg"
     }
   ]
 }

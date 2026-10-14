@@ -1,152 +1,138 @@
 {
   "code": "HSp",
   "name": "ポケモンカードゲームBW はじめてセット （ポカブデッキ）",
-  "official": "images",
+  "official": "037",
   "cards": [
     {
       "id": 27029,
       "name": "ヤナップ",
-      "number": "assets",
-      "total": "images",
+      "number": "004",
+      "total": "037",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSp/027029_P_YANAPPU.jpg",
       "stage": "たね"
     },
     {
       "id": 27030,
       "name": "ポカブ",
-      "number": "assets",
-      "total": "images",
+      "number": "006",
+      "total": "037",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSp/027030_P_POKABU.jpg",
       "stage": "たね"
     },
     {
       "id": 27031,
       "name": "ポカブ",
-      "number": "assets",
-      "total": "images",
+      "number": "006",
+      "total": "037",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSp/027031_P_POKABU.gif",
       "stage": "たね"
     },
     {
       "id": 27032,
       "name": "チャオブー",
-      "number": "assets",
-      "total": "images",
+      "number": "007",
+      "total": "037",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSp/027032_P_CHAOBU.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 27034,
       "name": "エンブオー",
-      "number": "assets",
-      "total": "images",
+      "number": "008",
+      "total": "037",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSp/027034_P_ENBUO.gif",
-      "stage": "2&nbsp;進化"
+      "stage": "2 進化"
     },
     {
       "id": 27035,
       "name": "ダルマッカ",
-      "number": "assets",
-      "total": "images",
+      "number": "010",
+      "total": "037",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSp/027035_P_DARUMAKKA.jpg",
       "stage": "たね"
     },
     {
       "id": 27036,
       "name": "シママ",
-      "number": "assets",
-      "total": "images",
+      "number": "017",
+      "total": "037",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSp/027036_P_SHIMAMA.jpg",
       "stage": "たね"
     },
     {
       "id": 27037,
       "name": "ゼブライカ",
-      "number": "assets",
-      "total": "images",
+      "number": "018",
+      "total": "037",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSp/027037_P_ZEBURAIKA.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 27038,
       "name": "バチュル",
-      "number": "assets",
-      "total": "images",
+      "number": "019",
+      "total": "037",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSp/027038_P_BACHURU.jpg",
       "stage": "たね"
     },
     {
       "id": 27039,
       "name": "バッフロン",
-      "number": "assets",
-      "total": "images",
+      "number": "030",
+      "total": "037",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSp/027039_P_BAFFURON.jpg",
       "stage": "たね"
     },
     {
       "id": 27040,
       "name": "タブンネ",
-      "number": "assets",
-      "total": "images",
+      "number": "028",
+      "total": "037",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSp/027040_P_TABUNNE.jpg",
       "stage": "たね"
     },
     {
       "id": 27041,
       "name": "エネルギー回収",
-      "number": "assets",
-      "total": "images",
+      "number": "031",
+      "total": "037",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSp/027041_T_ENERUGIKAISHUU.jpg"
     },
     {
       "id": 27042,
       "name": "きずぐすり",
-      "number": "assets",
-      "total": "images",
+      "number": "033",
+      "total": "037",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSp/027042_T_KIZUGUSURI.jpg"
     },
     {
       "id": 27043,
       "name": "ポケモンいれかえ",
-      "number": "assets",
-      "total": "images",
+      "number": "035",
+      "total": "037",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSp/027043_T_POKEMONIREKAE.jpg"
     },
     {
       "id": 27044,
       "name": "ポケモン図鑑",
-      "number": "assets",
-      "total": "images",
+      "number": "036",
+      "total": "037",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSp/027044_T_POKEMONZUKAN.jpg"
     },
     {
       "id": 27045,
       "name": "モンスターボール",
-      "number": "assets",
-      "total": "images",
+      "number": "037",
+      "total": "037",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSp/027045_T_MONSUTABORU.jpg"
-    },
-    {
-      "id": 27046,
-      "name": "基本炎エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSp/027046_E_KIHONHONOOENERUGI.jpg"
-    },
-    {
-      "id": 27047,
-      "name": "基本雷エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSp/027047_E_KIHONKAMINARIENERUGI.jpg"
     },
     {
       "id": 27067,
       "name": "エンブオー",
-      "number": "assets",
-      "total": "images",
+      "number": "008",
+      "total": "037",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSp/027067_P_ENBUO.jpg",
-      "stage": "2&nbsp;進化"
+      "stage": "2 進化"
     }
   ]
 }

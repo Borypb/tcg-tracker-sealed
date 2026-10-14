@@ -1,101 +1,101 @@
 {
   "code": "CPs",
-  "name": "ポケモンカードゲーム　コレクションパック　シェイミLV.X",
-  "official": "images",
+  "name": "ポケモンカードゲーム コレクションパック シェイミLV.X",
+  "official": "012",
   "cards": [
     {
       "id": 23526,
       "name": "ミツハニー",
-      "number": "assets",
-      "total": "images",
+      "number": "001",
+      "total": "012",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/CPs/023526_P_MITSUHANI.jpg",
       "stage": "たね"
     },
     {
       "id": 23528,
       "name": "メガヤンマ",
-      "number": "assets",
-      "total": "images",
+      "number": "002",
+      "total": "012",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/CPs/023528_P_MEGAYANMA.gif",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 23530,
       "name": "シェイミ",
-      "number": "assets",
-      "total": "images",
+      "number": "003",
+      "total": "012",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/CPs/023530_P_SHIEIMI.gif",
       "stage": "レベルアップ"
     },
     {
       "id": 23533,
       "name": "ヒコザル",
-      "number": "assets",
-      "total": "images",
+      "number": "004",
+      "total": "012",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/CPs/023533_P_HIKOZARU.jpg",
       "stage": "たね"
     },
     {
       "id": 23535,
       "name": "グレイシア",
-      "number": "assets",
-      "total": "images",
+      "number": "005",
+      "total": "012",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/CPs/023535_P_GUREISHIA.gif",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 23537,
       "name": "パルキア",
-      "number": "assets",
-      "total": "images",
+      "number": "006",
+      "total": "012",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/CPs/023537_P_PARUKIA.jpg",
       "stage": "たね"
     },
     {
       "id": 23540,
       "name": "ピカチュウ",
-      "number": "assets",
-      "total": "images",
+      "number": "007",
+      "total": "012",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/CPs/023540_P_PIKACHUU.jpg",
       "stage": "たね"
     },
     {
       "id": 23542,
       "name": "ライチュウ",
-      "number": "assets",
-      "total": "images",
+      "number": "008",
+      "total": "012",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/CPs/023542_P_RAICHUU.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 23544,
       "name": "スカンプー",
-      "number": "assets",
-      "total": "images",
+      "number": "009",
+      "total": "012",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/CPs/023544_P_SUKANPU.jpg",
       "stage": "たね"
     },
     {
       "id": 23546,
       "name": "ダイノーズ",
-      "number": "assets",
-      "total": "images",
+      "number": "010",
+      "total": "012",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/CPs/023546_P_DAINOZU.gif",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 23548,
       "name": "イーブイ",
-      "number": "assets",
-      "total": "images",
+      "number": "011",
+      "total": "012",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/CPs/023548_P_IBUI.gif",
       "stage": "たね"
     },
     {
       "id": 23550,
       "name": "時空のゆがみ",
-      "number": "assets",
-      "total": "images",
+      "number": "012",
+      "total": "012",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/CPs/023550_T_JIKUUNOYUGAMI.gif"
     }
   ]

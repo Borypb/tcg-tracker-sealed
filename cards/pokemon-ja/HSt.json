@@ -1,152 +1,138 @@
 {
   "code": "HSt",
   "name": "ポケモンカードゲームBW はじめてセット （ツタージャデッキ）",
-  "official": "images",
+  "official": "037",
   "cards": [
     {
       "id": 27010,
       "name": "ツタージャ",
-      "number": "assets",
-      "total": "images",
+      "number": "001",
+      "total": "037",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSt/027010_P_TSUTAJA.jpg",
       "stage": "たね"
     },
     {
       "id": 27011,
       "name": "ツタージャ",
-      "number": "assets",
-      "total": "images",
+      "number": "001",
+      "total": "037",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSt/027011_P_TSUTAJA.gif",
       "stage": "たね"
     },
     {
       "id": 27012,
       "name": "ジャノビー",
-      "number": "assets",
-      "total": "images",
+      "number": "002",
+      "total": "037",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSt/027012_P_JANOBI.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 27013,
       "name": "ジャローダ",
-      "number": "assets",
-      "total": "images",
+      "number": "003",
+      "total": "037",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSt/027013_P_JARODA.jpg",
-      "stage": "2&nbsp;進化"
+      "stage": "2 進化"
     },
     {
       "id": 27014,
       "name": "ジャローダ",
-      "number": "assets",
-      "total": "images",
+      "number": "003",
+      "total": "037",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSt/027014_P_JARODA.gif",
-      "stage": "2&nbsp;進化"
+      "stage": "2 進化"
     },
     {
       "id": 27015,
       "name": "マラカッチ",
-      "number": "assets",
-      "total": "images",
+      "number": "005",
+      "total": "037",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSt/027015_P_MARAKACCHI.jpg",
       "stage": "たね"
     },
     {
       "id": 27016,
       "name": "ヒヤップ",
-      "number": "assets",
-      "total": "images",
+      "number": "014",
+      "total": "037",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSt/027016_P_HIYAPPU.jpg",
       "stage": "たね"
     },
     {
       "id": 27017,
       "name": "メグロコ",
-      "number": "assets",
-      "total": "images",
+      "number": "024",
+      "total": "037",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSt/027017_P_MEGUROKO.jpg",
       "stage": "たね"
     },
     {
       "id": 27018,
       "name": "ワルビル",
-      "number": "assets",
-      "total": "images",
+      "number": "025",
+      "total": "037",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSt/027018_P_WARUBIRU.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 27019,
       "name": "ドッコラー",
-      "number": "assets",
-      "total": "images",
+      "number": "023",
+      "total": "037",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSt/027019_P_DOKKORA.jpg",
       "stage": "たね"
     },
     {
       "id": 27020,
       "name": "ミネズミ",
-      "number": "assets",
-      "total": "images",
+      "number": "026",
+      "total": "037",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSt/027020_P_MINEZUMI.jpg",
       "stage": "たね"
     },
     {
       "id": 27021,
       "name": "チラーミィ",
-      "number": "assets",
-      "total": "images",
+      "number": "029",
+      "total": "037",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSt/027021_P_CHIRAMII.jpg",
       "stage": "たね"
     },
     {
       "id": 27022,
       "name": "きずぐすり",
-      "number": "assets",
-      "total": "images",
+      "number": "033",
+      "total": "037",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSt/027022_T_KIZUGUSURI.jpg"
     },
     {
       "id": 27023,
       "name": "スーパーポケモン回収",
-      "number": "assets",
-      "total": "images",
+      "number": "034",
+      "total": "037",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSt/027023_T_SUPAPOKEMONKAISHUU.jpg"
     },
     {
       "id": 27024,
       "name": "ポケモンいれかえ",
-      "number": "assets",
-      "total": "images",
+      "number": "035",
+      "total": "037",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSt/027024_T_POKEMONIREKAE.jpg"
     },
     {
       "id": 27025,
       "name": "ポケモン図鑑",
-      "number": "assets",
-      "total": "images",
+      "number": "036",
+      "total": "037",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSt/027025_T_POKEMONZUKAN.jpg"
     },
     {
       "id": 27026,
       "name": "モンスターボール",
-      "number": "assets",
-      "total": "images",
+      "number": "037",
+      "total": "037",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSt/027026_T_MONSUTABORU.jpg"
-    },
-    {
-      "id": 27027,
-      "name": "基本草エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSt/027027_E_KIHONKUSAENERUGI.jpg"
-    },
-    {
-      "id": 27028,
-      "name": "基本闘エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/HSt/027028_E_KIHONTOUENERUGI.jpg"
     }
   ]
 }

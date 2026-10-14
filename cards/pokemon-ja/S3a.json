@@ -1,670 +1,570 @@
 {
   "code": "S3a",
   "name": "伝説の鼓動",
-  "official": "images",
+  "official": "076",
   "cards": [
     {
       "id": 38407,
       "name": "ビードル",
-      "number": "assets",
-      "total": "images",
+      "number": "001",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038407_P_BIDORU.jpg",
       "stage": "たね"
     },
     {
       "id": 38408,
       "name": "コクーン",
-      "number": "assets",
-      "total": "images",
+      "number": "002",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038408_P_KOKUN.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 38409,
       "name": "スピアー",
-      "number": "assets",
-      "total": "images",
+      "number": "003",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038409_P_SUPIA.jpg",
-      "stage": "2&nbsp;進化"
+      "stage": "2 進化"
     },
     {
       "id": 38410,
       "name": "タマタマ",
-      "number": "assets",
-      "total": "images",
+      "number": "004",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038410_P_TAMATAMA.jpg",
       "stage": "たね"
     },
     {
       "id": 38411,
       "name": "ナッシー",
-      "number": "assets",
-      "total": "images",
+      "number": "005",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038411_P_NASSHI.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 38412,
       "name": "ヤンヤンマ",
-      "number": "assets",
-      "total": "images",
+      "number": "006",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038412_P_YANYANMA.jpg",
       "stage": "たね"
     },
     {
       "id": 38413,
       "name": "メガヤンマ",
-      "number": "assets",
-      "total": "images",
+      "number": "007",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038413_P_MEGAYANMA.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 38414,
       "name": "クヌギダマ",
-      "number": "assets",
-      "total": "images",
+      "number": "008",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038414_P_KUNUGIDAMA.jpg",
       "stage": "たね"
     },
     {
       "id": 38415,
       "name": "セレビィ",
-      "number": "assets",
-      "total": "images",
+      "number": "009",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038415_P_SEREBII.jpg",
       "stage": "たね"
     },
     {
       "id": 38416,
       "name": "シェイミ",
-      "number": "assets",
-      "total": "images",
+      "number": "010",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038416_P_SHIEIMI.jpg",
       "stage": "たね"
     },
     {
       "id": 38417,
       "name": "ゲノセクト",
-      "number": "assets",
-      "total": "images",
+      "number": "011",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038417_P_GENOSEKUTO.jpg",
       "stage": "たね"
     },
     {
       "id": 38418,
       "name": "ダダリン",
-      "number": "assets",
-      "total": "images",
+      "number": "012",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038418_P_DADARIN.jpg",
       "stage": "たね"
     },
     {
       "id": 38419,
       "name": "ザルードV",
-      "number": "assets",
-      "total": "images",
+      "number": "013",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038419_P_ZARUDOV.jpg",
       "stage": "たね"
     },
     {
       "id": 38420,
       "name": "デンリュウV",
-      "number": "assets",
-      "total": "images",
+      "number": "014",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038420_P_DENRYUUV.jpg",
       "stage": "たね"
     },
     {
       "id": 38421,
       "name": "ライコウ",
-      "number": "assets",
-      "total": "images",
+      "number": "015",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038421_P_RAIKOU.jpg",
       "stage": "たね"
     },
     {
       "id": 38422,
       "name": "ラクライ",
-      "number": "assets",
-      "total": "images",
+      "number": "016",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038422_P_RAKURAI.jpg",
       "stage": "たね"
     },
     {
       "id": 38423,
       "name": "ライボルト",
-      "number": "assets",
-      "total": "images",
+      "number": "017",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038423_P_RAIBORUTO.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 38424,
       "name": "バチュル",
-      "number": "assets",
-      "total": "images",
+      "number": "018",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038424_P_BACHURU.jpg",
       "stage": "たね"
     },
     {
       "id": 38425,
       "name": "デンチュラ",
-      "number": "assets",
-      "total": "images",
+      "number": "019",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038425_P_DENCHURA.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 38426,
       "name": "ゼクロム",
-      "number": "assets",
-      "total": "images",
+      "number": "020",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038426_P_ZEKUROMU.jpg",
       "stage": "たね"
     },
     {
       "id": 38427,
       "name": "ゼラオラ",
-      "number": "assets",
-      "total": "images",
+      "number": "021",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038427_P_ZERAORA.jpg",
       "stage": "たね"
     },
     {
       "id": 38428,
       "name": "バチンウニ",
-      "number": "assets",
-      "total": "images",
+      "number": "022",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038428_P_BACHINUNI.jpg",
       "stage": "たね"
     },
     {
       "id": 38429,
       "name": "ピッピ",
-      "number": "assets",
-      "total": "images",
+      "number": "023",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038429_P_PIPPI.jpg",
       "stage": "たね"
     },
     {
       "id": 38430,
       "name": "ピクシー",
-      "number": "assets",
-      "total": "images",
+      "number": "024",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038430_P_PIKUSHI.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 38431,
       "name": "キリンリキ",
-      "number": "assets",
-      "total": "images",
+      "number": "025",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038431_P_KIRINRIKI.jpg",
       "stage": "たね"
     },
     {
       "id": 38432,
       "name": "カゲボウズ",
-      "number": "assets",
-      "total": "images",
+      "number": "026",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038432_P_KAGEBOUZU.jpg",
       "stage": "たね"
     },
     {
       "id": 38433,
       "name": "ジュペッタ",
-      "number": "assets",
-      "total": "images",
+      "number": "027",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038433_P_JUPETTA.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 38434,
       "name": "デデンネ",
-      "number": "assets",
-      "total": "images",
+      "number": "028",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038434_P_DEDENNE.jpg",
       "stage": "たね"
     },
     {
       "id": 38435,
       "name": "ゼルネアス",
-      "number": "assets",
-      "total": "images",
+      "number": "029",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038435_P_ZERUNEASU.jpg",
       "stage": "たね"
     },
     {
       "id": 38436,
       "name": "ディアンシー",
-      "number": "assets",
-      "total": "images",
+      "number": "030",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038436_P_DEIANSHI.jpg",
       "stage": "たね"
     },
     {
       "id": 38437,
       "name": "マホイップV",
-      "number": "assets",
-      "total": "images",
+      "number": "031",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038437_P_MAHOIPPUV.jpg",
       "stage": "たね"
     },
     {
       "id": 38438,
       "name": "マホイップVMAX",
-      "number": "assets",
-      "total": "images",
+      "number": "032",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038438_P_MAHOIPPUVMAX.jpg",
       "stage": "V進化"
     },
     {
       "id": 38439,
       "name": "ザシアン",
-      "number": "assets",
-      "total": "images",
+      "number": "033",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038439_P_ZASHIAN.jpg",
       "stage": "たね"
     },
     {
       "id": 38440,
       "name": "ウパー",
-      "number": "assets",
-      "total": "images",
+      "number": "034",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038440_P_UPA.jpg",
       "stage": "たね"
     },
     {
       "id": 38441,
       "name": "ヌオー",
-      "number": "assets",
-      "total": "images",
+      "number": "035",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038441_P_NUO.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 38442,
       "name": "ツボツボ",
-      "number": "assets",
-      "total": "images",
+      "number": "036",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038442_P_TSUBOTSUBO.jpg",
       "stage": "たね"
     },
     {
       "id": 38443,
       "name": "レジロック",
-      "number": "assets",
-      "total": "images",
+      "number": "037",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038443_P_REJIROKKU.jpg",
       "stage": "たね"
     },
     {
       "id": 38444,
       "name": "リオル",
-      "number": "assets",
-      "total": "images",
+      "number": "038",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038444_P_RIORU.jpg",
       "stage": "たね"
     },
     {
       "id": 38445,
       "name": "ジガルデ",
-      "number": "assets",
-      "total": "images",
+      "number": "039",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038445_P_JIGARUDE.jpg",
       "stage": "たね"
     },
     {
       "id": 38446,
       "name": "イワンコ",
-      "number": "assets",
-      "total": "images",
+      "number": "040",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038446_P_IWANKO.jpg",
       "stage": "たね"
     },
     {
       "id": 38447,
       "name": "ルガルガン",
-      "number": "assets",
-      "total": "images",
+      "number": "041",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038447_P_RUGARUGAN.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 38448,
       "name": "セキタンザンV",
-      "number": "assets",
-      "total": "images",
+      "number": "042",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038448_P_SEKITANZANV.jpg",
       "stage": "たね"
     },
     {
       "id": 38449,
       "name": "セキタンザンVMAX",
-      "number": "assets",
-      "total": "images",
+      "number": "043",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038449_P_SEKITANZANVMAX.jpg",
       "stage": "V進化"
     },
     {
       "id": 38450,
       "name": "ザマゼンタ",
-      "number": "assets",
-      "total": "images",
+      "number": "044",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038450_P_ZAMAZENTA.jpg",
       "stage": "たね"
     },
     {
       "id": 38451,
       "name": "フォレトス",
-      "number": "assets",
-      "total": "images",
+      "number": "045",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038451_P_FORETOSU.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 38452,
       "name": "ハガネールV",
-      "number": "assets",
-      "total": "images",
+      "number": "046",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038452_P_HAGANERUV.jpg",
       "stage": "たね"
     },
     {
       "id": 38453,
       "name": "ダンバル",
-      "number": "assets",
-      "total": "images",
+      "number": "047",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038453_P_DANBARU.jpg",
       "stage": "たね"
     },
     {
       "id": 38454,
       "name": "メタング",
-      "number": "assets",
-      "total": "images",
+      "number": "048",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038454_P_METANGU.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 38455,
       "name": "メタグロス",
-      "number": "assets",
-      "total": "images",
+      "number": "049",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038455_P_METAGUROSU.jpg",
-      "stage": "2&nbsp;進化"
+      "stage": "2 進化"
     },
     {
       "id": 38456,
       "name": "ジラーチ",
-      "number": "assets",
-      "total": "images",
+      "number": "050",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038456_P_JIRACHI.jpg",
       "stage": "たね"
     },
     {
       "id": 38457,
       "name": "ルカリオ",
-      "number": "assets",
-      "total": "images",
+      "number": "051",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038457_P_RUKARIO.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 38458,
       "name": "ディアルガ",
-      "number": "assets",
-      "total": "images",
+      "number": "052",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038458_P_DEIARUGA.jpg",
       "stage": "たね"
     },
     {
       "id": 38459,
       "name": "ガラル マッギョ",
-      "number": "assets",
-      "total": "images",
+      "number": "053",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038459_P_GARARUMAGGYO.jpg",
       "stage": "たね"
     },
     {
       "id": 38460,
       "name": "マギアナ",
-      "number": "assets",
-      "total": "images",
+      "number": "054",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038460_P_MAGIANA.jpg",
       "stage": "たね"
     },
     {
       "id": 38461,
       "name": "ルギア",
-      "number": "assets",
-      "total": "images",
+      "number": "055",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038461_P_RUGIA.jpg",
       "stage": "たね"
     },
     {
       "id": 38462,
       "name": "レックウザ",
-      "number": "assets",
-      "total": "images",
+      "number": "056",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038462_P_REKKUUZA.jpg",
       "stage": "たね"
     },
     {
       "id": 38463,
       "name": "ペラップ",
-      "number": "assets",
-      "total": "images",
+      "number": "057",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038463_P_PERAPPU.jpg",
       "stage": "たね"
     },
     {
       "id": 38464,
       "name": "トゲキッスV",
-      "number": "assets",
-      "total": "images",
+      "number": "058",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038464_P_TOGEKISSUV.jpg",
       "stage": "たね"
     },
     {
       "id": 38465,
       "name": "トゲキッスVMAX",
-      "number": "assets",
-      "total": "images",
+      "number": "059",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038465_P_TOGEKISSUVMAX.jpg",
       "stage": "V進化"
     },
     {
       "id": 38466,
       "name": "トルネロス",
-      "number": "assets",
-      "total": "images",
+      "number": "060",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038466_P_TORUNEROSU.jpg",
       "stage": "たね"
     },
     {
       "id": 38467,
       "name": "ツツケラ",
-      "number": "assets",
-      "total": "images",
+      "number": "061",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038467_P_TSUTSUKERA.jpg",
       "stage": "たね"
     },
     {
-      "id": 38468,
-      "name": "ケララッパ",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038468_P_KERARAPPA.jpg",
-      "stage": "1&nbsp;進化"
-    },
-    {
-      "id": 38469,
-      "name": "ドデカバシ",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038469_P_DODEKABASHI.jpg",
-      "stage": "2&nbsp;進化"
-    },
-    {
-      "id": 38470,
-      "name": "スーパーボール",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038470_T_SUPABORU.jpg"
-    },
-    {
-      "id": 38471,
-      "name": "ポケモンいれかえ",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038471_T_POKEMONIREKAE.jpg"
-    },
-    {
-      "id": 38472,
-      "name": "ポケモンキャッチャー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038472_T_POKEMONKYACCHA.jpg"
-    },
-    {
-      "id": 38473,
-      "name": "モーモーチーズ",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038473_T_MOMOCHIZU.jpg"
-    },
-    {
-      "id": 38474,
-      "name": "英雄のメダル",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038474_T_EIYUUNOMEDARU.jpg"
-    },
-    {
-      "id": 38475,
-      "name": "ゴツゴツメット",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038475_T_GOTSUGOTSUMETTO.jpg"
-    },
-    {
-      "id": 38476,
-      "name": "おとなのおねえさん",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038476_T_OTONANOONEESAN.jpg"
-    },
-    {
-      "id": 38477,
-      "name": "オニオン",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038477_T_ONION.jpg"
-    },
-    {
-      "id": 38478,
-      "name": "ポプラ",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038478_T_POPURA.jpg"
-    },
-    {
-      "id": 38479,
-      "name": "マリィ",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038479_T_MARII.jpg"
-    },
-    {
-      "id": 38480,
-      "name": "アロマ草エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038480_E_AROMAKUSAENERUGI.jpg"
-    },
-    {
-      "id": 38481,
-      "name": "ストーン闘エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038481_E_SUTONTOUENERUGI.jpg"
-    },
-    {
       "id": 38482,
       "name": "ツインエネルギー",
-      "number": "assets",
-      "total": "images",
+      "number": "076",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038482_E_TSUINENERUGI.jpg"
     },
     {
       "id": 38599,
       "name": "ザルードV",
-      "number": "assets",
-      "total": "images",
+      "number": "077",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038599_P_ZARUDOV.jpg",
       "stage": "たね"
     },
     {
       "id": 38600,
       "name": "デンリュウV",
-      "number": "assets",
-      "total": "images",
+      "number": "078",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038600_P_DENRYUUV.jpg",
       "stage": "たね"
     },
     {
       "id": 38601,
       "name": "マホイップV",
-      "number": "assets",
-      "total": "images",
+      "number": "079",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038601_P_MAHOIPPUV.jpg",
       "stage": "たね"
     },
     {
       "id": 38602,
       "name": "セキタンザンV",
-      "number": "assets",
-      "total": "images",
+      "number": "080",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038602_P_SEKITANZANV.jpg",
       "stage": "たね"
     },
     {
       "id": 38603,
       "name": "ハガネールV",
-      "number": "assets",
-      "total": "images",
+      "number": "081",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038603_P_HAGANERUV.jpg",
       "stage": "たね"
     },
     {
       "id": 38604,
       "name": "トゲキッスV",
-      "number": "assets",
-      "total": "images",
+      "number": "082",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038604_P_TOGEKISSUV.jpg",
       "stage": "たね"
     },
     {
       "id": 38605,
       "name": "おとなのおねえさん",
-      "number": "assets",
-      "total": "images",
+      "number": "083",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038605_T_OTONANOONEESAN.jpg"
     },
     {
       "id": 38606,
       "name": "オニオン",
-      "number": "assets",
-      "total": "images",
+      "number": "084",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038606_T_ONION.jpg"
     },
     {
       "id": 38607,
       "name": "ポプラ",
-      "number": "assets",
-      "total": "images",
+      "number": "085",
+      "total": "076",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S3a/038607_T_POPURA.jpg"
     }
   ]

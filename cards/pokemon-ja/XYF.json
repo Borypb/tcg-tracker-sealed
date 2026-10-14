@@ -1,125 +1,118 @@
 {
   "code": "XYF",
-  "name": "XYF",
-  "official": "images",
+  "name": "ポケモンカードゲームXY BREAK コンボデッキ60「ゴルダックBREAK+パルキアEX」",
+  "official": "016",
   "cards": [
     {
       "id": 31448,
       "name": "コダック",
-      "number": "assets",
-      "total": "images",
+      "number": "001",
+      "total": "016",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYF/031448_P_KODAKKU.jpg",
       "stage": "たね"
     },
     {
       "id": 31449,
       "name": "ゴルダック",
-      "number": "assets",
-      "total": "images",
+      "number": "002",
+      "total": "016",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYF/031449_P_GORUDAKKU.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 31451,
       "name": "シェルダー",
-      "number": "assets",
-      "total": "images",
+      "number": "004",
+      "total": "016",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYF/031451_P_SHIERUDA.jpg",
       "stage": "たね"
     },
     {
       "id": 31452,
       "name": "ヒトデマン",
-      "number": "assets",
-      "total": "images",
+      "number": "005",
+      "total": "016",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYF/031452_P_HITODEMAN.jpg",
       "stage": "たね"
     },
     {
       "id": 31453,
       "name": "ラプラス",
-      "number": "assets",
-      "total": "images",
+      "number": "006",
+      "total": "016",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYF/031453_P_RAPURASU.jpg",
       "stage": "たね"
     },
     {
       "id": 31454,
       "name": "パルキアEX",
-      "number": "assets",
-      "total": "images",
+      "number": "007",
+      "total": "016",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYF/031454_P_PARUKIAEX.jpg",
       "stage": "たね"
     },
     {
       "id": 31455,
       "name": "ダイブボール",
-      "number": "assets",
-      "total": "images",
+      "number": "008",
+      "total": "016",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYF/031455_T_DAIBUBORU.jpg"
     },
     {
       "id": 31456,
       "name": "バトルサーチャー",
-      "number": "assets",
-      "total": "images",
+      "number": "009",
+      "total": "016",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYF/031456_T_BATORUSACHA.jpg"
     },
     {
       "id": 31457,
       "name": "ポケモンいれかえ",
-      "number": "assets",
-      "total": "images",
+      "number": "010",
+      "total": "016",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYF/031457_T_POKEMONIREKAE.jpg"
     },
     {
       "id": 31458,
       "name": "ポケモンキャッチャー",
-      "number": "assets",
-      "total": "images",
+      "number": "011",
+      "total": "016",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYF/031458_T_POKEMONKYACCHA.jpg"
     },
     {
       "id": 31459,
       "name": "まんたんのくすり",
-      "number": "assets",
-      "total": "images",
+      "number": "012",
+      "total": "016",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYF/031459_T_MANTANNOKUSURI.jpg"
     },
     {
       "id": 31460,
       "name": "オダマキ博士の観察",
-      "number": "assets",
-      "total": "images",
+      "number": "013",
+      "total": "016",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYF/031460_T_ODAMAKIHAKASENOKANSATSU.jpg"
     },
     {
       "id": 31461,
       "name": "カスミのやる気",
-      "number": "assets",
-      "total": "images",
+      "number": "014",
+      "total": "016",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYF/031461_T_KASUMINOYARUKI.jpg"
     },
     {
       "id": 31462,
       "name": "ティエルノ",
-      "number": "assets",
-      "total": "images",
+      "number": "015",
+      "total": "016",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYF/031462_T_TEIERUNO.jpg"
     },
     {
       "id": 31463,
       "name": "プラターヌ博士",
-      "number": "assets",
-      "total": "images",
+      "number": "016",
+      "total": "016",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYF/031463_T_PURATANUHAKASE.jpg"
-    },
-    {
-      "id": 31464,
-      "name": "基本水エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYF/031464_E_KIHONMIZUENERUGI.jpg"
     }
   ]
 }

@@ -1,245 +1,217 @@
 {
   "code": "XYE",
-  "name": "XYE",
-  "official": "images",
+  "name": "ポケモンカードゲームXY 対戦スタートセット30「エンブオーEX VS トゲキッスEX」",
+  "official": "022",
   "cards": [
     {
       "id": 31120,
       "name": "ガーディ",
-      "number": "assets",
-      "total": "images",
+      "number": "001",
+      "total": "022",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYE/031120_P_GADEI.jpg",
       "stage": "たね"
     },
     {
       "id": 31121,
       "name": "ウインディ",
-      "number": "assets",
-      "total": "images",
+      "number": "002",
+      "total": "022",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYE/031121_P_UINDEI.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 31122,
       "name": "エンブオーEX",
-      "number": "assets",
-      "total": "images",
+      "number": "003",
+      "total": "022",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYE/031122_P_ENBUOEX.jpg",
       "stage": "たね"
     },
     {
       "id": 31123,
       "name": "ニャスパー",
-      "number": "assets",
-      "total": "images",
+      "number": "007",
+      "total": "022",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYE/031123_P_NYASUPA.jpg",
       "stage": "たね"
     },
     {
       "id": 31124,
       "name": "ニャオニクス",
-      "number": "assets",
-      "total": "images",
+      "number": "008",
+      "total": "022",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYE/031124_P_NYAONIKUSU.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 31125,
       "name": "クチート",
-      "number": "assets",
-      "total": "images",
+      "number": "009",
+      "total": "022",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYE/031125_P_KUCHITO.jpg",
       "stage": "たね"
     },
     {
       "id": 31126,
       "name": "ノコッチ",
-      "number": "assets",
-      "total": "images",
+      "number": "013",
+      "total": "022",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYE/031126_P_NOKOCCHI.jpg",
       "stage": "たね"
     },
     {
       "id": 31127,
       "name": "エネルギー回収",
-      "number": "assets",
-      "total": "images",
+      "number": "015",
+      "total": "022",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYE/031127_T_ENERUGIKAISHUU.jpg"
     },
     {
       "id": 31128,
       "name": "スーパーボール",
-      "number": "assets",
-      "total": "images",
+      "number": "017",
+      "total": "022",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYE/031128_T_SUPABORU.jpg"
     },
     {
       "id": 31129,
       "name": "ポケモンいれかえ",
-      "number": "assets",
-      "total": "images",
+      "number": "018",
+      "total": "022",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYE/031129_T_POKEMONIREKAE.jpg"
     },
     {
       "id": 31130,
       "name": "ポケモンキャッチャー",
-      "number": "assets",
-      "total": "images",
+      "number": "019",
+      "total": "022",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYE/031130_T_POKEMONKYACCHA.jpg"
     },
     {
       "id": 31131,
       "name": "サナ",
-      "number": "assets",
-      "total": "images",
+      "number": "020",
+      "total": "022",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYE/031131_T_SANA.jpg"
     },
     {
       "id": 31132,
       "name": "ティエルノ",
-      "number": "assets",
-      "total": "images",
+      "number": "021",
+      "total": "022",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYE/031132_T_TEIERUNO.jpg"
     },
     {
       "id": 31133,
       "name": "ダブル無色エネルギー",
-      "number": "assets",
-      "total": "images",
+      "number": "022",
+      "total": "022",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYE/031133_E_DABURUMUSHOKUENERUGI.jpg"
-    },
-    {
-      "id": 31134,
-      "name": "基本炎エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYE/031134_E_KIHONHONOOENERUGI.jpg"
-    },
-    {
-      "id": 31135,
-      "name": "基本超エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYE/031135_E_KIHONCHOUENERUGI.jpg"
     },
     {
       "id": 31136,
       "name": "サニーゴ",
-      "number": "assets",
-      "total": "images",
+      "number": "004",
+      "total": "022",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYE/031136_P_SANIGO.jpg",
       "stage": "たね"
     },
     {
       "id": 31137,
       "name": "エレブー",
-      "number": "assets",
-      "total": "images",
+      "number": "005",
+      "total": "022",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYE/031137_P_EREBU.jpg",
       "stage": "たね"
     },
     {
       "id": 31138,
       "name": "エレキブル",
-      "number": "assets",
-      "total": "images",
+      "number": "006",
+      "total": "022",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYE/031138_P_EREKIBURU.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 31139,
       "name": "トゲキッスEX",
-      "number": "assets",
-      "total": "images",
+      "number": "010",
+      "total": "022",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYE/031139_P_TOGEKISSUEX.jpg",
       "stage": "たね"
     },
     {
       "id": 31140,
       "name": "シュシュプ",
-      "number": "assets",
-      "total": "images",
+      "number": "011",
+      "total": "022",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYE/031140_P_SHUSHUPU.jpg",
       "stage": "たね"
     },
     {
       "id": 31141,
       "name": "フレフワン",
-      "number": "assets",
-      "total": "images",
+      "number": "012",
+      "total": "022",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYE/031141_P_FUREFUWAN.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 31142,
       "name": "トリミアン",
-      "number": "assets",
-      "total": "images",
+      "number": "014",
+      "total": "022",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYE/031142_P_TORIMIAN.jpg",
       "stage": "たね"
     },
     {
       "id": 31143,
       "name": "きずぐすり",
-      "number": "assets",
-      "total": "images",
+      "number": "016",
+      "total": "022",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYE/031143_T_KIZUGUSURI.jpg"
     },
     {
       "id": 31144,
       "name": "スーパーボール",
-      "number": "assets",
-      "total": "images",
+      "number": "017",
+      "total": "022",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYE/031144_T_SUPABORU.jpg"
     },
     {
       "id": 31145,
       "name": "ポケモンいれかえ",
-      "number": "assets",
-      "total": "images",
+      "number": "018",
+      "total": "022",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYE/031145_T_POKEMONIREKAE.jpg"
     },
     {
       "id": 31146,
       "name": "ポケモンキャッチャー",
-      "number": "assets",
-      "total": "images",
+      "number": "019",
+      "total": "022",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYE/031146_T_POKEMONKYACCHA.jpg"
     },
     {
       "id": 31147,
       "name": "サナ",
-      "number": "assets",
-      "total": "images",
+      "number": "020",
+      "total": "022",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYE/031147_T_SANA.jpg"
     },
     {
       "id": 31148,
       "name": "ティエルノ",
-      "number": "assets",
-      "total": "images",
+      "number": "021",
+      "total": "022",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYE/031148_T_TEIERUNO.jpg"
     },
     {
       "id": 31149,
       "name": "ダブル無色エネルギー",
-      "number": "assets",
-      "total": "images",
+      "number": "022",
+      "total": "022",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYE/031149_E_DABURUMUSHOKUENERUGI.jpg"
-    },
-    {
-      "id": 31150,
-      "name": "基本雷エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYE/031150_E_KIHONKAMINARIENERUGI.jpg"
-    },
-    {
-      "id": 31151,
-      "name": "基本フェアリーエネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XYE/031151_E_KIHONYOUENERUGI.jpg"
     }
   ]
 }

@@ -1,147 +1,140 @@
 {
   "code": "KK",
   "name": "ポケモンカードゲームBW 「最強爆流コンボデッキ60 カメックス＋キュレムEX」",
-  "official": "images",
+  "official": "018",
   "cards": [
     {
       "id": 28654,
       "name": "ゼニガメ",
-      "number": "assets",
-      "total": "images",
+      "number": "001",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/KK/028654_P_ZENIGAME.jpg",
       "stage": "たね"
     },
     {
       "id": 28655,
       "name": "カメール",
-      "number": "assets",
-      "total": "images",
+      "number": "002",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/KK/028655_P_KAMERU.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 28656,
       "name": "カメックス",
-      "number": "assets",
-      "total": "images",
+      "number": "003",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/KK/028656_P_KAMEKKUSU.jpg",
-      "stage": "2&nbsp;進化"
+      "stage": "2 進化"
     },
     {
       "id": 28657,
       "name": "スイクン",
-      "number": "assets",
-      "total": "images",
+      "number": "004",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/KK/028657_P_SUIKUN.jpg",
       "stage": "たね"
     },
     {
       "id": 28658,
       "name": "コアルヒー",
-      "number": "assets",
-      "total": "images",
+      "number": "005",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/KK/028658_P_KOARUHI.jpg",
       "stage": "たね"
     },
     {
       "id": 28659,
       "name": "キュレムEX",
-      "number": "assets",
-      "total": "images",
+      "number": "006",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/KK/028659_P_KYUREMUEX.jpg",
       "stage": "たね"
     },
     {
       "id": 28660,
       "name": "ガルーラ",
-      "number": "assets",
-      "total": "images",
+      "number": "007",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/KK/028660_P_GARURA.jpg",
       "stage": "たね"
     },
     {
       "id": 28661,
       "name": "エネルギー回収",
-      "number": "assets",
-      "total": "images",
+      "number": "008",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/KK/028661_T_ENERUGIKAISHUU.jpg"
     },
     {
       "id": 28662,
       "name": "ハイパーボール",
-      "number": "assets",
-      "total": "images",
+      "number": "009",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/KK/028662_T_HAIPABORU.jpg"
     },
     {
       "id": 28663,
       "name": "ふしぎなアメ",
-      "number": "assets",
-      "total": "images",
+      "number": "010",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/KK/028663_T_FUSHIGINAAME.jpg"
     },
     {
       "id": 28664,
       "name": "ポケモンいれかえ",
-      "number": "assets",
-      "total": "images",
+      "number": "011",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/KK/028664_T_POKEMONIREKAE.jpg"
     },
     {
       "id": 28665,
       "name": "ポケモンキャッチャー",
-      "number": "assets",
-      "total": "images",
+      "number": "012",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/KK/028665_T_POKEMONKYACCHA.jpg"
     },
     {
       "id": 28666,
       "name": "ランダムレシーバー",
-      "number": "assets",
-      "total": "images",
+      "number": "013",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/KK/028666_T_RANDAMURESHIBA.jpg"
     },
     {
       "id": 28667,
       "name": "アララギ博士",
-      "number": "assets",
-      "total": "images",
+      "number": "014",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/KK/028667_T_ARARAGIHAKASE.jpg"
     },
     {
       "id": 28668,
       "name": "チェレン",
-      "number": "assets",
-      "total": "images",
+      "number": "015",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/KK/028668_T_CHIEREN.jpg"
     },
     {
       "id": 28669,
       "name": "フウロ",
-      "number": "assets",
-      "total": "images",
+      "number": "016",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/KK/028669_T_FUURO.jpg"
     },
     {
       "id": 28670,
       "name": "マスターボール",
-      "number": "assets",
-      "total": "images",
+      "number": "017",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/KK/028670_T_MASUTABORU.jpg"
     },
     {
       "id": 28671,
       "name": "ダブル無色エネルギー",
-      "number": "assets",
-      "total": "images",
+      "number": "018",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/KK/028671_E_DABURUMUSHOKUENERUGI.jpg"
-    },
-    {
-      "id": 28672,
-      "name": "基本水エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/KK/028672_E_KIHONMIZUENERUGI.jpg"
     }
   ]
 }

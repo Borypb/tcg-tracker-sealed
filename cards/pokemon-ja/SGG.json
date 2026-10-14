@@ -1,160 +1,153 @@
 {
   "code": "SGG",
-  "name": "SGG",
-  "official": "images",
+  "name": "ハイクラスデッキ「ゲンガーVMAX」",
+  "official": "019",
   "cards": [
     {
       "id": 39538,
       "name": "ゲンガーV",
-      "number": "assets",
-      "total": "images",
+      "number": "001",
+      "total": "019",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SGG/039538_P_GENGAV.jpg",
       "stage": "たね"
     },
     {
       "id": 39539,
       "name": "ゲンガーVMAX",
-      "number": "assets",
-      "total": "images",
+      "number": "002",
+      "total": "019",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SGG/039539_P_GENGAVMAX.jpg",
       "stage": "V進化"
     },
     {
       "id": 39540,
       "name": "クロバットV",
-      "number": "assets",
-      "total": "images",
+      "number": "003",
+      "total": "019",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SGG/039540_P_KUROBATTOV.jpg",
       "stage": "たね"
     },
     {
       "id": 39541,
       "name": "デルビル",
-      "number": "assets",
-      "total": "images",
+      "number": "004",
+      "total": "019",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SGG/039541_P_DERUBIRU.jpg",
       "stage": "たね"
     },
     {
       "id": 39542,
       "name": "ヘルガー",
-      "number": "assets",
-      "total": "images",
+      "number": "005",
+      "total": "019",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SGG/039542_P_HERUGA.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 39543,
       "name": "イベルタル",
-      "number": "assets",
-      "total": "images",
+      "number": "006",
+      "total": "019",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SGG/039543_P_IBERUTARU.jpg",
       "stage": "たね"
     },
     {
       "id": 39544,
       "name": "モルペコ",
-      "number": "assets",
-      "total": "images",
+      "number": "007",
+      "total": "019",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SGG/039544_P_MORUPEKO.jpg",
       "stage": "たね"
     },
     {
       "id": 39545,
       "name": "活力の壺",
-      "number": "assets",
-      "total": "images",
+      "number": "008",
+      "total": "019",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SGG/039545_T_KATSURYOKUNOTSUBO.jpg"
     },
     {
       "id": 39546,
       "name": "クイックボール",
-      "number": "assets",
-      "total": "images",
+      "number": "009",
+      "total": "019",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SGG/039546_T_KUIKKUBORU.jpg"
     },
     {
       "id": 39547,
       "name": "しんかのおこう",
-      "number": "assets",
-      "total": "images",
+      "number": "010",
+      "total": "019",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SGG/039547_T_SHINKANOOKOU.jpg"
     },
     {
       "id": 39548,
       "name": "ポケギア3.0",
-      "number": "assets",
-      "total": "images",
+      "number": "011",
+      "total": "019",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SGG/039548_T_POKEGIA.jpg"
     },
     {
       "id": 39549,
       "name": "ポケモンいれかえ",
-      "number": "assets",
-      "total": "images",
+      "number": "012",
+      "total": "019",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SGG/039549_T_POKEMONIREKAE.jpg"
     },
     {
       "id": 39550,
       "name": "シバ",
-      "number": "assets",
-      "total": "images",
+      "number": "013",
+      "total": "019",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SGG/039550_T_SHIBA.jpg"
     },
     {
       "id": 39551,
       "name": "博士の研究",
-      "number": "assets",
-      "total": "images",
+      "number": "014",
+      "total": "019",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SGG/039551_T_HAKASENOKENKYUUARARAGIHAKASE.jpg"
     },
     {
       "id": 39552,
       "name": "冒険家の発見",
-      "number": "assets",
-      "total": "images",
+      "number": "015",
+      "total": "019",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SGG/039552_T_BOUKENKANOHAKKEN.jpg"
     },
     {
       "id": 39553,
       "name": "ボスの指令",
-      "number": "assets",
-      "total": "images",
+      "number": "016",
+      "total": "019",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SGG/039553_T_BOSUNOSHIREIFURADARI.jpg"
     },
     {
       "id": 39554,
       "name": "マリィ",
-      "number": "assets",
-      "total": "images",
+      "number": "017",
+      "total": "019",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SGG/039554_T_MARII.jpg"
     },
     {
       "id": 39555,
       "name": "あくの塔",
-      "number": "assets",
-      "total": "images",
+      "number": "018",
+      "total": "019",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SGG/039555_T_AKUNOTOU.jpg"
     },
     {
       "id": 39556,
       "name": "いちげきエネルギー",
-      "number": "assets",
-      "total": "images",
+      "number": "019",
+      "total": "019",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SGG/039556_E_ICHIGEKIENERUGI.jpg"
-    },
-    {
-      "id": 39558,
-      "name": "基本悪エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SGG/039558_E_KIHONAKUENERUGI.jpg"
     },
     {
       "id": 44975,
       "name": "ゲンガーVMAX",
-      "number": "assets",
-      "total": "images",
+      "number": "020",
+      "total": "019",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SGG/044975_P_GENGAVMAX.jpg",
       "stage": "V進化"
     }

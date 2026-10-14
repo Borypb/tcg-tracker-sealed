@@ -1,126 +1,105 @@
 {
   "code": "BGSv",
   "name": "ポケモンカードゲームBW バトルギフトセット「ボルトロスVSトルネロス」 （ボルトロスデッキ）",
-  "official": "images",
+  "official": "020",
   "cards": [
     {
       "id": 27685,
       "name": "バチュル",
-      "number": "assets",
-      "total": "images",
+      "number": "005",
+      "total": "020",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/BGSv/027685_P_BACHURU.jpg",
       "stage": "たね"
     },
     {
       "id": 27686,
       "name": "ボルトロス",
-      "number": "assets",
-      "total": "images",
+      "number": "006",
+      "total": "020",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/BGSv/027686_P_BORUTOROSU.jpg",
       "stage": "たね"
     },
     {
       "id": 27687,
       "name": "ドッコラー",
-      "number": "assets",
-      "total": "images",
+      "number": "007",
+      "total": "020",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/BGSv/027687_P_DOKKORA.jpg",
       "stage": "たね"
     },
     {
       "id": 27688,
       "name": "ドテッコツ",
-      "number": "assets",
-      "total": "images",
+      "number": "008",
+      "total": "020",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/BGSv/027688_P_DOTEKKOTSU.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 27689,
       "name": "ズルッグ",
-      "number": "assets",
-      "total": "images",
+      "number": "009",
+      "total": "020",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/BGSv/027689_P_ZURUGGU.jpg",
       "stage": "たね"
     },
     {
       "id": 27690,
       "name": "ズルズキン",
-      "number": "assets",
-      "total": "images",
+      "number": "010",
+      "total": "020",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/BGSv/027690_P_ZURUZUKIN.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 27691,
       "name": "ペラップ",
-      "number": "assets",
-      "total": "images",
+      "number": "013",
+      "total": "020",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/BGSv/027691_P_PERAPPU.jpg",
       "stage": "たね"
     },
     {
       "id": 27692,
       "name": "エネルギー転送",
-      "number": "assets",
-      "total": "images",
+      "number": "015",
+      "total": "020",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/BGSv/027692_T_ENERUGITENSOU.jpg"
     },
     {
       "id": 27693,
       "name": "スーパーボール",
-      "number": "assets",
-      "total": "images",
+      "number": "016",
+      "total": "020",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/BGSv/027693_T_SUPABORU.jpg"
     },
     {
       "id": 27694,
       "name": "ポケモンいれかえ",
-      "number": "assets",
-      "total": "images",
+      "number": "017",
+      "total": "020",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/BGSv/027694_T_POKEMONIREKAE.jpg"
     },
     {
       "id": 27695,
       "name": "ポケモンキャッチャー",
-      "number": "assets",
-      "total": "images",
+      "number": "018",
+      "total": "020",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/BGSv/027695_T_POKEMONKYACCHA.jpg"
     },
     {
       "id": 27696,
       "name": "チェレン",
-      "number": "assets",
-      "total": "images",
+      "number": "019",
+      "total": "020",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/BGSv/027696_T_CHIEREN.jpg"
     },
     {
       "id": 27697,
       "name": "ベル",
-      "number": "assets",
-      "total": "images",
+      "number": "020",
+      "total": "020",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/BGSv/027697_T_BERU.jpg"
-    },
-    {
-      "id": 27698,
-      "name": "基本雷エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BGSv/027698_E_KIHONKAMINARIENERUGI.jpg"
-    },
-    {
-      "id": 27699,
-      "name": "基本闘エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BGSv/027699_E_KIHONTOUENERUGI.jpg"
-    },
-    {
-      "id": 27700,
-      "name": "基本悪エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BGSv/027700_E_KIHONAKUENERUGI.jpg"
     }
   ]
 }

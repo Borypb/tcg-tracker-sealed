@@ -1,236 +1,213 @@
 {
   "code": "SJ",
-  "name": "SJ",
-  "official": "images",
+  "name": "スペシャルデッキセット ザシアン・ザマゼンタ vs ムゲンダイナ",
+  "official": "028",
   "cards": [
     {
       "id": 40114,
       "name": "リオル",
-      "number": "assets",
-      "total": "images",
+      "number": "001",
+      "total": "028",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SJ/040114_P_RIORU.jpg",
       "stage": "たね"
     },
     {
       "id": 40115,
       "name": "イトマル",
-      "number": "assets",
-      "total": "images",
+      "number": "002",
+      "total": "028",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SJ/040115_P_ITOMARU.jpg",
       "stage": "たね"
     },
     {
       "id": 40116,
       "name": "アリアドス",
-      "number": "assets",
-      "total": "images",
+      "number": "003",
+      "total": "028",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SJ/040116_P_ARIADOSU.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 40117,
       "name": "アブソル",
-      "number": "assets",
-      "total": "images",
+      "number": "004",
+      "total": "028",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SJ/040117_P_ABUSORU.jpg",
       "stage": "たね"
     },
     {
       "id": 40118,
       "name": "ダークライ",
-      "number": "assets",
-      "total": "images",
+      "number": "005",
+      "total": "028",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SJ/040118_P_DAKURAI.jpg",
       "stage": "たね"
     },
     {
       "id": 40119,
       "name": "フーパ",
-      "number": "assets",
-      "total": "images",
+      "number": "006",
+      "total": "028",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SJ/040119_P_FUPA.jpg",
       "stage": "たね"
     },
     {
       "id": 40120,
       "name": "クスネ",
-      "number": "assets",
-      "total": "images",
+      "number": "007",
+      "total": "028",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SJ/040120_P_KUSUNE.jpg",
       "stage": "たね"
     },
     {
       "id": 40121,
       "name": "フォクスライ",
-      "number": "assets",
-      "total": "images",
+      "number": "008",
+      "total": "028",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SJ/040121_P_FUOKUSURAI.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 40122,
       "name": "モルペコ",
-      "number": "assets",
-      "total": "images",
+      "number": "009",
+      "total": "028",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SJ/040122_P_MORUPEKO.jpg",
       "stage": "たね"
     },
     {
       "id": 40123,
       "name": "ムゲンダイナV",
-      "number": "assets",
-      "total": "images",
+      "number": "010",
+      "total": "028",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SJ/040123_P_MUGENDAINAV.jpg",
       "stage": "たね"
     },
     {
       "id": 40124,
       "name": "ムゲンダイナVMAX",
-      "number": "assets",
-      "total": "images",
+      "number": "011",
+      "total": "028",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SJ/040124_P_MUGENDAINAVMAX.jpg",
       "stage": "V進化"
     },
     {
       "id": 40125,
       "name": "ルカリオ",
-      "number": "assets",
-      "total": "images",
+      "number": "012",
+      "total": "028",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SJ/040125_P_RUKARIO.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 40126,
       "name": "メルタン",
-      "number": "assets",
-      "total": "images",
+      "number": "013",
+      "total": "028",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SJ/040126_P_MERUTAN.jpg",
       "stage": "たね"
     },
     {
       "id": 40127,
       "name": "メルメタル",
-      "number": "assets",
-      "total": "images",
+      "number": "014",
+      "total": "028",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SJ/040127_P_MERUMETARU.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 40128,
       "name": "ジュラルドン",
-      "number": "assets",
-      "total": "images",
+      "number": "015",
+      "total": "028",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SJ/040128_P_JIXYURARUDON.jpg",
       "stage": "たね"
     },
     {
       "id": 40129,
       "name": "ザシアンV",
-      "number": "assets",
-      "total": "images",
+      "number": "016",
+      "total": "028",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SJ/040129_P_ZASHIANV.jpg",
       "stage": "たね"
     },
     {
       "id": 40130,
       "name": "ザマゼンタV",
-      "number": "assets",
-      "total": "images",
+      "number": "017",
+      "total": "028",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SJ/040130_P_ZAMAZENTAV.jpg",
       "stage": "たね"
     },
     {
       "id": 40131,
       "name": "クイックボール",
-      "number": "assets",
-      "total": "images",
+      "number": "018",
+      "total": "028",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SJ/040131_T_KUIKKUBORU.jpg"
     },
     {
       "id": 40132,
       "name": "しんかのおこう",
-      "number": "assets",
-      "total": "images",
+      "number": "019",
+      "total": "028",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SJ/040132_T_SHINKANOOKOU.jpg"
     },
     {
       "id": 40133,
       "name": "スーパーボール",
-      "number": "assets",
-      "total": "images",
+      "number": "020",
+      "total": "028",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SJ/040133_T_SUPABORU.jpg"
     },
     {
       "id": 40134,
       "name": "ポケギア3.0",
-      "number": "assets",
-      "total": "images",
+      "number": "021",
+      "total": "028",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SJ/040134_T_POKEGIA30.jpg"
     },
     {
       "id": 40135,
       "name": "ポケモンいれかえ",
-      "number": "assets",
-      "total": "images",
+      "number": "022",
+      "total": "028",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SJ/040135_T_POKEMONIREKAE.jpg"
     },
     {
       "id": 40136,
       "name": "メタルソーサー",
-      "number": "assets",
-      "total": "images",
+      "number": "023",
+      "total": "028",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SJ/040136_T_METARUSOSA.jpg"
     },
     {
       "id": 40137,
       "name": "博士の研究",
-      "number": "assets",
-      "total": "images",
+      "number": "024",
+      "total": "028",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SJ/040137_T_HAKASENOKENKIXYUUMAGUNORIAHAKASE.jpg"
     },
     {
       "id": 40138,
       "name": "ビート",
-      "number": "assets",
-      "total": "images",
+      "number": "025",
+      "total": "028",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SJ/040138_T_BITO.jpg"
     },
     {
       "id": 40139,
       "name": "ボスの指令",
-      "number": "assets",
-      "total": "images",
+      "number": "026",
+      "total": "028",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SJ/040139_T_BOSUNOSHIREISAKAKI.jpg"
     },
     {
       "id": 40140,
       "name": "ホップ",
-      "number": "assets",
-      "total": "images",
+      "number": "027",
+      "total": "028",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SJ/040140_T_HOPPU.jpg"
-    },
-    {
-      "id": 40141,
-      "name": "マリィ",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SJ/040141_T_MARII.jpg"
-    },
-    {
-      "id": 40142,
-      "name": "ザシアンV",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SJ/040142_P_ZASHIANV.jpg",
-      "stage": "たね"
-    },
-    {
-      "id": 40143,
-      "name": "ザマゼンタV",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SJ/040143_P_ZAMAZENTAV.jpg",
-      "stage": "たね"
     }
   ]
 }

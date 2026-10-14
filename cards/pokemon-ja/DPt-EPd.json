@@ -1,105 +1,105 @@
 {
   "code": "DPt-EPd",
   "name": "ポケモンカードゲームDPt エントリーパック(ディアルガデッキ)",
-  "official": "images",
+  "official": "013",
   "cards": [
     {
       "id": 21022,
       "name": "コータス",
-      "number": "assets",
-      "total": "images",
+      "number": "001",
+      "total": "013",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/DPt-EPd/021022_P_KOTASU.jpg",
       "stage": "たね"
     },
     {
       "id": 21024,
       "name": "ヒコザル",
-      "number": "assets",
-      "total": "images",
+      "number": "002",
+      "total": "013",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/DPt-EPd/021024_P_HIKOZARU.jpg",
       "stage": "たね"
     },
     {
       "id": 21026,
       "name": "モウカザル",
-      "number": "assets",
-      "total": "images",
+      "number": "003",
+      "total": "013",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/DPt-EPd/021026_P_MOUKAZARU.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 21028,
       "name": "ゴウカザル",
-      "number": "assets",
-      "total": "images",
+      "number": "004",
+      "total": "013",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/DPt-EPd/021028_P_GOUKAZARU.gif",
-      "stage": "2&nbsp;進化"
+      "stage": "2 進化"
     },
     {
       "id": 21030,
       "name": "リオル",
-      "number": "assets",
-      "total": "images",
+      "number": "005",
+      "total": "013",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/DPt-EPd/021030_P_RIORU.jpg",
       "stage": "たね"
     },
     {
       "id": 21032,
       "name": "ルカリオ",
-      "number": "assets",
-      "total": "images",
+      "number": "006",
+      "total": "013",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/DPt-EPd/021032_P_RUKARIO.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 21034,
       "name": "ディアルガ",
-      "number": "assets",
-      "total": "images",
+      "number": "007",
+      "total": "013",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/DPt-EPd/021034_P_DEIARUGA.gif",
       "stage": "たね"
     },
     {
       "id": 21036,
       "name": "ノコッチ",
-      "number": "assets",
-      "total": "images",
+      "number": "008",
+      "total": "013",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/DPt-EPd/021036_P_NOKOCCHI.jpg",
       "stage": "たね"
     },
     {
       "id": 21038,
       "name": "エネルギー再生",
-      "number": "assets",
-      "total": "images",
+      "number": "009",
+      "total": "013",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/DPt-EPd/021038_T_ENERUGISAISEI.jpg"
     },
     {
       "id": 21039,
       "name": "ポケモンいれかえ",
-      "number": "assets",
-      "total": "images",
+      "number": "010",
+      "total": "013",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/DPt-EPd/021039_T_POKEMONIREKAE.jpg"
     },
     {
       "id": 21040,
       "name": "ポケモン図鑑HANDY910is",
-      "number": "assets",
-      "total": "images",
+      "number": "011",
+      "total": "013",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/DPt-EPd/021040_T_POKEMONZUKANHANDYIS.jpg"
     },
     {
       "id": 21041,
       "name": "ポケモンレスキュー",
-      "number": "assets",
-      "total": "images",
+      "number": "012",
+      "total": "013",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/DPt-EPd/021041_T_POKEMONRESUKYU.jpg"
     },
     {
       "id": 21042,
       "name": "モンスターボール",
-      "number": "assets",
-      "total": "images",
+      "number": "013",
+      "total": "013",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/DPt-EPd/021042_T_MONSUTABORU.jpg"
     }
   ]

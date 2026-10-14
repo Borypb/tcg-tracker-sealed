@@ -1,119 +1,112 @@
 {
   "code": "X30",
-  "name": "X30",
-  "official": "images",
+  "name": "ポケモンカードゲームXY 「ゼルネアスデッキ30」",
+  "official": "014",
   "cards": [
     {
       "id": 30175,
       "name": "プリン",
-      "number": "assets",
-      "total": "images",
+      "number": "001",
+      "total": "014",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/X30/030175_P_PURIN.jpg",
       "stage": "たね"
     },
     {
       "id": 30176,
       "name": "プクリン",
-      "number": "assets",
-      "total": "images",
+      "number": "002",
+      "total": "014",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/X30/030176_P_PUKURIN.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 30177,
       "name": "バリヤード",
-      "number": "assets",
-      "total": "images",
+      "number": "003",
+      "total": "014",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/X30/030177_P_BARIYADO.jpg",
       "stage": "たね"
     },
     {
       "id": 30178,
       "name": "フラベベ",
-      "number": "assets",
-      "total": "images",
+      "number": "004",
+      "total": "014",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/X30/030178_P_FURABEBE.jpg",
       "stage": "たね"
     },
     {
       "id": 30179,
       "name": "フラエッテ",
-      "number": "assets",
-      "total": "images",
+      "number": "005",
+      "total": "014",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/X30/030179_P_FURAETTE.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 30180,
       "name": "シュシュプ",
-      "number": "assets",
-      "total": "images",
+      "number": "006",
+      "total": "014",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/X30/030180_P_SHUSHUPU.jpg",
       "stage": "たね"
     },
     {
       "id": 30181,
       "name": "ゼルネアス",
-      "number": "assets",
-      "total": "images",
+      "number": "007",
+      "total": "014",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/X30/030181_P_ZERUNEASU.jpg",
       "stage": "たね"
     },
     {
       "id": 30182,
       "name": "きずぐすり",
-      "number": "assets",
-      "total": "images",
+      "number": "008",
+      "total": "014",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/X30/030182_T_KIZUGUSURI.jpg"
     },
     {
       "id": 30183,
       "name": "スーパーボール",
-      "number": "assets",
-      "total": "images",
+      "number": "009",
+      "total": "014",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/X30/030183_T_SUPABORU.jpg"
     },
     {
       "id": 30184,
       "name": "ポケモンいれかえ",
-      "number": "assets",
-      "total": "images",
+      "number": "010",
+      "total": "014",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/X30/030184_T_POKEMONIREKAE.jpg"
     },
     {
       "id": 30185,
       "name": "ポケモンキャッチャー",
-      "number": "assets",
-      "total": "images",
+      "number": "011",
+      "total": "014",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/X30/030185_T_POKEMONKYACCHA.jpg"
     },
     {
       "id": 30186,
       "name": "サナ",
-      "number": "assets",
-      "total": "images",
+      "number": "012",
+      "total": "014",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/X30/030186_T_SANA.jpg"
     },
     {
       "id": 30187,
       "name": "ティエルノ",
-      "number": "assets",
-      "total": "images",
+      "number": "013",
+      "total": "014",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/X30/030187_T_TEIERUNO.jpg"
     },
     {
       "id": 30188,
       "name": "フェアリーガーデン",
-      "number": "assets",
-      "total": "images",
+      "number": "014",
+      "total": "014",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/X30/030188_T_FEARIGADEN.jpg"
-    },
-    {
-      "id": 30189,
-      "name": "基本フェアリーエネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/X30/030189_E_KIHONYOUENERUGI.jpg"
     }
   ]
 }

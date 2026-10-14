@@ -1,112 +1,49 @@
 {
   "code": "SMB",
-  "name": "SMB",
-  "official": "images",
+  "name": "「プレミアムトレーナーボックス」",
+  "official": "018",
   "cards": [
     {
       "id": 33184,
       "name": "ネストボール",
-      "number": "assets",
-      "total": "images",
+      "number": "001",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SMB/033184_T_NESUTOBORU.jpg"
     },
     {
       "id": 33185,
       "name": "ハイパーボール",
-      "number": "assets",
-      "total": "images",
+      "number": "002",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SMB/033185_T_HAIPABORU.jpg"
     },
     {
       "id": 33186,
       "name": "ふしぎなアメ",
-      "number": "assets",
-      "total": "images",
+      "number": "003",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SMB/033186_T_FUSHIGINAAME.jpg"
     },
     {
       "id": 33187,
       "name": "ククイ博士",
-      "number": "assets",
-      "total": "images",
+      "number": "004",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SMB/033187_T_KUKUIHAKASE.jpg"
     },
     {
       "id": 33188,
       "name": "リーリエ",
-      "number": "assets",
-      "total": "images",
+      "number": "005",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SMB/033188_T_RIRIE.jpg"
     },
     {
       "id": 33189,
       "name": "ダブル無色エネルギー",
-      "number": "assets",
-      "total": "images",
+      "number": "006",
+      "total": "018",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SMB/033189_E_DABURUMUSHOKUENERUGI.jpg"
-    },
-    {
-      "id": 33190,
-      "name": "基本草エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SMB/033190_E_KIHONKUSAENERUGI.jpg"
-    },
-    {
-      "id": 33191,
-      "name": "基本炎エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SMB/033191_E_KIHONHONOOENERUGI.jpg"
-    },
-    {
-      "id": 33192,
-      "name": "基本水エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SMB/033192_E_KIHONMIZUENERUGI.jpg"
-    },
-    {
-      "id": 33193,
-      "name": "基本雷エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SMB/033193_E_KIHONKAMINARIENERUGI.jpg"
-    },
-    {
-      "id": 33194,
-      "name": "基本超エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SMB/033194_E_KIHONCHOUENERUGI.jpg"
-    },
-    {
-      "id": 33195,
-      "name": "基本闘エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SMB/033195_E_KIHONTOUENERUGI.jpg"
-    },
-    {
-      "id": 33196,
-      "name": "基本悪エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SMB/033196_E_KIHONAKUENERUGI.jpg"
-    },
-    {
-      "id": 33197,
-      "name": "基本鋼エネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SMB/033197_E_KIHONKOUENERUGI.jpg"
-    },
-    {
-      "id": 33198,
-      "name": "基本フェアリーエネルギー",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SMB/033198_E_KIHONYOUENERUGI.jpg"
     }
   ]
 }

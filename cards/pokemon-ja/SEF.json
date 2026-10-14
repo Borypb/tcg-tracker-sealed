@@ -1,163 +1,107 @@
 {
   "code": "SEF",
-  "name": "SEF",
-  "official": "images",
+  "name": "VMAX フシギバナ",
+  "official": "021",
   "cards": [
-    {
-      "id": 38865,
-      "name": "フシギバナV",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SEF/038865_P_FUSHIGIBANAV.jpg",
-      "stage": "たね"
-    },
-    {
-      "id": 38866,
-      "name": "フシギバナVMAX",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SEF/038866_P_FUSHIGIBANAVMAX.jpg",
-      "stage": "V進化"
-    },
-    {
-      "id": 38867,
-      "name": "ヤンヤンマ",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SEF/038867_P_YANYANMA.jpg",
-      "stage": "たね"
-    },
-    {
-      "id": 38868,
-      "name": "メガヤンマ",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SEF/038868_P_MEGAYANMA.jpg",
-      "stage": "1&nbsp;進化"
-    },
-    {
-      "id": 38869,
-      "name": "セレビィ",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SEF/038869_P_SEREBII.jpg",
-      "stage": "たね"
-    },
-    {
-      "id": 38870,
-      "name": "サボネア",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SEF/038870_P_SABONEA.jpg",
-      "stage": "たね"
-    },
-    {
-      "id": 38871,
-      "name": "トロピウス",
-      "number": "assets",
-      "total": "images",
-      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SEF/038871_P_TOROPIUSU.jpg",
-      "stage": "たね"
-    },
     {
       "id": 38872,
       "name": "ヒメンカ",
-      "number": "assets",
-      "total": "images",
+      "number": "008",
+      "total": "021",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SEF/038872_P_HIMENKA.jpg",
       "stage": "たね"
     },
     {
       "id": 38873,
       "name": "ワタシラガ",
-      "number": "assets",
-      "total": "images",
+      "number": "009",
+      "total": "021",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SEF/038873_P_WATASHIRAGA.jpg",
-      "stage": "1&nbsp;進化"
+      "stage": "1 進化"
     },
     {
       "id": 38874,
       "name": "ザルード",
-      "number": "assets",
-      "total": "images",
+      "number": "010",
+      "total": "021",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SEF/038874_P_ZARUDO.jpg",
       "stage": "たね"
     },
     {
       "id": 38875,
       "name": "きずぐすり",
-      "number": "assets",
-      "total": "images",
+      "number": "011",
+      "total": "021",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SEF/038875_T_KIZUGUSURI.jpg"
     },
     {
       "id": 38876,
       "name": "クイックボール",
-      "number": "assets",
-      "total": "images",
+      "number": "012",
+      "total": "021",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SEF/038876_T_KUIKKUBORU.jpg"
     },
     {
       "id": 38877,
       "name": "しんかのおこう",
-      "number": "assets",
-      "total": "images",
+      "number": "013",
+      "total": "021",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SEF/038877_T_SHINKANOOKOU.jpg"
     },
     {
       "id": 38878,
       "name": "ポケギア3.0",
-      "number": "assets",
-      "total": "images",
+      "number": "014",
+      "total": "021",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SEF/038878_T_POKEGIA.jpg"
     },
     {
       "id": 38879,
       "name": "ポケモンいれかえ",
-      "number": "assets",
-      "total": "images",
+      "number": "015",
+      "total": "021",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SEF/038879_T_POKEMONIREKAE.jpg"
     },
     {
       "id": 38880,
       "name": "博士の研究",
-      "number": "assets",
-      "total": "images",
+      "number": "016",
+      "total": "021",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SEF/038880_T_HAKASENOKENKYUUARARAGIHAKASE.jpg"
     },
     {
       "id": 38881,
       "name": "ビート",
-      "number": "assets",
-      "total": "images",
+      "number": "017",
+      "total": "021",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SEF/038881_T_BITO.jpg"
     },
     {
       "id": 38882,
       "name": "ボスの指令",
-      "number": "assets",
-      "total": "images",
+      "number": "018",
+      "total": "021",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SEF/038882_T_BOSUNOSHIREIFURADARI.jpg"
     },
     {
       "id": 38883,
       "name": "ホップ",
-      "number": "assets",
-      "total": "images",
+      "number": "019",
+      "total": "021",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SEF/038883_T_HOPPU.jpg"
     },
     {
       "id": 38884,
       "name": "マリィ",
-      "number": "assets",
-      "total": "images",
+      "number": "020",
+      "total": "021",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SEF/038884_T_MARII.jpg"
     },
     {
       "id": 38885,
       "name": "ヤロー",
-      "number": "assets",
-      "total": "images",
+      "number": "021",
+      "total": "021",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SEF/038885_T_YARO.jpg"
     }
   ]

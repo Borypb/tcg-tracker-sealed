@@ -1,0 +1,23 @@
+name: Sonde pokemon-card.com (temporaire)
+on:
+  push:
+    branches: [probe-jp]
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          mkdir -p out
+          UA="Mozilla/5.0 (iPhone; CPU iPhone OS 18_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1"
+          curl -sS -A "$UA" -o out/search1.json -w "%{http_code}\n" "https://www.pokemon-card.com/card-search/resultAPI.php?keyword=%E3%83%AB%E3%82%AB%E3%83%AA%E3%82%AA&regulation_sidebar_form=all&page=1" > out/codes.txt
+          curl -sS -A "$UA" -o out/search_all.json -w "%{http_code}\n" "https://www.pokemon-card.com/card-search/resultAPI.php?regulation_sidebar_form=all&page=1" >> out/codes.txt
+          curl -sS -A "$UA" -o out/searchpage.html -w "%{http_code}\n" "https://www.pokemon-card.com/card-search/index.php?keyword=&se_ta=&regulation_sidebar_form=all&pg=&illust=&sm_and_keyword=true" >> out/codes.txt
+          ID=$(python3 -c "import json;d=json.load(open('out/search1.json'));print(d['cardList'][0]['cardID'])" || echo 49000)
+          echo "id $ID" >> out/codes.txt
+          curl -sS -A "$UA" -o out/details.html -w "%{http_code}\n" "https://www.pokemon-card.com/card-search/details.php/card/$ID/regu/all" >> out/codes.txt
+          head -c 4000 out/search1.json > out/search1.head
+          git config user.name probe; git config user.email probe@example.invalid
+          git checkout --orphan probe-jp-out && git rm -rqf --cached . && git add out && git commit -qm sonde && git push -f origin probe-jp-out

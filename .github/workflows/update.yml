@@ -37,5 +37,17 @@ jobs:
             echo "Rien de nouveau."
           else
             git commit -m "Catalogue : mise à jour automatique $(date -u +%F)"
-            git push
+            # main a pu bouger pendant la mise à jour (fusion, modification à la main) :
+            # on recolle notre commit sur la dernière version avant de publier.
+            # En cas de conflit sur un fichier, la version que l'on vient de générer l'emporte.
+            for essai in 1 2 3; do
+              git fetch --depth=50 origin main
+              if git rebase -X theirs origin/main && git push origin HEAD:main; then
+                exit 0
+              fi
+              git rebase --abort 2>/dev/null || true
+              echo "Publication refusée (essai $essai), nouvel essai dans 15 s."
+              sleep 15
+            done
+            exit 1
           fi

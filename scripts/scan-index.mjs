@@ -99,6 +99,26 @@ async function pokemon(appLang, tcgLang) {
     });
 }
 
+/**
+ * Cartes japonaises du site officiel (cards/pokemon-ja, jp-cards.mjs) : extensions absentes de TCGdex.
+ * Variantes déduites : cartes au-delà du total imprimé et Pokémon ex/V/GX en holo, les autres normales.
+ */
+async function pokemonJaOfficial(skip) {
+  const index = await readJson("cards/pokemon-ja/index.json", { sets: [] });
+  const out = [];
+  for (const s of index.sets ?? []) {
+    const data = await readJson(s.file, { cards: [] });
+    const set = clean({ id: s.code, name: s.name, official: s.official, date: s.releasedAt });
+    for (const c of data.cards ?? []) {
+      const key = `${s.code}-${c.number}`;
+      if (!c.image || skip.has(key)) continue;
+      const holo = (s.official && Number(c.number) > s.official) || /(ex|ＥＸ|GX|V|VMAX|VSTAR)$/i.test(c.name);
+      out.push({ key, img: c.image, set, rec: clean({ localId: c.number, name: c.name, variants: holo ? { holo: true } : { normal: true } }) });
+    }
+  }
+  return out;
+}
+
 /** retire les champs vides (fichiers plus légers) */
 function clean(o) {
   if (Array.isArray(o)) return o.map(clean);
@@ -262,7 +282,17 @@ async function tcgcatalog(game) {
 
 /** fichiers publiés, dans l'ordre de priorité (le budget de temps s'épuise sur les derniers) */
 const FILES = [
-  ...POKEMON_LANGS.slice(0, 3).map(([l, t]) => ({ game: "pokemon", lang: l, list: () => pokemon(l, t) })),
+  ...POKEMON_LANGS.slice(0, 3).map(([l, t]) => ({
+    game: "pokemon",
+    lang: l,
+    list: async () => {
+      const tcgdex = await pokemon(l, t);
+      if (l !== "ja") return tcgdex;
+      // japonais : les extensions récentes du site officiel d'abord (absentes de TCGdex)
+      const official = await pokemonJaOfficial(new Set(tcgdex.map((e) => e.key)));
+      return [...official, ...tcgdex];
+    }
+  })),
   { game: "onepiece", lang: "en", list: () => onepiece("en") },
   { game: "onepiece", lang: "ja", list: () => onepiece("ja") },
   { game: "onepiece", lang: "fr", list: () => onepiece("fr") },

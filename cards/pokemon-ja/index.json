@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14",
+  "updatedAt": "2026-10-15",
   "sets": [
     {
       "code": "M6a",
@@ -42,9 +42,9 @@
       "name": "ムニキスゼロ",
       "official": 80,
       "releasedAt": "2026-01-23",
-      "count": 101,
+      "count": 117,
       "file": "cards/pokemon-ja/M3.json",
-      "version": "2792f2880a0b"
+      "version": "9cb5cd732395"
     },
     {
       "code": "M2a",
@@ -60,9 +60,9 @@
       "name": "インフェルノX",
       "official": 80,
       "releasedAt": "2025-09-26",
-      "count": 102,
+      "count": 116,
       "file": "cards/pokemon-ja/M2.json",
-      "version": "397ed1d7a612"
+      "version": "f107c6b37ea3"
     },
     {
       "code": "SV10",
@@ -87,9 +87,9 @@
       "name": "VSTARユニバース",
       "official": 172,
       "releasedAt": "2022-12-02",
-      "count": 333,
+      "count": 343,
       "file": "cards/pokemon-ja/S12a.json",
-      "version": "0df1fd9cfa58"
+      "version": "374d7ffe1fab"
     },
     {
       "code": "S11a",
@@ -123,18 +123,18 @@
       "name": "バトルリージョン",
       "official": 67,
       "releasedAt": "2022-02-25",
-      "count": 135,
+      "count": 138,
       "file": "cards/pokemon-ja/S9a.json",
-      "version": "ac84258903e4"
+      "version": "4cd4800a1914"
     },
     {
       "code": "S8b",
       "name": "VMAXクライマックス",
       "official": 184,
       "releasedAt": "2021-12-03",
-      "count": 263,
+      "count": 271,
       "file": "cards/pokemon-ja/S8b.json",
-      "version": "b0bf7e347409"
+      "version": "b824a18ac7ec"
     },
     {
       "code": "S8",
@@ -174,7 +174,7 @@
     },
     {
       "code": "S4",
-      "name": "仰天のボルテッカー ",
+      "name": "仰天のボルテッカー",
       "official": 100,
       "releasedAt": "2020-09-18",
       "count": 111,
@@ -186,9 +186,9 @@
       "name": "伝説の鼓動",
       "official": 76,
       "releasedAt": "2020-07-10",
-      "count": 71,
+      "count": 85,
       "file": "cards/pokemon-ja/S3a.json",
-      "version": "391442f3bb37"
+      "version": "e6f1d93fe8fa"
     },
     {
       "code": "S3",
@@ -231,9 +231,9 @@
       "name": "TAG TEAM GX タッグオールスターズ",
       "official": 173,
       "releasedAt": "2019-10-04",
-      "count": 200,
+      "count": 210,
       "file": "cards/pokemon-ja/SM12a.json",
-      "version": "1901bbe2cd65"
+      "version": "1ff931c94106"
     },
     {
       "code": "SM10a",
@@ -246,7 +246,7 @@
     },
     {
       "code": "S8a-P",
-      "name": "プロモカードパック「25th ANNIVERSARY edition」",
+      "name": "プロモカードパック25th ANNIVERSARY edition",
       "official": 25,
       "count": 25,
       "file": "cards/pokemon-ja/S8a-P.json",
@@ -288,9 +288,9 @@
       "code": "MC",
       "name": "スタートデッキ100 バトルコレクション",
       "official": 742,
-      "count": 760,
+      "count": 766,
       "file": "cards/pokemon-ja/MC.json",
-      "version": "80adbd71e149"
+      "version": "63854f599558"
     },
     {
       "code": "MBD",
@@ -325,15 +325,15 @@
     },
     {
       "code": "M1S",
-      "name": "「メガシンフォニア」",
+      "name": "メガシンフォニア",
       "official": 63,
-      "count": 90,
+      "count": 92,
       "file": "cards/pokemon-ja/M1S.json",
-      "version": "658e4ac9e474"
+      "version": "0212cdef23e1"
     },
     {
       "code": "M1L",
-      "name": "「メガブレイブ」",
+      "name": "メガブレイブ",
       "official": 63,
       "count": 92,
       "file": "cards/pokemon-ja/M1L.json",
@@ -341,7 +341,7 @@
     },
     {
       "code": "SV11W",
-      "name": "「ホワイトフレア」",
+      "name": "ホワイトフレア",
       "official": 86,
       "count": 174,
       "file": "cards/pokemon-ja/SV11W.json",
@@ -349,11 +349,11 @@
     },
     {
       "code": "SV11B",
-      "name": "「ブラックボルト」",
+      "name": "ブラックボルト",
       "official": 86,
-      "count": 166,
+      "count": 174,
       "file": "cards/pokemon-ja/SV11B.json",
-      "version": "15785cecd09d"
+      "version": "d7c740dbce48"
     },
     {
       "code": "SVOD",
@@ -373,7 +373,7 @@
     },
     {
       "code": "SVN",
-      "name": "デッキビルドBOX「バトルパートナーズ」",
+      "name": "デッキビルドBOXバトルパートナーズ",
       "official": 45,
       "count": 45,
       "file": "cards/pokemon-ja/SVN.json",
@@ -383,9 +383,9 @@
       "code": "SVM",
       "name": "スタートデッキGenerations ピカチュウex・カビゴンex",
       "official": 175,
-      "count": 161,
+      "count": 175,
       "file": "cards/pokemon-ja/SVM.json",
-      "version": "7c175194f107"
+      "version": "1cbf7179bf9a"
     },
     {
       "code": "SVJP",
@@ -420,7 +420,7 @@
     },
     {
       "code": "SVHM",
-      "name": "＆ビルドセット「未来のミライドンex」",
+      "name": "＆ビルドセット未来のミライドンex",
       "official": 53,
       "count": 53,
       "file": "cards/pokemon-ja/SVHM.json",
@@ -428,7 +428,7 @@
     },
     {
       "code": "SVHK",
-      "name": "＆ビルドセット「古代のコライドンex」",
+      "name": "＆ビルドセット古代のコライドンex",
       "official": 53,
       "count": 53,
       "file": "cards/pokemon-ja/SVHK.json",
@@ -436,7 +436,7 @@
     },
     {
       "code": "SV5M",
-      "name": "「サイバージャッジ」",
+      "name": "サイバージャッジ",
       "official": 71,
       "count": 100,
       "file": "cards/pokemon-ja/SV5M.json",
@@ -452,7 +452,7 @@
     },
     {
       "code": "SVEL",
-      "name": "テラスタル「ミュウツーex」「ラウドボーンex」",
+      "name": "テラスタルミュウツーexラウドボーンex",
       "official": 20,
       "count": 22,
       "file": "cards/pokemon-ja/SVEL.json",
@@ -460,7 +460,7 @@
     },
     {
       "code": "SVEM",
-      "name": "テラスタル「ミュウツーex」「ラウドボーンex」",
+      "name": "テラスタルミュウツーexラウドボーンex",
       "official": 20,
       "count": 22,
       "file": "cards/pokemon-ja/SVEM.json",
@@ -476,7 +476,7 @@
     },
     {
       "code": "WCS23",
-      "name": "ポケモンワールドチャンピオンシップス2023横浜 記念デッキ「ピカチュウ」",
+      "name": "ポケモンワールドチャンピオンシップス2023横浜 記念デッキピカチュウ",
       "official": 30,
       "count": 30,
       "file": "cards/pokemon-ja/WCS23.json",
@@ -486,9 +486,9 @@
       "code": "SVD",
       "name": "exスタートデッキ 草 ジュナイパー",
       "official": 139,
-      "count": 133,
+      "count": 139,
       "file": "cards/pokemon-ja/SVD.json",
-      "version": "6dc91656b08c"
+      "version": "5b0eb16274ff"
     },
     {
       "code": "SVP1",
@@ -581,21 +581,21 @@
       "code": "S8a-G",
       "name": "25th ANNIVERSARY GOLDEN BOX",
       "official": 15,
-      "count": 10,
+      "count": 15,
       "file": "cards/pokemon-ja/S8a-G.json",
-      "version": "4066f5e29181"
+      "version": "56ea94f2f2b9"
     },
     {
       "code": "S10D",
-      "name": "「タイムゲイザー」",
+      "name": "タイムゲイザー",
       "official": 67,
-      "count": 77,
+      "count": 88,
       "file": "cards/pokemon-ja/S10D.json",
-      "version": "9f341ca17dff"
+      "version": "8b09923c8b90"
     },
     {
       "code": "SLD",
-      "name": "VSTAR「ダークライ」",
+      "name": "VSTARダークライ",
       "official": 20,
       "count": 20,
       "file": "cards/pokemon-ja/SLD.json",
@@ -603,7 +603,7 @@
     },
     {
       "code": "SLL",
-      "name": "VSTAR「ルカリオ」",
+      "name": "VSTARルカリオ",
       "official": 21,
       "count": 21,
       "file": "cards/pokemon-ja/SLL.json",
@@ -637,17 +637,17 @@
       "code": "SJ",
       "name": "スペシャルデッキセット ザシアン・ザマゼンタ vs ムゲンダイナ",
       "official": 28,
-      "count": 27,
+      "count": 30,
       "file": "cards/pokemon-ja/SJ.json",
-      "version": "d02e0c004abf"
+      "version": "eda8b767759f"
     },
     {
       "code": "S8a",
-      "name": "「25th ANNIVERSARY COLLECTION」",
+      "name": "25th ANNIVERSARY COLLECTION",
       "official": 28,
-      "count": 25,
+      "count": 26,
       "file": "cards/pokemon-ja/S8a.json",
-      "version": "c737cafe5a2f"
+      "version": "a53638fce702"
     },
     {
       "code": "SP5",
@@ -667,15 +667,15 @@
     },
     {
       "code": "S7R",
-      "name": "「蒼空ストリーム」",
+      "name": "蒼空ストリーム",
       "official": 67,
-      "count": 67,
+      "count": 79,
       "file": "cards/pokemon-ja/S7R.json",
-      "version": "73e3cbac8fb1"
+      "version": "c63836816674"
     },
     {
       "code": "S7D",
-      "name": "「摩天パーフェクト」",
+      "name": "摩天パーフェクト",
       "official": 67,
       "count": 79,
       "file": "cards/pokemon-ja/S7D.json",
@@ -691,7 +691,7 @@
     },
     {
       "code": "SGI",
-      "name": "ハイクラスデッキ「インテレオンVMAX」",
+      "name": "ハイクラスデッキインテレオンVMAX",
       "official": 22,
       "count": 23,
       "file": "cards/pokemon-ja/SGI.json",
@@ -699,7 +699,7 @@
     },
     {
       "code": "SGG",
-      "name": "ハイクラスデッキ「ゲンガーVMAX」",
+      "name": "ハイクラスデッキゲンガーVMAX",
       "official": 19,
       "count": 20,
       "file": "cards/pokemon-ja/SGG.json",
@@ -715,7 +715,7 @@
     },
     {
       "code": "S6K",
-      "name": "「漆黒のガイスト」",
+      "name": "漆黒のガイスト",
       "official": 70,
       "count": 83,
       "file": "cards/pokemon-ja/S6K.json",
@@ -723,11 +723,11 @@
     },
     {
       "code": "S6H",
-      "name": "「白銀のランス」",
+      "name": "白銀のランス",
       "official": 70,
-      "count": 81,
+      "count": 83,
       "file": "cards/pokemon-ja/S6H.json",
-      "version": "402b10ddbb42"
+      "version": "6e772ed3ad8f"
     },
     {
       "code": "SF",
@@ -739,7 +739,7 @@
     },
     {
       "code": "S5R",
-      "name": "「連撃マスター」",
+      "name": "連撃マスター",
       "official": 70,
       "count": 81,
       "file": "cards/pokemon-ja/S5R.json",
@@ -747,7 +747,7 @@
     },
     {
       "code": "S5I",
-      "name": "「一撃マスター」",
+      "name": "一撃マスター",
       "official": 70,
       "count": 81,
       "file": "cards/pokemon-ja/S5I.json",
@@ -765,17 +765,17 @@
       "code": "SEF",
       "name": "VMAX フシギバナ",
       "official": 21,
-      "count": 14,
+      "count": 21,
       "file": "cards/pokemon-ja/SEF.json",
-      "version": "f13eefa8ea6b"
+      "version": "9aed9994ea65"
     },
     {
       "code": "SEK",
       "name": "VMAX カメックス",
       "official": 20,
-      "count": 17,
+      "count": 20,
       "file": "cards/pokemon-ja/SEK.json",
-      "version": "0e6f4daee7da"
+      "version": "66c2061e9445"
     },
     {
       "code": "SP2",
@@ -803,11 +803,11 @@
     },
     {
       "code": "SP1",
-      "name": "「ザシアン＋ザマゼンタBOX」",
+      "name": "ザシアン＋ザマゼンタBOX",
       "official": 7,
-      "count": 4,
+      "count": 7,
       "file": "cards/pokemon-ja/SP1.json",
-      "version": "bad2afde947f"
+      "version": "b13d36cc3972"
     },
     {
       "code": "SB",
@@ -819,7 +819,7 @@
     },
     {
       "code": "S1H",
-      "name": "「シールド」",
+      "name": "シールド",
       "official": 60,
       "count": 68,
       "file": "cards/pokemon-ja/S1H.json",
@@ -827,7 +827,7 @@
     },
     {
       "code": "S1W",
-      "name": "「ソード」",
+      "name": "ソード",
       "official": 60,
       "count": 68,
       "file": "cards/pokemon-ja/S1W.json",
@@ -836,9 +836,9 @@
     {
       "code": "S-P",
       "name": "楽しもう。春、ポケカ",
-      "count": 304,
+      "count": 316,
       "file": "cards/pokemon-ja/S-P.json",
-      "version": "f4aa49f868fb"
+      "version": "b799a018b9f4"
     },
     {
       "code": "SA",
@@ -850,7 +850,7 @@
     },
     {
       "code": "BW",
-      "name": "「エクストラレギュレーションBOX」",
+      "name": "エクストラレギュレーションBOX",
       "official": 48,
       "count": 15,
       "file": "cards/pokemon-ja/BW.json",
@@ -858,15 +858,15 @@
     },
     {
       "code": "SM12",
-      "name": "「オルタージェネシス」",
+      "name": "オルタージェネシス",
       "official": 95,
-      "count": 102,
+      "count": 108,
       "file": "cards/pokemon-ja/SM12.json",
-      "version": "6cadac0a0948"
+      "version": "cb05d67b18f9"
     },
     {
       "code": "SM11b",
-      "name": "「ドリームリーグ」",
+      "name": "ドリームリーグ",
       "official": 49,
       "count": 68,
       "file": "cards/pokemon-ja/SM11b.json",
@@ -874,7 +874,7 @@
     },
     {
       "code": "SM11a",
-      "name": "「リミックスバウト」",
+      "name": "リミックスバウト",
       "official": 64,
       "count": 73,
       "file": "cards/pokemon-ja/SM11a.json",
@@ -882,7 +882,7 @@
     },
     {
       "code": "SMM",
-      "name": "TAG TEAM GX 「ブラッキー&ダークライGX」",
+      "name": "TAG TEAM GX ブラッキー&ダークライGX",
       "official": 31,
       "count": 31,
       "file": "cards/pokemon-ja/SMM.json",
@@ -890,7 +890,7 @@
     },
     {
       "code": "SM11",
-      "name": "「ミラクルツイン」",
+      "name": "ミラクルツイン",
       "official": 94,
       "count": 106,
       "file": "cards/pokemon-ja/SM11.json",
@@ -898,7 +898,7 @@
     },
     {
       "code": "SMP2",
-      "name": "ムービースペシャルパック「名探偵ピカチュウ」",
+      "name": "ムービースペシャルパック名探偵ピカチュウ",
       "official": 24,
       "count": 25,
       "file": "cards/pokemon-ja/SMP2.json",
@@ -906,7 +906,7 @@
     },
     {
       "code": "SM10b",
-      "name": "「スカイレジェンド」",
+      "name": "スカイレジェンド",
       "official": 54,
       "count": 62,
       "file": "cards/pokemon-ja/SM10b.json",
@@ -914,7 +914,7 @@
     },
     {
       "code": "SMSMP",
-      "name": "ポケモンセンターキョウト移転リニューアル記念「はなびらのまい」キャンペーン",
+      "name": "ポケモンセンターキョウト移転リニューアル記念はなびらのまいキャンペーン",
       "count": 1,
       "file": "cards/pokemon-ja/SMSMP.json",
       "version": "08af5b42b0fe"
@@ -929,7 +929,7 @@
     },
     {
       "code": "SML",
-      "name": "「ファミリーポケモンカードゲーム」",
+      "name": "ファミリーポケモンカードゲーム",
       "official": 51,
       "count": 63,
       "file": "cards/pokemon-ja/SML.json",
@@ -937,7 +937,7 @@
     },
     {
       "code": "SMN",
-      "name": "デッキビルドBOX「TAG TEAM GX」",
+      "name": "デッキビルドBOXTAG TEAM GX",
       "official": 29,
       "count": 29,
       "file": "cards/pokemon-ja/SMN.json",
@@ -945,15 +945,15 @@
     },
     {
       "code": "SM10",
-      "name": "「ダブルブレイズ」",
+      "name": "ダブルブレイズ",
       "official": 95,
-      "count": 99,
+      "count": 107,
       "file": "cards/pokemon-ja/SM10.json",
-      "version": "7c28c88b8f99"
+      "version": "206d4878a980"
     },
     {
       "code": "SM9b",
-      "name": "「フルメタルウォール」",
+      "name": "フルメタルウォール",
       "official": 54,
       "count": 62,
       "file": "cards/pokemon-ja/SM9b.json",
@@ -969,7 +969,7 @@
     },
     {
       "code": "SM9a",
-      "name": "ポケモンカードゲーム サン&ムーン 強化拡張パック「ナイトユニゾン」",
+      "name": "ポケモンカードゲーム サン&ムーン 強化拡張パックナイトユニゾン",
       "official": 55,
       "count": 63,
       "file": "cards/pokemon-ja/SM9a.json",
@@ -977,15 +977,15 @@
     },
     {
       "code": "SM9",
-      "name": "「タッグボルト」",
+      "name": "タッグボルト",
       "official": 95,
-      "count": 93,
+      "count": 109,
       "file": "cards/pokemon-ja/SM9.json",
-      "version": "c455ed75b96b"
+      "version": "b540c63599eb"
     },
     {
       "code": "SMI",
-      "name": "「炎のブースターGX」",
+      "name": "炎のブースターGX",
       "official": 38,
       "count": 38,
       "file": "cards/pokemon-ja/SMI.json",
@@ -993,7 +993,7 @@
     },
     {
       "code": "XY7",
-      "name": "ポケモンカードゲームXY 拡張パック「バンデットリング」",
+      "name": "ポケモンカードゲームXY 拡張パックバンデットリング",
       "official": 81,
       "count": 11,
       "file": "cards/pokemon-ja/XY7.json",
@@ -1001,7 +1001,7 @@
     },
     {
       "code": "XY6",
-      "name": "ポケモンカードゲームXY 拡張パック「エメラルドブレイク」",
+      "name": "ポケモンカードゲームXY 拡張パックエメラルドブレイク",
       "official": 78,
       "count": 11,
       "file": "cards/pokemon-ja/XY6.json",
@@ -1009,7 +1009,7 @@
     },
     {
       "code": "SM8b",
-      "name": "「GXウルトラシャイニー」",
+      "name": "GXウルトラシャイニー",
       "official": 150,
       "count": 243,
       "file": "cards/pokemon-ja/SM8b.json",
@@ -1017,7 +1017,7 @@
     },
     {
       "code": "SM8a",
-      "name": "「ダークオーダー」",
+      "name": "ダークオーダー",
       "official": 52,
       "count": 58,
       "file": "cards/pokemon-ja/SM8a.json",
@@ -1025,7 +1025,7 @@
     },
     {
       "code": "SM8",
-      "name": "「超爆インパクト」",
+      "name": "超爆インパクト",
       "official": 95,
       "count": 103,
       "file": "cards/pokemon-ja/SM8.json",
@@ -1033,7 +1033,7 @@
     },
     {
       "code": "SM7b",
-      "name": "「フェアリーライズ」",
+      "name": "フェアリーライズ",
       "official": 50,
       "count": 56,
       "file": "cards/pokemon-ja/SM7b.json",
@@ -1041,7 +1041,7 @@
     },
     {
       "code": "SM7a",
-      "name": "「迅雷スパーク」",
+      "name": "迅雷スパーク",
       "official": 60,
       "count": 66,
       "file": "cards/pokemon-ja/SM7a.json",
@@ -1049,7 +1049,7 @@
     },
     {
       "code": "SMH",
-      "name": "ポケモンカードゲーム サン&ムーン GXスタートデッキ「フェアリーゼルネアス」",
+      "name": "ポケモンカードゲーム サン&ムーン GXスタートデッキフェアリーゼルネアス",
       "official": 131,
       "count": 131,
       "file": "cards/pokemon-ja/SMH.json",
@@ -1057,15 +1057,15 @@
     },
     {
       "code": "SM7",
-      "name": "「裂空のカリスマ」",
+      "name": "裂空のカリスマ",
       "official": 96,
-      "count": 98,
+      "count": 104,
       "file": "cards/pokemon-ja/SM7.json",
-      "version": "cac65793b0e9"
+      "version": "d91a436be729"
     },
     {
       "code": "SM6b",
-      "name": "「チャンピオンロード」",
+      "name": "チャンピオンロード",
       "official": 66,
       "count": 77,
       "file": "cards/pokemon-ja/SM6b.json",
@@ -1073,7 +1073,7 @@
     },
     {
       "code": "SM6a",
-      "name": "「ドラゴンストーム」",
+      "name": "ドラゴンストーム",
       "official": 53,
       "count": 59,
       "file": "cards/pokemon-ja/SM6a.json",
@@ -1081,15 +1081,15 @@
     },
     {
       "code": "SM6",
-      "name": "「禁断の光」",
+      "name": "禁断の光",
       "official": 94,
-      "count": 86,
+      "count": 102,
       "file": "cards/pokemon-ja/SM6.json",
-      "version": "51805f5841de"
+      "version": "9c1f8c192cf5"
     },
     {
       "code": "SMG",
-      "name": "ポケモンカードゲーム サン&ムーン デッキビルドBOX「ウルトラムーン」",
+      "name": "ポケモンカードゲーム サン&ムーン デッキビルドBOXウルトラムーン",
       "official": 41,
       "count": 12,
       "file": "cards/pokemon-ja/SMG.json",
@@ -1097,7 +1097,7 @@
     },
     {
       "code": "SM5p",
-      "name": "「ウルトラフォース」",
+      "name": "ウルトラフォース",
       "official": 50,
       "count": 56,
       "file": "cards/pokemon-ja/SM5p.json",
@@ -1113,7 +1113,7 @@
     },
     {
       "code": "SM5M",
-      "name": "「ウルトラムーン」",
+      "name": "ウルトラムーン",
       "official": 66,
       "count": 72,
       "file": "cards/pokemon-ja/SM5M.json",
@@ -1121,7 +1121,7 @@
     },
     {
       "code": "SM5S",
-      "name": "「ウルトラサン」",
+      "name": "ウルトラサン",
       "official": 66,
       "count": 72,
       "file": "cards/pokemon-ja/SM5S.json",
@@ -1129,7 +1129,7 @@
     },
     {
       "code": "SME",
-      "name": "ポケモンカードゲーム サン＆ムーン スターターセット伝説「ソルガレオGX ルナアーラGX」",
+      "name": "ポケモンカードゲーム サン＆ムーン スターターセット伝説ソルガレオGX ルナアーラGX",
       "official": 21,
       "count": 21,
       "file": "cards/pokemon-ja/SME.json",
@@ -1137,7 +1137,7 @@
     },
     {
       "code": "SM4p",
-      "name": "「GXバトルブースト」",
+      "name": "GXバトルブースト",
       "official": 114,
       "count": 120,
       "file": "cards/pokemon-ja/SM4p.json",
@@ -1145,7 +1145,7 @@
     },
     {
       "code": "SM4S",
-      "name": "「覚醒の勇者」",
+      "name": "覚醒の勇者",
       "official": 50,
       "count": 55,
       "file": "cards/pokemon-ja/SM4S.json",
@@ -1153,7 +1153,7 @@
     },
     {
       "code": "SM4A",
-      "name": "「超次元の暴獣」",
+      "name": "超次元の暴獣",
       "official": 50,
       "count": 55,
       "file": "cards/pokemon-ja/SM4A.json",
@@ -1161,7 +1161,7 @@
     },
     {
       "code": "SM3p",
-      "name": "「ひかる伝説」",
+      "name": "ひかる伝説",
       "official": 72,
       "count": 77,
       "file": "cards/pokemon-ja/SM3p.json",
@@ -1169,7 +1169,7 @@
     },
     {
       "code": "SM3N",
-      "name": "「光を喰らう闇」",
+      "name": "光を喰らう闇",
       "official": 51,
       "count": 57,
       "file": "cards/pokemon-ja/SM3N.json",
@@ -1177,7 +1177,7 @@
     },
     {
       "code": "SM3H",
-      "name": "「闘う虹を見たか」",
+      "name": "闘う虹を見たか",
       "official": 51,
       "count": 57,
       "file": "cards/pokemon-ja/SM3H.json",
@@ -1185,15 +1185,15 @@
     },
     {
       "code": "XY",
-      "name": "「THE BEST OF XY」",
+      "name": "THE BEST OF XY",
       "official": 171,
-      "count": 386,
+      "count": 396,
       "file": "cards/pokemon-ja/XY.json",
-      "version": "d8bdec209633"
+      "version": "40a11a20c0dd"
     },
     {
       "code": "SMD",
-      "name": "ポケモンカードゲーム サン＆ムーン 30枚デッキ対戦セット「サトシVSロケット団」",
+      "name": "ポケモンカードゲーム サン＆ムーン 30枚デッキ対戦セットサトシVSロケット団",
       "official": 26,
       "count": 28,
       "file": "cards/pokemon-ja/SMD.json",
@@ -1201,15 +1201,15 @@
     },
     {
       "code": "SM2p",
-      "name": "「新たなる試練の向こう」",
+      "name": "新たなる試練の向こう",
       "official": 49,
-      "count": 43,
+      "count": 57,
       "file": "cards/pokemon-ja/SM2p.json",
-      "version": "db960c39b226"
+      "version": "e14278028f17"
     },
     {
       "code": "SM2L",
-      "name": "「アローラの月光」",
+      "name": "アローラの月光",
       "official": 50,
       "count": 55,
       "file": "cards/pokemon-ja/SM2L.json",
@@ -1217,7 +1217,7 @@
     },
     {
       "code": "SMC",
-      "name": "ポケモンカードゲーム サン&ムーン「スターターセット改造「カプ・ブルルGX」」",
+      "name": "ポケモンカードゲーム サン&ムーンスターターセット改造カプ・ブルルGX",
       "official": 21,
       "count": 21,
       "file": "cards/pokemon-ja/SMC.json",
@@ -1225,7 +1225,7 @@
     },
     {
       "code": "SM2K",
-      "name": "「キミを待つ島々」",
+      "name": "キミを待つ島々",
       "official": 50,
       "count": 55,
       "file": "cards/pokemon-ja/SM2K.json",
@@ -1233,7 +1233,7 @@
     },
     {
       "code": "SMP1",
-      "name": "月刊コロコロコミック 2017年1月号付録「イワンコ全力デッキ」",
+      "name": "月刊コロコロコミック 2017年1月号付録イワンコ全力デッキ",
       "official": 13,
       "count": 13,
       "file": "cards/pokemon-ja/SMP1.json",
@@ -1241,7 +1241,7 @@
     },
     {
       "code": "SM1p",
-      "name": "「サン＆ムーン」",
+      "name": "サン＆ムーン",
       "official": 51,
       "count": 58,
       "file": "cards/pokemon-ja/SM1p.json",
@@ -1256,7 +1256,7 @@
     },
     {
       "code": "SM-XY",
-      "name": "「プレミアムトレーナーボックス」",
+      "name": "プレミアムトレーナーボックス",
       "official": 18,
       "count": 12,
       "file": "cards/pokemon-ja/SM-XY.json",
@@ -1264,7 +1264,7 @@
     },
     {
       "code": "SMB",
-      "name": "「プレミアムトレーナーボックス」",
+      "name": "プレミアムトレーナーボックス",
       "official": 18,
       "count": 6,
       "file": "cards/pokemon-ja/SMB.json",
@@ -1272,7 +1272,7 @@
     },
     {
       "code": "SMA",
-      "name": "ポケモンカードゲーム サン&ムーン 「スターターセット草 ジュナイパーGX」",
+      "name": "ポケモンカードゲーム サン&ムーン スターターセット草 ジュナイパーGX",
       "official": 59,
       "count": 59,
       "file": "cards/pokemon-ja/SMA.json",
@@ -1280,7 +1280,7 @@
     },
     {
       "code": "SM1M",
-      "name": "ポケモンカードゲーム サン&ムーン 拡張パック「コレクション ムーン」",
+      "name": "ポケモンカードゲーム サン&ムーン 拡張パックコレクション ムーン",
       "official": 60,
       "count": 66,
       "file": "cards/pokemon-ja/SM1M.json",
@@ -1288,7 +1288,7 @@
     },
     {
       "code": "SM1S",
-      "name": "「コレクション サン」",
+      "name": "コレクション サン",
       "official": 60,
       "count": 66,
       "file": "cards/pokemon-ja/SM1S.json",
@@ -1304,7 +1304,7 @@
     },
     {
       "code": "CP6",
-      "name": "ポケモンカードゲームXY BREAK コンセプトパック「ポケットモンスターカードゲーム 拡張パック 20th Anniversary」",
+      "name": "ポケモンカードゲームXY BREAK コンセプトパックポケットモンスターカードゲーム 拡張パック 20th Anniversary",
       "official": 87,
       "count": 99,
       "file": "cards/pokemon-ja/CP6.json",
@@ -1312,7 +1312,7 @@
     },
     {
       "code": "CP5",
-      "name": "ポケモンカードゲームXY BREAK コンセプトパック「幻・伝説ドリームキラコレクション」",
+      "name": "ポケモンカードゲームXY BREAK コンセプトパック幻・伝説ドリームキラコレクション",
       "official": 36,
       "count": 38,
       "file": "cards/pokemon-ja/CP5.json",
@@ -1320,7 +1320,7 @@
     },
     {
       "code": "XY11-Br",
-      "name": "ポケモンカードゲームXY BREAK 拡張パック「冷酷の反逆者」",
+      "name": "ポケモンカードゲームXY BREAK 拡張パック冷酷の反逆者",
       "official": 54,
       "count": 55,
       "file": "cards/pokemon-ja/XY11-Br.json",
@@ -1328,7 +1328,7 @@
     },
     {
       "code": "XY11-Bb",
-      "name": "ポケモンカードゲームXY BREAK 拡張パック「爆熱の闘士」",
+      "name": "ポケモンカードゲームXY BREAK 拡張パック爆熱の闘士",
       "official": 54,
       "count": 55,
       "file": "cards/pokemon-ja/XY11-Bb.json",
@@ -1336,7 +1336,7 @@
     },
     {
       "code": "CP4",
-      "name": "ポケモンカードゲームXY BREAK プレミアムチャンピオンパック「EX×M×BREAK」",
+      "name": "ポケモンカードゲームXY BREAK プレミアムチャンピオンパックEX×M×BREAK",
       "official": 131,
       "count": 129,
       "file": "cards/pokemon-ja/CP4.json",
@@ -1344,7 +1344,7 @@
     },
     {
       "code": "XYH",
-      "name": "ポケモンカードゲームXY BREAK メガバトルデッキ60「メガタブンネEX」",
+      "name": "ポケモンカードゲームXY BREAK メガバトルデッキ60メガタブンネEX",
       "official": 26,
       "count": 26,
       "file": "cards/pokemon-ja/XYH.json",
@@ -1352,7 +1352,7 @@
     },
     {
       "code": "XYG",
-      "name": "ポケモンカードゲームXY BREAK パーフェクトバトルデッキ60「ジガルデEX」",
+      "name": "ポケモンカードゲームXY BREAK パーフェクトバトルデッキ60ジガルデEX",
       "official": 19,
       "count": 18,
       "file": "cards/pokemon-ja/XYG.json",
@@ -1360,15 +1360,15 @@
     },
     {
       "code": "XY10-B",
-      "name": "ポケモンカードゲームXY BREAK 拡張パック「めざめる超王」",
+      "name": "ポケモンカードゲームXY BREAK 拡張パックめざめる超王",
       "official": 78,
-      "count": 69,
+      "count": 83,
       "file": "cards/pokemon-ja/XY10-B.json",
-      "version": "f12fa4f81a63"
+      "version": "8fe00c3d6f50"
     },
     {
       "code": "20th",
-      "name": "ポケモンカードゲームXY BREAK 「ポケットモンスターカードゲーム スターターパック」",
+      "name": "ポケモンカードゲームXY BREAK ポケットモンスターカードゲーム スターターパック",
       "official": 72,
       "count": 77,
       "file": "cards/pokemon-ja/20th.json",
@@ -1376,7 +1376,7 @@
     },
     {
       "code": "CP3",
-      "name": "ポケモンカードゲームXY BREAK コンセプトパック「ポケキュンコレクション」",
+      "name": "ポケモンカードゲームXY BREAK コンセプトパックポケキュンコレクション",
       "official": 32,
       "count": 32,
       "file": "cards/pokemon-ja/CP3.json",
@@ -1384,15 +1384,15 @@
     },
     {
       "code": "XY9-B",
-      "name": "ポケモンカードゲームXY BREAK 拡張パック「破天の怒り」",
+      "name": "ポケモンカードゲームXY BREAK 拡張パック破天の怒り",
       "official": 80,
-      "count": 75,
+      "count": 85,
       "file": "cards/pokemon-ja/XY9-B.json",
-      "version": "af2c3e033d37"
+      "version": "4f2fa2bd368e"
     },
     {
       "code": "XYF",
-      "name": "ポケモンカードゲームXY BREAK コンボデッキ60「ゴルダックBREAK+パルキアEX」",
+      "name": "ポケモンカードゲームXY BREAK コンボデッキ60ゴルダックBREAK+パルキアEX",
       "official": 16,
       "count": 15,
       "file": "cards/pokemon-ja/XYF.json",
@@ -1400,7 +1400,7 @@
     },
     {
       "code": "SNPo",
-      "name": "ポケモンカードゲームXY BREAK 進化パック「オンバーンBREAK」",
+      "name": "ポケモンカードゲームXY BREAK 進化パックオンバーンBREAK",
       "official": 10,
       "count": 9,
       "file": "cards/pokemon-ja/SNPo.json",
@@ -1408,7 +1408,7 @@
     },
     {
       "code": "SNPr",
-      "name": "ポケモンカードゲームXY BREAK 進化パック「ライチュウBREAK」",
+      "name": "ポケモンカードゲームXY BREAK 進化パックライチュウBREAK",
       "official": 10,
       "count": 9,
       "file": "cards/pokemon-ja/SNPr.json",
@@ -1416,7 +1416,7 @@
     },
     {
       "code": "XY8-Br",
-      "name": "ポケモンカードゲームXY BREAK 拡張パック「赤い閃光」",
+      "name": "ポケモンカードゲームXY BREAK 拡張パック赤い閃光",
       "official": 59,
       "count": 62,
       "file": "cards/pokemon-ja/XY8-Br.json",
@@ -1424,7 +1424,7 @@
     },
     {
       "code": "XY8-Bb",
-      "name": "ポケモンカードゲームXY BREAK 拡張パック「青い衝撃」",
+      "name": "ポケモンカードゲームXY BREAK 拡張パック青い衝撃",
       "official": 59,
       "count": 62,
       "file": "cards/pokemon-ja/XY8-Bb.json",
@@ -1432,7 +1432,7 @@
     },
     {
       "code": "MMB-S",
-      "name": "ポケモンカードゲームXY 「メガマスターデッキビルドBOX スピードスタイル」",
+      "name": "ポケモンカードゲームXY メガマスターデッキビルドBOX スピードスタイル",
       "official": 49,
       "count": 49,
       "file": "cards/pokemon-ja/MMB-S.json",
@@ -1440,7 +1440,7 @@
     },
     {
       "code": "MMB-P",
-      "name": "ポケモンカードゲームXY 「メガマスターデッキビルドBOX パワースタイル」",
+      "name": "ポケモンカードゲームXY メガマスターデッキビルドBOX パワースタイル",
       "official": 49,
       "count": 49,
       "file": "cards/pokemon-ja/MMB-P.json",
@@ -1448,7 +1448,7 @@
     },
     {
       "code": "XYE",
-      "name": "ポケモンカードゲームXY 対戦スタートセット30「エンブオーEX VS トゲキッスEX」",
+      "name": "ポケモンカードゲームXY 対戦スタートセット30エンブオーEX VS トゲキッスEX",
       "official": 22,
       "count": 28,
       "file": "cards/pokemon-ja/XYE.json",
@@ -1456,7 +1456,7 @@
     },
     {
       "code": "CP2",
-      "name": "ポケモンカードゲームXY コンセプトパック「伝説キラコレクション」",
+      "name": "ポケモンカードゲームXY コンセプトパック伝説キラコレクション",
       "official": 27,
       "count": 27,
       "file": "cards/pokemon-ja/CP2.json",
@@ -1464,7 +1464,7 @@
     },
     {
       "code": "XY7-B",
-      "name": "ポケモンカードゲームXY 拡張パック「バンデットリング」",
+      "name": "ポケモンカードゲームXY 拡張パックバンデットリング",
       "official": 81,
       "count": 84,
       "file": "cards/pokemon-ja/XY7-B.json",
@@ -1472,7 +1472,7 @@
     },
     {
       "code": "XYD",
-      "name": "ポケモンカードゲームXY メガバトルデッキ60「 レックウザEX」",
+      "name": "ポケモンカードゲームXY メガバトルデッキ60 レックウザEX",
       "official": 18,
       "count": 18,
       "file": "cards/pokemon-ja/XYD.json",
@@ -1480,7 +1480,7 @@
     },
     {
       "code": "XY6-B",
-      "name": "ポケモンカードゲームXY 拡張パック「エメラルドブレイク」",
+      "name": "ポケモンカードゲームXY 拡張パックエメラルドブレイク",
       "official": 78,
       "count": 78,
       "file": "cards/pokemon-ja/XY6-B.json",
@@ -1488,7 +1488,7 @@
     },
     {
       "code": "CP1",
-      "name": "ポケモンカードゲームXY コンセプトパック「マグマ団VSアクア団 ダブルクライシス」",
+      "name": "ポケモンカードゲームXY コンセプトパックマグマ団VSアクア団 ダブルクライシス",
       "official": 34,
       "count": 34,
       "file": "cards/pokemon-ja/CP1.json",
@@ -1496,7 +1496,7 @@
     },
     {
       "code": "XY5-Bt",
-      "name": "ポケモンカードゲームXY 拡張パック「タイダルストーム」",
+      "name": "ポケモンカードゲームXY 拡張パックタイダルストーム",
       "official": 70,
       "count": 78,
       "file": "cards/pokemon-ja/XY5-Bt.json",
@@ -1504,7 +1504,7 @@
     },
     {
       "code": "XY5-Bg",
-      "name": "ポケモンカードゲームXY 拡張パック「ガイアボルケーノ」",
+      "name": "ポケモンカードゲームXY 拡張パックガイアボルケーノ",
       "official": 70,
       "count": 78,
       "file": "cards/pokemon-ja/XY5-Bg.json",
@@ -1512,7 +1512,7 @@
     },
     {
       "code": "XYC",
-      "name": "ポケモンカードゲームXY スーパーレジェンドセット60「ゼルネアスEX・イベルタルEX」",
+      "name": "ポケモンカードゲームXY スーパーレジェンドセット60ゼルネアスEX・イベルタルEX",
       "official": 23,
       "count": 23,
       "file": "cards/pokemon-ja/XYC.json",
@@ -1520,7 +1520,7 @@
     },
     {
       "code": "XYB",
-      "name": "ポケモンカードゲームXY ハイパーメタルチェーンデッキ60「ディアルガEX+ギルガルドEX」",
+      "name": "ポケモンカードゲームXY ハイパーメタルチェーンデッキ60ディアルガEX+ギルガルドEX",
       "official": 18,
       "count": 18,
       "file": "cards/pokemon-ja/XYB.json",
@@ -1528,7 +1528,7 @@
     },
     {
       "code": "XY4",
-      "name": "ポケモンカードゲームXY 拡張パック「ファントムゲート」",
+      "name": "ポケモンカードゲームXY 拡張パックファントムゲート",
       "official": 88,
       "count": 95,
       "file": "cards/pokemon-ja/XY4.json",
@@ -1536,15 +1536,15 @@
     },
     {
       "code": "XY3",
-      "name": "ポケモンカードゲームXY 拡張パック「ライジングフィスト」",
+      "name": "ポケモンカードゲームXY 拡張パックライジングフィスト",
       "official": 96,
-      "count": 89,
+      "count": 103,
       "file": "cards/pokemon-ja/XY3.json",
-      "version": "926848d95181"
+      "version": "6c31f7928a28"
     },
     {
       "code": "XYA",
-      "name": "ポケモンカードゲームXY メガバトルデッキ60「 リザードンEX」",
+      "name": "ポケモンカードゲームXY メガバトルデッキ60 リザードンEX",
       "official": 21,
       "count": 21,
       "file": "cards/pokemon-ja/XYA.json",
@@ -1552,7 +1552,7 @@
     },
     {
       "code": "XY2",
-      "name": "ポケモンカードゲームXY 拡張パック「ワイルドブレイズ」",
+      "name": "ポケモンカードゲームXY 拡張パックワイルドブレイズ",
       "official": 80,
       "count": 87,
       "file": "cards/pokemon-ja/XY2.json",
@@ -1560,15 +1560,15 @@
     },
     {
       "code": "Y30",
-      "name": "ポケモンカードゲームXY 「イベルタルデッキ30」",
+      "name": "ポケモンカードゲームXY イベルタルデッキ30",
       "official": 14,
-      "count": 6,
+      "count": 14,
       "file": "cards/pokemon-ja/Y30.json",
-      "version": "55865f1671c5"
+      "version": "f5a9007380b8"
     },
     {
       "code": "X30",
-      "name": "ポケモンカードゲームXY 「ゼルネアスデッキ30」",
+      "name": "ポケモンカードゲームXY ゼルネアスデッキ30",
       "official": 14,
       "count": 14,
       "file": "cards/pokemon-ja/X30.json",
@@ -1577,13 +1577,13 @@
     {
       "code": "XYP",
       "name": "エネルギーカード付きカードボックス ゼルネアス・イベルタル",
-      "count": 299,
+      "count": 300,
       "file": "cards/pokemon-ja/XYP.json",
-      "version": "6593ead2d0dc"
+      "version": "021b20adbcc1"
     },
     {
       "code": "XY1-By",
-      "name": "ポケモンカードゲームXY 拡張パック「コレクションY」",
+      "name": "ポケモンカードゲームXY 拡張パックコレクションY",
       "official": 60,
       "count": 63,
       "file": "cards/pokemon-ja/XY1-By.json",
@@ -1591,7 +1591,7 @@
     },
     {
       "code": "XY1-Bx",
-      "name": "ポケモンカードゲームXY 拡張パック「コレクションX」",
+      "name": "ポケモンカードゲームXY 拡張パックコレクションX",
       "official": 60,
       "count": 63,
       "file": "cards/pokemon-ja/XY1-Bx.json",
@@ -1607,7 +1607,7 @@
     },
     {
       "code": "BW10-B",
-      "name": "ポケモンカードゲームBW コンセプトパック「EXバトルブースト」",
+      "name": "ポケモンカードゲームBW コンセプトパックEXバトルブースト",
       "official": 93,
       "count": 93,
       "file": "cards/pokemon-ja/BW10-B.json",
@@ -1615,7 +1615,7 @@
     },
     {
       "code": "MG",
-      "name": "ポケモンカードゲームBW 30枚デッキ対戦set「ミュウツーVSゲノセクト」",
+      "name": "ポケモンカードゲームBW 30枚デッキ対戦setミュウツーVSゲノセクト",
       "official": 16,
       "count": 32,
       "file": "cards/pokemon-ja/MG.json",
@@ -1623,7 +1623,7 @@
     },
     {
       "code": "BW9-B",
-      "name": "ポケモンカードゲームBW 拡張パック「メガロキャノン」",
+      "name": "ポケモンカードゲームBW 拡張パックメガロキャノン",
       "official": 76,
       "count": 76,
       "file": "cards/pokemon-ja/BW9-B.json",
@@ -1631,7 +1631,7 @@
     },
     {
       "code": "KK",
-      "name": "ポケモンカードゲームBW 「最強爆流コンボデッキ60 カメックス＋キュレムEX」",
+      "name": "ポケモンカードゲームBW 最強爆流コンボデッキ60 カメックス＋キュレムEX",
       "official": 18,
       "count": 18,
       "file": "cards/pokemon-ja/KK.json",
@@ -1639,7 +1639,7 @@
     },
     {
       "code": "SC",
-      "name": "ポケモンカードゲームBW コンセプトパック「シャイニーコレクション」",
+      "name": "ポケモンカードゲームBW コンセプトパックシャイニーコレクション",
       "official": 20,
       "count": 20,
       "file": "cards/pokemon-ja/SC.json",
@@ -1647,7 +1647,7 @@
     },
     {
       "code": "BW8-Brn",
-      "name": "ポケモンカードゲームBW 拡張パック「ライデンナックル」",
+      "name": "ポケモンカードゲームBW 拡張パックライデンナックル",
       "official": 51,
       "count": 51,
       "file": "cards/pokemon-ja/BW8-Brn.json",
@@ -1655,7 +1655,7 @@
     },
     {
       "code": "BW8-Brf",
-      "name": "ポケモンカードゲームBW 拡張パック「ラセンフォース」",
+      "name": "ポケモンカードゲームBW 拡張パックラセンフォース",
       "official": 51,
       "count": 51,
       "file": "cards/pokemon-ja/BW8-Brf.json",
@@ -1679,7 +1679,7 @@
     },
     {
       "code": "BKW",
-      "name": "ポケモンカードゲームBW バトル強化デッキ60「ホワイトキュレムEX」",
+      "name": "ポケモンカードゲームBW バトル強化デッキ60ホワイトキュレムEX",
       "official": 18,
       "count": 18,
       "file": "cards/pokemon-ja/BKW.json",
@@ -1687,7 +1687,7 @@
     },
     {
       "code": "BKB",
-      "name": "ポケモンカードゲームBW バトル強化デッキ60「ブラックキュレムEX」",
+      "name": "ポケモンカードゲームBW バトル強化デッキ60ブラックキュレムEX",
       "official": 18,
       "count": 18,
       "file": "cards/pokemon-ja/BKB.json",
@@ -1695,7 +1695,7 @@
     },
     {
       "code": "MDB",
-      "name": "ポケモンカードゲームBW 「トッププレイヤーが選ぶ100＋40枚 マスターデッキビルドBOX EX」",
+      "name": "ポケモンカードゲームBW トッププレイヤーが選ぶ100＋40枚 マスターデッキビルドBOX EX",
       "official": 46,
       "count": 46,
       "file": "cards/pokemon-ja/MDB.json",
@@ -1703,7 +1703,7 @@
     },
     {
       "code": "PPD",
-      "name": "ポケモンカードゲームBW 「プラズマ団パワードデッキ30」",
+      "name": "ポケモンカードゲームBW プラズマ団パワードデッキ30",
       "official": 17,
       "count": 17,
       "file": "cards/pokemon-ja/PPD.json",
@@ -1711,7 +1711,7 @@
     },
     {
       "code": "BW7-B",
-      "name": "ポケモンカードゲームBW 拡張パック「プラズマゲイル」",
+      "name": "ポケモンカードゲームBW 拡張パックプラズマゲイル",
       "official": 70,
       "count": 70,
       "file": "cards/pokemon-ja/BW7-B.json",
@@ -1719,7 +1719,7 @@
     },
     {
       "code": "BW6-Bc",
-      "name": "ポケモンカードゲームBW 拡張パック「コールドフレア」",
+      "name": "ポケモンカードゲームBW 拡張パックコールドフレア",
       "official": 59,
       "count": 59,
       "file": "cards/pokemon-ja/BW6-Bc.json",
@@ -1727,11 +1727,11 @@
     },
     {
       "code": "BW6-Bf",
-      "name": "ポケモンカードゲームBW 拡張パック「フリーズボルト」",
+      "name": "ポケモンカードゲームBW 拡張パックフリーズボルト",
       "official": 59,
-      "count": 41,
+      "count": 59,
       "file": "cards/pokemon-ja/BW6-Bf.json",
-      "version": "d1bf0d7dfdaf"
+      "version": "ca531f82730b"
     },
     {
       "code": "HSZm",
@@ -1759,7 +1759,7 @@
     },
     {
       "code": "KLD",
-      "name": "ポケモンカードゲームBW バトル強化デッキ30「ケルディオ」",
+      "name": "ポケモンカードゲームBW バトル強化デッキ30ケルディオ",
       "official": 15,
       "count": 15,
       "file": "cards/pokemon-ja/KLD.json",
@@ -1767,7 +1767,7 @@
     },
     {
       "code": "GBR",
-      "name": "ポケモンカードゲームBW 「ガブリアスデッキ30」",
+      "name": "ポケモンカードゲームBW ガブリアスデッキ30",
       "official": 15,
       "count": 15,
       "file": "cards/pokemon-ja/GBR.json",
@@ -1775,7 +1775,7 @@
     },
     {
       "code": "SZD",
-      "name": "ポケモンカードゲームBW 「サザンドラデッキ30」",
+      "name": "ポケモンカードゲームBW サザンドラデッキ30",
       "official": 15,
       "count": 15,
       "file": "cards/pokemon-ja/SZD.json",
@@ -1783,7 +1783,7 @@
     },
     {
       "code": "BW5-Brn",
-      "name": "ポケモンカードゲームBW 拡張パック「リューノブレード」",
+      "name": "ポケモンカードゲームBW 拡張パックリューノブレード",
       "official": 50,
       "count": 50,
       "file": "cards/pokemon-ja/BW5-Brn.json",
@@ -1791,7 +1791,7 @@
     },
     {
       "code": "BW5-Brz",
-      "name": "ポケモンカードゲームBW 拡張パック「リューズブラスト」",
+      "name": "ポケモンカードゲームBW 拡張パックリューズブラスト",
       "official": 50,
       "count": 50,
       "file": "cards/pokemon-ja/BW5-Brz.json",
@@ -1799,7 +1799,7 @@
     },
     {
       "code": "DS",
-      "name": "ポケモンカードゲームBW 拡張パック「ドラゴンセレクション」",
+      "name": "ポケモンカードゲームBW 拡張パックドラゴンセレクション",
       "official": 20,
       "count": 20,
       "file": "cards/pokemon-ja/DS.json",
@@ -1807,11 +1807,11 @@
     },
     {
       "code": "BW4-B",
-      "name": "ポケモンカードゲームBW 拡張パック「ダークラッシュ」",
+      "name": "ポケモンカードゲームBW 拡張パックダークラッシュ",
       "official": 69,
-      "count": 63,
+      "count": 69,
       "file": "cards/pokemon-ja/BW4-B.json",
-      "version": "149c752662a9"
+      "version": "706b9ad4b3b1"
     },
     {
       "code": "HSPm",
@@ -1839,7 +1839,7 @@
     },
     {
       "code": "BGSv",
-      "name": "ポケモンカードゲームBW バトルギフトセット「ボルトロスVSトルネロス」 （ボルトロスデッキ）",
+      "name": "ポケモンカードゲームBW バトルギフトセットボルトロスVSトルネロス （ボルトロスデッキ）",
       "official": 20,
       "count": 13,
       "file": "cards/pokemon-ja/BGSv.json",
@@ -1847,7 +1847,7 @@
     },
     {
       "code": "BGSt",
-      "name": "ポケモンカードゲームBW バトルギフトセット「ボルトロスVSトルネロス」 （トルネロスデッキ）",
+      "name": "ポケモンカードゲームBW バトルギフトセットボルトロスVSトルネロス （トルネロスデッキ）",
       "official": 20,
       "count": 13,
       "file": "cards/pokemon-ja/BGSt.json",
@@ -1855,7 +1855,7 @@
     },
     {
       "code": "BKZ",
-      "name": "ポケモンカードゲームBW バトル強化デッキ60「ゼクロムEX」",
+      "name": "ポケモンカードゲームBW バトル強化デッキ60ゼクロムEX",
       "official": 18,
       "count": 18,
       "file": "cards/pokemon-ja/BKZ.json",
@@ -1863,7 +1863,7 @@
     },
     {
       "code": "BKR",
-      "name": "ポケモンカードゲームBW バトル強化デッキ60「レシラムEX」",
+      "name": "ポケモンカードゲームBW バトル強化デッキ60レシラムEX",
       "official": 18,
       "count": 18,
       "file": "cards/pokemon-ja/BKR.json",
@@ -1871,7 +1871,7 @@
     },
     {
       "code": "BW3-Bh",
-      "name": "ポケモンカードゲームBW 拡張パック「ヘイルブリザード」",
+      "name": "ポケモンカードゲームBW 拡張パックヘイルブリザード",
       "official": 52,
       "count": 52,
       "file": "cards/pokemon-ja/BW3-Bh.json",
@@ -1879,7 +1879,7 @@
     },
     {
       "code": "BW3-Bp",
-      "name": "ポケモンカードゲームBW 拡張パック「サイコドライブ」",
+      "name": "ポケモンカードゲームBW 拡張パックサイコドライブ",
       "official": 52,
       "count": 52,
       "file": "cards/pokemon-ja/BW3-Bp.json",
@@ -1887,7 +1887,7 @@
     },
     {
       "code": "BW2-B",
-      "name": "ポケモンカードゲームBW 拡張パック「レッドコレクション」",
+      "name": "ポケモンカードゲームBW 拡張パックレッドコレクション",
       "official": 66,
       "count": 66,
       "file": "cards/pokemon-ja/BW2-B.json",
@@ -1895,7 +1895,7 @@
     },
     {
       "code": "BTV",
-      "name": "ポケモンカードゲームBW バトルテーマデッキ「ビクティニ」",
+      "name": "ポケモンカードゲームBW バトルテーマデッキビクティニ",
       "official": 21,
       "count": 23,
       "file": "cards/pokemon-ja/BTV.json",
@@ -1934,7 +1934,7 @@
     },
     {
       "code": "BW1-Bw",
-      "name": "ポケモンカードゲームBW 拡張パック「ホワイトコレクション」",
+      "name": "ポケモンカードゲームBW 拡張パックホワイトコレクション",
       "official": 53,
       "count": 53,
       "file": "cards/pokemon-ja/BW1-Bw.json",
@@ -1942,7 +1942,7 @@
     },
     {
       "code": "BW1-Bb",
-      "name": "ポケモンカードゲームBW 拡張パック「ブラックコレクション」",
+      "name": "ポケモンカードゲームBW 拡張パックブラックコレクション",
       "official": 53,
       "count": 53,
       "file": "cards/pokemon-ja/BW1-Bb.json",
@@ -1998,7 +1998,7 @@
     },
     {
       "code": "L3-B",
-      "name": "ポケモンカードゲームLEGEND 拡張パック「頂上大激突」",
+      "name": "ポケモンカードゲームLEGEND 拡張パック頂上大激突",
       "official": 80,
       "count": 74,
       "file": "cards/pokemon-ja/L3-B.json",
@@ -2006,7 +2006,7 @@
     },
     {
       "code": "LL",
-      "name": "ポケモンカードゲーム 強化パック「ロストリンク」",
+      "name": "ポケモンカードゲーム 強化パックロストリンク",
       "official": 40,
       "count": 38,
       "file": "cards/pokemon-ja/LL.json",
@@ -2014,7 +2014,7 @@
     },
     {
       "code": "L2-B",
-      "name": "ポケモンカードゲームLEGEND 拡張パック「よみがえる伝説」",
+      "name": "ポケモンカードゲームLEGEND 拡張パックよみがえる伝説",
       "official": 80,
       "count": 74,
       "file": "cards/pokemon-ja/L2-B.json",
@@ -2022,19 +2022,19 @@
     },
     {
       "code": "L2-Sh",
-      "name": "ポケモンカードゲームLEGEND 構築スタンダードデッキ「ハガネール鋼」",
+      "name": "ポケモンカードゲームLEGEND 構築スタンダードデッキハガネール鋼",
       "official": 19,
-      "count": 15,
+      "count": 20,
       "file": "cards/pokemon-ja/L2-Sh.json",
-      "version": "b791fa93f439"
+      "version": "86ba28a55c02"
     },
     {
       "code": "L2-Sb",
-      "name": "ポケモンカードゲームLEGEND 構築スタンダードデッキ「バンギラス悪」",
+      "name": "ポケモンカードゲームLEGEND 構築スタンダードデッキバンギラス悪",
       "official": 19,
-      "count": 9,
+      "count": 20,
       "file": "cards/pokemon-ja/L2-Sb.json",
-      "version": "c7756fa057e8"
+      "version": "5cbbf1a98fc4"
     },
     {
       "code": "Br",
@@ -2093,7 +2093,7 @@
     },
     {
       "code": "L1-Bss",
-      "name": "ポケモンカードゲームLEGEND 拡張パック「ソウルシルバーコレクション」",
+      "name": "ポケモンカードゲームLEGEND 拡張パックソウルシルバーコレクション",
       "official": 70,
       "count": 68,
       "file": "cards/pokemon-ja/L1-Bss.json",
@@ -2101,7 +2101,7 @@
     },
     {
       "code": "L1-Bhg",
-      "name": "ポケモンカードゲームLEGEND 拡張パック「ハートゴールドコレクション」",
+      "name": "ポケモンカードゲームLEGEND 拡張パックハートゴールドコレクション",
       "official": 70,
       "count": 68,
       "file": "cards/pokemon-ja/L1-Bhg.json",
@@ -2125,15 +2125,15 @@
     },
     {
       "code": "DPt4-B",
-      "name": "ポケモンカードゲームDPt 拡張パック「アルセウス光臨」",
+      "name": "ポケモンカードゲームDPt 拡張パックアルセウス光臨",
       "official": 90,
-      "count": 84,
+      "count": 90,
       "file": "cards/pokemon-ja/DPt4-B.json",
-      "version": "d9328b7b1ccb"
+      "version": "1c4f47902885"
     },
     {
       "code": "DPt4-Slp",
-      "name": "ポケモンカードゲームDPt 構築スタンダードデッキ「アルセウスLV.X雷＆超」",
+      "name": "ポケモンカードゲームDPt 構築スタンダードデッキアルセウスLV.X雷＆超",
       "official": 17,
       "count": 17,
       "file": "cards/pokemon-ja/DPt4-Slp.json",
@@ -2141,7 +2141,7 @@
     },
     {
       "code": "DPt4-Sgf",
-      "name": "ポケモンカードゲームDPt 構築スタンダードデッキ「アルセウスLV.X草＆炎」",
+      "name": "ポケモンカードゲームDPt 構築スタンダードデッキアルセウスLV.X草＆炎",
       "official": 17,
       "count": 17,
       "file": "cards/pokemon-ja/DPt4-Sgf.json",
@@ -2173,7 +2173,7 @@
     },
     {
       "code": "DPt3-B",
-      "name": "ポケモンカードゲームDPt 拡張パック「フロンティアの鼓動」",
+      "name": "ポケモンカードゲームDPt 拡張パックフロンティアの鼓動",
       "official": 100,
       "count": 100,
       "file": "cards/pokemon-ja/DPt3-B.json",
@@ -2181,7 +2181,7 @@
     },
     {
       "code": "DPt3-Sl",
-      "name": "ポケモンカードゲームDPt 対戦スターターパックSP「ガブリアスVSリザードン」（リザードンデッキ）",
+      "name": "ポケモンカードゲームDPt 対戦スターターパックSPガブリアスVSリザードン（リザードンデッキ）",
       "official": 16,
       "count": 16,
       "file": "cards/pokemon-ja/DPt3-Sl.json",
@@ -2189,7 +2189,7 @@
     },
     {
       "code": "DPt3-Sg",
-      "name": "ポケモンカードゲームDPt 対戦スターターパックSP「ガブリアスVSリザードン」（ガブリアスデッキ）",
+      "name": "ポケモンカードゲームDPt 対戦スターターパックSPガブリアスVSリザードン（ガブリアスデッキ）",
       "official": 16,
       "count": 16,
       "file": "cards/pokemon-ja/DPt3-Sg.json",
@@ -2197,7 +2197,7 @@
     },
     {
       "code": "DPt2-B",
-      "name": "ポケモンカードゲームDPt 拡張パック「時の果ての絆」",
+      "name": "ポケモンカードゲームDPt 拡張パック時の果ての絆",
       "official": 90,
       "count": 90,
       "file": "cards/pokemon-ja/DPt2-B.json",
@@ -2205,7 +2205,7 @@
     },
     {
       "code": "DPt2-Se",
-      "name": "ポケモンカードゲームDPt 対戦スターターパックSP「ゴウカザルVSエルレイド」（エルレイドデッキ）",
+      "name": "ポケモンカードゲームDPt 対戦スターターパックSPゴウカザルVSエルレイド（エルレイドデッキ）",
       "official": 18,
       "count": 18,
       "file": "cards/pokemon-ja/DPt2-Se.json",
@@ -2213,7 +2213,7 @@
     },
     {
       "code": "DPt2-Sg",
-      "name": "ポケモンカードゲームDPt 対戦スターターパックSP「ゴウカザルVSエルレイド」（ゴウカザルデッキ）",
+      "name": "ポケモンカードゲームDPt 対戦スターターパックSPゴウカザルVSエルレイド（ゴウカザルデッキ）",
       "official": 18,
       "count": 18,
       "file": "cards/pokemon-ja/DPt2-Sg.json",
@@ -2260,7 +2260,7 @@
     },
     {
       "code": "DPt1-B",
-      "name": "ポケモンカードゲームDPt 拡張パック「ギンガの覇道」",
+      "name": "ポケモンカードゲームDPt 拡張パックギンガの覇道",
       "official": 96,
       "count": 96,
       "file": "cards/pokemon-ja/DPt1-B.json",
@@ -2300,7 +2300,7 @@
     },
     {
       "code": "DPs-B",
-      "name": "ポケモンカードゲームDP 拡張パック「破空の激闘」",
+      "name": "ポケモンカードゲームDP 拡張パック破空の激闘",
       "official": 92,
       "count": 92,
       "file": "cards/pokemon-ja/DPs-B.json",
@@ -2308,7 +2308,7 @@
     },
     {
       "code": "DPs-S",
-      "name": "ポケモンカードゲームDP 対戦スターターパック「ギラティナVSディアルガ」(ギラティナデッキ)",
+      "name": "ポケモンカードゲームDP 対戦スターターパックギラティナVSディアルガ(ギラティナデッキ)",
       "official": 14,
       "count": 28,
       "file": "cards/pokemon-ja/DPs-S.json",
@@ -2323,7 +2323,7 @@
     },
     {
       "code": "DPP",
-      "name": "明治製菓「ポケモンチョコスナック 第6弾」おまけカード2007年2月",
+      "name": "明治製菓ポケモンチョコスナック 第6弾おまけカード2007年2月",
       "count": 127,
       "file": "cards/pokemon-ja/DPP.json",
       "version": "a4e4710dbda9"

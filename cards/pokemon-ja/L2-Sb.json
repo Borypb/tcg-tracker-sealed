@@ -1,6 +1,6 @@
 {
   "code": "L2-Sb",
-  "name": "ポケモンカードゲームLEGEND 構築スタンダードデッキ「バンギラス悪」",
+  "name": "ポケモンカードゲームLEGEND 構築スタンダードデッキバンギラス悪",
   "official": "019",
   "cards": [
     {
@@ -74,6 +74,86 @@
       "total": "019",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/L2-Sb/025515_P_BANGIRASU.gif",
       "stage": "2 進化"
+    },
+    {
+      "id": 25517,
+      "name": "バンギラス",
+      "number": "009",
+      "total": "019",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L2-Sb/025517_P_BANGIRASU.jpg",
+      "stage": "2 進化"
+    },
+    {
+      "id": 25519,
+      "name": "スカンプー",
+      "number": "010",
+      "total": "019",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L2-Sb/025519_P_SUKANPU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25520,
+      "name": "スカタンク",
+      "number": "011",
+      "total": "019",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L2-Sb/025520_P_SUKATANKU.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 25522,
+      "name": "エネルギー交換装置",
+      "number": "012",
+      "total": "019",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L2-Sb/025522_T_ENERUGIKOUKANSOUCHI.jpg"
+    },
+    {
+      "id": 25524,
+      "name": "ポケモンリバース",
+      "number": "013",
+      "total": "019",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L2-Sb/025524_T_POKEMONRIBASU.jpg"
+    },
+    {
+      "id": 25526,
+      "name": "ウツギはかせの育てかた",
+      "number": "014",
+      "total": "019",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L2-Sb/025526_T_UTSUGIHAKASENOSODATEKATA.jpg"
+    },
+    {
+      "id": 25528,
+      "name": "オーキドはかせの新理論",
+      "number": "015",
+      "total": "019",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L2-Sb/025528_T_OKIDOHAKASENOSHINRIRON.jpg"
+    },
+    {
+      "id": 25530,
+      "name": "ポケモンコレクター",
+      "number": "016",
+      "total": "019",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L2-Sb/025530_T_POKEMONKOREKUTA.jpg"
+    },
+    {
+      "id": 25532,
+      "name": "マサキ",
+      "number": "017",
+      "total": "019",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L2-Sb/025532_T_MASAKI.jpg"
+    },
+    {
+      "id": 25534,
+      "name": "ロケット団の手口",
+      "number": "018",
+      "total": "019",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L2-Sb/025534_T_ROKETTODANNOTEGUCHI.jpg"
+    },
+    {
+      "id": 25536,
+      "name": "特殊悪エネルギー",
+      "number": "019",
+      "total": "019",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L2-Sb/025536_E_TOKUSHUAKUENERUGI.jpg"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "code": "XY9-B",
-  "name": "ポケモンカードゲームXY BREAK 拡張パック「破天の怒り」",
+  "name": "ポケモンカードゲームXY BREAK 拡張パック破天の怒り",
   "official": "080",
   "cards": [
     {
@@ -385,6 +385,86 @@
       "number": "050",
       "total": "080",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY9-B/031522_P_GABAITO.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 31523,
+      "name": "ガブリアス",
+      "number": "051",
+      "total": "080",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY9-B/031523_P_GABURIASU.jpg",
+      "stage": "2 進化"
+    },
+    {
+      "id": 31524,
+      "name": "ヤンチャム",
+      "number": "052",
+      "total": "080",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY9-B/031524_P_YANCHAMU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 31525,
+      "name": "コノハナ",
+      "number": "053",
+      "total": "080",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY9-B/031525_P_KONOHANA.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 31526,
+      "name": "ダーテング",
+      "number": "054",
+      "total": "080",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY9-B/031526_P_DATENGU.jpg",
+      "stage": "2 進化"
+    },
+    {
+      "id": 31527,
+      "name": "ダークライEX",
+      "number": "055",
+      "total": "080",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY9-B/031527_P_DAKURAIEX.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 31528,
+      "name": "ゴロンダ",
+      "number": "056",
+      "total": "080",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY9-B/031528_P_GORONDA.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 31529,
+      "name": "ハッサムEX",
+      "number": "057",
+      "total": "080",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY9-B/031529_P_HASSAMUEX.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 31530,
+      "name": "<span class=\"pcg pcg-megamark\"></span>ハッサムEX",
+      "number": "058",
+      "total": "080",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY9-B/031530_P_MHASSAMUEX.jpg",
+      "stage": "M進化"
+    },
+    {
+      "id": 31531,
+      "name": "テッシード",
+      "number": "059",
+      "total": "080",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY9-B/031531_P_TESSHIDO.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 31532,
+      "name": "ナットレイ",
+      "number": "060",
+      "total": "080",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY9-B/031532_P_NATTOREI.jpg",
       "stage": "1 進化"
     },
     {

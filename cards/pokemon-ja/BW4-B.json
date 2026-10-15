@@ -1,6 +1,6 @@
 {
   "code": "BW4-B",
-  "name": "ポケモンカードゲームBW 拡張パック「ダークラッシュ」",
+  "name": "ポケモンカードゲームBW 拡張パックダークラッシュ",
   "official": "069",
   "cards": [
     {
@@ -185,6 +185,54 @@
       "number": "023",
       "total": "069",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027783_P_SUWANNA.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 27784,
+      "name": "サンダース",
+      "number": "024",
+      "total": "069",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027784_P_SANDASU.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 27785,
+      "name": "ライコウEX",
+      "number": "025",
+      "total": "069",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027785_P_RAIKOUEX.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 27786,
+      "name": "プラスル",
+      "number": "026",
+      "total": "069",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027786_P_PURASURU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 27787,
+      "name": "マイナン",
+      "number": "027",
+      "total": "069",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027787_P_MAINAN.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 27788,
+      "name": "バチュル",
+      "number": "028",
+      "total": "069",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027788_P_BACHURU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 27789,
+      "name": "デンチュラ",
+      "number": "029",
+      "total": "069",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW4-B/027789_P_DENCHURA.jpg",
       "stage": "1 進化"
     },
     {

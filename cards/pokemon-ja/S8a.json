@@ -1,6 +1,6 @@
 {
   "code": "S8a",
-  "name": "「25th ANNIVERSARY COLLECTION」",
+  "name": "25th ANNIVERSARY COLLECTION",
   "official": "028",
   "cards": [
     {
@@ -201,6 +201,13 @@
       "total": "028",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S8a/040090_P_PIKACHIXYUUVUNION.jpg",
       "stage": "V-UNION"
+    },
+    {
+      "id": 40144,
+      "name": "博士の研究",
+      "number": "029",
+      "total": "028",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S8a/040144_T_HAKASENOKENKIXYUUOKIDOHAKASE.jpg"
     }
   ]
 }

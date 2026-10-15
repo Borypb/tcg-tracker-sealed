@@ -1,6 +1,6 @@
 {
   "code": "SM10",
-  "name": "「ダブルブレイズ」",
+  "name": "ダブルブレイズ",
   "official": "095",
   "cards": [
     {
@@ -178,6 +178,70 @@
       "total": "095",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SM10/036341_P_NYOROZO.jpg",
       "stage": "1 進化"
+    },
+    {
+      "id": 36342,
+      "name": "ニョロボン",
+      "number": "023",
+      "total": "095",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SM10/036342_P_NYOROBON.jpg",
+      "stage": "2 進化"
+    },
+    {
+      "id": 36343,
+      "name": "パウワウ",
+      "number": "024",
+      "total": "095",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SM10/036343_P_PAUWAU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 36344,
+      "name": "ジュゴン",
+      "number": "025",
+      "total": "095",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SM10/036344_P_JUGON.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 36345,
+      "name": "クラブ",
+      "number": "026",
+      "total": "095",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SM10/036345_P_KURABU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 36346,
+      "name": "キングラー",
+      "number": "027",
+      "total": "095",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SM10/036346_P_KINGURA.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 36347,
+      "name": "マッギョ",
+      "number": "028",
+      "total": "095",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SM10/036347_P_MAGGYO.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 36348,
+      "name": "ベトベトン&amp;アローラ ベトベトンGX",
+      "number": "029",
+      "total": "095",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SM10/036348_P_BETOBETONARORABETOBETONGX.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 36349,
+      "name": "ゴース",
+      "number": "030",
+      "total": "095",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SM10/036349_P_GOSU.jpg",
+      "stage": "たね"
     },
     {
       "id": 36350,

@@ -4,6 +4,30 @@
   "official": "067",
   "cards": [
     {
+      "id": 41187,
+      "name": "ナゾノクサ",
+      "number": "001",
+      "total": "067",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S9a/041187_P_NAZONOKUSA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 41188,
+      "name": "クサイハナ",
+      "number": "002",
+      "total": "067",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S9a/041188_P_KUSAIHANA.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 41189,
+      "name": "ラフレシア",
+      "number": "003",
+      "total": "067",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S9a/041189_P_RAFURESHIA.jpg",
+      "stage": "2 進化"
+    },
+    {
       "id": 41190,
       "name": "ストライク",
       "number": "004",

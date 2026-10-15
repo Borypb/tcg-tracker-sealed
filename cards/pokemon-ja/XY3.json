@@ -1,6 +1,6 @@
 {
   "code": "XY3",
-  "name": "ポケモンカードゲームXY 拡張パック「ライジングフィスト」",
+  "name": "ポケモンカードゲームXY 拡張パックライジングフィスト",
   "official": "096",
   "cards": [
     {
@@ -618,6 +618,109 @@
       "total": "096",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY3/030452_P_YARUKIMONO.jpg",
       "stage": "1 進化"
+    },
+    {
+      "id": 30453,
+      "name": "ケッキング",
+      "number": "078",
+      "total": "096",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY3/030453_P_KEKKINGU.jpg",
+      "stage": "2 進化"
+    },
+    {
+      "id": 30454,
+      "name": "ミネズミ",
+      "number": "079",
+      "total": "096",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY3/030454_P_MINEZUMI.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 30455,
+      "name": "ミルホッグ",
+      "number": "080",
+      "total": "096",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY3/030455_P_MIRUHOGGU.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 30456,
+      "name": "トルネロス",
+      "number": "081",
+      "total": "096",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY3/030456_P_TORUNEROSU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 30457,
+      "name": "オンバット",
+      "number": "082",
+      "total": "096",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY3/030457_P_ONBATTO.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 30458,
+      "name": "ツールストリップ",
+      "number": "083",
+      "total": "096",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY3/030458_T_TSURUSUTORIPPU.jpg"
+    },
+    {
+      "id": 30459,
+      "name": "メンテナンス",
+      "number": "084",
+      "total": "096",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY3/030459_T_MENTENANSU.jpg"
+    },
+    {
+      "id": 30460,
+      "name": "アゴの化石",
+      "number": "085",
+      "total": "096",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY3/030460_T_AGONOKASEKI.jpg"
+    },
+    {
+      "id": 30461,
+      "name": "ヒレの化石",
+      "number": "086",
+      "total": "096",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY3/030461_T_HIRENOKASEKI.jpg"
+    },
+    {
+      "id": 30462,
+      "name": "輝くガウン",
+      "number": "087",
+      "total": "096",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY3/030462_T_KAGAYAKUGAUN.jpg"
+    },
+    {
+      "id": 30463,
+      "name": "きあいのタスキ",
+      "number": "088",
+      "total": "096",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY3/030463_T_KIAINOTASUKI.jpg"
+    },
+    {
+      "id": 30464,
+      "name": "化石研究員",
+      "number": "089",
+      "total": "096",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY3/030464_T_KASEKIKENKYUUIN.jpg"
+    },
+    {
+      "id": 30465,
+      "name": "コルニ",
+      "number": "090",
+      "total": "096",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY3/030465_T_KORUNI.jpg"
+    },
+    {
+      "id": 30466,
+      "name": "バトルレポーター",
+      "number": "091",
+      "total": "096",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY3/030466_T_BATORUREPOTA.jpg"
     },
     {
       "id": 30467,

@@ -1,6 +1,6 @@
 {
   "code": "SM12",
-  "name": "「オルタージェネシス」",
+  "name": "オルタージェネシス",
   "official": "095",
   "cards": [
     {
@@ -409,6 +409,54 @@
       "number": "051",
       "total": "095",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SM12/037115_P_ARORASANDO.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 37116,
+      "name": "アローラ サンドパン",
+      "number": "052",
+      "total": "095",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SM12/037116_P_ARORASANDOPAN.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 37117,
+      "name": "クチート",
+      "number": "053",
+      "total": "095",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SM12/037117_P_KUCHITO.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 37118,
+      "name": "ダイノーズ",
+      "number": "054",
+      "total": "095",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SM12/037118_P_DAINOZU.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 37119,
+      "name": "ソルガレオ",
+      "number": "055",
+      "total": "095",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SM12/037119_P_SORUGAREO.jpg",
+      "stage": "2 進化"
+    },
+    {
+      "id": 37120,
+      "name": "アローラ キュウコン",
+      "number": "056",
+      "total": "095",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SM12/037120_P_ARORAKYUUKON.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 37121,
+      "name": "ルリリ",
+      "number": "057",
+      "total": "095",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SM12/037121_P_RURIRI.jpg",
       "stage": "たね"
     },
     {

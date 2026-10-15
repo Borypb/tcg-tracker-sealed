@@ -1,6 +1,6 @@
 {
   "code": "SM2p",
-  "name": "「新たなる試練の向こう」",
+  "name": "新たなる試練の向こう",
   "official": "049",
   "cards": [
     {
@@ -145,6 +145,118 @@
       "number": "018",
       "total": "049",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SM2p/033485_P_KAPUREHIREGX.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 33486,
+      "name": "エレブー",
+      "number": "019",
+      "total": "049",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SM2p/033486_P_EREBU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 33487,
+      "name": "エレキブル",
+      "number": "020",
+      "total": "049",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SM2p/033487_P_EREKIBURU.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 33488,
+      "name": "カプ・コケコ",
+      "number": "021",
+      "total": "049",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SM2p/033488_P_KAPUKOKEKO.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 33489,
+      "name": "ヤドン",
+      "number": "022",
+      "total": "049",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SM2p/033489_P_YADON.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 33490,
+      "name": "ヤドキング",
+      "number": "023",
+      "total": "049",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SM2p/033490_P_YADOKINGU.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 33491,
+      "name": "ヤブクロン",
+      "number": "024",
+      "total": "049",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SM2p/033491_P_YABUKURON.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 33492,
+      "name": "ダストダス",
+      "number": "025",
+      "total": "049",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SM2p/033492_P_DASUTODASU.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 33493,
+      "name": "カプ・テテフ",
+      "number": "026",
+      "total": "049",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SM2p/033493_P_KAPUTETEFU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 33494,
+      "name": "ワンリキー",
+      "number": "027",
+      "total": "049",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SM2p/033494_P_WANRIKI.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 33495,
+      "name": "ゴーリキー",
+      "number": "028",
+      "total": "049",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SM2p/033495_P_GORIKI.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 33496,
+      "name": "カイリキーGX",
+      "number": "029",
+      "total": "049",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SM2p/033496_P_KAIRIKIGX.jpg",
+      "stage": "2 進化"
+    },
+    {
+      "id": 33497,
+      "name": "ルナトーン",
+      "number": "030",
+      "total": "049",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SM2p/033497_P_RUNATON.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 33498,
+      "name": "ソルロック",
+      "number": "031",
+      "total": "049",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SM2p/033498_P_SORUROKKU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 33499,
+      "name": "イワンコ",
+      "number": "032",
+      "total": "049",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SM2p/033499_P_IWANKO.jpg",
       "stage": "たね"
     },
     {

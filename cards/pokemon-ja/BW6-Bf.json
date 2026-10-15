@@ -1,6 +1,6 @@
 {
   "code": "BW6-Bf",
-  "name": "ポケモンカードゲームBW 拡張パック「フリーズボルト」",
+  "name": "ポケモンカードゲームBW 拡張パックフリーズボルト",
   "official": "059",
   "cards": [
     {
@@ -50,6 +50,150 @@
       "total": "059",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW6-Bf/028100_P_MITSUHANI.jpg",
       "stage": "たね"
+    },
+    {
+      "id": 28101,
+      "name": "ビークイン",
+      "number": "007",
+      "total": "059",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW6-Bf/028101_P_BIKUIN.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 28102,
+      "name": "モンメン",
+      "number": "008",
+      "total": "059",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW6-Bf/028102_P_MONMEN.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28103,
+      "name": "エルフーン",
+      "number": "009",
+      "total": "059",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW6-Bf/028103_P_ERUFUN.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 28104,
+      "name": "ヒトカゲ",
+      "number": "010",
+      "total": "059",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW6-Bf/028104_P_HITOKAGE.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28105,
+      "name": "リザード",
+      "number": "011",
+      "total": "059",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW6-Bf/028105_P_RIZADO.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 28106,
+      "name": "リザードン",
+      "number": "012",
+      "total": "059",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW6-Bf/028106_P_RIZADON.jpg",
+      "stage": "2 進化"
+    },
+    {
+      "id": 28107,
+      "name": "ダルマッカ",
+      "number": "013",
+      "total": "059",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW6-Bf/028107_P_DARUMAKKA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28108,
+      "name": "ヒヒダルマ",
+      "number": "014",
+      "total": "059",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW6-Bf/028108_P_HIHIDARUMA.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 28109,
+      "name": "マリル",
+      "number": "015",
+      "total": "059",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW6-Bf/028109_P_MARIRU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28110,
+      "name": "マリルリ",
+      "number": "016",
+      "total": "059",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW6-Bf/028110_P_MARIRURI.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 28111,
+      "name": "ウリムー",
+      "number": "017",
+      "total": "059",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW6-Bf/028111_P_URIMU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28112,
+      "name": "イノムー",
+      "number": "018",
+      "total": "059",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW6-Bf/028112_P_INOMU.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 28113,
+      "name": "マンムー",
+      "number": "019",
+      "total": "059",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW6-Bf/028113_P_MANMU.jpg",
+      "stage": "2 進化"
+    },
+    {
+      "id": 28114,
+      "name": "デリバード",
+      "number": "020",
+      "total": "059",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW6-Bf/028114_P_DERIBADO.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28115,
+      "name": "プルリル",
+      "number": "021",
+      "total": "059",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW6-Bf/028115_P_PURURIRU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28116,
+      "name": "ブルンゲル",
+      "number": "022",
+      "total": "059",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW6-Bf/028116_P_BURUNGERU.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 28117,
+      "name": "シママ",
+      "number": "023",
+      "total": "059",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW6-Bf/028117_P_SHIMAMA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 28118,
+      "name": "ゼブライカ",
+      "number": "024",
+      "total": "059",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/BW6-Bf/028118_P_ZEBURAIKA.jpg",
+      "stage": "1 進化"
     },
     {
       "id": 28119,

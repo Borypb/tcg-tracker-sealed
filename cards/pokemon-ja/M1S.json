@@ -1,6 +1,6 @@
 {
   "code": "M1S",
-  "name": "「メガシンフォニア」",
+  "name": "メガシンフォニア",
   "official": "063",
   "cards": [
     {
@@ -249,6 +249,22 @@
       "number": "031",
       "total": "063",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/M1S/047827_P_RAKURAI.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 47828,
+      "name": "メガライボルトex",
+      "number": "032",
+      "total": "063",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M1S/047828_P_MRAIBORUTOEX.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 47829,
+      "name": "パチリス",
+      "number": "033",
+      "total": "063",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/M1S/047829_P_PACHIRISU.jpg",
       "stage": "たね"
     },
     {

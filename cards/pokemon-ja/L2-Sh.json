@@ -1,8 +1,48 @@
 {
   "code": "L2-Sh",
-  "name": "ポケモンカードゲームLEGEND 構築スタンダードデッキ「ハガネール鋼」",
+  "name": "ポケモンカードゲームLEGEND 構築スタンダードデッキハガネール鋼",
   "official": "019",
   "cards": [
+    {
+      "id": 25537,
+      "name": "ストライク",
+      "number": "001",
+      "total": "019",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L2-Sh/025537_P_SUTORAIKU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25539,
+      "name": "カイロス",
+      "number": "002",
+      "total": "019",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L2-Sh/025539_P_KAIROSU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25541,
+      "name": "クヌギダマ",
+      "number": "003",
+      "total": "019",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L2-Sh/025541_P_KUNUGIDAMA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25542,
+      "name": "トロピウス",
+      "number": "004",
+      "total": "019",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L2-Sh/025542_P_TOROPIUSU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 25544,
+      "name": "イワーク",
+      "number": "005",
+      "total": "019",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/L2-Sh/025544_P_IWAKU.jpg",
+      "stage": "たね"
+    },
     {
       "id": 25545,
       "name": "フォレトス",

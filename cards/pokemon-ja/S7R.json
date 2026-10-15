@@ -1,6 +1,6 @@
 {
   "code": "S7R",
-  "name": "「蒼空ストリーム」",
+  "name": "蒼空ストリーム",
   "official": "067",
   "cards": [
     {
@@ -97,6 +97,102 @@
       "number": "012",
       "total": "067",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S7R/039748_P_BIKUTEINI.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 39749,
+      "name": "バオップ",
+      "number": "013",
+      "total": "067",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S7R/039749_P_BAOPPU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 39750,
+      "name": "バオッキー",
+      "number": "014",
+      "total": "067",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S7R/039750_P_BAOKKI.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 39751,
+      "name": "ウルガモスV",
+      "number": "015",
+      "total": "067",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S7R/039751_P_URUGAMOSUV.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 39752,
+      "name": "ヤクデ",
+      "number": "016",
+      "total": "067",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S7R/039752_P_YAKUDE.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 39753,
+      "name": "マルヤクデ",
+      "number": "017",
+      "total": "067",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S7R/039753_P_MARUYAKUDE.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 39754,
+      "name": "シェルダー",
+      "number": "018",
+      "total": "067",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S7R/039754_P_SHIERUDA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 39755,
+      "name": "パルシェン",
+      "number": "019",
+      "total": "067",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S7R/039755_P_PARUSHIEN.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 39756,
+      "name": "ギャラドスV",
+      "number": "020",
+      "total": "067",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S7R/039756_P_GYARADOSUV.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 39757,
+      "name": "ギャラドスVMAX",
+      "number": "021",
+      "total": "067",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S7R/039757_P_GYARADOSUVMAX.jpg",
+      "stage": "V進化"
+    },
+    {
+      "id": 39758,
+      "name": "ガラル ダルマッカ",
+      "number": "022",
+      "total": "067",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S7R/039758_P_GARARUDARUMAKKA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 39759,
+      "name": "ガラル ヒヒダルマ",
+      "number": "023",
+      "total": "067",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S7R/039759_P_GARARUHIHIDARUMA.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 39760,
+      "name": "フリージオ",
+      "number": "024",
+      "total": "067",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S7R/039760_P_FURIJIO.jpg",
       "stage": "たね"
     },
     {

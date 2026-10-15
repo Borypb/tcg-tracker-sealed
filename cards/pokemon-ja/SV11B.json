@@ -1,6 +1,6 @@
 {
   "code": "SV11B",
-  "name": "「ブラックボルト」",
+  "name": "ブラックボルト",
   "official": "086",
   "cards": [
     {
@@ -89,6 +89,70 @@
       "number": "011",
       "total": "086",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047547_P_MOROBARERU.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 47548,
+      "name": "ビクティニ",
+      "number": "012",
+      "total": "086",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047548_P_BIKUTEINI.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 47549,
+      "name": "ダルマッカ",
+      "number": "013",
+      "total": "086",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047549_P_DARUMAKKA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 47550,
+      "name": "ヒヒダルマ",
+      "number": "014",
+      "total": "086",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047550_P_HIHIDARUMA.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 47551,
+      "name": "ヒトモシ",
+      "number": "015",
+      "total": "086",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047551_P_HITOMOSHI.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 47552,
+      "name": "ランプラー",
+      "number": "016",
+      "total": "086",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047552_P_RANPURA.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 47553,
+      "name": "シャンデラ",
+      "number": "017",
+      "total": "086",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047553_P_SHIXYANDERA.jpg",
+      "stage": "2 進化"
+    },
+    {
+      "id": 47554,
+      "name": "メラルバ",
+      "number": "018",
+      "total": "086",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047554_P_MERARUBA.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 47555,
+      "name": "ウルガモス",
+      "number": "019",
+      "total": "086",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/SV11B/047555_P_URUGAMOSU.jpg",
       "stage": "1 進化"
     },
     {

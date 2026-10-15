@@ -1,6 +1,6 @@
 {
   "code": "Y30",
-  "name": "ポケモンカードゲームXY 「イベルタルデッキ30」",
+  "name": "ポケモンカードゲームXY イベルタルデッキ30",
   "official": "014",
   "cards": [
     {
@@ -50,6 +50,63 @@
       "total": "014",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/Y30/030195_P_KARAMANERO.jpg",
       "stage": "1 進化"
+    },
+    {
+      "id": 30196,
+      "name": "イベルタル",
+      "number": "007",
+      "total": "014",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/Y30/030196_P_IBERUTARU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 30197,
+      "name": "クラッシュハンマー",
+      "number": "008",
+      "total": "014",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/Y30/030197_T_KURASSHUHANMA.jpg"
+    },
+    {
+      "id": 30198,
+      "name": "スーパーボール",
+      "number": "009",
+      "total": "014",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/Y30/030198_T_SUPABORU.jpg"
+    },
+    {
+      "id": 30199,
+      "name": "ポケモンいれかえ",
+      "number": "010",
+      "total": "014",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/Y30/030199_T_POKEMONIREKAE.jpg"
+    },
+    {
+      "id": 30200,
+      "name": "ポケモンキャッチャー",
+      "number": "011",
+      "total": "014",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/Y30/030200_T_POKEMONKYACCHA.jpg"
+    },
+    {
+      "id": 30201,
+      "name": "サナ",
+      "number": "012",
+      "total": "014",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/Y30/030201_T_SANA.jpg"
+    },
+    {
+      "id": 30202,
+      "name": "ティエルノ",
+      "number": "013",
+      "total": "014",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/Y30/030202_T_TEIERUNO.jpg"
+    },
+    {
+      "id": 30203,
+      "name": "シャドーサークル",
+      "number": "014",
+      "total": "014",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/Y30/030203_T_SHADOSAKURU.jpg"
     }
   ]
 }

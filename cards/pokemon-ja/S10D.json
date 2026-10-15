@@ -1,6 +1,6 @@
 {
   "code": "S10D",
-  "name": "「タイムゲイザー」",
+  "name": "タイムゲイザー",
   "official": "067",
   "cards": [
     {
@@ -604,12 +604,92 @@
       "stage": "たね"
     },
     {
+      "id": 41649,
+      "name": "セキ",
+      "number": "077",
+      "total": "067",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S10D/041649_T_SEKI.jpg"
+    },
+    {
+      "id": 41650,
+      "name": "ナタネの活気",
+      "number": "078",
+      "total": "067",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S10D/041650_T_NATANENOKAKKI.jpg"
+    },
+    {
+      "id": 41663,
+      "name": "ペリーラ",
+      "number": "079",
+      "total": "067",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S10D/041663_T_PERIRA.jpg"
+    },
+    {
       "id": 44872,
       "name": "ヒスイ ドレディアVSTAR",
       "number": "080",
       "total": "067",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/S10D/044872_P_HISUIDOREDEIAVSTAR.jpg",
       "stage": "V進化"
+    },
+    {
+      "id": 44873,
+      "name": "カイリキーVMAX",
+      "number": "081",
+      "total": "067",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S10D/044873_P_KAIRIKIVMAX.jpg",
+      "stage": "V進化"
+    },
+    {
+      "id": 44874,
+      "name": "オリジンディアルガVSTAR",
+      "number": "082",
+      "total": "067",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S10D/044874_P_ORIJINDEIARUGAVSTAR.jpg",
+      "stage": "V進化"
+    },
+    {
+      "id": 44875,
+      "name": "セキ",
+      "number": "083",
+      "total": "067",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S10D/044875_T_SEKI.jpg"
+    },
+    {
+      "id": 44876,
+      "name": "ナタネの活気",
+      "number": "084",
+      "total": "067",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S10D/044876_T_NATANENOKAKKI.jpg"
+    },
+    {
+      "id": 44877,
+      "name": "ペリーラ",
+      "number": "085",
+      "total": "067",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S10D/044877_T_PERIRA.jpg"
+    },
+    {
+      "id": 44878,
+      "name": "オリジンディアルガVSTAR",
+      "number": "086",
+      "total": "067",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S10D/044878_P_ORIJINDEIARUGAVSTAR.jpg",
+      "stage": "V進化"
+    },
+    {
+      "id": 44879,
+      "name": "トレッキングシューズ",
+      "number": "087",
+      "total": "067",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S10D/044879_T_TOREKKINGUSHIXYUZU.jpg"
+    },
+    {
+      "id": 44880,
+      "name": "頂への雪道",
+      "number": "088",
+      "total": "067",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/S10D/044880_T_ITADAKIHENOYUKIDOU.jpg"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "code": "XY10-B",
-  "name": "ポケモンカードゲームXY BREAK 拡張パック「めざめる超王」",
+  "name": "ポケモンカードゲームXY BREAK 拡張パックめざめる超王",
   "official": "078",
   "cards": [
     {
@@ -90,6 +90,118 @@
       "total": "078",
       "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY10-B/031745_P_MAFOKUSHI.jpg",
       "stage": "2 進化"
+    },
+    {
+      "id": 31747,
+      "name": "パウワウ",
+      "number": "013",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY10-B/031747_P_PAUWAU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 31748,
+      "name": "ジュゴン",
+      "number": "014",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY10-B/031748_P_JUGON.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 31749,
+      "name": "オムナイト",
+      "number": "015",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY10-B/031749_P_OMUNAITO.jpg",
+      "stage": "復元"
+    },
+    {
+      "id": 31750,
+      "name": "オムスター",
+      "number": "016",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY10-B/031750_P_OMUSUTA.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 31752,
+      "name": "グレイシアEX",
+      "number": "018",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY10-B/031752_P_GUREISHIAEX.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 31753,
+      "name": "ホワイトキュレム",
+      "number": "019",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY10-B/031753_P_HOWAITOKYUREMU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 31754,
+      "name": "カメテテ",
+      "number": "020",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY10-B/031754_P_KAMETETE.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 31755,
+      "name": "ガメノデス",
+      "number": "021",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY10-B/031755_P_GAMENODESU.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 31756,
+      "name": "ロトム",
+      "number": "022",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY10-B/031756_P_ROTOMU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 31757,
+      "name": "フーディンEX",
+      "number": "023",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY10-B/031757_P_FUDEINEX.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 31758,
+      "name": "<span class=\"pcg pcg-megamark\"></span>フーディンEX",
+      "number": "024",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY10-B/031758_P_MFUDEINEX.jpg",
+      "stage": "M進化"
+    },
+    {
+      "id": 31759,
+      "name": "ドガース",
+      "number": "025",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY10-B/031759_P_DOGASU.jpg",
+      "stage": "たね"
+    },
+    {
+      "id": 31760,
+      "name": "マタドガス",
+      "number": "026",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY10-B/031760_P_MATADOGASU.jpg",
+      "stage": "1 進化"
+    },
+    {
+      "id": 31761,
+      "name": "ミュウ",
+      "number": "027",
+      "total": "078",
+      "image": "https://www.pokemon-card.com/assets/images/card_images/large/XY10-B/031761_P_MYUU.jpg",
+      "stage": "たね"
     },
     {
       "id": 31762,

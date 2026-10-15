@@ -1,0 +1,20 @@
+name: Sonde TCGdex/TCGCSV (temporaire)
+on:
+  push:
+    branches: [probe-img]
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          mkdir -p out
+          curl -sS -o out/fr-30th-002.json "https://api.tcgdex.net/v2/fr/cards/30th-002"
+          curl -sS -o out/en-30th-002.json "https://api.tcgdex.net/v2/en/cards/30th-002"
+          curl -sS -o out/en-sv01-001.json "https://api.tcgdex.net/v2/en/cards/sv01-001"
+          curl -sS -o out/tcgcsv-3-groups.json "https://tcgcsv.com/tcgplayer/3/groups"
+          curl -sS -o out/cats.json "https://tcgcsv.com/tcgplayer/categories"
+          git config user.name probe; git config user.email probe@example.invalid
+          git checkout --orphan probe-img-out && git rm -rqf --cached . && git add out && git commit -qm sonde && git push -f origin probe-img-out

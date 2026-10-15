@@ -326,6 +326,13 @@ async function writeJsonCompact(path, data) {
   await writeFile(path, JSON.stringify(data));
 }
 
+/** extension Pokémon de moins de 180 jours dont la fiche n'a que les variantes supposées par TCGdex */
+const RECENT_MS = 180 * 24 * 3600 * 1000;
+function staleRecord(rec, set) {
+  const recent = set?.date && Date.now() - Date.parse(set.date) < RECENT_MS;
+  return !!recent && !!rec.vd?.some((v) => v.variantId === "generated");
+}
+
 /** ce qui est déjà publié pour un fichier : adresse de l'image → { hash, rec } */
 async function previous(oldIndex, name) {
   const map = new Map();
@@ -426,8 +433,10 @@ async function main() {
       const k = known.get(bare(e.img));
       if (!k) continue;
       e.hash = k.hash;
-      // fiche : celle de la liste si elle vient d'être lue (données fraîches), sinon celle déjà publiée
-      if (!e.rec && k.rec) {
+      // fiche : celle de la liste si elle vient d'être lue (données fraîches), sinon celle déjà publiée —
+      // sauf la fiche Pokémon d'une extension récente dont TCGdex n'avait pas encore les variantes (« generated ») :
+      // elle est redemandée, TCGdex complète ses extensions dans les semaines qui suivent leur sortie
+      if (!e.rec && k.rec && !(e.detail && staleRecord(k.rec, e.set))) {
         const { s: _s, ...rec } = k.rec;
         e.rec = rec;
       }

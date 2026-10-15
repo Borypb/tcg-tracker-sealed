@@ -89,7 +89,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1
+          "usd": 0.91
         }
       ]
     },
@@ -104,7 +104,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.34
+          "usd": 0.31
         }
       ]
     },
@@ -150,7 +150,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.39
+          "usd": 0.38
         }
       ]
     },
@@ -166,7 +166,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 10.74
+          "usd": 10.56
         }
       ]
     },
@@ -227,7 +227,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.8
+          "usd": 0.77
         }
       ]
     },
@@ -242,7 +242,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.64
+          "usd": 0.62
         }
       ]
     },
@@ -258,7 +258,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 3.55
+          "usd": 3.47
         }
       ]
     },
@@ -273,7 +273,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1.36
+          "usd": 1.31
         }
       ]
     },
@@ -289,7 +289,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 474.5
+          "usd": 456
         }
       ]
     },
@@ -381,7 +381,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1.64
+          "usd": 1.55
         }
       ]
     },
@@ -412,7 +412,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 4.77
+          "usd": 4.79
         }
       ]
     },
@@ -473,7 +473,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.57
+          "usd": 0.56
         }
       ]
     },
@@ -534,7 +534,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.54
+          "usd": 0.53
         }
       ]
     },
@@ -550,7 +550,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 21.76
+          "usd": 21.28
         }
       ]
     },
@@ -596,10 +596,10 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.21
+          "usd": 0.2
         }
       ]
     }
   ],
-  "pricesAt": "2026-10-14"
+  "pricesAt": "2026-10-15"
 }

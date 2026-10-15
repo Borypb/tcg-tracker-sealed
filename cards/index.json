@@ -572,10 +572,10 @@
           "name": "Ignition of X",
           "code": "BT27",
           "releasedAt": "2026-12-11",
-          "modifiedOn": "2026-10-13T12:17:30.317",
-          "count": 1,
+          "modifiedOn": "2026-10-14T12:43:49.213",
+          "count": 2,
           "file": "cards/digimon/24865.json",
-          "version": "9afd058d3b1d"
+          "version": "8f1359de31b4"
         },
         {
           "groupId": 24635,
@@ -1587,10 +1587,10 @@
           "name": "Radiance",
           "code": "RAD",
           "releasedAt": "2026-10-23",
-          "modifiedOn": "2026-10-09T18:21:56.457",
-          "count": 192,
+          "modifiedOn": "2026-10-14T15:59:58.217",
+          "count": 219,
           "file": "cards/riftbound/24819.json",
-          "version": "3b1cd25e45fb"
+          "version": "c0fb333120f0"
         },
         {
           "groupId": 24861,
@@ -1705,5 +1705,5 @@
       ]
     }
   },
-  "updatedAt": "2026-10-14"
+  "updatedAt": "2026-10-15"
 }

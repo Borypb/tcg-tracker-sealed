@@ -43,7 +43,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.12
+          "usd": 0.13
         }
       ]
     },
@@ -445,7 +445,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.03
+          "usd": 1.06
         }
       ]
     },
@@ -538,7 +538,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.11
+          "usd": 0.12
         }
       ]
     },
@@ -600,7 +600,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.56
+          "usd": 0.57
         }
       ]
     },
@@ -631,7 +631,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.74
+          "usd": 1.79
         }
       ]
     },
@@ -816,7 +816,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 3.11
+          "usd": 3.08
         }
       ]
     },
@@ -847,7 +847,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 2.53
+          "usd": 2.5
         }
       ]
     },
@@ -1002,7 +1002,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.13
+          "usd": 0.14
         }
       ]
     },
@@ -1188,7 +1188,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.13
+          "usd": 0.14
         }
       ]
     },
@@ -1201,7 +1201,12 @@
       "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/564983_200w.jpg",
       "url": "https://www.tcgplayer.com/product/564983/digimon-card-game-digimon-liberator-tortomon-foil",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 1.99
+        }
+      ]
     },
     {
       "id": 564984,
@@ -1369,7 +1374,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.28
+          "usd": 0.3
         }
       ]
     },
@@ -1446,7 +1451,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.98
+          "usd": 0.97
         }
       ]
     },
@@ -1461,7 +1466,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 2.95
+          "usd": 2.96
         }
       ]
     },
@@ -1783,7 +1788,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 9.22
+          "usd": 9
         }
       ]
     },
@@ -1907,7 +1912,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.28
+          "usd": 0.3
         }
       ]
     },
@@ -2109,7 +2114,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 69.78
+          "usd": 69.79
         }
       ]
     },
@@ -2345,7 +2350,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 6.04
+          "usd": 5.73
         }
       ]
     },
@@ -2441,5 +2446,5 @@
       "prices": []
     }
   ],
-  "pricesAt": "2026-10-14"
+  "pricesAt": "2026-10-15"
 }

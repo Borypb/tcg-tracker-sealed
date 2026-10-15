@@ -42,7 +42,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.41
+          "usd": 0.44
         }
       ]
     },
@@ -72,7 +72,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.28
+          "usd": 0.31
         }
       ]
     },
@@ -162,7 +162,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 3.98
+          "usd": 4.02
         }
       ]
     },
@@ -177,7 +177,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.88
+          "usd": 0.89
         }
       ]
     },
@@ -192,7 +192,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.08
+          "usd": 0.09
         }
       ]
     },
@@ -252,7 +252,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.09
+          "usd": 0.1
         }
       ]
     },
@@ -282,7 +282,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.07
+          "usd": 0.08
         }
       ]
     },
@@ -417,7 +417,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 3.03
+          "usd": 3.14
         }
       ]
     },
@@ -522,7 +522,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.07
+          "usd": 0.06
         }
       ]
     },
@@ -567,7 +567,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.08
+          "usd": 0.09
         }
       ]
     },
@@ -642,7 +642,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.1
+          "usd": 0.11
         }
       ]
     },
@@ -732,7 +732,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.09
+          "usd": 0.1
         }
       ]
     },
@@ -777,7 +777,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.09
+          "usd": 0.1
         }
       ]
     },
@@ -822,7 +822,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.1
+          "usd": 0.11
         }
       ]
     },
@@ -852,7 +852,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.09
+          "usd": 0.1
         }
       ]
     },
@@ -957,7 +957,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.18
+          "usd": 0.19
         }
       ]
     },
@@ -1096,7 +1096,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 11.39
+          "usd": 11.03
         }
       ]
     },
@@ -1159,7 +1159,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.19
+          "usd": 0.18
         }
       ]
     },
@@ -1234,7 +1234,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.14
+          "usd": 0.15
         }
       ]
     },
@@ -1294,7 +1294,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.12
+          "usd": 0.13
         }
       ]
     },
@@ -1309,7 +1309,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.2
+          "usd": 0.19
         }
       ]
     },
@@ -1444,7 +1444,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.12
+          "usd": 0.13
         }
       ]
     },
@@ -1474,7 +1474,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.11
+          "usd": 0.12
         }
       ]
     },
@@ -1519,7 +1519,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.1
+          "usd": 0.11
         }
       ]
     },
@@ -1534,7 +1534,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.14
+          "usd": 0.15
         }
       ]
     },
@@ -1549,7 +1549,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.09
+          "usd": 0.1
         }
       ]
     },
@@ -1684,7 +1684,12 @@
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/682015_200w.jpg",
       "url": "https://www.tcgplayer.com/product/682015/dragon-ball-super-fusion-world-dual-evolution-cheelai-br",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 11.98
+        }
+      ]
     },
     {
       "id": 682016,
@@ -1698,7 +1703,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 21.75
+          "usd": 21.77
         }
       ]
     },
@@ -1823,7 +1828,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 91.23
+          "usd": 91.02
         }
       ]
     },
@@ -1838,7 +1843,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.09
+          "usd": 0.1
         }
       ]
     },
@@ -2024,7 +2029,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.09
+          "usd": 0.08
         }
       ]
     },
@@ -2086,7 +2091,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 7.04
+          "usd": 6.95
         }
       ]
     },
@@ -2210,7 +2215,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 6.98
+          "usd": 6.93
         }
       ]
     },
@@ -2241,7 +2246,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.1
+          "usd": 0.11
         }
       ]
     },
@@ -2319,7 +2324,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 17.71
+          "usd": 17.05
         }
       ]
     },
@@ -2381,7 +2386,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 31.55
+          "usd": 32.35
         }
       ]
     },
@@ -2470,7 +2475,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 23.28
+          "usd": 23.15
         }
       ]
     },
@@ -2507,5 +2512,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-10-14"
+  "pricesAt": "2026-10-15"
 }

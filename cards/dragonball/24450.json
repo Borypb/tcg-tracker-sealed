@@ -167,7 +167,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.17
+          "usd": 0.16
         }
       ]
     },
@@ -257,7 +257,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.13
+          "usd": 0.14
         }
       ]
     },
@@ -302,7 +302,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.13
+          "usd": 0.15
         }
       ]
     },
@@ -332,7 +332,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.1
+          "usd": 0.11
         }
       ]
     },
@@ -347,7 +347,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.13
+          "usd": 0.14
         }
       ]
     },
@@ -422,7 +422,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.11
+          "usd": 0.12
         }
       ]
     },
@@ -437,7 +437,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 2.78
+          "usd": 2.91
         }
       ]
     },
@@ -512,7 +512,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5.59
+          "usd": 5.64
         }
       ]
     },
@@ -572,7 +572,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.17
+          "usd": 0.18
         }
       ]
     },
@@ -617,7 +617,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.15
+          "usd": 0.16
         }
       ]
     },
@@ -632,7 +632,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.09
+          "usd": 0.1
         }
       ]
     },
@@ -647,7 +647,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 26.08
+          "usd": 26.1
         }
       ]
     },
@@ -659,7 +659,12 @@
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/662511_200w.jpg",
       "url": "https://www.tcgplayer.com/product/662511/dragon-ball-super-fusion-world-saiyans-pride-broly-fb08-122",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 42.68
+        }
+      ]
     },
     {
       "id": 662519,
@@ -672,7 +677,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.09
+          "usd": 0.1
         }
       ]
     },
@@ -687,7 +692,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.1
+          "usd": 0.11
         }
       ]
     },
@@ -822,7 +827,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.12
+          "usd": 0.13
         }
       ]
     },
@@ -837,7 +842,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.1
+          "usd": 0.11
         }
       ]
     },
@@ -867,7 +872,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.12
+          "usd": 0.13
         }
       ]
     },
@@ -1002,7 +1007,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.11
+          "usd": 0.13
         }
       ]
     },
@@ -1032,7 +1037,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.09
+          "usd": 0.1
         }
       ]
     },
@@ -1062,7 +1067,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.09
+          "usd": 0.1
         }
       ]
     },
@@ -1077,7 +1082,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.12
+          "usd": 0.14
         }
       ]
     },
@@ -1152,7 +1157,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.08
+          "usd": 0.09
         }
       ]
     },
@@ -1182,7 +1187,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.08
+          "usd": 0.09
         }
       ]
     },
@@ -1197,7 +1202,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.12
+          "usd": 0.13
         }
       ]
     },
@@ -1212,7 +1217,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.11
+          "usd": 0.12
         }
       ]
     },
@@ -1242,7 +1247,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.1
+          "usd": 0.12
         }
       ]
     },
@@ -1272,7 +1277,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.1
+          "usd": 0.11
         }
       ]
     },
@@ -1302,7 +1307,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.11
+          "usd": 0.12
         }
       ]
     },
@@ -1317,7 +1322,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.14
+          "usd": 0.15
         }
       ]
     },
@@ -1332,7 +1337,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.12
+          "usd": 0.13
         }
       ]
     },
@@ -1392,7 +1397,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.13
+          "usd": 0.14
         }
       ]
     },
@@ -1465,7 +1470,12 @@
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/666509_200w.jpg",
       "url": "https://www.tcgplayer.com/product/666509/dragon-ball-super-fusion-world-saiyans-pride-son-goku-fb08-007-alternate-art",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 39.82
+        }
+      ]
     },
     {
       "id": 666510,
@@ -1525,7 +1535,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 28.26
+          "usd": 28.37
         }
       ]
     },
@@ -1540,7 +1550,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.12
+          "usd": 0.13
         }
       ]
     },
@@ -1649,7 +1659,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 11.96
+          "usd": 11.75
         }
       ]
     },
@@ -1726,7 +1736,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.11
+          "usd": 0.12
         }
       ]
     },
@@ -1912,7 +1922,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.1
+          "usd": 0.11
         }
       ]
     },
@@ -1927,7 +1937,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.1
+          "usd": 0.11
         }
       ]
     },
@@ -1942,7 +1952,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.07
+          "usd": 0.08
         }
       ]
     },
@@ -2019,7 +2029,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.13
+          "usd": 0.15
         }
       ]
     },
@@ -2065,7 +2075,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 1.58
+          "usd": 1.6
         }
       ]
     },
@@ -2142,7 +2152,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.11
+          "usd": 0.12
         }
       ]
     },
@@ -2251,7 +2261,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 3.82
+          "usd": 3.88
         }
       ]
     },
@@ -2282,7 +2292,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.13
+          "usd": 0.14
         }
       ]
     },
@@ -2297,7 +2307,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.13
+          "usd": 0.15
         }
       ]
     },
@@ -2364,5 +2374,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-10-14"
+  "pricesAt": "2026-10-15"
 }

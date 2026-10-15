@@ -192,7 +192,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5.77
+          "usd": 5.86
         }
       ]
     },
@@ -251,7 +251,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1.08
+          "usd": 1
         }
       ]
     },
@@ -315,7 +315,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.88
+          "usd": 0.87
         }
       ]
     },
@@ -347,7 +347,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 13.24
+          "usd": 13.64
         }
       ]
     },
@@ -368,5 +368,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-10-14"
+  "pricesAt": "2026-10-15"
 }

@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "en",
   "categoryId": 3,
-  "harvestedAt": "2026-10-14T19:07:19.045Z",
+  "harvestedAt": "2026-10-15T07:56:56.965Z",
   "groups": {
     "604": {
       "name": "Base Set",
@@ -17319,7 +17319,7 @@
     "3118": {
       "name": "SWSH11: Lost Origin",
       "abbreviation": "SWSH11",
-      "modifiedOn": "2026-10-09T14:23:52.403",
+      "modifiedOn": "2026-10-14T13:10:00.38",
       "publishedOn": "2022-09-09",
       "setCode": "swsh11",
       "products": [
@@ -17428,14 +17428,6 @@
           "url": "https://www.tcgplayer.com/product/277346/pokemon-swsh11-lost-origin-lost-origin-build-and-battle-stadium"
         },
         {
-          "tcgplayerId": 278792,
-          "name": "Lost Origin 3 Pack Blister [Set of 2]",
-          "kind": "blister",
-          "releasedOn": "2022-09-09",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/278792_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/278792/pokemon-swsh11-lost-origin-lost-origin-3-pack-blister-set-of-2"
-        },
-        {
           "tcgplayerId": 278793,
           "name": "Lost Origin Booster Box Case",
           "kind": "case",
@@ -17444,17 +17436,9 @@
           "url": "https://www.tcgplayer.com/product/278793/pokemon-swsh11-lost-origin-lost-origin-booster-box-case"
         },
         {
-          "tcgplayerId": 278794,
-          "name": "Lost Origin Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2022-09-09",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/278794_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/278794/pokemon-swsh11-lost-origin-lost-origin-booster-pack-art-bundle-set-of-4"
-        },
-        {
           "tcgplayerId": 278795,
           "name": "Lost Origin Build & Battle Box Display",
-          "kind": "build_battle",
+          "kind": "case",
           "releasedOn": "2022-09-09",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/278795_200w.jpg",
           "url": "https://www.tcgplayer.com/product/278795/pokemon-swsh11-lost-origin-lost-origin-build-and-battle-box-display"
@@ -17466,38 +17450,6 @@
           "releasedOn": "2022-09-09",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/278796_200w.jpg",
           "url": "https://www.tcgplayer.com/product/278796/pokemon-swsh11-lost-origin-lost-origin-elite-trainer-box-case"
-        },
-        {
-          "tcgplayerId": 278797,
-          "name": "Lost Origin Single Pack Blister [Set of 2]",
-          "kind": "blister",
-          "releasedOn": "2022-09-09",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/278797_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/278797/pokemon-swsh11-lost-origin-lost-origin-single-pack-blister-set-of-2"
-        },
-        {
-          "tcgplayerId": 278801,
-          "name": "Lost Origin Sleeved Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2022-09-09",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/278801_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/278801/pokemon-swsh11-lost-origin-lost-origin-sleeved-booster-pack-art-bundle-set-of-4"
-        },
-        {
-          "tcgplayerId": 278803,
-          "name": "Lost Origin Premium Checklane Blister [Set of 2]",
-          "kind": "blister",
-          "releasedOn": "2022-09-09",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/278803_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/278803/pokemon-swsh11-lost-origin-lost-origin-premium-checklane-blister-set-of-2"
-        },
-        {
-          "tcgplayerId": 278804,
-          "name": "Lost Origin Sleeved Booster Pack Bundle [Set of 8]",
-          "kind": "booster",
-          "releasedOn": "2022-09-09",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/278804_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/278804/pokemon-swsh11-lost-origin-lost-origin-sleeved-booster-pack-bundle-set-of-8"
         },
         {
           "tcgplayerId": 278819,
@@ -17572,17 +17524,9 @@
           "url": "https://www.tcgplayer.com/product/282405/pokemon-swsh11-lost-origin-pokemon-stacking-tin-darkness"
         },
         {
-          "tcgplayerId": 282406,
-          "name": "Pokemon Stacking Tins: Fighting-Fire-Darkness [Set of 3]",
-          "kind": "other",
-          "releasedOn": "2022-10-28",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/282406_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/282406/pokemon-swsh11-lost-origin-pokemon-stacking-tins-fighting-fire-darkness-set-of-3"
-        },
-        {
           "tcgplayerId": 282407,
           "name": "Pokemon Stacking Tins: Fighting-Fire-Darkness Display",
-          "kind": "other",
+          "kind": "case",
           "releasedOn": "2022-10-28",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/282407_200w.jpg",
           "url": "https://www.tcgplayer.com/product/282407/pokemon-swsh11-lost-origin-pokemon-stacking-tins-fighting-fire-darkness-display"
@@ -17606,7 +17550,7 @@
         {
           "tcgplayerId": 454377,
           "name": "Sword & Shield Ultra-Premium Collection: Charizard Case",
-          "kind": "upc",
+          "kind": "case",
           "releasedOn": "2022-09-09",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/454377_200w.jpg",
           "url": "https://www.tcgplayer.com/product/454377/pokemon-swsh11-lost-origin-sword-and-shield-ultra-premium-collection-charizard-case"
@@ -17622,7 +17566,7 @@
         {
           "tcgplayerId": 496024,
           "name": "Lost Origin SWSH11 Build & Battle Box Case",
-          "kind": "build_battle",
+          "kind": "case",
           "releasedOn": "2022-09-09",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/496024_200w.jpg",
           "url": "https://www.tcgplayer.com/product/496024/pokemon-swsh11-lost-origin-lost-origin-swsh11-build-and-battle-box-case"
@@ -17630,7 +17574,7 @@
         {
           "tcgplayerId": 496131,
           "name": "Lost Origin Sleeved Booster Pack Case",
-          "kind": "booster",
+          "kind": "case",
           "releasedOn": "2022-09-09",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/496131_200w.jpg",
           "url": "https://www.tcgplayer.com/product/496131/pokemon-swsh11-lost-origin-lost-origin-sleeved-booster-pack-case"
@@ -17646,7 +17590,7 @@
         {
           "tcgplayerId": 648474,
           "name": "Lost Origin Build & Battle Stadium Case",
-          "kind": "build_battle",
+          "kind": "case",
           "releasedOn": "2022-09-09",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/648474_200w.jpg",
           "url": "https://www.tcgplayer.com/product/648474/pokemon-swsh11-lost-origin-lost-origin-build-and-battle-stadium-case"
@@ -17662,7 +17606,7 @@
         {
           "tcgplayerId": 693585,
           "name": "Arceus VSTAR Ultra-Premium Collection Case",
-          "kind": "upc",
+          "kind": "case",
           "releasedOn": "2022-09-09",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/693585_200w.jpg",
           "url": "https://www.tcgplayer.com/product/693585/pokemon-swsh11-lost-origin-arceus-vstar-ultra-premium-collection-case"
@@ -17688,7 +17632,7 @@
     "3170": {
       "name": "SWSH12: Silver Tempest",
       "abbreviation": "SWSH12",
-      "modifiedOn": "2026-10-12T18:40:12.65",
+      "modifiedOn": "2026-10-14T13:14:39.083",
       "publishedOn": "2022-11-11",
       "setCode": "swsh12",
       "products": [
@@ -22128,7 +22072,7 @@
     "24380": {
       "name": "ME01: Mega Evolution",
       "abbreviation": "MEG",
-      "modifiedOn": "2026-10-12T17:45:30.72",
+      "modifiedOn": "2026-10-14T13:05:08.167",
       "publishedOn": "2025-09-26",
       "setCode": "me01",
       "products": [
@@ -24057,7 +24001,7 @@
     "24831": {
       "name": "ME06: Delta Reign",
       "abbreviation": "DLR",
-      "modifiedOn": "2026-10-07T20:22:37.453",
+      "modifiedOn": "2026-10-14T19:06:02.017",
       "publishedOn": "2026-11-06",
       "products": [
         {
@@ -24115,14 +24059,6 @@
           "releasedOn": "2026-11-06",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/712099_200w.jpg",
           "url": "https://www.tcgplayer.com/product/712099/pokemon-me06-delta-reign-delta-reign-booster-pack"
-        },
-        {
-          "tcgplayerId": 712100,
-          "name": "Delta Reign Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2026-11-06",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712100_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/712100/pokemon-me06-delta-reign-delta-reign-booster-pack-art-bundle-set-of-4"
         },
         {
           "tcgplayerId": 712101,
@@ -24207,7 +24143,7 @@
         {
           "tcgplayerId": 712111,
           "name": "Delta Reign Sleeved Booster Case",
-          "kind": "booster",
+          "kind": "case",
           "releasedOn": "2026-11-06",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/712111_200w.jpg",
           "url": "https://www.tcgplayer.com/product/712111/pokemon-me06-delta-reign-delta-reign-sleeved-booster-case"
@@ -24219,14 +24155,6 @@
           "releasedOn": "2026-11-06",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/712112_200w.jpg",
           "url": "https://www.tcgplayer.com/product/712112/pokemon-me06-delta-reign-delta-reign-sleeved-booster-pack"
-        },
-        {
-          "tcgplayerId": 712113,
-          "name": "Delta Reign Sleeved Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2026-11-06",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/712113_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/712113/pokemon-me06-delta-reign-delta-reign-sleeved-booster-pack-art-bundle-set-of-4"
         }
       ]
     },

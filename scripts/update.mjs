@@ -6,6 +6,7 @@ import { build } from "./build.mjs";
 import { prices } from "./prices.mjs";
 import { fx } from "./fx.mjs";
 import { cards } from "./cards.mjs";
+import { pokemonVariants } from "./pokemon-variants.mjs";
 
 for (const [game, sources] of Object.entries(SOURCES)) {
   for (const src of sources) await harvest(game, src);
@@ -33,4 +34,10 @@ try {
   await cards();
 } catch (e) {
   console.warn("Cartes TCGplayer indisponibles :", e.message);
+}
+// versions qui existent vraiment pour chaque carte Pokémon (TCGdex ne connaît parfois que la normale)
+try {
+  await pokemonVariants();
+} catch (e) {
+  console.warn("Versions Pokémon indisponibles :", e.message);
 }

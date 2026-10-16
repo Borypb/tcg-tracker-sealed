@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "en",
   "categoryId": 3,
-  "harvestedAt": "2026-10-15T14:24:44.025Z",
+  "harvestedAt": "2026-10-16T08:31:35.051Z",
   "groups": {
     "604": {
       "name": "Base Set",
@@ -5535,14 +5535,14 @@
     "1840": {
       "name": "Deck Exclusives",
       "abbreviation": "PR",
-      "modifiedOn": "2026-10-05T11:57:41.893",
+      "modifiedOn": "2026-10-15T13:16:44.43",
       "publishedOn": "2016-09-01",
       "products": []
     },
     "1842": {
       "name": "XY - Evolutions",
       "abbreviation": "EVO",
-      "modifiedOn": "2026-10-05T13:28:29.54",
+      "modifiedOn": "2026-10-15T19:20:37.107",
       "publishedOn": "2016-11-02",
       "setCode": "xy12",
       "products": [
@@ -5785,22 +5785,6 @@
           "releasedOn": "2016-11-02",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/272648_200w.jpg",
           "url": "https://www.tcgplayer.com/product/272648/pokemon-xy-evolutions-xy-evolutions-sleeved-booster-pack"
-        },
-        {
-          "tcgplayerId": 272649,
-          "name": "Evolutions Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2016-11-02",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/272649_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/272649/pokemon-xy-evolutions-evolutions-booster-pack-art-bundle-set-of-4"
-        },
-        {
-          "tcgplayerId": 276600,
-          "name": "Evolutions Sleeved Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2016-11-02",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/276600_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/276600/pokemon-xy-evolutions-evolutions-sleeved-booster-pack-art-bundle-set-of-4"
         },
         {
           "tcgplayerId": 603422,
@@ -7941,7 +7925,7 @@
     "2289": {
       "name": "Blister Exclusives",
       "abbreviation": "BLE",
-      "modifiedOn": "2026-09-21T19:17:17.017",
+      "modifiedOn": "2026-10-14T20:45:19.607",
       "products": []
     },
     "2295": {
@@ -8210,7 +8194,7 @@
     "2374": {
       "name": "Miscellaneous Cards & Products",
       "abbreviation": "MCAP",
-      "modifiedOn": "2026-10-12T18:08:11.69",
+      "modifiedOn": "2026-10-15T02:56:25.76",
       "products": [
         {
           "tcgplayerId": 179376,
@@ -15417,7 +15401,7 @@
     "2781": {
       "name": "Shining Fates: Shiny Vault",
       "abbreviation": "SHFSV",
-      "modifiedOn": "2026-09-23T01:13:46.14",
+      "modifiedOn": "2026-10-15T02:54:41.96",
       "publishedOn": "2021-02-19",
       "setCode": "swsh4.5sv",
       "products": []
@@ -18250,7 +18234,7 @@
     "22872": {
       "name": "SV: Scarlet & Violet Promo Cards",
       "abbreviation": "SVP",
-      "modifiedOn": "2026-10-13T02:47:25.92",
+      "modifiedOn": "2026-10-15T12:59:04.453",
       "publishedOn": "2023-03-31",
       "setCode": "svp",
       "products": []
@@ -24001,7 +23985,7 @@
     "24831": {
       "name": "ME06: Delta Reign",
       "abbreviation": "DLR",
-      "modifiedOn": "2026-10-14T19:06:02.017",
+      "modifiedOn": "2026-10-14T21:40:45.783",
       "publishedOn": "2026-11-06",
       "products": [
         {

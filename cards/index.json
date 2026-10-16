@@ -10,7 +10,7 @@
           "name": "Brightness of Hope",
           "code": "FB11",
           "releasedAt": "2026-10-16",
-          "modifiedOn": "2026-10-13T13:54:06.143",
+          "modifiedOn": "2026-10-15T18:18:03.657",
           "count": 162,
           "file": "cards/dragonball/24716.json",
           "version": "dd12d65afa21"
@@ -500,7 +500,7 @@
           "name": "Tournament and Championship Promos",
           "code": "DBSFW_TPR",
           "releasedAt": "2024-02-14",
-          "modifiedOn": "2026-10-01T14:46:16.87",
+          "modifiedOn": "2026-10-15T18:43:33.713",
           "count": 445,
           "file": "cards/dragonball/23429.json",
           "version": "98d110aebe83"
@@ -1587,10 +1587,10 @@
           "name": "Radiance",
           "code": "RAD",
           "releasedAt": "2026-10-23",
-          "modifiedOn": "2026-10-14T15:59:58.217",
+          "modifiedOn": "2026-10-15T17:15:02.44",
           "count": 219,
           "file": "cards/riftbound/24819.json",
-          "version": "c0fb333120f0"
+          "version": "853c4eac2ec1"
         },
         {
           "groupId": 24861,
@@ -1705,5 +1705,5 @@
       ]
     }
   },
-  "updatedAt": "2026-10-15"
+  "updatedAt": "2026-10-16"
 }

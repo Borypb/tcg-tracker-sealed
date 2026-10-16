@@ -1,8 +1,36 @@
 {
-  "version": 4,
+  "version": 5,
   "game": "pokemon",
   "lang": "ja",
   "products": [
+    {
+      "id": "pkm-ja-pcg-7e0587b1fc",
+      "kind": "deck",
+      "name": "ポケモンカードゲーム MEGA スペシャルデッキセットMEGA メガオーダイル・メガカイリュー・メガゲンガー",
+      "lang": "ja",
+      "releasedAt": "2026-11-13",
+      "extras": [
+        "「メガオーダイルex」デッキ（カード60枚）……1個",
+        "「メガカイリューex」デッキ（カード60枚）……1個",
+        "「メガゲンガーex」デッキ（カード60枚）……1個",
+        "紙製デッキケース……3個",
+        "ポケモンコイン……3枚",
+        "ダメカン/マーカー……1シート",
+        "紙製ダメカンケース……1個",
+        "プレイマット……1枚",
+        "遊びかた説明書……1冊",
+        "プレイヤーズガイド……3枚",
+        "カードボックス……1個"
+      ],
+      "image": "https://www.pokemon-card.com/products/2026/images/specialset_mega.jpg",
+      "msrp": {
+        "jpy": 5500
+      },
+      "source": {
+        "official": "https://www.pokemon-card.com/products/mega/mg.html"
+      },
+      "verified": true
+    },
     {
       "id": "pkm-ja-pcg-0a2673e1a5",
       "kind": "collection",

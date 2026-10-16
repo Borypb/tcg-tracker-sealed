@@ -236,7 +236,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5.07
+          "usd": 5.08
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/688562_200w.jpg"
@@ -359,7 +359,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1.2
+          "usd": 0.79
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/688570_200w.jpg"
@@ -375,7 +375,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1.88
+          "usd": 2
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/688571_200w.jpg"
@@ -439,7 +439,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 4
+          "usd": 3.38
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/688575_200w.jpg"
@@ -455,7 +455,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 11.8
+          "usd": 11.86
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/688576_200w.jpg"
@@ -911,12 +911,7 @@
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/677540_200w.jpg",
       "url": "https://www.tcgplayer.com/product/688605/dragon-ball-super-fusion-world-dual-evolution-release-event-cards-vegeta-fb09-041",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 2.75
-        }
-      ],
+      "prices": [],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/688605_200w.jpg"
     },
     {
@@ -930,7 +925,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 3.93
+          "usd": 4.24
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/688606_200w.jpg"
@@ -978,7 +973,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 4.39
+          "usd": 3.98
         }
       ],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/688609_200w.jpg"
@@ -1119,12 +1114,7 @@
       "type": "Battle",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/681996_200w.jpg",
       "url": "https://www.tcgplayer.com/product/688618/dragon-ball-super-fusion-world-dual-evolution-release-event-cards-golden-frieza-br",
-      "prices": [
-        {
-          "sub": "Normal",
-          "usd": 3.07
-        }
-      ],
+      "prices": [],
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/688618_200w.jpg"
     },
     {
@@ -1192,5 +1182,5 @@
       "sourceImage": "https://tcgplayer-cdn.tcgplayer.com/product/688622_200w.jpg"
     }
   ],
-  "pricesAt": "2026-10-15"
+  "pricesAt": "2026-10-16"
 }

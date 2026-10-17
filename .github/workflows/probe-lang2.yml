@@ -1,0 +1,32 @@
+name: probe-lang2
+on:
+  push:
+    branches: [probe-lang2]
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          mkdir out && cd out
+          UA="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36"
+          g() { curl -sSL -m 60 -A "$UA" -o "$1" -w "$1 %{http_code} %{size_download} %{url_effective}\n" "$2" >> status.txt || echo "$1 FAIL" >> status.txt; }
+          g fwfr.html "https://fw.dbscards.fr/cards"
+          g fwfr_fr.html "https://fw.dbscards.fr/cards/liste-cartes-francaises"
+          g dbsfr_card.html "https://www.dbscards.fr/cards/bt31-001-uc-gogeta-ss-fusion-de-renversement-de-situation"
+          g masters_top.html "https://www.dbs-cardgame.com/"
+          g masters_fr.html "https://www.dbs-cardgame.com/fr/"
+          g masters_eu.html "https://www.dbs-cardgame.com/europe/"
+          g masters_cardlist.html "https://www.dbs-cardgame.com/us-en/cardlist/"
+          g fw_robots.txt "https://fw.dbscards.fr/robots.txt"
+          g dbs_robots.txt "https://www.dbscards.fr/robots.txt"
+          g lorcana_tfc.yml "https://raw.githubusercontent.com/great-illuminary/lorcana-data/main/data/tfc.yml"
+          g lorcast_card.json "https://api.lorcast.com/v0/cards/search?q=elsa"
+          cat status.txt
+      - run: |
+          cd out
+          git init -q && git checkout -q -b probe-lang2-out
+          git config user.email probe@example.invalid && git config user.name probe
+          git add . && git commit -qm sonde
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}" probe-lang2-out

@@ -1,0 +1,24 @@
+name: probe-dgm
+on:
+  push:
+    branches: [probe-dgm]
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          mkdir out && cd out
+          UA="Mozilla/5.0 (compatible; Thothectio-catalog/1.0)"
+          curl -sSL -A "$UA" -D list.head -o list.html "https://digimoncard.com/cardlist/" || true
+          curl -sSL -A "$UA" -o en_list.html "https://world.digimoncard.com/cardlist/" || true
+          curl -sSL -A "$UA" -o io_jp.json "https://digimoncard.io/api-public/search.php?n=Agumon&series=Digimon%20Card%20Game" || true
+          curl -sSL -A "$UA" -o img.head -I "https://digimoncard.com/images/cardlist/card/BT1-001.png" || true
+          ls -la
+      - run: |
+          cd out
+          git init -q && git checkout -q -b probe-dgm-out
+          git config user.email probe@example.invalid && git config user.name probe
+          git add . && git commit -qm sonde
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}" probe-dgm-out

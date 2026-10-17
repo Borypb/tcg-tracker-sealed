@@ -7,6 +7,7 @@ import { prices } from "./prices.mjs";
 import { fx } from "./fx.mjs";
 import { cards } from "./cards.mjs";
 import { pokemonVariants } from "./pokemon-variants.mjs";
+import { pokemonNames } from "./pokemon-names.mjs";
 
 for (const [game, sources] of Object.entries(SOURCES)) {
   for (const src of sources) await harvest(game, src);
@@ -40,4 +41,10 @@ try {
   await pokemonVariants();
 } catch (e) {
   console.warn("Versions Pokémon indisponibles :", e.message);
+}
+// noms des Pokémon dans toutes les langues (recherche d'une langue à l'autre)
+try {
+  await pokemonNames();
+} catch (e) {
+  console.warn("Noms des Pokémon indisponibles :", e.message);
 }

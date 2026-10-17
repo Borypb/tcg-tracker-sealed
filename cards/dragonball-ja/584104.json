@@ -1,0 +1,182 @@
+{
+  "id": "584104",
+  "name": "スタートデッキ フリーザ[FS04]",
+  "code": "FS04",
+  "cards": [
+    {
+      "number": "FS04-01",
+      "name": "フリーザ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS04-01_f.webp",
+      "en": "Frieza",
+      "rarity": "Leader"
+    },
+    {
+      "number": "FS04-02",
+      "name": "キュイ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS04-02.webp",
+      "en": "Cui",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS04-03",
+      "name": "ゴールデンフリーザ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS04-03.webp",
+      "en": "Golden Frieza",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS04-04",
+      "name": "コルド大王",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS04-04.webp",
+      "en": "King Cold",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS04-05",
+      "name": "ザーボン",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS04-05.webp",
+      "en": "Zarbon",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS04-06",
+      "name": "シサミ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS04-06.webp",
+      "en": "Shisami",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS04-07",
+      "name": "ソルベ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS04-07.webp",
+      "en": "Sorbet",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS04-08",
+      "name": "タゴマ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS04-08.webp",
+      "en": "Tagoma",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS04-09",
+      "name": "チライ：BR",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS04-09.webp",
+      "en": "Cheelai : BR",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS04-10",
+      "name": "ドドリア",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS04-10.webp",
+      "en": "Dodoria",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS04-11",
+      "name": "フリーザ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS04-11.webp",
+      "en": "Frieza",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS04-12",
+      "name": "フリーザ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS04-12.webp",
+      "en": "Frieza",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS04-13",
+      "name": "フリーザ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS04-13.webp",
+      "en": "Frieza",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS04-14",
+      "name": "レモ：BR",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS04-14.webp",
+      "en": "Lemo : BR",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS04-15",
+      "name": "ゴールデンデスビーム",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS04-15.webp",
+      "en": "Golden Death Beam",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS04-16",
+      "name": "デスボール",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS04-16.webp",
+      "en": "Death Ball",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS04-02",
+      "name": "キュイ",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS04-02_p1.webp",
+      "en": "Cui",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS04-03",
+      "name": "ゴールデンフリーザ",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS04-03_p1.webp",
+      "en": "Golden Frieza",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS04-04",
+      "name": "コルド大王",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS04-04_p1.webp",
+      "en": "King Cold",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS04-09",
+      "name": "チライ：BR",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS04-09_p1.webp",
+      "en": "Cheelai : BR",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS04-12",
+      "name": "フリーザ",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS04-12_p1.webp",
+      "en": "Frieza",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS04-15",
+      "name": "ゴールデンデスビーム",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS04-15_p1.webp",
+      "en": "Golden Death Beam",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS04-16",
+      "name": "デスボール",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS04-16_p1.webp",
+      "en": "Death Ball",
+      "rarity": "Common"
+    }
+  ]
+}

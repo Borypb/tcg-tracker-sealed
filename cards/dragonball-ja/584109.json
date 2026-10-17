@@ -1,0 +1,295 @@
+{
+  "id": "584109",
+  "name": "スタートデッキEX シャロット[FS09]",
+  "code": "FS09",
+  "cards": [
+    {
+      "number": "FS09-01",
+      "name": "シャロット",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS09-01_f.webp",
+      "en": "Shallot",
+      "rarity": "Leader"
+    },
+    {
+      "number": "FS09-02",
+      "name": "キンカンマン",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS09-02.webp",
+      "en": "Kinkanman",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS09-03",
+      "name": "ザッハ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS09-03.webp",
+      "en": "Zahha",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS09-04",
+      "name": "ジャコ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS09-04.webp",
+      "en": "Jaco",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS09-05",
+      "name": "シャロット",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS09-05.webp",
+      "en": "Shallot",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS09-06",
+      "name": "孫悟空",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS09-06.webp",
+      "en": "Son Goku",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS09-07",
+      "name": "孫悟空",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS09-07.webp",
+      "en": "Son Goku",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS09-08",
+      "name": "孫悟空/バーダック",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS09-08.webp",
+      "en": "Son Goku/Bardock",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS09-09",
+      "name": "孫悟空：少年期",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS09-09.webp",
+      "en": "Son Goku : Childhood",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS09-10",
+      "name": "孫悟飯：少年期",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS09-10.webp",
+      "en": "Son Gohan : Childhood",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS09-11",
+      "name": "トランクス：未来",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS09-11.webp",
+      "en": "Trunks : Future",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS09-12",
+      "name": "ナッパ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS09-12.webp",
+      "en": "Nappa",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS09-13",
+      "name": "ビルス",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS09-13.webp",
+      "en": "Beerus",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS09-14",
+      "name": "ブルマ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS09-14.webp",
+      "en": "Bulma",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS09-15",
+      "name": "ベジータ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS09-15.webp",
+      "en": "Vegeta",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS09-16",
+      "name": "ベジット",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS09-16.webp",
+      "en": "Vegito",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS09-17",
+      "name": "滾る本能の力",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS09-17.webp",
+      "en": "Burning Power of Instinct",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS09-18",
+      "name": "ナニサマのつもりだああっ!!!",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS09-18.webp",
+      "en": "I'm gonna end you!",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS09-01",
+      "name": "シャロット",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS09-01_f_p1.webp",
+      "en": "Shallot",
+      "rarity": "Leader"
+    },
+    {
+      "number": "FS09-02",
+      "name": "キンカンマン",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS09-02_p1.webp",
+      "en": "Kinkanman",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS09-03",
+      "name": "ザッハ",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS09-03_p1.webp",
+      "en": "Zahha",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS09-04",
+      "name": "ジャコ",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS09-04_p1.webp",
+      "en": "Jaco",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS09-05",
+      "name": "シャロット",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS09-05_p1.webp",
+      "en": "Shallot",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS09-06",
+      "name": "孫悟空",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS09-06_p1.webp",
+      "en": "Son Goku",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS09-07",
+      "name": "孫悟空",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS09-07_p1.webp",
+      "en": "Son Goku",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS09-08",
+      "name": "孫悟空/バーダック",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS09-08_p1.webp",
+      "en": "Son Goku/Bardock",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS09-09",
+      "name": "孫悟空：少年期",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS09-09_p1.webp",
+      "en": "Son Goku : Childhood",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS09-10",
+      "name": "孫悟飯：少年期",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS09-10_p1.webp",
+      "en": "Son Gohan : Childhood",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS09-11",
+      "name": "トランクス：未来",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS09-11_p1.webp",
+      "en": "Trunks : Future",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS09-12",
+      "name": "ナッパ",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS09-12_p1.webp",
+      "en": "Nappa",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS09-13",
+      "name": "ビルス",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS09-13_p1.webp",
+      "en": "Beerus",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS09-14",
+      "name": "ブルマ",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS09-14_p1.webp",
+      "en": "Bulma",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS09-15",
+      "name": "ベジータ",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS09-15_p1.webp",
+      "en": "Vegeta",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS09-16",
+      "name": "ベジット",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS09-16_p1.webp",
+      "en": "Vegito",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS09-17",
+      "name": "滾る本能の力",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS09-17_p1.webp",
+      "en": "Burning Power of Instinct",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS09-18",
+      "name": "ナニサマのつもりだああっ!!!",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS09-18_p1.webp",
+      "en": "I'm gonna end you!",
+      "rarity": "Common"
+    }
+  ]
+}

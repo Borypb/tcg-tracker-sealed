@@ -1,0 +1,182 @@
+{
+  "id": "584103",
+  "name": "スタートデッキ ブロリー[FS03]",
+  "code": "FS03",
+  "cards": [
+    {
+      "number": "FS03-01",
+      "name": "ブロリー",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS03-01_f.webp",
+      "en": "Broly",
+      "rarity": "Leader"
+    },
+    {
+      "number": "FS03-02",
+      "name": "アンゴル",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS03-02.webp",
+      "en": "Angol",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS03-03",
+      "name": "シャモ星人",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS03-03.webp",
+      "en": "Shamoian",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS03-04",
+      "name": "ターレス",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS03-04.webp",
+      "en": "Turles",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS03-05",
+      "name": "ナッパ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS03-05.webp",
+      "en": "Nappa",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS03-06",
+      "name": "パラガス",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS03-06.webp",
+      "en": "Paragus",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS03-07",
+      "name": "パラガス",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS03-07.webp",
+      "en": "Paragus",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS03-08",
+      "name": "ブロリー",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS03-08.webp",
+      "en": "Broly",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS03-09",
+      "name": "ブロリー",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS03-09.webp",
+      "en": "Broly",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS03-10",
+      "name": "ブロリー：BR",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS03-10.webp",
+      "en": "Broly : BR",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS03-11",
+      "name": "ベジータ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS03-11.webp",
+      "en": "Vegeta",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS03-12",
+      "name": "ベジータ王",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS03-12.webp",
+      "en": "King Vegeta",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS03-13",
+      "name": "モア",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS03-13.webp",
+      "en": "Moah",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS03-14",
+      "name": "ラディッツ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS03-14.webp",
+      "en": "Raditz",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS03-15",
+      "name": "ギガンティックミーティア",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS03-15.webp",
+      "en": "Gigantic Meteor",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS03-16",
+      "name": "破壊の剛腕",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS03-16.webp",
+      "en": "Destructive Strength",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS03-04",
+      "name": "ターレス",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS03-04_p1.webp",
+      "en": "Turles",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS03-07",
+      "name": "パラガス",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS03-07_p1.webp",
+      "en": "Paragus",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS03-10",
+      "name": "ブロリー：BR",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS03-10_p1.webp",
+      "en": "Broly : BR",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS03-11",
+      "name": "ベジータ",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS03-11_p1.webp",
+      "en": "Vegeta",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS03-12",
+      "name": "ベジータ王",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS03-12_p1.webp",
+      "en": "King Vegeta",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS03-15",
+      "name": "ギガンティックミーティア",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS03-15_p1.webp",
+      "en": "Gigantic Meteor",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS03-16",
+      "name": "破壊の剛腕",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS03-16_p1.webp",
+      "en": "Destructive Strength",
+      "rarity": "Common"
+    }
+  ]
+}

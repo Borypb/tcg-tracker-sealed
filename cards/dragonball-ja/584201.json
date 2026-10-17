@@ -1,0 +1,1438 @@
+{
+  "id": "584201",
+  "name": "MANGA BOOSTER 01[SB01]",
+  "code": "SB01",
+  "cards": [
+    {
+      "number": "SB01-001",
+      "name": "セル",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-001_f.webp",
+      "en": "Cell",
+      "rarity": "Leader"
+    },
+    {
+      "number": "SB01-001",
+      "name": "セル",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-001_f_p1.webp",
+      "en": "Cell",
+      "rarity": "Leader"
+    },
+    {
+      "number": "SB01-002",
+      "name": "人造人間16号",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-002.webp",
+      "en": "Android 16",
+      "rarity": "Rare"
+    },
+    {
+      "number": "SB01-002",
+      "name": "人造人間16号",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-002_p1.webp",
+      "en": "Android 16",
+      "rarity": "Rare"
+    },
+    {
+      "number": "SB01-003",
+      "name": "人造人間17号",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-003.webp",
+      "en": "Android 17",
+      "rarity": "Rare"
+    },
+    {
+      "number": "SB01-003",
+      "name": "人造人間17号",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-003_p1.webp",
+      "en": "Android 17",
+      "rarity": "Rare"
+    },
+    {
+      "number": "SB01-004",
+      "name": "人造人間18号",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-004.webp",
+      "en": "Android 18",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "SB01-005",
+      "name": "人造人間18号",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-005.webp",
+      "en": "Android 18",
+      "rarity": "Common"
+    },
+    {
+      "number": "SB01-006",
+      "name": "人造人間19号",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-006.webp",
+      "en": "Android 19",
+      "rarity": "Common"
+    },
+    {
+      "number": "SB01-007",
+      "name": "人造人間19号/人造人間20号",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-007.webp",
+      "en": "Android 19/Android 20",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "SB01-008",
+      "name": "人造人間20号",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-008.webp",
+      "en": "Android 20",
+      "rarity": "Common"
+    },
+    {
+      "number": "SB01-009",
+      "name": "セル",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-009.webp",
+      "en": "Cell",
+      "rarity": "Rare"
+    },
+    {
+      "number": "SB01-009",
+      "name": "セル",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-009_p1.webp",
+      "en": "Cell",
+      "rarity": "Rare"
+    },
+    {
+      "number": "SB01-010",
+      "name": "セル",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-010.webp",
+      "en": "Cell",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "SB01-011",
+      "name": "セル",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-011.webp",
+      "en": "Cell",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "SB01-012",
+      "name": "セル",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-012.webp",
+      "en": "Cell",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "SB01-013",
+      "name": "セルジュニア",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-013.webp",
+      "en": "Cell Jr.",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "SB01-014",
+      "name": "王立防衛軍の抵抗",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-014.webp",
+      "en": "The Royal Defence Force's Last Stand",
+      "rarity": "Common"
+    },
+    {
+      "number": "SB01-015",
+      "name": "自爆",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-015.webp",
+      "en": "Self-Destruct",
+      "rarity": "Common"
+    },
+    {
+      "number": "SB01-016",
+      "name": "瞬間移動",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-016.webp",
+      "en": "Instant Transmission",
+      "rarity": "Common"
+    },
+    {
+      "number": "SB01-017",
+      "name": "大猿孫悟空",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-017.webp",
+      "en": "Great Ape Son Goku",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "SB01-018",
+      "name": "孫悟空：少年期",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-018.webp",
+      "en": "Son Goku : Childhood",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "SB01-018",
+      "name": "孫悟空：少年期",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-018_p1.webp",
+      "en": "Son Goku : Childhood",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "SB01-019",
+      "name": "チチ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-019.webp",
+      "en": "Chi-Chi",
+      "rarity": "Rare"
+    },
+    {
+      "number": "SB01-019",
+      "name": "チチ",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-019_p1.webp",
+      "en": "Chi-Chi",
+      "rarity": "Rare"
+    },
+    {
+      "number": "SB01-020",
+      "name": "かめはめ波!!!最大出力!!!",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-020.webp",
+      "en": "Kamehameha! Full Power!",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "SB01-021",
+      "name": "気功砲",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-021.webp",
+      "en": "Tri-Beam",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "SB01-022",
+      "name": "萬國驚天掌",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-022.webp",
+      "en": "Thunder Shock Surprise",
+      "rarity": "Common"
+    },
+    {
+      "number": "SB01-023",
+      "name": "孫悟空",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-023.webp",
+      "en": "Son Goku",
+      "rarity": "Rare"
+    },
+    {
+      "number": "SB01-023",
+      "name": "孫悟空",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-023_p1.webp",
+      "en": "Son Goku",
+      "rarity": "Rare"
+    },
+    {
+      "number": "SB01-023",
+      "name": "孫悟空",
+      "variant": "p2",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-023_p2.webp",
+      "en": "Son Goku",
+      "rarity": "Rare"
+    },
+    {
+      "number": "SB01-024",
+      "name": "ナッパ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-024.webp",
+      "en": "Nappa",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "SB01-025",
+      "name": "ベジータ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-025.webp",
+      "en": "Vegeta",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "SB01-025",
+      "name": "ベジータ",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-025_p1.webp",
+      "en": "Vegeta",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "SB01-026",
+      "name": "ラディッツ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-026.webp",
+      "en": "Raditz",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "SB01-026",
+      "name": "ラディッツ",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-026_p1.webp",
+      "en": "Raditz",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "SB01-027",
+      "name": "最強のコンビ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-027.webp",
+      "en": "Strongest Team-Up",
+      "rarity": "Common"
+    },
+    {
+      "number": "SB01-028",
+      "name": "冷酷な選別",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-028.webp",
+      "en": "Ruthless Sorting",
+      "rarity": "Common"
+    },
+    {
+      "number": "SB01-029",
+      "name": "魔人ブウ：悪",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-029_f.webp",
+      "en": "Majin Buu : Evil // Majin Buu : Kid",
+      "rarity": "Leader"
+    },
+    {
+      "number": "SB01-029",
+      "name": "魔人ブウ：悪",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-029_f_p1.webp",
+      "en": "Majin Buu : Evil // Majin Buu : Kid",
+      "rarity": "Leader"
+    },
+    {
+      "number": "SB01-030",
+      "name": "ダーブラ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-030.webp",
+      "en": "Dabura",
+      "rarity": "Rare"
+    },
+    {
+      "number": "SB01-030",
+      "name": "ダーブラ",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-030_p1.webp",
+      "en": "Dabura",
+      "rarity": "Rare"
+    },
+    {
+      "number": "SB01-031",
+      "name": "バビディ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-031.webp",
+      "en": "Babidi",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "SB01-032",
+      "name": "ベジータ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-032.webp",
+      "en": "Vegeta",
+      "rarity": "Common"
+    },
+    {
+      "number": "SB01-033",
+      "name": "魔人ブウ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-033.webp",
+      "en": "Majin Buu",
+      "rarity": "Rare"
+    },
+    {
+      "number": "SB01-033",
+      "name": "魔人ブウ",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-033_p1.webp",
+      "en": "Majin Buu",
+      "rarity": "Rare"
+    },
+    {
+      "number": "SB01-034",
+      "name": "魔人ブウ：悪",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-034.webp",
+      "en": "Majin Buu : Evil",
+      "rarity": "Rare"
+    },
+    {
+      "number": "SB01-035",
+      "name": "魔人ブウ：悪",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-035.webp",
+      "en": "Majin Buu : Evil",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "SB01-036",
+      "name": "魔人ブウ：悪",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-036.webp",
+      "en": "Majin Buu : Evil",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "SB01-036",
+      "name": "魔人ブウ：悪",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-036_p1.webp",
+      "en": "Majin Buu : Evil",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "SB01-037",
+      "name": "魔人ブウ：悪",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-037.webp",
+      "en": "Majin Buu : Evil",
+      "rarity": "Common"
+    },
+    {
+      "number": "SB01-038",
+      "name": "魔人ブウ：純粋",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-038.webp",
+      "en": "Majin Buu : Kid",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "SB01-039",
+      "name": "魔人ブウ：純粋",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-039.webp",
+      "en": "Majin Buu : Kid",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "SB01-040",
+      "name": "魔人ブウ：純粋悪",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-040.webp",
+      "en": "Majin Buu : Pure Evil",
+      "rarity": "Common"
+    },
+    {
+      "number": "SB01-041",
+      "name": "魔人ブウ：善",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-041.webp",
+      "en": "Majin Buu : Good",
+      "rarity": "Common"
+    },
+    {
+      "number": "SB01-042",
+      "name": "魔人ブウ：善",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-042.webp",
+      "en": "Majin Buu : Good",
+      "rarity": "Common"
+    },
+    {
+      "number": "SB01-043",
+      "name": "ヤコン",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-043.webp",
+      "en": "Yakon",
+      "rarity": "Common"
+    },
+    {
+      "number": "SB01-044",
+      "name": "悪そのものの存在",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-044.webp",
+      "en": "Evil Itself",
+      "rarity": "Common"
+    },
+    {
+      "number": "SB01-045",
+      "name": "ブルマ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-045_f.webp",
+      "en": "Bulma",
+      "rarity": "Leader"
+    },
+    {
+      "number": "SB01-045",
+      "name": "ブルマ",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-045_f_p1.webp",
+      "en": "Bulma",
+      "rarity": "Leader"
+    },
+    {
+      "number": "SB01-046",
+      "name": "アックマン",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-046.webp",
+      "en": "Spike",
+      "rarity": "Common"
+    },
+    {
+      "number": "SB01-047",
+      "name": "ウーロン",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-047.webp",
+      "en": "Oolong",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "SB01-048",
+      "name": "ウミガメ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-048.webp",
+      "en": "Turtle",
+      "rarity": "Common"
+    },
+    {
+      "number": "SB01-049",
+      "name": "占いババ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-049.webp",
+      "en": "Fortuneteller Baba",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "SB01-049",
+      "name": "占いババ",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-049_p1.webp",
+      "en": "Fortuneteller Baba",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "SB01-050",
+      "name": "亀仙人",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-050.webp",
+      "en": "Master Roshi",
+      "rarity": "Rare"
+    },
+    {
+      "number": "SB01-050",
+      "name": "亀仙人",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-050_p1.webp",
+      "en": "Master Roshi",
+      "rarity": "Rare"
+    },
+    {
+      "number": "SB01-051",
+      "name": "クリリン",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-051.webp",
+      "en": "Krillin",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "SB01-051",
+      "name": "クリリン",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-051_p1.webp",
+      "en": "Krillin",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "SB01-052",
+      "name": "スケさん",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-052.webp",
+      "en": "Suke San",
+      "rarity": "Common"
+    },
+    {
+      "number": "SB01-053",
+      "name": "孫悟空：少年期",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-053.webp",
+      "en": "Son Goku : Childhood",
+      "rarity": "Rare"
+    },
+    {
+      "number": "SB01-053",
+      "name": "孫悟空：少年期",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-053_p1.webp",
+      "en": "Son Goku : Childhood",
+      "rarity": "Rare"
+    },
+    {
+      "number": "SB01-054",
+      "name": "孫悟飯",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-054.webp",
+      "en": "Son Gohan",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "SB01-055",
+      "name": "ドラキュラマン",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-055.webp",
+      "en": "Draculaman",
+      "rarity": "Common"
+    },
+    {
+      "number": "SB01-056",
+      "name": "プーアル",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-056.webp",
+      "en": "Puar",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "SB01-057",
+      "name": "ブルマ/孫悟空：少年期",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-057.webp",
+      "en": "Bulma/Son Goku : Childhood",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "SB01-057",
+      "name": "ブルマ/孫悟空：少年期",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-057_p1.webp",
+      "en": "Bulma/Son Goku : Childhood",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "SB01-058",
+      "name": "ミイラくん",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-058.webp",
+      "en": "Bandages",
+      "rarity": "Common"
+    },
+    {
+      "number": "SB01-059",
+      "name": "ヤムチャ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-059.webp",
+      "en": "Yamcha",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "SB01-060",
+      "name": "再会",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/SB01-060.webp",
+      "en": "Reunion",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB01-085",
+      "name": "孫悟空",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB01-085_p1.webp",
+      "en": "Son Goku",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB01-088",
+      "name": "孫悟飯：少年期",
+      "variant": "p2",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB01-088_p2.webp",
+      "en": "Son Gohan : Childhood",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB01-101",
+      "name": "瞬間移動かめはめ波",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB01-101_p1.webp",
+      "en": "Instant Kamehameha",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB01-103",
+      "name": "ビッグ・バン・アタック",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB01-103_p1.webp",
+      "en": "Big Bang Attack",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB02-071",
+      "name": "神様",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB02-071_p1.webp",
+      "en": "Kami",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB02-074",
+      "name": "クリリン",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB02-074_p1.webp",
+      "en": "Krillin",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB02-085",
+      "name": "セルジュニア",
+      "variant": "p3",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB02-085_p3.webp",
+      "en": "Cell Jr.",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB03-032",
+      "name": "グレートサイヤマン",
+      "variant": "p3",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB03-032_p3.webp",
+      "en": "Great Saiyaman",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB03-049",
+      "name": "ミスター・サタン",
+      "variant": "p3",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB03-049_p3.webp",
+      "en": "Hercule",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB03-062",
+      "name": "戦闘力5のおじさん",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB03-062_p1.webp",
+      "en": "The Farmer With Power Level 5",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB03-075",
+      "name": "修業の日々",
+      "variant": "p3",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB03-075_p3.webp",
+      "en": "Days of Training",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB03-084",
+      "name": "バビディ",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB03-084_p1.webp",
+      "en": "Babidi",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB03-099",
+      "name": "エネルギー吸収",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB03-099_p1.webp",
+      "en": "Energy Absorption",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB04-041",
+      "name": "ビーデル",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB04-041_p1.webp",
+      "en": "Videl",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB04-051",
+      "name": "ベジータ",
+      "variant": "p2",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB04-051_f_p2.webp",
+      "en": "Vegeta",
+      "rarity": "Leader"
+    },
+    {
+      "number": "FB04-051",
+      "name": "ベジータ",
+      "variant": "p3",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB04-051_f_p3.webp",
+      "en": "Vegeta",
+      "rarity": "Leader"
+    },
+    {
+      "number": "FB04-060",
+      "name": "孫悟飯：幼年期",
+      "variant": "p3",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB04-060_p3.webp",
+      "en": "Son Gohan : Youth",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB04-069",
+      "name": "ベジータ",
+      "variant": "p3",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB04-069_p3.webp",
+      "en": "Vegeta",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB04-072",
+      "name": "ラディッツ",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB04-072_p1.webp",
+      "en": "Raditz",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB04-073",
+      "name": "挨拶代わりの一撃",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB04-073_p1.webp",
+      "en": "A Warm Greeting",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB04-076",
+      "name": "造りだされた満月",
+      "variant": "p3",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB04-076_p3.webp",
+      "en": "Artificial Full Moon",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB04-088",
+      "name": "ベジータ",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB04-088_p1.webp",
+      "en": "Vegeta",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB04-091",
+      "name": "魔人ブウ：悪",
+      "variant": "p4",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB04-091_p4.webp",
+      "en": "Majin Buu : Evil",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB04-095",
+      "name": "魔人ブウ：純粋",
+      "variant": "p3",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB04-095_p3.webp",
+      "en": "Majin Buu : Kid",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB04-096",
+      "name": "魔人ブウ：純粋悪",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB04-096_p1.webp",
+      "en": "Majin Buu : Pure Evil",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB05-119",
+      "name": "孫悟空",
+      "variant": "p3",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB05-119_p3.webp",
+      "en": "Son Goku",
+      "rarity": "Secret Rare"
+    },
+    {
+      "number": "FB05-119",
+      "name": "孫悟空",
+      "variant": "p4",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB05-119_p4.webp",
+      "en": "Son Goku",
+      "rarity": "Secret Rare"
+    },
+    {
+      "number": "FB06-011",
+      "name": "人造人間17号",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB06-011_p1.webp",
+      "en": "Android 17",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB06-012",
+      "name": "人造人間17号/人造人間18号",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB06-012_p1.webp",
+      "en": "Android 17/Android 18",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB06-014",
+      "name": "人造人間18号",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB06-014_p1.webp",
+      "en": "Android 18",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB06-019",
+      "name": "Dr.ゲロ",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB06-019_p1.webp",
+      "en": "Dr. Gero",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB06-022",
+      "name": "荒廃した未来",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB06-022_p1.webp",
+      "en": "Bleak Future",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB06-024",
+      "name": "ヘルズフラッシュ",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB06-024_p1.webp",
+      "en": "Hell's Flash",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB06-025",
+      "name": "孫悟空：少年期",
+      "variant": "p2",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB06-025_f_p2.webp",
+      "en": "Son Goku : Childhood",
+      "rarity": "Leader"
+    },
+    {
+      "number": "FB06-025",
+      "name": "孫悟空：少年期",
+      "variant": "p3",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB06-025_f_p3.webp",
+      "en": "Son Goku : Childhood",
+      "rarity": "Leader"
+    },
+    {
+      "number": "FB06-026",
+      "name": "アナウンサー",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB06-026_p1.webp",
+      "en": "Announcer",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB06-027",
+      "name": "ギラン",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB06-027_p1.webp",
+      "en": "Giran",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB06-033",
+      "name": "ナム",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB06-033_p1.webp",
+      "en": "Nam",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB06-035",
+      "name": "ブルマ",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB06-035_p1.webp",
+      "en": "Bulma",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB06-035",
+      "name": "ブルマ",
+      "variant": "p2",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB06-035_p2.webp",
+      "en": "Bulma",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB06-037",
+      "name": "ヤムチャ",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB06-037_p1.webp",
+      "en": "Yamcha",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB06-038",
+      "name": "ランチ",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB06-038_p1.webp",
+      "en": "Launch",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB06-039",
+      "name": "ランファン",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB06-039_p1.webp",
+      "en": "Ranfan",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB06-041",
+      "name": "ジャン拳",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB06-041_p1.webp",
+      "en": "Scissors Paper Rock",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB06-043",
+      "name": "天下一武道会会場",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB06-043_p1.webp",
+      "en": "World Tournament Arena",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB06-044",
+      "name": "天空×字拳",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB06-044_p1.webp",
+      "en": "Cross Arm Dive",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB06-045",
+      "name": "どどん波",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB06-045_p1.webp",
+      "en": "Dodon Wave",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB06-046",
+      "name": "よいこ眠眠拳",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB06-046_p1.webp",
+      "en": "Sleepy Boy Technique",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB06-100",
+      "name": "シンバル",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB06-100_p1.webp",
+      "en": "Cymbal",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB06-102",
+      "name": "タンバリン",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB06-102_p1.webp",
+      "en": "Tambourine",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB06-105",
+      "name": "ドラム",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB06-105_p1.webp",
+      "en": "Drum",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB06-113",
+      "name": "マジュニア",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB06-113_p1.webp",
+      "en": "Piccolo Jr.",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB06-113",
+      "name": "マジュニア",
+      "variant": "p2",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB06-113_p2.webp",
+      "en": "Piccolo Jr.",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB06-117",
+      "name": "爆力魔波",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB06-117_p1.webp",
+      "en": "Explosive Wave",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FS05-05",
+      "name": "孫悟飯",
+      "variant": "p2",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS05-05_p2.webp",
+      "en": "Son Gohan",
+      "rarity": "Common"
+    },
+    {
+      "number": "E-42",
+      "name": "エナジーマーカー",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-42.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-43",
+      "name": "エナジーマーカー",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-43.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-44",
+      "name": "エナジーマーカー",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-44.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-45",
+      "name": "エナジーマーカー",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-45.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-46",
+      "name": "エナジーマーカー",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-46.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-47",
+      "name": "エナジーマーカー",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-47.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-48",
+      "name": "エナジーマーカー",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-48.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-49",
+      "name": "エナジーマーカー",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-49.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-50",
+      "name": "エナジーマーカー",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-50.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-51",
+      "name": "エナジーマーカー",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-51.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-52",
+      "name": "エナジーマーカー",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-52.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-53",
+      "name": "エナジーマーカー",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-53.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-54",
+      "name": "エナジーマーカー",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-54.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-55",
+      "name": "エナジーマーカー",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-55.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-56",
+      "name": "エナジーマーカー",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-56.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-57",
+      "name": "エナジーマーカー",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-57.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-58",
+      "name": "エナジーマーカー",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-58.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-59",
+      "name": "エナジーマーカー",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-59.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-60",
+      "name": "エナジーマーカー",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-60.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-61",
+      "name": "エナジーマーカー",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-61.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-62",
+      "name": "エナジーマーカー",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-62.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-42",
+      "name": "エナジーマーカー",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-42_p1.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-43",
+      "name": "エナジーマーカー",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-43_p1.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-44",
+      "name": "エナジーマーカー",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-44_p1.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-45",
+      "name": "エナジーマーカー",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-45_p1.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-46",
+      "name": "エナジーマーカー",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-46_p1.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-47",
+      "name": "エナジーマーカー",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-47_p1.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-48",
+      "name": "エナジーマーカー",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-48_p1.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-49",
+      "name": "エナジーマーカー",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-49_p1.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-50",
+      "name": "エナジーマーカー",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-50_p1.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-51",
+      "name": "エナジーマーカー",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-51_p1.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-52",
+      "name": "エナジーマーカー",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-52_p1.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-53",
+      "name": "エナジーマーカー",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-53_p1.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-54",
+      "name": "エナジーマーカー",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-54_p1.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-55",
+      "name": "エナジーマーカー",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-55_p1.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-56",
+      "name": "エナジーマーカー",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-56_p1.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-57",
+      "name": "エナジーマーカー",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-57_p1.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-58",
+      "name": "エナジーマーカー",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-58_p1.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-59",
+      "name": "エナジーマーカー",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-59_p1.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-60",
+      "name": "エナジーマーカー",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-60_p1.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-61",
+      "name": "エナジーマーカー",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-61_p1.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-62",
+      "name": "エナジーマーカー",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-62_p1.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    }
+  ]
+}

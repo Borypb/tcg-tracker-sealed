@@ -1,0 +1,182 @@
+{
+  "id": "584108",
+  "name": "スタートデッキ ベジータ(ミニ) 超サイヤ人3 [FS08]",
+  "code": "FS08",
+  "cards": [
+    {
+      "number": "FS08-01",
+      "name": "ベジータ(ミニ)：DA",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS08-01_f.webp",
+      "en": "Vegeta : DA",
+      "rarity": "Leader"
+    },
+    {
+      "number": "FS08-02",
+      "name": "カダン：DA",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS08-02.webp",
+      "en": "Kadan : DA",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS08-03",
+      "name": "キビト(ミニ)：DA",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS08-03.webp",
+      "en": "Kibito : DA",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS08-04",
+      "name": "グロリオ：DA",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS08-04.webp",
+      "en": "Glorio : DA",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS08-05",
+      "name": "シン(ミニ)：DA",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS08-05.webp",
+      "en": "Shin : DA",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS08-06",
+      "name": "タマガミ・ナンバー・ツー：DA",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS08-06.webp",
+      "en": "Tamagami Number Two : DA",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS08-07",
+      "name": "デンデ(ミニ)：DA",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS08-07.webp",
+      "en": "Dende : DA",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS08-08",
+      "name": "トロル：DA",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS08-08.webp",
+      "en": "Toroll : DA",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS08-09",
+      "name": "パンジ：DA",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS08-09.webp",
+      "en": "Panzy : DA",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS08-10",
+      "name": "ピッコロ(ミニ)：DA",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS08-10.webp",
+      "en": "Piccolo : DA",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS08-11",
+      "name": "ブルマ(ミニ)：DA",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS08-11.webp",
+      "en": "Bulma : DA",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS08-12",
+      "name": "ベジータ(ミニ)：DA",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS08-12.webp",
+      "en": "Vegeta : DA",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS08-13",
+      "name": "ベジータ(ミニ)：DA",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS08-13.webp",
+      "en": "Vegeta : DA",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS08-14",
+      "name": "ペラル：DA",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS08-14.webp",
+      "en": "Peral : DA",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS08-15",
+      "name": "特訓の成果",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS08-15.webp",
+      "en": "Results of Training",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS08-16",
+      "name": "復活虫",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS08-16.webp",
+      "en": "Revive Bug",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS08-02",
+      "name": "カダン：DA",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS08-02_p1.webp",
+      "en": "Kadan : DA",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS08-04",
+      "name": "グロリオ：DA",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS08-04_p1.webp",
+      "en": "Glorio : DA",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS08-07",
+      "name": "デンデ(ミニ)：DA",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS08-07_p1.webp",
+      "en": "Dende : DA",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS08-09",
+      "name": "パンジ：DA",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS08-09_p1.webp",
+      "en": "Panzy : DA",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS08-10",
+      "name": "ピッコロ(ミニ)：DA",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS08-10_p1.webp",
+      "en": "Piccolo : DA",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS08-11",
+      "name": "ブルマ(ミニ)：DA",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS08-11_p1.webp",
+      "en": "Bulma : DA",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS08-15",
+      "name": "特訓の成果",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS08-15_p1.webp",
+      "en": "Results of Training",
+      "rarity": "Common"
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "id": "596112",
+  "name": "起始牌組EX 氣之躍動 [FS12]",
+  "code": "FS12",
+  "cards": [
+    {
+      "number": "FS12-01",
+      "name": "孫悟空",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS12-01_f.webp",
+      "en": "Son Goku",
+      "rarity": "Leader"
+    },
+    {
+      "number": "FS12-01",
+      "name": "孫悟空",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS12-01_f_p1.webp",
+      "en": "Son Goku",
+      "rarity": "Leader"
+    },
+    {
+      "number": "FS12-02",
+      "name": "克林",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS12-02.webp",
+      "en": "Krillin",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS12-02",
+      "name": "克林",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS12-02_p1.webp",
+      "en": "Krillin",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS12-03",
+      "name": "克林",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS12-03.webp",
+      "en": "Krillin",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS12-03",
+      "name": "克林",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS12-03_p1.webp",
+      "en": "Krillin",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS12-04",
+      "name": "大長老",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS12-04.webp",
+      "en": "Guru",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS12-04",
+      "name": "大長老",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS12-04_p1.webp",
+      "en": "Guru",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS12-05",
+      "name": "孫悟空",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS12-05.webp",
+      "en": "Son Goku",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS12-05",
+      "name": "孫悟空",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS12-05_p1.webp",
+      "en": "Son Goku",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS12-06",
+      "name": "孫悟空",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS12-06.webp",
+      "en": "Son Goku",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS12-06",
+      "name": "孫悟空",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS12-06_p1.webp",
+      "en": "Son Goku",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS12-07",
+      "name": "孫悟空",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS12-07.webp",
+      "en": "Son Goku",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS12-07",
+      "name": "孫悟空",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS12-07_p1.webp",
+      "en": "Son Goku",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS12-08",
+      "name": "孫悟飯：幼年期",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS12-08.webp",
+      "en": "Son Gohan : Youth",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS12-08",
+      "name": "孫悟飯：幼年期",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS12-08_p1.webp",
+      "en": "Son Gohan : Youth",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS12-09",
+      "name": "孫悟飯：幼年期",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS12-09.webp",
+      "en": "Son Gohan : Youth",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS12-09",
+      "name": "孫悟飯：幼年期",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS12-09_p1.webp",
+      "en": "Son Gohan : Youth",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS12-10",
+      "name": "丹丹",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS12-10.webp",
+      "en": "Dende",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS12-10",
+      "name": "丹丹",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS12-10_p1.webp",
+      "en": "Dende",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS12-11",
+      "name": "尼爾",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS12-11.webp",
+      "en": "Nail",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS12-11",
+      "name": "尼爾",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS12-11_p1.webp",
+      "en": "Nail",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS12-12",
+      "name": "比克",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS12-12.webp",
+      "en": "Piccolo",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS12-12",
+      "name": "比克",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS12-12_p1.webp",
+      "en": "Piccolo",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS12-13",
+      "name": "比克",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS12-13.webp",
+      "en": "Piccolo",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS12-13",
+      "name": "比克",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS12-13_p1.webp",
+      "en": "Piccolo",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS12-14",
+      "name": "布馬",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS12-14.webp",
+      "en": "Bulma",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS12-14",
+      "name": "布馬",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS12-14_p1.webp",
+      "en": "Bulma",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS12-15",
+      "name": "布馬",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS12-15.webp",
+      "en": "Bulma",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS12-15",
+      "name": "布馬",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS12-15_p1.webp",
+      "en": "Bulma",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS12-16",
+      "name": "達爾",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS12-16.webp",
+      "en": "Vegeta",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS12-16",
+      "name": "達爾",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS12-16_p1.webp",
+      "en": "Vegeta",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS12-17",
+      "name": "傳說的戰士",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS12-17.webp",
+      "en": "Legendary Warrior",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS12-17",
+      "name": "傳說的戰士",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS12-17_p1.webp",
+      "en": "Legendary Warrior",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS12-18",
+      "name": "20倍界王拳",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS12-18.webp",
+      "en": "Kaio-ken x20",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS12-18",
+      "name": "20倍界王拳",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS12-18_p1.webp",
+      "en": "Kaio-ken x20",
+      "rarity": "Common"
+    },
+    {
+      "number": "E-121",
+      "name": "能量標記",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-121.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-122",
+      "name": "能量標記",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-122.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-123",
+      "name": "能量標記",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-123.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-124",
+      "name": "能量標記",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-124.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    },
+    {
+      "number": "E-125",
+      "name": "能量標記",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/E-125.webp",
+      "en": "Energy Marker",
+      "rarity": "None"
+    }
+  ]
+}

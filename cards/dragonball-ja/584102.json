@@ -1,0 +1,182 @@
+{
+  "id": "584102",
+  "name": "スタートデッキ ベジータ[FS02]",
+  "code": "FS02",
+  "cards": [
+    {
+      "number": "FS02-01",
+      "name": "ベジータ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS02-01_f.webp",
+      "en": "Vegeta",
+      "rarity": "Leader"
+    },
+    {
+      "number": "FS02-02",
+      "name": "ゴテンクス",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS02-02.webp",
+      "en": "Gotenks",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS02-03",
+      "name": "ゴテンクス",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS02-03.webp",
+      "en": "Gotenks",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS02-04",
+      "name": "孫悟空",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS02-04.webp",
+      "en": "Son Goku",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS02-05",
+      "name": "孫悟天",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS02-05.webp",
+      "en": "Son Goten",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS02-06",
+      "name": "孫悟天",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS02-06.webp",
+      "en": "Son Goten",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS02-07",
+      "name": "孫悟飯：青年期",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS02-07.webp",
+      "en": "Son Gohan : Adolescence",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS02-08",
+      "name": "トランクス：幼年期",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS02-08.webp",
+      "en": "Trunks : Youth",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS02-09",
+      "name": "トランクス：幼年期",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS02-09.webp",
+      "en": "Trunks : Youth",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS02-10",
+      "name": "ビーデル",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS02-10.webp",
+      "en": "Videl",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS02-11",
+      "name": "ピッコロ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS02-11.webp",
+      "en": "Piccolo",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS02-12",
+      "name": "ブルマ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS02-12.webp",
+      "en": "Bulma",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS02-13",
+      "name": "ベジータ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS02-13.webp",
+      "en": "Vegeta",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS02-14",
+      "name": "魔人ブウ：善",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS02-14.webp",
+      "en": "Majin Buu : Good",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS02-15",
+      "name": "ギャリック砲",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS02-15.webp",
+      "en": "Galick Gun",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS02-16",
+      "name": "ファイナルフラッシュ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS02-16.webp",
+      "en": "Final Flash",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS02-03",
+      "name": "ゴテンクス",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS02-03_p1.webp",
+      "en": "Gotenks",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS02-06",
+      "name": "孫悟天",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS02-06_p1.webp",
+      "en": "Son Goten",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS02-09",
+      "name": "トランクス：幼年期",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS02-09_p1.webp",
+      "en": "Trunks : Youth",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS02-10",
+      "name": "ビーデル",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS02-10_p1.webp",
+      "en": "Videl",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS02-13",
+      "name": "ベジータ",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS02-13_p1.webp",
+      "en": "Vegeta",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS02-15",
+      "name": "ギャリック砲",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS02-15_p1.webp",
+      "en": "Galick Gun",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS02-16",
+      "name": "ファイナルフラッシュ",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS02-16_p1.webp",
+      "en": "Final Flash",
+      "rarity": "Common"
+    }
+  ]
+}

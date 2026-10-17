@@ -1,0 +1,247 @@
+{
+  "updatedAt": "2026-10-17",
+  "sets": [
+    {
+      "id": "596011",
+      "name": "補充包 BRIGHTNESS OF HOPE [FB11]",
+      "code": "FB11",
+      "count": 162,
+      "file": "cards/dragonball-zh/596011.json",
+      "version": "5fbf7263f41d",
+      "order": 27
+    },
+    {
+      "id": "596301",
+      "name": "STORY BOOSTER 01 [ST01]",
+      "code": "ST01",
+      "count": 172,
+      "file": "cards/dragonball-zh/596301.json",
+      "version": "b9b26c2b9f5d",
+      "order": 26
+    },
+    {
+      "id": "596010",
+      "name": "補充包 CROSS FORCE [FB10]",
+      "code": "FB10",
+      "count": 162,
+      "file": "cards/dragonball-zh/596010.json",
+      "version": "42f6c4dd0d49",
+      "order": 25
+    },
+    {
+      "id": "596009",
+      "name": "補充包 DUAL EVOLUTION [FB09]",
+      "code": "FB09",
+      "count": 164,
+      "file": "cards/dragonball-zh/596009.json",
+      "version": "bb66bfc9b7df",
+      "order": 24
+    },
+    {
+      "id": "596008",
+      "name": "補充包 驕傲的戰鬥民族 [FB08]",
+      "code": "FB08",
+      "count": 158,
+      "file": "cards/dragonball-zh/596008.json",
+      "version": "af0b9d618c4f",
+      "order": 23
+    },
+    {
+      "id": "596202",
+      "name": "MANGA BOOSTER 02[SB02]",
+      "code": "SB02",
+      "count": 177,
+      "file": "cards/dragonball-zh/596202.json",
+      "version": "3d7b6e422401",
+      "order": 22
+    },
+    {
+      "id": "596007",
+      "name": "補充包 向神龍祈願 [FB07]",
+      "code": "FB07",
+      "count": 158,
+      "file": "cards/dragonball-zh/596007.json",
+      "version": "91b1e4a4ac1a",
+      "order": 21
+    },
+    {
+      "id": "596201",
+      "name": "MANGA BOOSTER 01[SB01]",
+      "code": "SB01",
+      "count": 177,
+      "file": "cards/dragonball-zh/596201.json",
+      "version": "5864be10d8d3",
+      "order": 20
+    },
+    {
+      "id": "596006",
+      "name": "補充包 迫近的威脅 [FB06]",
+      "code": "FB06",
+      "count": 143,
+      "file": "cards/dragonball-zh/596006.json",
+      "version": "20034619d760",
+      "order": 19
+    },
+    {
+      "id": "596005",
+      "name": "補充包 未知的冒險 [FB05]",
+      "code": "FB05",
+      "count": 154,
+      "file": "cards/dragonball-zh/596005.json",
+      "version": "0684f21c3dea",
+      "order": 18
+    },
+    {
+      "id": "596004",
+      "name": "補充包 超越極限之人 [FB04]",
+      "code": "FB04",
+      "count": 158,
+      "file": "cards/dragonball-zh/596004.json",
+      "version": "eaff27941c70",
+      "order": 17
+    },
+    {
+      "id": "596003",
+      "name": "補充包 憤怒的咆哮 [FB03]",
+      "code": "FB03",
+      "count": 163,
+      "file": "cards/dragonball-zh/596003.json",
+      "version": "387fc0daa5e8",
+      "order": 16
+    },
+    {
+      "id": "596002",
+      "name": "補充包 烈火鬥氣 [FB02]",
+      "code": "FB02",
+      "count": 163,
+      "file": "cards/dragonball-zh/596002.json",
+      "version": "e8ca5fb43d94",
+      "order": 15
+    },
+    {
+      "id": "596001",
+      "name": "補充包 覺醒的心跳 [FB01]",
+      "code": "FB01",
+      "count": 163,
+      "file": "cards/dragonball-zh/596001.json",
+      "version": "0f21cb2ad4fd",
+      "order": 14
+    },
+    {
+      "id": "596112",
+      "name": "起始牌組EX 氣之躍動 [FS12]",
+      "code": "FS12",
+      "count": 41,
+      "file": "cards/dragonball-zh/596112.json",
+      "version": "6e2a6cb32d7a",
+      "order": 13
+    },
+    {
+      "id": "596111",
+      "name": "起始牌組EX 進化之境地 [FS11]",
+      "code": "FS11",
+      "count": 41,
+      "file": "cards/dragonball-zh/596111.json",
+      "version": "ec33e16ba226",
+      "order": 12
+    },
+    {
+      "id": "596110",
+      "name": "起始牌組EX 傑弗雷特 [FS10]",
+      "code": "FS10",
+      "count": 18,
+      "file": "cards/dragonball-zh/596110.json",
+      "version": "1c50ced65209",
+      "order": 11
+    },
+    {
+      "id": "596109",
+      "name": "起始牌組EX 夏洛特 [FS09]",
+      "code": "FS09",
+      "count": 18,
+      "file": "cards/dragonball-zh/596109.json",
+      "version": "4b497020960f",
+      "order": 10
+    },
+    {
+      "id": "596108",
+      "name": "起始牌組 -達爾(迷你) 超級賽亞人3- [FS08]",
+      "code": "FS08",
+      "count": 16,
+      "file": "cards/dragonball-zh/596108.json",
+      "version": "9a6c2a0fdbfd",
+      "order": 9
+    },
+    {
+      "id": "596107",
+      "name": "起始牌組 達爾(迷你) [FS07]",
+      "code": "FS07",
+      "count": 16,
+      "file": "cards/dragonball-zh/596107.json",
+      "version": "891c99478739",
+      "order": 8
+    },
+    {
+      "id": "596106",
+      "name": "起始牌組 孫悟空(迷你) [FS06]",
+      "code": "FS06",
+      "count": 16,
+      "file": "cards/dragonball-zh/596106.json",
+      "version": "37b77bcdb8cf",
+      "order": 7
+    },
+    {
+      "id": "596105",
+      "name": "起始牌組 巴達克 [FS05]",
+      "code": "FS05",
+      "count": 16,
+      "file": "cards/dragonball-zh/596105.json",
+      "version": "1489780796d5",
+      "order": 6
+    },
+    {
+      "id": "596104",
+      "name": "起始牌組 弗力札 [FS04]",
+      "code": "FS04",
+      "count": 16,
+      "file": "cards/dragonball-zh/596104.json",
+      "version": "82681765783d",
+      "order": 5
+    },
+    {
+      "id": "596103",
+      "name": "起始牌組 布羅利 [FS03]",
+      "code": "FS03",
+      "count": 16,
+      "file": "cards/dragonball-zh/596103.json",
+      "version": "d5d12351a98e",
+      "order": 4
+    },
+    {
+      "id": "596102",
+      "name": "起始牌組 達爾 [FS02]",
+      "code": "FS02",
+      "count": 16,
+      "file": "cards/dragonball-zh/596102.json",
+      "version": "ae61e745f706",
+      "order": 3
+    },
+    {
+      "id": "596101",
+      "name": "起始牌組 孫悟空 [FS01]",
+      "code": "FS01",
+      "count": 16,
+      "file": "cards/dragonball-zh/596101.json",
+      "version": "61366c30c6f1",
+      "order": 2
+    },
+    {
+      "id": "596901",
+      "name": "推廣卡",
+      "count": 647,
+      "file": "cards/dragonball-zh/596901.json",
+      "version": "c7ea3469c201",
+      "order": 1
+    }
+  ]
+}

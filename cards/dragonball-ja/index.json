@@ -1,0 +1,247 @@
+{
+  "updatedAt": "2026-10-17",
+  "sets": [
+    {
+      "id": "584011",
+      "name": "ブースターパック BRIGHTNESS OF HOPE [FB11]",
+      "code": "FB11",
+      "count": 162,
+      "file": "cards/dragonball-ja/584011.json",
+      "version": "e98b6d6d8b0f",
+      "order": 27
+    },
+    {
+      "id": "584301",
+      "name": "STORY BOOSTER 01 [ST01]",
+      "code": "ST01",
+      "count": 172,
+      "file": "cards/dragonball-ja/584301.json",
+      "version": "cb543c0e9bee",
+      "order": 26
+    },
+    {
+      "id": "584010",
+      "name": "ブースターパック CROSS FORCE [FB10]",
+      "code": "FB10",
+      "count": 162,
+      "file": "cards/dragonball-ja/584010.json",
+      "version": "dc99c1183aeb",
+      "order": 25
+    },
+    {
+      "id": "584009",
+      "name": "ブースターパック DUAL EVOLUTION [FB09]",
+      "code": "FB09",
+      "count": 164,
+      "file": "cards/dragonball-ja/584009.json",
+      "version": "10bd05d20e3a",
+      "order": 24
+    },
+    {
+      "id": "584008",
+      "name": "ブースターパック 誇り高き戦闘民族[FB08]",
+      "code": "FB08",
+      "count": 158,
+      "file": "cards/dragonball-ja/584008.json",
+      "version": "4f075ad7aa3c",
+      "order": 23
+    },
+    {
+      "id": "584202",
+      "name": "MANGA BOOSTER 02[SB02]",
+      "code": "SB02",
+      "count": 177,
+      "file": "cards/dragonball-ja/584202.json",
+      "version": "b6b654764670",
+      "order": 22
+    },
+    {
+      "id": "584007",
+      "name": "ブースターパック 神龍への願い[FB07]",
+      "code": "FB07",
+      "count": 158,
+      "file": "cards/dragonball-ja/584007.json",
+      "version": "71abfa1e70a6",
+      "order": 21
+    },
+    {
+      "id": "584201",
+      "name": "MANGA BOOSTER 01[SB01]",
+      "code": "SB01",
+      "count": 177,
+      "file": "cards/dragonball-ja/584201.json",
+      "version": "46f712205b21",
+      "order": 20
+    },
+    {
+      "id": "584006",
+      "name": "ブースターパック 迫り来る脅威[FB06]",
+      "code": "FB06",
+      "count": 143,
+      "file": "cards/dragonball-ja/584006.json",
+      "version": "9b11c10c263f",
+      "order": 19
+    },
+    {
+      "id": "584005",
+      "name": "ブースターパック 未知なる冒険[FB05]",
+      "code": "FB05",
+      "count": 154,
+      "file": "cards/dragonball-ja/584005.json",
+      "version": "42c90f270a5a",
+      "order": 18
+    },
+    {
+      "id": "584004",
+      "name": "ブースターパック 限界を超えし者[FB04]",
+      "code": "FB04",
+      "count": 158,
+      "file": "cards/dragonball-ja/584004.json",
+      "version": "19f885003093",
+      "order": 17
+    },
+    {
+      "id": "584003",
+      "name": "ブースターパック 怒りの咆哮[FB03]",
+      "code": "FB03",
+      "count": 163,
+      "file": "cards/dragonball-ja/584003.json",
+      "version": "7557d2f33f9f",
+      "order": 16
+    },
+    {
+      "id": "584002",
+      "name": "ブースターパック 烈火の闘気[FB02]",
+      "code": "FB02",
+      "count": 163,
+      "file": "cards/dragonball-ja/584002.json",
+      "version": "9dc0dbba564d",
+      "order": 15
+    },
+    {
+      "id": "584001",
+      "name": "ブースターパック 覚醒の鼓動[FB01]",
+      "code": "FB01",
+      "count": 163,
+      "file": "cards/dragonball-ja/584001.json",
+      "version": "66b3eda6fddf",
+      "order": 14
+    },
+    {
+      "id": "584112",
+      "name": "スタートデッキEX 気の躍動[FS12]",
+      "code": "FS12",
+      "count": 41,
+      "file": "cards/dragonball-ja/584112.json",
+      "version": "1481dd9aa1e6",
+      "order": 13
+    },
+    {
+      "id": "584111",
+      "name": "スタートデッキEX 進化の境地[FS11]",
+      "code": "FS11",
+      "count": 41,
+      "file": "cards/dragonball-ja/584111.json",
+      "version": "b11189b5a3b4",
+      "order": 12
+    },
+    {
+      "id": "584110",
+      "name": "スタートデッキEX ジブレット[FS10]",
+      "code": "FS10",
+      "count": 36,
+      "file": "cards/dragonball-ja/584110.json",
+      "version": "33e7632fb7fa",
+      "order": 11
+    },
+    {
+      "id": "584109",
+      "name": "スタートデッキEX シャロット[FS09]",
+      "code": "FS09",
+      "count": 36,
+      "file": "cards/dragonball-ja/584109.json",
+      "version": "bfb88ea84a36",
+      "order": 10
+    },
+    {
+      "id": "584108",
+      "name": "スタートデッキ ベジータ(ミニ) 超サイヤ人3 [FS08]",
+      "code": "FS08",
+      "count": 23,
+      "file": "cards/dragonball-ja/584108.json",
+      "version": "d93df1c3afab",
+      "order": 9
+    },
+    {
+      "id": "584107",
+      "name": "スタートデッキ ベジータ(ミニ)[FS07]",
+      "code": "FS07",
+      "count": 22,
+      "file": "cards/dragonball-ja/584107.json",
+      "version": "8a35386a0b62",
+      "order": 8
+    },
+    {
+      "id": "584106",
+      "name": "スタートデッキ 孫悟空(ミニ)[FS06]",
+      "code": "FS06",
+      "count": 22,
+      "file": "cards/dragonball-ja/584106.json",
+      "version": "560e2de60308",
+      "order": 7
+    },
+    {
+      "id": "584105",
+      "name": "スタートデッキ バーダック[FS05]",
+      "code": "FS05",
+      "count": 23,
+      "file": "cards/dragonball-ja/584105.json",
+      "version": "ddacb9dbdee4",
+      "order": 6
+    },
+    {
+      "id": "584104",
+      "name": "スタートデッキ フリーザ[FS04]",
+      "code": "FS04",
+      "count": 23,
+      "file": "cards/dragonball-ja/584104.json",
+      "version": "842b3f8bdf87",
+      "order": 5
+    },
+    {
+      "id": "584103",
+      "name": "スタートデッキ ブロリー[FS03]",
+      "code": "FS03",
+      "count": 23,
+      "file": "cards/dragonball-ja/584103.json",
+      "version": "4288d425b35f",
+      "order": 4
+    },
+    {
+      "id": "584102",
+      "name": "スタートデッキ ベジータ[FS02]",
+      "code": "FS02",
+      "count": 23,
+      "file": "cards/dragonball-ja/584102.json",
+      "version": "f4b369aa7a4b",
+      "order": 3
+    },
+    {
+      "id": "584101",
+      "name": "スタートデッキ 孫悟空[FS01]",
+      "code": "FS01",
+      "count": 23,
+      "file": "cards/dragonball-ja/584101.json",
+      "version": "ff0085df1ffa",
+      "order": 2
+    },
+    {
+      "id": "584901",
+      "name": "プロモーションカード",
+      "count": 619,
+      "file": "cards/dragonball-ja/584901.json",
+      "version": "d8d384486612",
+      "order": 1
+    }
+  ]
+}

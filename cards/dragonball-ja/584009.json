@@ -1,0 +1,1237 @@
+{
+  "id": "584009",
+  "name": "ブースターパック DUAL EVOLUTION [FB09]",
+  "code": "FB09",
+  "cards": [
+    {
+      "number": "FB09-001",
+      "name": "ゴジータ：BR",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-001_f.webp",
+      "en": "Gogeta : BR",
+      "rarity": "Leader"
+    },
+    {
+      "number": "FB09-001",
+      "name": "ゴジータ：BR",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-001_f_p1.webp",
+      "en": "Gogeta : BR",
+      "rarity": "Leader"
+    },
+    {
+      "number": "FB09-001",
+      "name": "ゴジータ：BR",
+      "variant": "p2",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-001_f_p2.webp",
+      "en": "Gogeta : BR",
+      "rarity": "Leader"
+    },
+    {
+      "number": "FB09-002",
+      "name": "アリンス：DA",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-002.webp",
+      "en": "Dr. Arinsu : DA",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-003",
+      "name": "ウイス：BR",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-003.webp",
+      "en": "Whis : BR",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-004",
+      "name": "グロリオ：DA",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-004.webp",
+      "en": "Glorio : DA",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-005",
+      "name": "ゴールデンフリーザ：BR",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-005.webp",
+      "en": "Golden Frieza : BR",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-005",
+      "name": "ゴールデンフリーザ：BR",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-005_p1.webp",
+      "en": "Golden Frieza : BR",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-006",
+      "name": "ゴジータ：BR",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-006.webp",
+      "en": "Gogeta : BR",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB09-007",
+      "name": "ゴジータ：BR",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-007.webp",
+      "en": "Gogeta : BR",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FB09-007",
+      "name": "ゴジータ：BR",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-007_p1.webp",
+      "en": "Gogeta : BR",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FB09-008",
+      "name": "孫悟空：BR",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-008.webp",
+      "en": "Son Goku : BR",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-009",
+      "name": "孫悟空：BR",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-009.webp",
+      "en": "Son Goku : BR",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-010",
+      "name": "孫悟空：BR",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-010.webp",
+      "en": "Son Goku : BR",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB09-011",
+      "name": "孫悟空：BR/ベジータ：BR",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-011.webp",
+      "en": "Son Goku : BR/Vegeta : BR",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FB09-011",
+      "name": "孫悟空：BR/ベジータ：BR",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-011_p1.webp",
+      "en": "Son Goku : BR/Vegeta : BR",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FB09-012",
+      "name": "チライ：BR",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-012.webp",
+      "en": "Cheelai : BR",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FB09-012",
+      "name": "チライ：BR",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-012_p1.webp",
+      "en": "Cheelai : BR",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FB09-013",
+      "name": "ピッコロ：BR",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-013.webp",
+      "en": "Piccolo : BR",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB09-013",
+      "name": "ピッコロ：BR",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-013_p1.webp",
+      "en": "Piccolo : BR",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB09-014",
+      "name": "ブルマ：BR",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-014.webp",
+      "en": "Bulma : BR",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-015",
+      "name": "ブロリー：BR",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-015.webp",
+      "en": "Broly : BR",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-016",
+      "name": "ベクウ：BR",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-016.webp",
+      "en": "Veku : BR",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-017",
+      "name": "ベクウ：BR",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-017.webp",
+      "en": "Veku : BR",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-018",
+      "name": "ベジータ：BR",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-018.webp",
+      "en": "Vegeta : BR",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-019",
+      "name": "ベジータ：BR",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-019.webp",
+      "en": "Vegeta : BR",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-020",
+      "name": "ベジータ：BR",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-020.webp",
+      "en": "Vegeta : BR",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB09-021",
+      "name": "ベジータ：DA",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-021.webp",
+      "en": "Vegeta : DA",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB09-022",
+      "name": "レモ：BR",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-022.webp",
+      "en": "Lemo : BR",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-023",
+      "name": "光の奔流",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-023.webp",
+      "en": "Torrent of Light",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-024",
+      "name": "フュージョンの会得",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-024.webp",
+      "en": "Fusion Mastery",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-025",
+      "name": "孫悟空",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-025_f.webp",
+      "en": "Son Goku",
+      "rarity": "Leader"
+    },
+    {
+      "number": "FB09-025",
+      "name": "孫悟空",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-025_f_p1.webp",
+      "en": "Son Goku",
+      "rarity": "Leader"
+    },
+    {
+      "number": "FB09-025",
+      "name": "孫悟空",
+      "variant": "p2",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-025_f_p2.webp",
+      "en": "Son Goku",
+      "rarity": "Leader"
+    },
+    {
+      "number": "FB09-026",
+      "name": "カリフラ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-026.webp",
+      "en": "Caulifla",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-027",
+      "name": "ケフラ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-027.webp",
+      "en": "Kefla",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-028",
+      "name": "人造人間17号",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-028.webp",
+      "en": "Android 17",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-029",
+      "name": "人造人間17号",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-029.webp",
+      "en": "Android 17",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-029",
+      "name": "人造人間17号",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-029_p1.webp",
+      "en": "Android 17",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-030",
+      "name": "全王",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-030.webp",
+      "en": "Zen-Oh",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB09-031",
+      "name": "全王",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-031.webp",
+      "en": "Zen-Oh",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FB09-031",
+      "name": "全王",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-031_p1.webp",
+      "en": "Zen-Oh",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FB09-032",
+      "name": "孫悟空",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-032.webp",
+      "en": "Son Goku",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-033",
+      "name": "孫悟空",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-033.webp",
+      "en": "Son Goku",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-034",
+      "name": "孫悟空",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-034.webp",
+      "en": "Son Goku",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-035",
+      "name": "孫悟空",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-035.webp",
+      "en": "Son Goku",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB09-036",
+      "name": "孫悟空",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-036.webp",
+      "en": "Son Goku",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB09-036",
+      "name": "孫悟空",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-036_p1.webp",
+      "en": "Son Goku",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB09-037",
+      "name": "孫悟空",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-037.webp",
+      "en": "Son Goku",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FB09-037",
+      "name": "孫悟空",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-037_p1.webp",
+      "en": "Son Goku",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FB09-038",
+      "name": "大神官",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-038.webp",
+      "en": "Great Priest",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-039",
+      "name": "ヒット",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-039.webp",
+      "en": "Hit",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-040",
+      "name": "フリーザ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-040.webp",
+      "en": "Frieza",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-041",
+      "name": "ベジータ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-041.webp",
+      "en": "Vegeta",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-042",
+      "name": "ベジータ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-042.webp",
+      "en": "Vegeta",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-043",
+      "name": "ベジータ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-043.webp",
+      "en": "Vegeta",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-044",
+      "name": "ベジータ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-044.webp",
+      "en": "Vegeta",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB09-044",
+      "name": "ベジータ",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-044_p1.webp",
+      "en": "Vegeta",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB09-045",
+      "name": "ベジータ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-045.webp",
+      "en": "Vegeta",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FB09-045",
+      "name": "ベジータ",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-045_p1.webp",
+      "en": "Vegeta",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FB09-046",
+      "name": "ベジット",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-046.webp",
+      "en": "Vegito",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB09-047",
+      "name": "神の領域",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-047.webp",
+      "en": "Divine Domain",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-048",
+      "name": "託した誇り",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-048.webp",
+      "en": "A Pride Entrusted",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-049",
+      "name": "孫悟飯：SH",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-049_f.webp",
+      "en": "Son Gohan : SH",
+      "rarity": "Leader"
+    },
+    {
+      "number": "FB09-049",
+      "name": "孫悟飯：SH",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-049_f_p1.webp",
+      "en": "Son Gohan : SH",
+      "rarity": "Leader"
+    },
+    {
+      "number": "FB09-050",
+      "name": "ガンマ1号：SH",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-050.webp",
+      "en": "Gamma 1 : SH",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-051",
+      "name": "ガンマ1号：SH/ガンマ2号：SH",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-051.webp",
+      "en": "Gamma 1 : SH/Gamma 2 : SH",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FB09-051",
+      "name": "ガンマ1号：SH/ガンマ2号：SH",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-051_p1.webp",
+      "en": "Gamma 1 : SH/Gamma 2 : SH",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FB09-052",
+      "name": "ガンマ2号：SH",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-052.webp",
+      "en": "Gamma 2 : SH",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB09-053",
+      "name": "クリリン：SH",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-053.webp",
+      "en": "Krillin : SH",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-054",
+      "name": "ケフラ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-054.webp",
+      "en": "Kefla",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-055",
+      "name": "ゴテンクス：SH",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-055.webp",
+      "en": "Gotenks : SH",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB09-055",
+      "name": "ゴテンクス：SH",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-055_p1.webp",
+      "en": "Gotenks : SH",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB09-056",
+      "name": "人造人間18号：SH",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-056.webp",
+      "en": "Android 18 : SH",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-057",
+      "name": "孫悟天：SH",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-057.webp",
+      "en": "Son Goten : SH",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-058",
+      "name": "孫悟飯：SH",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-058.webp",
+      "en": "Son Gohan : SH",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-059",
+      "name": "孫悟飯：SH",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-059.webp",
+      "en": "Son Gohan : SH",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB09-060",
+      "name": "孫悟飯：SH",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-060.webp",
+      "en": "Son Gohan : SH",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FB09-060",
+      "name": "孫悟飯：SH",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-060_p1.webp",
+      "en": "Son Gohan : SH",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FB09-061",
+      "name": "Dr.ヘド：SH",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-061.webp",
+      "en": "Dr. Hedo : SH",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-062",
+      "name": "トランクス：SH",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-062.webp",
+      "en": "Trunks : SH",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-063",
+      "name": "パン：SH",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-063.webp",
+      "en": "Pan : SH",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-064",
+      "name": "パン：SH",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-064.webp",
+      "en": "Pan : SH",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-064",
+      "name": "パン：SH",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-064_p1.webp",
+      "en": "Pan : SH",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-065",
+      "name": "ビーデル：SH",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-065.webp",
+      "en": "Videl : SH",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-066",
+      "name": "ピッコロ：SH",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-066.webp",
+      "en": "Piccolo : SH",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-067",
+      "name": "ピッコロ：SH",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-067.webp",
+      "en": "Piccolo : SH",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-068",
+      "name": "ピッコロ：SH",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-068.webp",
+      "en": "Piccolo : SH",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB09-068",
+      "name": "ピッコロ：SH",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-068_p1.webp",
+      "en": "Piccolo : SH",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB09-069",
+      "name": "ブロリー",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-069.webp",
+      "en": "Broly",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB09-070",
+      "name": "ベジータ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-070.webp",
+      "en": "Vegeta",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-071",
+      "name": "神龍の\"オマケ\"",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-071.webp",
+      "en": "Shenron's Extra",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-072",
+      "name": "魔貫光殺砲",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-072.webp",
+      "en": "Special Beam Cannon",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FB09-072",
+      "name": "魔貫光殺砲",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-072_p1.webp",
+      "en": "Special Beam Cannon",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FB09-073",
+      "name": "孫悟空/ベジータ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-073_f.webp",
+      "en": "Son Goku/Vegeta // Gogeta",
+      "rarity": "Leader"
+    },
+    {
+      "number": "FB09-073",
+      "name": "孫悟空/ベジータ",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-073_f_p1.webp",
+      "en": "Son Goku/Vegeta // Gogeta",
+      "rarity": "Leader"
+    },
+    {
+      "number": "FB09-074",
+      "name": "北の界王",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-074.webp",
+      "en": "North Kai",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-075",
+      "name": "ゴテンクス",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-075.webp",
+      "en": "Gotenks",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-076",
+      "name": "サイケ鬼",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-076.webp",
+      "en": "Saike Demon",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-077",
+      "name": "ジャネンバ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-077.webp",
+      "en": "Janemba",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB09-078",
+      "name": "ジャネンバ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-078.webp",
+      "en": "Janemba",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB09-079",
+      "name": "孫悟空",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-079.webp",
+      "en": "Son Goku",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB09-080",
+      "name": "孫悟空",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-080.webp",
+      "en": "Son Goku",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-081",
+      "name": "孫悟空",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-081.webp",
+      "en": "Son Goku",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB09-082",
+      "name": "孫悟空/ベジータ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-082.webp",
+      "en": "Son Goku/Vegeta",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FB09-082",
+      "name": "孫悟空/ベジータ",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-082_p1.webp",
+      "en": "Son Goku/Vegeta",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FB09-083",
+      "name": "孫悟天",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-083.webp",
+      "en": "Son Goten",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-084",
+      "name": "孫悟飯：青年期",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-084.webp",
+      "en": "Son Gohan : Adolescence",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-085",
+      "name": "大界王",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-085.webp",
+      "en": "Grand Kai",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-086",
+      "name": "トランクス：幼年期",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-086.webp",
+      "en": "Trunks : Youth",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-087",
+      "name": "西の界王",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-087.webp",
+      "en": "West Kai",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-088",
+      "name": "パイクーハン",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-088.webp",
+      "en": "Paikuhan",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-088",
+      "name": "パイクーハン",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-088_p1.webp",
+      "en": "Paikuhan",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-089",
+      "name": "パイクーハン",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-089.webp",
+      "en": "Paikuhan",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-090",
+      "name": "東の界王",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-090.webp",
+      "en": "East Kai",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-091",
+      "name": "ベクウ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-091.webp",
+      "en": "Veku",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FB09-091",
+      "name": "ベクウ",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-091_p1.webp",
+      "en": "Veku",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FB09-092",
+      "name": "ベジータ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-092.webp",
+      "en": "Vegeta",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-093",
+      "name": "ベジータ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-093.webp",
+      "en": "Vegeta",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB09-093",
+      "name": "ベジータ",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-093_p1.webp",
+      "en": "Vegeta",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB09-094",
+      "name": "南の界王",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-094.webp",
+      "en": "South Kai",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-095",
+      "name": "閻魔宮",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-095.webp",
+      "en": "Enma's Palace",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-096",
+      "name": "悪鬼を討つ戦士",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-096.webp",
+      "en": "Warrior Who Defeats the Evil Demon",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FB09-096",
+      "name": "悪鬼を討つ戦士",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-096_p1.webp",
+      "en": "Warrior Who Defeats the Evil Demon",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FB09-097",
+      "name": "ゴジータ：GT",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-097_f.webp",
+      "en": "Gogeta : GT",
+      "rarity": "Leader"
+    },
+    {
+      "number": "FB09-097",
+      "name": "ゴジータ：GT",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-097_f_p1.webp",
+      "en": "Gogeta : GT",
+      "rarity": "Leader"
+    },
+    {
+      "number": "FB09-098",
+      "name": "ゴテンクス",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-098.webp",
+      "en": "Gotenks",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB09-099",
+      "name": "孫悟空：GT",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-099.webp",
+      "en": "Son Goku : GT",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-100",
+      "name": "孫悟空：GT",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-100.webp",
+      "en": "Son Goku : GT",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FB09-100",
+      "name": "孫悟空：GT",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-100_p1.webp",
+      "en": "Son Goku : GT",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FB09-101",
+      "name": "孫悟天：GT",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-101.webp",
+      "en": "Son Goten : GT",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-102",
+      "name": "孫悟天：GT",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-102.webp",
+      "en": "Son Goten : GT",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-103",
+      "name": "孫悟飯：GT",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-103.webp",
+      "en": "Son Gohan : GT",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-104",
+      "name": "孫悟飯：GT",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-104.webp",
+      "en": "Son Gohan : GT",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-105",
+      "name": "孫悟飯：GT",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-105.webp",
+      "en": "Son Gohan : GT",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB09-105",
+      "name": "孫悟飯：GT",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-105_p1.webp",
+      "en": "Son Gohan : GT",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB09-106",
+      "name": "孫悟飯：未来",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-106.webp",
+      "en": "Son Gohan : Future",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-107",
+      "name": "チチ：GT",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-107.webp",
+      "en": "Chi-Chi : GT",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-108",
+      "name": "トランクス：GT",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-108.webp",
+      "en": "Trunks : GT",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-109",
+      "name": "トランクス：GT",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-109.webp",
+      "en": "Trunks : GT",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-110",
+      "name": "トランクス：GT",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-110.webp",
+      "en": "Trunks : GT",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-110",
+      "name": "トランクス：GT",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-110_p1.webp",
+      "en": "Trunks : GT",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-111",
+      "name": "トランクス：未来",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-111.webp",
+      "en": "Trunks : Future",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-112",
+      "name": "パン：GT",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-112.webp",
+      "en": "Pan : GT",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FB09-112",
+      "name": "パン：GT",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-112_p1.webp",
+      "en": "Pan : GT",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FB09-113",
+      "name": "ビーデル：GT",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-113.webp",
+      "en": "Videl : GT",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-114",
+      "name": "ブラ：GT",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-114.webp",
+      "en": "Bulla : GT",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB09-114",
+      "name": "ブラ：GT",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-114_p1.webp",
+      "en": "Bulla : GT",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB09-115",
+      "name": "ブルマ：GT",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-115.webp",
+      "en": "Bulma : GT",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-116",
+      "name": "ベジータ：GT",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-116.webp",
+      "en": "Vegeta : GT",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB09-117",
+      "name": "ベジータ：GT",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-117.webp",
+      "en": "Vegeta : GT",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FB09-117",
+      "name": "ベジータ：GT",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-117_p1.webp",
+      "en": "Vegeta : GT",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FB09-118",
+      "name": "ミスター・サタン：GT",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-118.webp",
+      "en": "Hercule : GT",
+      "rarity": "Common"
+    },
+    {
+      "number": "FB09-119",
+      "name": "最強の到達点",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-119.webp",
+      "en": "Pinnacle of Strength",
+      "rarity": "Uncommon"
+    },
+    {
+      "number": "FB09-120",
+      "name": "ビッグバンかめはめ波",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-120.webp",
+      "en": "Big Bang Kamehameha",
+      "rarity": "Rare"
+    },
+    {
+      "number": "FB09-121",
+      "name": "ゴジータ：BR",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-121.webp",
+      "en": "Gogeta : BR",
+      "rarity": "Secret Rare"
+    },
+    {
+      "number": "FB09-121",
+      "name": "ゴジータ：BR",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-121_p1.webp",
+      "en": "Gogeta : BR",
+      "rarity": "Secret Rare"
+    },
+    {
+      "number": "FB09-121",
+      "name": "ゴジータ：BR",
+      "variant": "p2",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-121_p2.webp",
+      "en": "Gogeta : BR",
+      "rarity": "Secret Rare"
+    },
+    {
+      "number": "FB09-122",
+      "name": "ゴジータ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-122.webp",
+      "en": "Gogeta",
+      "rarity": "Secret Rare"
+    },
+    {
+      "number": "FB09-122",
+      "name": "ゴジータ",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-122_p1.webp",
+      "en": "Gogeta",
+      "rarity": "Secret Rare"
+    },
+    {
+      "number": "FB09-122",
+      "name": "ゴジータ",
+      "variant": "p2",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-122_p2.webp",
+      "en": "Gogeta",
+      "rarity": "Secret Rare"
+    },
+    {
+      "number": "FB09-123",
+      "name": "ゴジータ：GT",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-123.webp",
+      "en": "Gogeta : GT",
+      "rarity": "Secret Rare"
+    },
+    {
+      "number": "FB09-123",
+      "name": "ゴジータ：GT",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-123_p1.webp",
+      "en": "Gogeta : GT",
+      "rarity": "Secret Rare"
+    },
+    {
+      "number": "FB09-123",
+      "name": "ゴジータ：GT",
+      "variant": "p2",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FB09-123_p2.webp",
+      "en": "Gogeta : GT",
+      "rarity": "Secret Rare"
+    }
+  ]
+}

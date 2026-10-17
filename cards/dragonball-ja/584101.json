@@ -1,0 +1,182 @@
+{
+  "id": "584101",
+  "name": "スタートデッキ 孫悟空[FS01]",
+  "code": "FS01",
+  "cards": [
+    {
+      "number": "FS01-01",
+      "name": "孫悟空",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS01-01_f.webp",
+      "en": "Son Goku",
+      "rarity": "Leader"
+    },
+    {
+      "number": "FS01-02",
+      "name": "ウイス",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS01-02.webp",
+      "en": "Whis",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS01-03",
+      "name": "亀仙人",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS01-03.webp",
+      "en": "Master Roshi",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS01-04",
+      "name": "クリリン",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS01-04.webp",
+      "en": "Krillin",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS01-05",
+      "name": "シン",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS01-05.webp",
+      "en": "Shin",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS01-06",
+      "name": "人造人間17号",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS01-06.webp",
+      "en": "Android 17",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS01-07",
+      "name": "人造人間18号",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS01-07.webp",
+      "en": "Android 18",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS01-08",
+      "name": "孫悟空",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS01-08.webp",
+      "en": "Son Goku",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS01-09",
+      "name": "孫悟飯：青年期",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS01-09.webp",
+      "en": "Son Gohan : Adolescence",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS01-10",
+      "name": "天津飯",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS01-10.webp",
+      "en": "Tien Shinhan",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS01-11",
+      "name": "ピッコロ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS01-11.webp",
+      "en": "Piccolo",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS01-12",
+      "name": "ビルス",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS01-12.webp",
+      "en": "Beerus",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS01-13",
+      "name": "フリーザ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS01-13.webp",
+      "en": "Frieza",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS01-14",
+      "name": "ベジータ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS01-14.webp",
+      "en": "Vegeta",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS01-15",
+      "name": "かめはめ波",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS01-15.webp",
+      "en": "Kamehameha",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS01-16",
+      "name": "ゴッドかめはめ波",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS01-16.webp",
+      "en": "God Kamehameha",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS01-02",
+      "name": "ウイス",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS01-02_p1.webp",
+      "en": "Whis",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS01-04",
+      "name": "クリリン",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS01-04_p1.webp",
+      "en": "Krillin",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS01-05",
+      "name": "シン",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS01-05_p1.webp",
+      "en": "Shin",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS01-08",
+      "name": "孫悟空",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS01-08_p1.webp",
+      "en": "Son Goku",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS01-09",
+      "name": "孫悟飯：青年期",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS01-09_p1.webp",
+      "en": "Son Gohan : Adolescence",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS01-15",
+      "name": "かめはめ波",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS01-15_p1.webp",
+      "en": "Kamehameha",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS01-16",
+      "name": "ゴッドかめはめ波",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS01-16_p1.webp",
+      "en": "God Kamehameha",
+      "rarity": "Common"
+    }
+  ]
+}

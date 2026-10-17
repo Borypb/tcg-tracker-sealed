@@ -1,0 +1,295 @@
+{
+  "id": "584110",
+  "name": "スタートデッキEX ジブレット[FS10]",
+  "code": "FS10",
+  "cards": [
+    {
+      "number": "FS10-01",
+      "name": "ジブレット",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS10-01_f.webp",
+      "en": "Giblet",
+      "rarity": "Leader"
+    },
+    {
+      "number": "FS10-02",
+      "name": "ギンナンマン",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS10-02.webp",
+      "en": "Ginnanaman",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS10-03",
+      "name": "ゴールデンフリーザ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS10-03.webp",
+      "en": "Golden Frieza",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS10-04",
+      "name": "ゴクウブラック",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS10-04.webp",
+      "en": "Goku Black",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS10-05",
+      "name": "ザマス",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS10-05.webp",
+      "en": "Zamasu",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS10-06",
+      "name": "ジブレット",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS10-06.webp",
+      "en": "Giblet",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS10-07",
+      "name": "ジャネンバ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS10-07.webp",
+      "en": "Janemba",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS10-08",
+      "name": "シャレット",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS10-08.webp",
+      "en": "Shallet",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS10-09",
+      "name": "スーパーベビー2",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS10-09.webp",
+      "en": "Super Baby 2",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS10-10",
+      "name": "セル",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS10-10.webp",
+      "en": "Cell",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS10-11",
+      "name": "ターレス",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS10-11.webp",
+      "en": "Turles",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS10-12",
+      "name": "ヒット",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS10-12.webp",
+      "en": "Hit",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS10-13",
+      "name": "フリーザ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS10-13.webp",
+      "en": "Frieza",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS10-14",
+      "name": "ブロリー：BR",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS10-14.webp",
+      "en": "Broly : BR",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS10-15",
+      "name": "魔人ブウ：純粋",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS10-15.webp",
+      "en": "Majin Buu : Kid",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS10-16",
+      "name": "ラディッツ",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS10-16.webp",
+      "en": "Raditz",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS10-17",
+      "name": "怒りと憎悪のサイヤ人",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS10-17.webp",
+      "en": "Saiyan Born of Fury and Hate",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS10-18",
+      "name": "歪められた正義",
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS10-18.webp",
+      "en": "Twisted Morality",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS10-01",
+      "name": "ジブレット",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS10-01_f_p1.webp",
+      "en": "Giblet",
+      "rarity": "Leader"
+    },
+    {
+      "number": "FS10-02",
+      "name": "ギンナンマン",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS10-02_p1.webp",
+      "en": "Ginnanaman",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS10-03",
+      "name": "ゴールデンフリーザ",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS10-03_p1.webp",
+      "en": "Golden Frieza",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS10-04",
+      "name": "ゴクウブラック",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS10-04_p1.webp",
+      "en": "Goku Black",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS10-05",
+      "name": "ザマス",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS10-05_p1.webp",
+      "en": "Zamasu",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS10-06",
+      "name": "ジブレット",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS10-06_p1.webp",
+      "en": "Giblet",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS10-07",
+      "name": "ジャネンバ",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS10-07_p1.webp",
+      "en": "Janemba",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS10-08",
+      "name": "シャレット",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS10-08_p1.webp",
+      "en": "Shallet",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS10-09",
+      "name": "スーパーベビー2",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS10-09_p1.webp",
+      "en": "Super Baby 2",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS10-10",
+      "name": "セル",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS10-10_p1.webp",
+      "en": "Cell",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS10-11",
+      "name": "ターレス",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS10-11_p1.webp",
+      "en": "Turles",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS10-12",
+      "name": "ヒット",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS10-12_p1.webp",
+      "en": "Hit",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS10-13",
+      "name": "フリーザ",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS10-13_p1.webp",
+      "en": "Frieza",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS10-14",
+      "name": "ブロリー：BR",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS10-14_p1.webp",
+      "en": "Broly : BR",
+      "rarity": "Super Rare"
+    },
+    {
+      "number": "FS10-15",
+      "name": "魔人ブウ：純粋",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS10-15_p1.webp",
+      "en": "Majin Buu : Kid",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS10-16",
+      "name": "ラディッツ",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS10-16_p1.webp",
+      "en": "Raditz",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS10-17",
+      "name": "怒りと憎悪のサイヤ人",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS10-17_p1.webp",
+      "en": "Saiyan Born of Fury and Hate",
+      "rarity": "Common"
+    },
+    {
+      "number": "FS10-18",
+      "name": "歪められた正義",
+      "variant": "p1",
+      "parallel": true,
+      "image": "https://www.dbs-cardgame.com/fw/images/cards/card/jp/FS10-18_p1.webp",
+      "en": "Twisted Morality",
+      "rarity": "Common"
+    }
+  ]
+}

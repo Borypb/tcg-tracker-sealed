@@ -8,7 +8,7 @@ import { readJson, writeJson } from "./lib.mjs";
 
 const SITE = "https://www.pokemon-card.com";
 const TCGDEX = "https://api.tcgdex.net/v2/ja";
-const UA = "Mozilla/5.0 (compatible; Thothectio-catalog/1.0; +https://github.com/Borypb/tcg-tracker-sealed)";
+const UA = "Mozilla/5.0 (compatible; Thothectio-catalog/1.0; +https://github.com/Borypb/thothectio-sealed)";
 const DIR = "cards/pokemon-ja";
 const CACHE = `${DIR}/details.json`;
 /** budget de pages de détail par passe (le reste à la nuit suivante) */

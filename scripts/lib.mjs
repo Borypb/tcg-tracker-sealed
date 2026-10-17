@@ -2,7 +2,7 @@
 import { readFile, writeFile, mkdir } from "node:fs/promises";
 import { dirname } from "node:path";
 
-export const UA = "tcg-tracker-sealed/1.0 (+https://github.com/Borypb/tcg-tracker-sealed)";
+export const UA = "thothectio-sealed/1.0 (+https://github.com/Borypb/thothectio-sealed)";
 export const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 export async function getJson(url, { retries = 3, delay = 250 } = {}) {

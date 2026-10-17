@@ -6,7 +6,7 @@ import { createHash } from "node:crypto";
 import { readJson, sleep, writeJson } from "./lib.mjs";
 
 const SITE = "https://digimoncard.com";
-const UA = "Mozilla/5.0 (compatible; Thothectio-catalog/1.0; +https://github.com/Borypb/tcg-tracker-sealed)";
+const UA = "Mozilla/5.0 (compatible; Thothectio-catalog/1.0; +https://github.com/Borypb/thothectio-sealed)";
 const DIR = "cards/digimon-ja";
 
 async function get(url, tries = 3) {

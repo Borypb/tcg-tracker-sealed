@@ -82,6 +82,25 @@ async function cleanEventImages(game, groups, sets) {
   if (fixed) console.log(`${game} : ${fixed} images d'avant-première remplacées par l'image de l'extension`);
 }
 
+/**
+ * Index de recherche par nom (application : Recherche, scan) : chaque nom de carte et les extensions où il figure.
+ * L'app ne télécharge ensuite que les extensions qui contiennent le nom cherché.
+ * Sortie : cards/<licence>/names.json  { groups: [groupId…], names: [[nom, [n° d'extension…]]…] }
+ */
+export async function writeNames(game, sets) {
+  const groups = sets.map((s) => s.groupId);
+  const names = new Map();
+  for (const [i, s] of sets.entries()) {
+    const data = await readJson(s.file, null);
+    for (const c of data?.cards ?? []) {
+      const list = names.get(c.name) ?? new Set();
+      list.add(i);
+      names.set(c.name, list);
+    }
+  }
+  await writeJson(`cards/${game}/names.json`, { groups, names: [...names.entries()].map(([n, l]) => [n, [...l]]) });
+}
+
 const hash = (x) => createHash("sha1").update(JSON.stringify(x)).digest("hex").slice(0, 12);
 
 export async function cards() {
@@ -151,6 +170,7 @@ export async function cards() {
       });
     }
     await cleanEventImages(game, groups, sets);
+    await writeNames(game, sets);
     index.games[game] = { categoryId: cat.categoryId, category: cat.name, sets };
     console.log(`${game} (${cat.name}) : ${sets.length} extensions, ${sets.reduce((n, s) => n + s.count, 0)} cartes, ${fetched} extensions mises à jour`);
   }

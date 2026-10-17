@@ -1,0 +1,55 @@
+HTTP/1.1 301 Moved Permanently
+Date: Sat, 17 Oct 2026 13:44:54 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Location: http://digimoncard.com/cards/
+Content-Length: 237
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 301 Moved Permanently
+Date: Sat, 17 Oct 2026 13:44:54 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Location: https://digimoncard.com/cards/
+Content-Length: 238
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 302 Found
+Date: Sat, 17 Oct 2026 13:44:55 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Location: ./?search=true&category=503041
+Content-Length: 0
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: AaPh0thaiGie=duulfnoa81j8pg6dj28bebc5f4; expires=Sat, 17-Oct-2026 14:44:55 GMT; Max-Age=3600; path=/
+
+HTTP/1.1 301 Moved Permanently
+Date: Sat, 17 Oct 2026 13:44:55 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Location: http://digimoncard.com/cards/?search=true&category=503041
+Content-Length: 269
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 301 Moved Permanently
+Date: Sat, 17 Oct 2026 13:44:55 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Location: https://digimoncard.com/cards/?search=true&category=503041
+Content-Length: 270
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 200 OK
+Date: Sat, 17 Oct 2026 13:44:55 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+Set-Cookie: AaPh0thaiGie=gdthd0bf38rv8bdguisf8h6lgv; expires=Sat, 17-Oct-2026 14:44:55 GMT; Max-Age=3600; path=/
+Transfer-Encoding: chunked
+

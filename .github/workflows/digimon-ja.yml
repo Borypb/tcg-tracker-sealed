@@ -1,6 +1,7 @@
-name: Cartes Digimon japonaises
+name: Cartes officielles (Digimon, Dragon Ball)
 
-# Cartes Digimon japonaises du site officiel (digimoncard.com) : le catalogue TCGplayer n'a que l'anglais.
+# Cartes des sites officiels Bandai : Digimon en japonais (digimoncard.com), Dragon Ball Fusion World en
+# japonais, chinois traditionnel et thaï (dbs-cardgame.com/fw). Le catalogue TCGplayer n'a que l'anglais.
 on:
   schedule:
     - cron: "10 3 * * *"
@@ -16,22 +17,23 @@ concurrency:
 jobs:
   digimon-ja:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 20
       - run: node scripts/digimon-ja.mjs
+      - run: node scripts/fw-langs.mjs
       - name: Publier si quelque chose a changé
         run: |
           git config user.name "catalogue-bot"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A cards/digimon-ja
+          git add -A cards/digimon-ja cards/dragonball-ja cards/dragonball-zh cards/dragonball-th
           if git diff --cached --quiet; then
             echo "Rien de nouveau."
           else
-            git commit -m "Cartes Digimon japonaises : mise à jour $(date -u +%F)"
+            git commit -m "Cartes officielles : mise à jour $(date -u +%F)"
             for essai in 1 2 3; do
               git fetch --depth=50 origin main
               if git rebase -X theirs origin/main && git push origin HEAD:main; then

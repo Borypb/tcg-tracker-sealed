@@ -1,0 +1,30 @@
+name: probe-lang3
+on:
+  push:
+    branches: [probe-lang3]
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          mkdir out && cd out
+          UA="Mozilla/5.0 (compatible; Thothectio-catalog/1.0)"
+          g() { curl -sSL -m 120 -A "$UA" -o "$1" -w "$1 %{http_code} %{size_download} %{url_effective}\n" "$2" >> status.txt || echo "$1 FAIL" >> status.txt; }
+          g pc_sye_fr.json "https://db.ygoresources.com/data/idx/printcode/SYE-FR"
+          g pc_ldd_f.json "https://db.ygoresources.com/data/idx/printcode/LDD-F"
+          g pc_lb_jp.json "https://db.ygoresources.com/data/idx/printcode/LB-JP"
+          g pc_sets.json "https://db.ygoresources.com/data/idx/printcode/_sets"
+          g name_fr.json "https://db.ygoresources.com/data/idx/card/name/fr"
+          g name_en.json "https://db.ygoresources.com/data/idx/card/name/en"
+          g ygo_misc.json "https://db.ygoprodeck.com/api/v7/cardinfo.php?misc=yes&num=3&offset=0"
+          g rift_api.html "https://playriftbound.com/fr-fr/card-gallery/"
+          cat status.txt
+          head -c 600 pc_sye_fr.json; echo; head -c 600 pc_sets.json; echo
+      - run: |
+          cd out
+          git init -q && git checkout -q -b probe-lang3-out
+          git config user.email probe@example.invalid && git config user.name probe
+          git add . && git commit -qm sonde
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}" probe-lang3-out

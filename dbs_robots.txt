@@ -1,0 +1,9 @@
+# Disallow
+User-agent: *
+Disallow: /decks/print
+Disallow: /decks/delete
+Disallow: /wishlists/print
+Disallow: /wishlists/delete
+Disallow: /decks/delete
+Disallow: /account
+Allow: /account/profile

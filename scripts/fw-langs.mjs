@@ -1,4 +1,4 @@
-// Script 10 — cartes Dragon Ball Super Fusion World en japonais, chinois traditionnel et thaï, depuis le site
+// Script 10 — cartes Dragon Ball Super Fusion World en japonais, depuis le site
 // officiel (dbs-cardgame.com/fw) : le catalogue TCGplayer n'a que l'anglais. Le site n'a pas d'édition française.
 // Une page par produit liste ses cartes : numéro, nom, illustration (parallèles « _p1 », recto de leader « _f »).
 // Le nom anglais et la rareté viennent du catalogue anglais (même numéro, « FB01-001 »).
@@ -8,11 +8,8 @@ import { readJson, sleep, writeJson } from "./lib.mjs";
 
 const SITE = "https://www.dbs-cardgame.com";
 const UA = "Mozilla/5.0 (compatible; Thothectio-catalog/1.0; +https://github.com/Borypb/thothectio-sealed)";
-const REGIONS = [
-  { lang: "ja", path: "jp" },
-  { lang: "zh", path: "asia-tc" },
-  { lang: "th", path: "asia-th" }
-];
+// les sites d'Asie (chinois traditionnel, thaï) affichent les cartes japonaises : pas d'édition à part
+const REGIONS = [{ lang: "ja", path: "jp" }];
 
 async function get(url, tries = 3) {
   for (let i = 0; ; i++) {

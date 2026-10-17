@@ -1,0 +1,311 @@
+{
+  "id": "503207",
+  "name": "リミテッドカードパック ANOTHER KNIGHT【LM-07】",
+  "code": "LM-07",
+  "cards": [
+    {
+      "number": "LM-051",
+      "name": "アレキサンドライト・メモリーブースト！！",
+      "rarity": "P",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/LM-051.png?04"
+    },
+    {
+      "number": "LM-052",
+      "name": "マラカイト・メモリーブースト！！",
+      "rarity": "P",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/LM-052.png?04"
+    },
+    {
+      "number": "LM-053",
+      "name": "オブシディア・メモリーブースト！！",
+      "rarity": "P",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/LM-053.png?04"
+    },
+    {
+      "number": "LM-054",
+      "name": "トレッドミル・トレーニング",
+      "rarity": "P",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/LM-054.png?04"
+    },
+    {
+      "number": "LM-055",
+      "name": "スプリントダッシュ・トレーニング",
+      "rarity": "P",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/LM-055.png?04"
+    },
+    {
+      "number": "LM-056",
+      "name": "イメージ・トレーニング",
+      "rarity": "P",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/LM-056.png?04"
+    },
+    {
+      "number": "BT10-093",
+      "name": "天野ユウ",
+      "rarity": "R",
+      "type": "テイマー",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/BT10-093_P2.png?04"
+    },
+    {
+      "number": "BT13-112",
+      "name": "オメガモン",
+      "rarity": "SEC",
+      "type": "デジモン",
+      "level": "Lv.7",
+      "parallel": true,
+      "variant": "p5",
+      "image": "https://digimoncard.com/images/cardlist/card/BT13-112_P5.png?04"
+    },
+    {
+      "number": "BT16-077",
+      "name": "ディノビーモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/BT16-077_P2.png?04"
+    },
+    {
+      "number": "BT20-014",
+      "name": "セイバーハックモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT20-014_P1.png?04"
+    },
+    {
+      "number": "BT20-026",
+      "name": "メガシードラモンX抗体",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT20-026_P1.png?04"
+    },
+    {
+      "number": "BT21-005",
+      "name": "スワイプモン",
+      "rarity": "C",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT21-005_P1.png?04"
+    },
+    {
+      "number": "BT21-017",
+      "name": "ディメトロモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT21-017_P1.png?04"
+    },
+    {
+      "number": "BT21-095",
+      "name": "ウィンドガーディアンズ",
+      "rarity": "C",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT21-095_P1.png?04"
+    },
+    {
+      "number": "BT21-097",
+      "name": "アプリンク",
+      "rarity": "C",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT21-097_P1.png?04"
+    },
+    {
+      "number": "EX4-073",
+      "name": "オメガモン Alter-B",
+      "rarity": "SEC",
+      "type": "デジモン",
+      "level": "Lv.7",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/EX4-073_P2.png?04"
+    },
+    {
+      "number": "EX6-043",
+      "name": "ディアボロモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/EX6-043_P2.png?04"
+    },
+    {
+      "number": "EX6-029",
+      "name": "マスティモンACE",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p3",
+      "image": "https://digimoncard.com/images/cardlist/card/EX6-029_P3.png?04"
+    },
+    {
+      "number": "P-092",
+      "name": "ドラコモン",
+      "rarity": "P",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/P-092_P1.png?04"
+    },
+    {
+      "number": "P-133",
+      "name": "風真照人",
+      "rarity": "P",
+      "type": "テイマー",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/P-133_P1.png?04"
+    },
+    {
+      "number": "P-136",
+      "name": "城之崎有紗",
+      "rarity": "P",
+      "type": "テイマー",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/P-136_P1.png?04"
+    },
+    {
+      "number": "P-176",
+      "name": "ドリモン",
+      "rarity": "P",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/P-176_P2.png?04"
+    },
+    {
+      "number": "P-177",
+      "name": "ギギモン",
+      "rarity": "P",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/P-177_P2.png?04"
+    },
+    {
+      "number": "P-178",
+      "name": "サジタリモン",
+      "rarity": "P",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/P-178_P2.png?04"
+    },
+    {
+      "number": "P-179",
+      "name": "ジャスティモン：クリティカルアーム",
+      "rarity": "P",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/P-179_P2.png?04"
+    },
+    {
+      "number": "P-180",
+      "name": "バインドレッドトリッガー",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/P-180_P2.png?04"
+    },
+    {
+      "number": "P-181",
+      "name": "ローヤルベース",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/P-181_P2.png?04"
+    },
+    {
+      "number": "P-188",
+      "name": "チビモン",
+      "rarity": "P",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/P-188_P2.png?04"
+    },
+    {
+      "number": "P-189",
+      "name": "ディメトロモン",
+      "rarity": "P",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/P-189_P2.png?04"
+    },
+    {
+      "number": "P-190",
+      "name": "ツブモン",
+      "rarity": "P",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/P-190_P2.png?04"
+    },
+    {
+      "number": "P-191",
+      "name": "アポロモンACE",
+      "rarity": "P",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p3",
+      "image": "https://digimoncard.com/images/cardlist/card/P-191_P3.png?04"
+    },
+    {
+      "number": "P-192",
+      "name": "バケモン",
+      "rarity": "P",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/P-192_P2.png?04"
+    },
+    {
+      "number": "P-193",
+      "name": "邪・神・顕・現！！",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/P-193_P2.png?04"
+    }
+  ]
+}

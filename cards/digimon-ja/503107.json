@@ -1,0 +1,140 @@
+{
+  "id": "503107",
+  "name": "スタートデッキ デュークモン【ST-7】",
+  "code": "ST-7",
+  "cards": [
+    {
+      "number": "ST7-01",
+      "name": "ギギモン",
+      "rarity": "U",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "image": "https://digimoncard.com/images/cardlist/card/ST7-01.png?04"
+    },
+    {
+      "number": "ST7-02",
+      "name": "アグモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST7-02.png?04"
+    },
+    {
+      "number": "ST7-03",
+      "name": "ギルモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST7-03.png?04"
+    },
+    {
+      "number": "ST7-04",
+      "name": "ピヨモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST7-04.png?04"
+    },
+    {
+      "number": "ST7-05",
+      "name": "グラウモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST7-05.png?04"
+    },
+    {
+      "number": "ST7-06",
+      "name": "ジオグレイモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST7-06.png?04"
+    },
+    {
+      "number": "ST7-07",
+      "name": "ライズグレイモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST7-07.png?04"
+    },
+    {
+      "number": "ST7-08",
+      "name": "メガログラウモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST7-08.png?04"
+    },
+    {
+      "number": "ST7-09",
+      "name": "デュークモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST7-09.png?04"
+    },
+    {
+      "number": "ST7-10",
+      "name": "シャイングレイモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST7-10.png?04"
+    },
+    {
+      "number": "ST7-11",
+      "name": "ロイヤルセーバー",
+      "rarity": "U",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST7-11.png?04"
+    },
+    {
+      "number": "ST7-12",
+      "name": "アトミックブラスター",
+      "rarity": "C",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST7-12.png?04"
+    },
+    {
+      "number": "BT1-009",
+      "name": "モノドラモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT1-009_P1.png?04"
+    },
+    {
+      "number": "BT1-019",
+      "name": "ダークティラノモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT1-019_P1.png?04"
+    },
+    {
+      "number": "BT1-020",
+      "name": "グラウンドラモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT1-020_P1.png?04"
+    },
+    {
+      "number": "ST1-16",
+      "name": "ガイアフォース",
+      "rarity": "U",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/ST1-16_P1.png?04"
+    }
+  ]
+}

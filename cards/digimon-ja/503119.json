@@ -1,0 +1,188 @@
+{
+  "id": "503119",
+  "name": "スタートデッキ 童話の舞踏【ST-19】",
+  "code": "ST-19",
+  "cards": [
+    {
+      "number": "ST19-01",
+      "name": "キャロモン",
+      "rarity": "C",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "image": "https://digimoncard.com/images/cardlist/card/ST19-01.png?04"
+    },
+    {
+      "number": "ST19-02",
+      "name": "ジャンクモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST19-02.png?04"
+    },
+    {
+      "number": "ST19-03",
+      "name": "シューモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST19-03.png?04"
+    },
+    {
+      "number": "ST19-04",
+      "name": "ポーンチェスモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST19-04.png?04"
+    },
+    {
+      "number": "ST19-05",
+      "name": "ポーンチェスモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST19-05.png?04"
+    },
+    {
+      "number": "ST19-06",
+      "name": "ドッグモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST19-06.png?04"
+    },
+    {
+      "number": "ST19-07",
+      "name": "トブキャットモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST19-07.png?04"
+    },
+    {
+      "number": "ST19-08",
+      "name": "シューシューモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST19-08.png?04"
+    },
+    {
+      "number": "ST19-09",
+      "name": "パンダモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST19-09.png?04"
+    },
+    {
+      "number": "ST19-10",
+      "name": "エクスティラノモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST19-10.png?04"
+    },
+    {
+      "number": "ST19-11",
+      "name": "シャペロモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST19-11.png?04"
+    },
+    {
+      "number": "ST19-12",
+      "name": "サンドリモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST19-12.png?04"
+    },
+    {
+      "number": "ST19-13",
+      "name": "しんもんざえモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST19-13.png?04"
+    },
+    {
+      "number": "ST19-14",
+      "name": "城之崎有紗",
+      "rarity": "R",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/ST19-14.png?04"
+    },
+    {
+      "number": "ST19-15",
+      "name": "ノーブルファミリアーツ",
+      "rarity": "U",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST19-15.png?04"
+    },
+    {
+      "number": "P-037",
+      "name": "イエロー・メモリーブースト！！",
+      "rarity": "SR",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p4",
+      "image": "https://digimoncard.com/images/cardlist/card/P-037_P4.png?04"
+    },
+    {
+      "number": "P-103",
+      "name": "オフェンス・トレーニング",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/P-103_P2.png?04"
+    },
+    {
+      "number": "P-104",
+      "name": "メンタル・トレーニング",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/P-104_P2.png?04"
+    },
+    {
+      "number": "P-105",
+      "name": "フィジカル・トレーニング",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/P-105_P2.png?04"
+    },
+    {
+      "number": "P-106",
+      "name": "アジリティ・トレーニング",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/P-106_P2.png?04"
+    },
+    {
+      "number": "P-107",
+      "name": "ディフェンス・トレーニング",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/P-107_P2.png?04"
+    },
+    {
+      "number": "P-108",
+      "name": "ウィズダム・トレーニング",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/P-108_P2.png?04"
+    }
+  ]
+}

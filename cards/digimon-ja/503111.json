@@ -1,0 +1,164 @@
+{
+  "id": "503111",
+  "name": "スタートデッキ スペシャルエントリーセット【ST-11】",
+  "code": "ST-11",
+  "cards": [
+    {
+      "number": "BT1-023",
+      "name": "スカルグレイモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT1-023_P1.png?04"
+    },
+    {
+      "number": "BT1-025",
+      "name": "ウォーグレイモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/BT1-025_P2.png?04"
+    },
+    {
+      "number": "BT1-085",
+      "name": "八神太一",
+      "rarity": "R",
+      "type": "テイマー",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/BT1-085_P2.png?04"
+    },
+    {
+      "number": "BT2-001",
+      "name": "ギギモン",
+      "rarity": "U",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT2-001_P1.png?04"
+    },
+    {
+      "number": "BT2-010",
+      "name": "ピヨモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT2-010_P1.png?04"
+    },
+    {
+      "number": "BT2-011",
+      "name": "ヴォーボモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT2-011_P1.png?04"
+    },
+    {
+      "number": "BT2-016",
+      "name": "ラヴォガリータモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT2-016_P1.png?04"
+    },
+    {
+      "number": "BT2-018",
+      "name": "ヴォルケニックドラモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT2-018_P1.png?04"
+    },
+    {
+      "number": "BT3-009",
+      "name": "ホークモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT3-009_P1.png?04"
+    },
+    {
+      "number": "BT4-010",
+      "name": "フーガモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT4-010_P1.png?04"
+    },
+    {
+      "number": "BT4-015",
+      "name": "ヴォルクドラモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT4-015_P1.png?04"
+    },
+    {
+      "number": "BT4-099",
+      "name": "竜の力を継ぐもの",
+      "rarity": "U",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT4-099_P1.png?04"
+    },
+    {
+      "number": "BT5-012",
+      "name": "モノクロモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT5-012_P1.png?04"
+    },
+    {
+      "number": "ST1-03",
+      "name": "アグモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/ST1-03_P1.png?04"
+    },
+    {
+      "number": "ST1-07",
+      "name": "グレイモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/ST1-07_P2.png?04"
+    },
+    {
+      "number": "ST1-16",
+      "name": "ガイアフォース",
+      "rarity": "U",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST1-16_P3.png?04"
+    }
+  ]
+}

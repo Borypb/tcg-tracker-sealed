@@ -1,0 +1,186 @@
+{
+  "id": "503112",
+  "name": "スタートデッキ ジエスモン【ST-12】",
+  "code": "ST-12",
+  "cards": [
+    {
+      "number": "ST12-01",
+      "name": "グリモン",
+      "rarity": "U",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "image": "https://digimoncard.com/images/cardlist/card/ST12-01.png?04"
+    },
+    {
+      "number": "ST12-02",
+      "name": "キャンドモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST12-02.png?04"
+    },
+    {
+      "number": "ST12-03",
+      "name": "ソーラーモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST12-03.png?04"
+    },
+    {
+      "number": "ST12-04",
+      "name": "ハックモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST12-04.png?04"
+    },
+    {
+      "number": "ST12-05",
+      "name": "メラモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST12-05.png?04"
+    },
+    {
+      "number": "ST12-06",
+      "name": "バオハックモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST12-06.png?04"
+    },
+    {
+      "number": "ST12-07",
+      "name": "デスメラモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST12-07.png?04"
+    },
+    {
+      "number": "ST12-08",
+      "name": "セイバーハックモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST12-08.png?04"
+    },
+    {
+      "number": "ST12-09",
+      "name": "ボルケーモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST12-09.png?04"
+    },
+    {
+      "number": "ST12-10",
+      "name": "ジエスモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST12-10.png?04"
+    },
+    {
+      "number": "ST12-11",
+      "name": "ガンクゥモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST12-11.png?04"
+    },
+    {
+      "number": "ST12-12",
+      "name": "シスタモン ブラン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST12-12.png?04"
+    },
+    {
+      "number": "ST12-13",
+      "name": "シスタモン ノワール",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST12-13.png?04"
+    },
+    {
+      "number": "ST12-14",
+      "name": "アウスジェネリクス",
+      "rarity": "C",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST12-14.png?04"
+    },
+    {
+      "number": "ST12-15",
+      "name": "師弟の旅路",
+      "rarity": "C",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST12-15.png?04"
+    },
+    {
+      "number": "ST12-16",
+      "name": "地神！神鳴！神馳！親父！",
+      "rarity": "R",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST12-16.png?04"
+    },
+    {
+      "number": "BT3-093",
+      "name": "本宮大輔",
+      "rarity": "R",
+      "type": "テイマー",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT3-093_P1.png?04"
+    },
+    {
+      "number": "BT3-094",
+      "name": "一乗寺賢",
+      "rarity": "R",
+      "type": "テイマー",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT3-094_P1.png?04"
+    },
+    {
+      "number": "BT4-096",
+      "name": "泉光子郎",
+      "rarity": "R",
+      "type": "テイマー",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/BT4-096_P2.png?04"
+    },
+    {
+      "number": "ST1-12",
+      "name": "八神太一",
+      "rarity": "R",
+      "type": "テイマー",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/ST1-12_P1.png?04"
+    },
+    {
+      "number": "ST3-12",
+      "name": "高石タケル",
+      "rarity": "R",
+      "type": "テイマー",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/ST3-12_P1.png?04"
+    },
+    {
+      "number": "ST6-14",
+      "name": "石田ヤマト",
+      "rarity": "R",
+      "type": "テイマー",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/ST6-14_P1.png?04"
+    }
+  ]
+}

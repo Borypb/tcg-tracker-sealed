@@ -1,0 +1,130 @@
+{
+  "id": "503101",
+  "name": "スタートデッキ ガイアレッド【ST-1】",
+  "code": "ST-1",
+  "cards": [
+    {
+      "number": "ST1-01",
+      "name": "コロモン",
+      "rarity": "U",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "image": "https://digimoncard.com/images/cardlist/card/ST1-01.png?04"
+    },
+    {
+      "number": "ST1-02",
+      "name": "ピヨモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST1-02.png?04"
+    },
+    {
+      "number": "ST1-03",
+      "name": "アグモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST1-03.png?04"
+    },
+    {
+      "number": "ST1-04",
+      "name": "ドラコモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST1-04.png?04"
+    },
+    {
+      "number": "ST1-05",
+      "name": "バードラモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST1-05.png?04"
+    },
+    {
+      "number": "ST1-06",
+      "name": "コアドラモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST1-06.png?04"
+    },
+    {
+      "number": "ST1-07",
+      "name": "グレイモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST1-07.png?04"
+    },
+    {
+      "number": "ST1-08",
+      "name": "ガルダモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST1-08.png?04"
+    },
+    {
+      "number": "ST1-09",
+      "name": "メタルグレイモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST1-09.png?04"
+    },
+    {
+      "number": "ST1-10",
+      "name": "ホウオウモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST1-10.png?04"
+    },
+    {
+      "number": "ST1-11",
+      "name": "ウォーグレイモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST1-11.png?04"
+    },
+    {
+      "number": "ST1-12",
+      "name": "八神太一",
+      "rarity": "R",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/ST1-12.png?04"
+    },
+    {
+      "number": "ST1-13",
+      "name": "シャドーウィング",
+      "rarity": "C",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST1-13.png?04"
+    },
+    {
+      "number": "ST1-14",
+      "name": "スターライトエクスプロージョン",
+      "rarity": "C",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST1-14.png?04"
+    },
+    {
+      "number": "ST1-15",
+      "name": "ギガデストロイヤー",
+      "rarity": "C",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST1-15.png?04"
+    },
+    {
+      "number": "ST1-16",
+      "name": "ガイアフォース",
+      "rarity": "U",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST1-16.png?04"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "id": "503103",
+  "name": "スタートデッキ ヘブンズイエロー【ST-3】",
+  "code": "ST-3",
+  "cards": [
+    {
+      "number": "ST3-01",
+      "name": "トコモン",
+      "rarity": "U",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "image": "https://digimoncard.com/images/cardlist/card/ST3-01.png?04"
+    },
+    {
+      "number": "ST3-02",
+      "name": "プロットモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST3-02.png?04"
+    },
+    {
+      "number": "ST3-03",
+      "name": "バクモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST3-03.png?04"
+    },
+    {
+      "number": "ST3-04",
+      "name": "パタモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST3-04.png?04"
+    },
+    {
+      "number": "ST3-05",
+      "name": "エンジェモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST3-05.png?04"
+    },
+    {
+      "number": "ST3-06",
+      "name": "テイルモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST3-06.png?04"
+    },
+    {
+      "number": "ST3-07",
+      "name": "ユニモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST3-07.png?04"
+    },
+    {
+      "number": "ST3-08",
+      "name": "ホーリーエンジェモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST3-08.png?04"
+    },
+    {
+      "number": "ST3-09",
+      "name": "エンジェウーモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST3-09.png?04"
+    },
+    {
+      "number": "ST3-10",
+      "name": "ホーリードラモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST3-10.png?04"
+    },
+    {
+      "number": "ST3-11",
+      "name": "セラフィモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST3-11.png?04"
+    },
+    {
+      "number": "ST3-12",
+      "name": "高石タケル",
+      "rarity": "R",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/ST3-12.png?04"
+    },
+    {
+      "number": "ST3-13",
+      "name": "ヘブンズゲート",
+      "rarity": "C",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST3-13.png?04"
+    },
+    {
+      "number": "ST3-14",
+      "name": "ヘブンズチャーム",
+      "rarity": "C",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST3-14.png?04"
+    },
+    {
+      "number": "ST3-15",
+      "name": "ホーリーフレイム",
+      "rarity": "C",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST3-15.png?04"
+    },
+    {
+      "number": "ST3-16",
+      "name": "セブンヘブンズ",
+      "rarity": "U",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST3-16.png?04"
+    }
+  ]
+}

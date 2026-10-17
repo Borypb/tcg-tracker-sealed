@@ -1,0 +1,702 @@
+{
+  "updatedAt": "2026-10-17",
+  "sets": [
+    {
+      "id": "503041",
+      "name": "エクストラブースター CHIVALROUS XIII【EX-13】",
+      "code": "EX-13",
+      "count": 164,
+      "file": "cards/digimon-ja/503041.json",
+      "version": "7f9197b136f6",
+      "order": 78
+    },
+    {
+      "id": "503040",
+      "name": "ブースターパック TIMELESS BONDS【BT-26】",
+      "code": "BT-26",
+      "count": 136,
+      "file": "cards/digimon-ja/503040.json",
+      "version": "ee044be298e0",
+      "order": 77
+    },
+    {
+      "id": "503039",
+      "name": "エクストラブースター DIGITAL WORLD SHAMBALA【EX-12】",
+      "code": "EX-12",
+      "count": 152,
+      "file": "cards/digimon-ja/503039.json",
+      "version": "37c8c1cf2aa9",
+      "order": 76
+    },
+    {
+      "id": "503038",
+      "name": "ブースターパック DUAL REVOLUTION【BT-25】",
+      "code": "BT-25",
+      "count": 143,
+      "file": "cards/digimon-ja/503038.json",
+      "version": "c392090de135",
+      "order": 75
+    },
+    {
+      "id": "503037",
+      "name": "アドバンスブースター DIGIMON GENERATION【AD-01】",
+      "code": "AD-01",
+      "count": 291,
+      "file": "cards/digimon-ja/503037.json",
+      "version": "67de17d28379",
+      "order": 74
+    },
+    {
+      "id": "503036",
+      "name": "エクストラブースター DAWN OF LIBERATOR【EX-11】",
+      "code": "EX-11",
+      "count": 158,
+      "file": "cards/digimon-ja/503036.json",
+      "version": "dc497f527324",
+      "order": 73
+    },
+    {
+      "id": "503035",
+      "name": "ブースターパック TIME STRANGER【BT-24】",
+      "code": "BT-24",
+      "count": 134,
+      "file": "cards/digimon-ja/503035.json",
+      "version": "0344c2f39746",
+      "order": 72
+    },
+    {
+      "id": "503034",
+      "name": "ブースターパック HACKERS' SLUMBER【BT-23】",
+      "code": "BT-23",
+      "count": 135,
+      "file": "cards/digimon-ja/503034.json",
+      "version": "943a3eead64e",
+      "order": 71
+    },
+    {
+      "id": "503033",
+      "name": "エクストラブースター SINISTER ORDER【EX-10】",
+      "code": "EX-10",
+      "count": 146,
+      "file": "cards/digimon-ja/503033.json",
+      "version": "04682f172858",
+      "order": 70
+    },
+    {
+      "id": "503032",
+      "name": "ブースターパック CYBER EDEN【BT-22】",
+      "code": "BT-22",
+      "count": 134,
+      "file": "cards/digimon-ja/503032.json",
+      "version": "5a3cadff6153",
+      "order": 69
+    },
+    {
+      "id": "503031",
+      "name": "エクストラブースター VERSUS MONSTERS【EX-09】",
+      "code": "EX-09",
+      "count": 147,
+      "file": "cards/digimon-ja/503031.json",
+      "version": "879a336c5438",
+      "order": 68
+    },
+    {
+      "id": "503030",
+      "name": "ブースターパック WORLD CONVERGENCE【BT-21】",
+      "code": "BT-21",
+      "count": 134,
+      "file": "cards/digimon-ja/503030.json",
+      "version": "b2cda5bfb8f7",
+      "order": 67
+    },
+    {
+      "id": "503029",
+      "name": "ブースターパック OVER THE X【BT-20】",
+      "code": "BT-20",
+      "count": 138,
+      "file": "cards/digimon-ja/503029.json",
+      "version": "c46b9cab1c04",
+      "order": 66
+    },
+    {
+      "id": "503028",
+      "name": "エクストラブースター CHAIN OF LIBERATION【EX-08】",
+      "code": "EX-08",
+      "count": 154,
+      "file": "cards/digimon-ja/503028.json",
+      "version": "3b606cb58c9d",
+      "order": 65
+    },
+    {
+      "id": "503027",
+      "name": "ブースターパック クロスエボリューション【BT-19】",
+      "code": "BT-19",
+      "count": 134,
+      "file": "cards/digimon-ja/503027.json",
+      "version": "2ec310f25344",
+      "order": 64
+    },
+    {
+      "id": "503026",
+      "name": "ブースターパック エレメントサクセサー【BT-18】",
+      "code": "BT-18",
+      "count": 134,
+      "file": "cards/digimon-ja/503026.json",
+      "version": "739f27ac4a66",
+      "order": 63
+    },
+    {
+      "id": "503025",
+      "name": "エクストラブースター デジモンリベレイター【EX-07】",
+      "code": "EX-07",
+      "count": 146,
+      "file": "cards/digimon-ja/503025.json",
+      "version": "564514a7c8fe",
+      "order": 62
+    },
+    {
+      "id": "503024",
+      "name": "ブースターパック シークレットクライシス【BT-17】",
+      "code": "BT-17",
+      "count": 136,
+      "file": "cards/digimon-ja/503024.json",
+      "version": "67a6e2d3c3f5",
+      "order": 61
+    },
+    {
+      "id": "503023",
+      "name": "テーマブースター インファナル・アセンション【EX-06】",
+      "code": "EX-06",
+      "count": 106,
+      "file": "cards/digimon-ja/503023.json",
+      "version": "b81eb340e239",
+      "order": 60
+    },
+    {
+      "id": "503022",
+      "name": "ブースターパック BEGINNING OBSERVER 【BT-16】",
+      "code": "BT-16",
+      "count": 135,
+      "file": "cards/digimon-ja/503022.json",
+      "version": "2165676bf837",
+      "order": 59
+    },
+    {
+      "id": "503021",
+      "name": "ブースターパック エクシード・アポカリプス【BT-15】",
+      "code": "BT-15",
+      "count": 137,
+      "file": "cards/digimon-ja/503021.json",
+      "version": "5fca1edad0f4",
+      "order": 58
+    },
+    {
+      "id": "503020",
+      "name": "テーマブースター アニマルコロシアム【EX-05】",
+      "code": "EX-05",
+      "count": 101,
+      "file": "cards/digimon-ja/503020.json",
+      "version": "b0a9aadd627a",
+      "order": 57
+    },
+    {
+      "id": "503019",
+      "name": "ブースターパック BLAST ACE【BT-14】",
+      "code": "BT-14",
+      "count": 130,
+      "file": "cards/digimon-ja/503019.json",
+      "version": "4f3079e65a45",
+      "order": 56
+    },
+    {
+      "id": "503018",
+      "name": "ブースターパック VSロイヤルナイツ【BT-13】",
+      "code": "BT-13",
+      "count": 142,
+      "file": "cards/digimon-ja/503018.json",
+      "version": "0e0ae5f53816",
+      "order": 55
+    },
+    {
+      "id": "503017",
+      "name": "リブートブースター ライジングウインド【RB-01】",
+      "code": "RB-01",
+      "count": 148,
+      "file": "cards/digimon-ja/503017.json",
+      "version": "1b60f294c050",
+      "order": 54
+    },
+    {
+      "id": "503016",
+      "name": "テーマブースター オルタナティブビーイング【EX-04】",
+      "code": "EX-04",
+      "count": 99,
+      "file": "cards/digimon-ja/503016.json",
+      "version": "5390f564e8ac",
+      "order": 53
+    },
+    {
+      "id": "503015",
+      "name": "ブースターパック アクロス・タイム【BT-12】",
+      "code": "BT-12",
+      "count": 139,
+      "file": "cards/digimon-ja/503015.json",
+      "version": "78b78c1a79a7",
+      "order": 52
+    },
+    {
+      "id": "503014",
+      "name": "ブースターパック ディメンショナルフェイズ【BT-11】",
+      "code": "BT-11",
+      "count": 140,
+      "file": "cards/digimon-ja/503014.json",
+      "version": "eb2ef0a39c1e",
+      "order": 51
+    },
+    {
+      "id": "503013",
+      "name": "テーマブースター ドラゴンズロア【EX-03】",
+      "code": "EX-03",
+      "count": 99,
+      "file": "cards/digimon-ja/503013.json",
+      "version": "ad73ad155092",
+      "order": 50
+    },
+    {
+      "id": "503012",
+      "name": "ブースターパック クロスエンカウンター【BT-10】",
+      "code": "BT-10",
+      "count": 137,
+      "file": "cards/digimon-ja/503012.json",
+      "version": "3ec0b14ae6d8",
+      "order": 49
+    },
+    {
+      "id": "503011",
+      "name": "ブースターパック Xレコード【BT-09】",
+      "code": "BT-09",
+      "count": 136,
+      "file": "cards/digimon-ja/503011.json",
+      "version": "cea4e3543c23",
+      "order": 48
+    },
+    {
+      "id": "503010",
+      "name": "テーマブースター デジタルハザード【EX-02】",
+      "code": "EX-02",
+      "count": 104,
+      "file": "cards/digimon-ja/503010.json",
+      "version": "00bd5882842d",
+      "order": 47
+    },
+    {
+      "id": "503009",
+      "name": "ブースターパック ニューヒーロー【BT-08】",
+      "code": "BT-08",
+      "count": 136,
+      "file": "cards/digimon-ja/503009.json",
+      "version": "ffdf160ee718",
+      "order": 46
+    },
+    {
+      "id": "503008",
+      "name": "ブースターパック ネクストアドベンチャー【BT-07】",
+      "code": "BT-07",
+      "count": 144,
+      "file": "cards/digimon-ja/503008.json",
+      "version": "21a1ea7a1fab",
+      "order": 45
+    },
+    {
+      "id": "503007",
+      "name": "テーマブースター クラシックコレクション【EX-01】",
+      "code": "EX-01",
+      "count": 103,
+      "file": "cards/digimon-ja/503007.json",
+      "version": "812fc13ff8ec",
+      "order": 44
+    },
+    {
+      "id": "503006",
+      "name": "ブースターパック ダブルダイヤモンド【BT-06】",
+      "code": "BT-06",
+      "count": 147,
+      "file": "cards/digimon-ja/503006.json",
+      "version": "65b69a78e303",
+      "order": 43
+    },
+    {
+      "id": "503005",
+      "name": "ブースターパック バトルオブオメガ【BT-05】",
+      "code": "BT-05",
+      "count": 130,
+      "file": "cards/digimon-ja/503005.json",
+      "version": "aea4e569e909",
+      "order": 42
+    },
+    {
+      "id": "503004",
+      "name": "ブースターパック グレイトレジェンド【BT-04】",
+      "code": "BT-04",
+      "count": 136,
+      "file": "cards/digimon-ja/503004.json",
+      "version": "19711119a073",
+      "order": 41
+    },
+    {
+      "id": "503003",
+      "name": "ブースターパック ユニオンインパクト【BT-03】",
+      "code": "BT-03",
+      "count": 130,
+      "file": "cards/digimon-ja/503003.json",
+      "version": "f3819d9669bd",
+      "order": 40
+    },
+    {
+      "id": "503002",
+      "name": "ブースターパック ULTIMATE POWER【BT-02】",
+      "code": "BT-02",
+      "count": 129,
+      "file": "cards/digimon-ja/503002.json",
+      "version": "6cfff6806661",
+      "order": 39
+    },
+    {
+      "id": "503001",
+      "name": "ブースターパック NEW EVOLUTION【BT-01】",
+      "code": "BT-01",
+      "count": 134,
+      "file": "cards/digimon-ja/503001.json",
+      "version": "b4bc32c8a186",
+      "order": 38
+    },
+    {
+      "id": "503124",
+      "name": "スタートデッキ DIGIMON SAVERS【ST-24】",
+      "code": "ST-24",
+      "count": 22,
+      "file": "cards/digimon-ja/503124.json",
+      "version": "7e337ed9389e",
+      "order": 37
+    },
+    {
+      "id": "503123",
+      "name": "スタートデッキ DIGIMON BEATBREAK【ST-23】",
+      "code": "ST-23",
+      "count": 22,
+      "file": "cards/digimon-ja/503123.json",
+      "version": "96d810c173dd",
+      "order": 36
+    },
+    {
+      "id": "503122",
+      "name": "アドバンスデッキ 金剛界曼荼羅【ST-22】",
+      "code": "ST-22",
+      "count": 26,
+      "file": "cards/digimon-ja/503122.json",
+      "version": "e3c55f1f1258",
+      "order": 35
+    },
+    {
+      "id": "503121",
+      "name": "スタートデッキ HERO OF HOPE【ST-21】",
+      "code": "ST-21",
+      "count": 22,
+      "file": "cards/digimon-ja/503121.json",
+      "version": "125bc17ce113",
+      "order": 34
+    },
+    {
+      "id": "503120",
+      "name": "スタートデッキ PROTECTOR OF LIGHT【ST-20】",
+      "code": "ST-20",
+      "count": 22,
+      "file": "cards/digimon-ja/503120.json",
+      "version": "317c1449a554",
+      "order": 33
+    },
+    {
+      "id": "503119",
+      "name": "スタートデッキ 童話の舞踏【ST-19】",
+      "code": "ST-19",
+      "count": 22,
+      "file": "cards/digimon-ja/503119.json",
+      "version": "030dbe80cdf5",
+      "order": 32
+    },
+    {
+      "id": "503118",
+      "name": "スタートデッキ 旋風の守護者【ST-18】",
+      "code": "ST-18",
+      "count": 22,
+      "file": "cards/digimon-ja/503118.json",
+      "version": "d48eea58b42f",
+      "order": 31
+    },
+    {
+      "id": "503117",
+      "name": "アドバンスデッキ ダブルタイフーン【ST-17】",
+      "code": "ST-17",
+      "count": 33,
+      "file": "cards/digimon-ja/503117.json",
+      "version": "c60f5f224787",
+      "order": 30
+    },
+    {
+      "id": "503116",
+      "name": "スタートデッキ 友情の鋼狼【ST-16】",
+      "code": "ST-16",
+      "count": 16,
+      "file": "cards/digimon-ja/503116.json",
+      "version": "7db303bfc020",
+      "order": 29
+    },
+    {
+      "id": "503115",
+      "name": "スタートデッキ 勇気の戦竜【ST-15】",
+      "code": "ST-15",
+      "count": 16,
+      "file": "cards/digimon-ja/503115.json",
+      "version": "2bb976314f6e",
+      "order": 28
+    },
+    {
+      "id": "503114",
+      "name": "アドバンスデッキ ベルゼブモン【ST-14】",
+      "code": "ST-14",
+      "count": 26,
+      "file": "cards/digimon-ja/503114.json",
+      "version": "b1213d55d8e0",
+      "order": 27
+    },
+    {
+      "id": "503113",
+      "name": "スタートデッキ ラグナロードモン【ST-13】",
+      "code": "ST-13",
+      "count": 22,
+      "file": "cards/digimon-ja/503113.json",
+      "version": "497159fffc9a",
+      "order": 26
+    },
+    {
+      "id": "503112",
+      "name": "スタートデッキ ジエスモン【ST-12】",
+      "code": "ST-12",
+      "count": 22,
+      "file": "cards/digimon-ja/503112.json",
+      "version": "d77fab45c771",
+      "order": 25
+    },
+    {
+      "id": "503111",
+      "name": "スタートデッキ スペシャルエントリーセット【ST-11】",
+      "code": "ST-11",
+      "count": 16,
+      "file": "cards/digimon-ja/503111.json",
+      "version": "0a921486049c",
+      "order": 24
+    },
+    {
+      "id": "503110",
+      "name": "スタートデッキ 異世界の軍師【ST-10】",
+      "code": "ST-10",
+      "count": 16,
+      "file": "cards/digimon-ja/503110.json",
+      "version": "7b0efb800b00",
+      "order": 23
+    },
+    {
+      "id": "503109",
+      "name": "スタートデッキ 究極の古代竜【ST-9】",
+      "code": "ST-9",
+      "count": 16,
+      "file": "cards/digimon-ja/503109.json",
+      "version": "bea66be841d0",
+      "order": 22
+    },
+    {
+      "id": "503108",
+      "name": "スタートデッキ アルフォースブイドラモン【ST-8】",
+      "code": "ST-8",
+      "count": 16,
+      "file": "cards/digimon-ja/503108.json",
+      "version": "9004486f8290",
+      "order": 21
+    },
+    {
+      "id": "503107",
+      "name": "スタートデッキ デュークモン【ST-7】",
+      "code": "ST-7",
+      "count": 16,
+      "file": "cards/digimon-ja/503107.json",
+      "version": "e9df6471c245",
+      "order": 20
+    },
+    {
+      "id": "503106",
+      "name": "スタートデッキ ヴェノムヴァイオレット【ST-6】",
+      "code": "ST-6",
+      "count": 16,
+      "file": "cards/digimon-ja/503106.json",
+      "version": "6a88fcfb58bd",
+      "order": 19
+    },
+    {
+      "id": "503105",
+      "name": "スタートデッキ ムゲンブラック【ST-5】",
+      "code": "ST-5",
+      "count": 16,
+      "file": "cards/digimon-ja/503105.json",
+      "version": "91807459d0be",
+      "order": 18
+    },
+    {
+      "id": "503104",
+      "name": "スタートデッキ ギガグリーン【ST-4】",
+      "code": "ST-4",
+      "count": 16,
+      "file": "cards/digimon-ja/503104.json",
+      "version": "c2ea3da4828b",
+      "order": 17
+    },
+    {
+      "id": "503103",
+      "name": "スタートデッキ ヘブンズイエロー【ST-3】",
+      "code": "ST-3",
+      "count": 16,
+      "file": "cards/digimon-ja/503103.json",
+      "version": "53df6b6c088d",
+      "order": 16
+    },
+    {
+      "id": "503102",
+      "name": "スタートデッキ コキュートスブルー【ST-2】",
+      "code": "ST-2",
+      "count": 16,
+      "file": "cards/digimon-ja/503102.json",
+      "version": "c0e8f6aaf801",
+      "order": 15
+    },
+    {
+      "id": "503101",
+      "name": "スタートデッキ ガイアレッド【ST-1】",
+      "code": "ST-1",
+      "count": 16,
+      "file": "cards/digimon-ja/503101.json",
+      "version": "596490a97dde",
+      "order": 14
+    },
+    {
+      "id": "503208",
+      "name": "リミテッドカードパック FINAL CREST【LM-08】",
+      "code": "LM-08",
+      "count": 33,
+      "file": "cards/digimon-ja/503208.json",
+      "version": "5c3bebee9fe5",
+      "order": 13
+    },
+    {
+      "id": "503207",
+      "name": "リミテッドカードパック ANOTHER KNIGHT【LM-07】",
+      "code": "LM-07",
+      "count": 33,
+      "file": "cards/digimon-ja/503207.json",
+      "version": "9f891ec42699",
+      "order": 12
+    },
+    {
+      "id": "503206",
+      "name": "リミテッドカードパック ビリオン・バレット【LM-06】",
+      "code": "LM-06",
+      "count": 33,
+      "file": "cards/digimon-ja/503206.json",
+      "version": "392937459546",
+      "order": 11
+    },
+    {
+      "id": "503205",
+      "name": "リミテッドカードパック ファイナル・エリシオン【LM-05】",
+      "code": "LM-05",
+      "count": 31,
+      "file": "cards/digimon-ja/503205.json",
+      "version": "f8f2d4ab5ade",
+      "order": 10
+    },
+    {
+      "id": "503204",
+      "name": "リミテッドカードパック トリッドヴァイス【LM-04】",
+      "code": "LM-04",
+      "count": 33,
+      "file": "cards/digimon-ja/503204.json",
+      "version": "5a22679b0979",
+      "order": 9
+    },
+    {
+      "id": "503203",
+      "name": "リミテッドカードセット2024【LM-03】",
+      "code": "LM-03",
+      "count": 12,
+      "file": "cards/digimon-ja/503203.json",
+      "version": "02d2a37aa2ac",
+      "order": 8
+    },
+    {
+      "id": "503202",
+      "name": "リミテッドカードパック デクスモン【LM-02】",
+      "code": "LM-02",
+      "count": 33,
+      "file": "cards/digimon-ja/503202.json",
+      "version": "703fea102915",
+      "order": 7
+    },
+    {
+      "id": "503201",
+      "name": "リミテッドカードパック デジモンゴーストゲーム【LM-01】",
+      "code": "LM-01",
+      "count": 30,
+      "file": "cards/digimon-ja/503201.json",
+      "version": "44905e348060",
+      "order": 6
+    },
+    {
+      "id": "503901",
+      "name": "プロモーションカード",
+      "count": 249,
+      "file": "cards/digimon-ja/503901.json",
+      "version": "436fbf5baa55",
+      "order": 5
+    },
+    {
+      "id": "503904",
+      "name": "公式大会景品",
+      "count": 112,
+      "file": "cards/digimon-ja/503904.json",
+      "version": "51bc4f9fe2c8",
+      "order": 4
+    },
+    {
+      "id": "503905",
+      "name": "店舗イベント景品",
+      "count": 424,
+      "file": "cards/digimon-ja/503905.json",
+      "version": "7bed33999e3f",
+      "order": 3
+    },
+    {
+      "id": "503902",
+      "name": "プレミアムバンダイ・イベント物販",
+      "count": 335,
+      "file": "cards/digimon-ja/503902.json",
+      "version": "60b6bd4dee8a",
+      "order": 2
+    },
+    {
+      "id": "503903",
+      "name": "その他物販",
+      "count": 17,
+      "file": "cards/digimon-ja/503903.json",
+      "version": "7b55fa51ea57",
+      "order": 1
+    }
+  ]
+}

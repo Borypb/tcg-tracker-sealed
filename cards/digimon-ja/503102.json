@@ -1,0 +1,130 @@
+{
+  "id": "503102",
+  "name": "スタートデッキ コキュートスブルー【ST-2】",
+  "code": "ST-2",
+  "cards": [
+    {
+      "number": "ST2-01",
+      "name": "ツノモン",
+      "rarity": "U",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "image": "https://digimoncard.com/images/cardlist/card/ST2-01.png?04"
+    },
+    {
+      "number": "ST2-02",
+      "name": "ゴマモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST2-02.png?04"
+    },
+    {
+      "number": "ST2-03",
+      "name": "ガブモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST2-03.png?04"
+    },
+    {
+      "number": "ST2-04",
+      "name": "べアモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST2-04.png?04"
+    },
+    {
+      "number": "ST2-05",
+      "name": "イッカクモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST2-05.png?04"
+    },
+    {
+      "number": "ST2-06",
+      "name": "ガルルモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST2-06.png?04"
+    },
+    {
+      "number": "ST2-07",
+      "name": "グリズモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST2-07.png?04"
+    },
+    {
+      "number": "ST2-08",
+      "name": "ワーガルルモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST2-08.png?04"
+    },
+    {
+      "number": "ST2-09",
+      "name": "ズドモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST2-09.png?04"
+    },
+    {
+      "number": "ST2-10",
+      "name": "プレシオモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST2-10.png?04"
+    },
+    {
+      "number": "ST2-11",
+      "name": "メタルガルルモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST2-11.png?04"
+    },
+    {
+      "number": "ST2-12",
+      "name": "石田ヤマト",
+      "rarity": "R",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/ST2-12.png?04"
+    },
+    {
+      "number": "ST2-13",
+      "name": "ハンマースパーク",
+      "rarity": "C",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST2-13.png?04"
+    },
+    {
+      "number": "ST2-14",
+      "name": "ソローブルー",
+      "rarity": "C",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST2-14.png?04"
+    },
+    {
+      "number": "ST2-15",
+      "name": "カイザーネイル",
+      "rarity": "C",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST2-15.png?04"
+    },
+    {
+      "number": "ST2-16",
+      "name": "コキュートスブレス",
+      "rarity": "U",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST2-16.png?04"
+    }
+  ]
+}

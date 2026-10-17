@@ -1,0 +1,297 @@
+{
+  "id": "503205",
+  "name": "リミテッドカードパック ファイナル・エリシオン【LM-05】",
+  "code": "LM-05",
+  "cards": [
+    {
+      "number": "LM-039",
+      "name": "ヴァルキリモン",
+      "rarity": "P",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/LM-039.png?04"
+    },
+    {
+      "number": "LM-040",
+      "name": "ヴァイクモン",
+      "rarity": "P",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/LM-040.png?04"
+    },
+    {
+      "number": "LM-041",
+      "name": "レガレクスモン",
+      "rarity": "P",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/LM-041.png?04"
+    },
+    {
+      "number": "LM-042",
+      "name": "ラジエルモン",
+      "rarity": "P",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/LM-042.png?04"
+    },
+    {
+      "number": "LM-043",
+      "name": "ダークドラモンACE",
+      "rarity": "P",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/LM-043.png?04"
+    },
+    {
+      "number": "LM-044",
+      "name": "デスモンACE",
+      "rarity": "P",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/LM-044.png?04"
+    },
+    {
+      "number": "BT3-093",
+      "name": "本宮大輔",
+      "rarity": "R",
+      "type": "テイマー",
+      "parallel": true,
+      "variant": "p3",
+      "image": "https://digimoncard.com/images/cardlist/card/BT3-093_P3.png?04"
+    },
+    {
+      "number": "BT11-061",
+      "name": "ベムモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/BT11-061_P2.png?04"
+    },
+    {
+      "number": "BT12-011",
+      "name": "シャウトモン キングVer.",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT12-011_P1.png?04"
+    },
+    {
+      "number": "BT13-111",
+      "name": "デュークモン",
+      "rarity": "SEC",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/BT13-111_P2.png?04"
+    },
+    {
+      "number": "BT14-001",
+      "name": "コロモン",
+      "rarity": "U",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/BT14-001_P2.png?04"
+    },
+    {
+      "number": "BT14-033",
+      "name": "パタモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/BT14-033_P2.png?04"
+    },
+    {
+      "number": "BT15-038",
+      "name": "エンジェウーモンACE",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "parallel": true,
+      "variant": "p3",
+      "image": "https://digimoncard.com/images/cardlist/card/BT15-038_P3.png?04"
+    },
+    {
+      "number": "BT16-058",
+      "name": "ドルガモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT16-058_P1.png?04"
+    },
+    {
+      "number": "EX1-066",
+      "name": "アナログの少年",
+      "rarity": "R",
+      "type": "テイマー",
+      "parallel": true,
+      "variant": "p4",
+      "image": "https://digimoncard.com/images/cardlist/card/EX1-066_P4.png?04"
+    },
+    {
+      "number": "EX2-008",
+      "name": "ギルモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/EX2-008_P2.png?04"
+    },
+    {
+      "number": "EX2-046",
+      "name": "ADR-02=サーチャー",
+      "rarity": "C",
+      "type": "デジモン",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX2-046_P1.png?04"
+    },
+    {
+      "number": "EX6-014",
+      "name": "ファンクンモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX6-014_P1.png?04"
+    },
+    {
+      "number": "EX6-054",
+      "name": "ルーチェモン：フォールダウンモード",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/EX6-054_P2.png?04"
+    },
+    {
+      "number": "ST17-13",
+      "name": "マグナモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/ST17-13_P1.png?04"
+    },
+    {
+      "number": "P-095",
+      "name": "無効化プラグインP",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/P-095_P1.png?04"
+    },
+    {
+      "number": "P-110",
+      "name": "シェイドラモン",
+      "rarity": "P",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/P-110_P1.png?04"
+    },
+    {
+      "number": "P-131",
+      "name": "プテロモン",
+      "rarity": "P",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/P-131_P2.png?04"
+    },
+    {
+      "number": "P-152",
+      "name": "シャウトモン+ドルルキャノン",
+      "rarity": "P",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/P-152_P2.png?04"
+    },
+    {
+      "number": "P-153",
+      "name": "マグナガルルモン",
+      "rarity": "P",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/P-153_P2.png?04"
+    },
+    {
+      "number": "P-154",
+      "name": "メイルドラモン",
+      "rarity": "P",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/P-154_P2.png?04"
+    },
+    {
+      "number": "P-155",
+      "name": "ポーン・デヴァイス",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/P-155_P2.png?04"
+    },
+    {
+      "number": "P-156",
+      "name": "未来への可能性！！",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p4",
+      "image": "https://digimoncard.com/images/cardlist/card/P-156_P4.png?04"
+    },
+    {
+      "number": "P-157",
+      "name": "モニモン",
+      "rarity": "P",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/P-157_P2.png?04"
+    },
+    {
+      "number": "P-158",
+      "name": "偽ジュリ",
+      "rarity": "P",
+      "type": "テイマー",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/P-158_P2.png?04"
+    },
+    {
+      "number": "P-159",
+      "name": "ルーク・デヴァイス",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/P-159_P2.png?04"
+    }
+  ]
+}

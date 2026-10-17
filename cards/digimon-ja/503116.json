@@ -1,0 +1,132 @@
+{
+  "id": "503116",
+  "name": "スタートデッキ 友情の鋼狼【ST-16】",
+  "code": "ST-16",
+  "cards": [
+    {
+      "number": "ST16-01",
+      "name": "ツノモン",
+      "rarity": "U",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "image": "https://digimoncard.com/images/cardlist/card/ST16-01.png?04"
+    },
+    {
+      "number": "ST16-02",
+      "name": "エレキモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST16-02.png?04"
+    },
+    {
+      "number": "ST16-03",
+      "name": "ガブモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST16-03.png?04"
+    },
+    {
+      "number": "ST16-04",
+      "name": "バクモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST16-04.png?04"
+    },
+    {
+      "number": "ST16-05",
+      "name": "ゴツモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST16-05.png?04"
+    },
+    {
+      "number": "ST16-06",
+      "name": "バケモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST16-06.png?04"
+    },
+    {
+      "number": "ST16-07",
+      "name": "メラモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST16-07.png?04"
+    },
+    {
+      "number": "ST16-08",
+      "name": "ガルルモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST16-08.png?04"
+    },
+    {
+      "number": "ST16-09",
+      "name": "パンプモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST16-09.png?04"
+    },
+    {
+      "number": "ST16-10",
+      "name": "マンモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST16-10.png?04"
+    },
+    {
+      "number": "ST16-11",
+      "name": "ワーガルルモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST16-11.png?04"
+    },
+    {
+      "number": "ST16-12",
+      "name": "メタルガルルモンACE",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST16-12.png?04"
+    },
+    {
+      "number": "ST16-13",
+      "name": "スカルマンモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST16-13.png?04"
+    },
+    {
+      "number": "ST16-14",
+      "name": "石田ヤマト",
+      "rarity": "R",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/ST16-14.png?04"
+    },
+    {
+      "number": "ST16-15",
+      "name": "友情の慟哭",
+      "rarity": "U",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST16-15.png?04"
+    },
+    {
+      "number": "ST16-16",
+      "name": "ボールディブロー",
+      "rarity": "C",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST16-16.png?04"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "id": "503118",
+  "name": "スタートデッキ 旋風の守護者【ST-18】",
+  "code": "ST-18",
+  "cards": [
+    {
+      "number": "ST18-01",
+      "name": "フラフィモン",
+      "rarity": "C",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "image": "https://digimoncard.com/images/cardlist/card/ST18-01.png?04"
+    },
+    {
+      "number": "ST18-02",
+      "name": "ピヨモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST18-02.png?04"
+    },
+    {
+      "number": "ST18-03",
+      "name": "ファルコモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST18-03.png?04"
+    },
+    {
+      "number": "ST18-04",
+      "name": "プテロモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST18-04.png?04"
+    },
+    {
+      "number": "ST18-05",
+      "name": "ムーチョモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST18-05.png?04"
+    },
+    {
+      "number": "ST18-06",
+      "name": "キウイモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST18-06.png?04"
+    },
+    {
+      "number": "ST18-07",
+      "name": "コカトリモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST18-07.png?04"
+    },
+    {
+      "number": "ST18-08",
+      "name": "ゲイルモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST18-08.png?04"
+    },
+    {
+      "number": "ST18-09",
+      "name": "デラモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST18-09.png?04"
+    },
+    {
+      "number": "ST18-10",
+      "name": "グランゲイルモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST18-10.png?04"
+    },
+    {
+      "number": "ST18-11",
+      "name": "パロットモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST18-11.png?04"
+    },
+    {
+      "number": "ST18-12",
+      "name": "ゼファーガモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST18-12.png?04"
+    },
+    {
+      "number": "ST18-13",
+      "name": "クロスモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST18-13.png?04"
+    },
+    {
+      "number": "ST18-14",
+      "name": "風真照人",
+      "rarity": "R",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/ST18-14.png?04"
+    },
+    {
+      "number": "ST18-15",
+      "name": "アネモイエンブレイス",
+      "rarity": "U",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST18-15.png?04"
+    },
+    {
+      "number": "P-038",
+      "name": "グリーン・メモリーブースト！！",
+      "rarity": "SR",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p4",
+      "image": "https://digimoncard.com/images/cardlist/card/P-038_P4.png?04"
+    },
+    {
+      "number": "P-103",
+      "name": "オフェンス・トレーニング",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/P-103_P1.png?04"
+    },
+    {
+      "number": "P-104",
+      "name": "メンタル・トレーニング",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/P-104_P1.png?04"
+    },
+    {
+      "number": "P-105",
+      "name": "フィジカル・トレーニング",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/P-105_P1.png?04"
+    },
+    {
+      "number": "P-106",
+      "name": "アジリティ・トレーニング",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/P-106_P1.png?04"
+    },
+    {
+      "number": "P-107",
+      "name": "ディフェンス・トレーニング",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/P-107_P1.png?04"
+    },
+    {
+      "number": "P-108",
+      "name": "ウィズダム・トレーニング",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/P-108_P1.png?04"
+    }
+  ]
+}

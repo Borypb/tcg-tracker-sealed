@@ -1,0 +1,140 @@
+{
+  "id": "503108",
+  "name": "スタートデッキ アルフォースブイドラモン【ST-8】",
+  "code": "ST-8",
+  "cards": [
+    {
+      "number": "ST8-01",
+      "name": "チビモン",
+      "rarity": "U",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "image": "https://digimoncard.com/images/cardlist/card/ST8-01.png?04"
+    },
+    {
+      "number": "ST8-02",
+      "name": "ガブモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST8-02.png?04"
+    },
+    {
+      "number": "ST8-03",
+      "name": "ドラコモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST8-03.png?04"
+    },
+    {
+      "number": "ST8-04",
+      "name": "ブイモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST8-04.png?04"
+    },
+    {
+      "number": "ST8-05",
+      "name": "ブイドラモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST8-05.png?04"
+    },
+    {
+      "number": "ST8-06",
+      "name": "コアドラモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST8-06.png?04"
+    },
+    {
+      "number": "ST8-07",
+      "name": "ウイングドラモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST8-07.png?04"
+    },
+    {
+      "number": "ST8-08",
+      "name": "エアロブイドラモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST8-08.png?04"
+    },
+    {
+      "number": "ST8-09",
+      "name": "スレイヤードラモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST8-09.png?04"
+    },
+    {
+      "number": "ST8-10",
+      "name": "アルフォースブイドラモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST8-10.png?04"
+    },
+    {
+      "number": "ST8-11",
+      "name": "アルフォースセイバー",
+      "rarity": "U",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST8-11.png?04"
+    },
+    {
+      "number": "ST8-12",
+      "name": "Vウイングブレード",
+      "rarity": "C",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST8-12.png?04"
+    },
+    {
+      "number": "BT1-028",
+      "name": "エレキモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT1-028_P1.png?04"
+    },
+    {
+      "number": "BT1-037",
+      "name": "ゴリモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT1-037_P1.png?04"
+    },
+    {
+      "number": "BT1-038",
+      "name": "もんざえモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/BT1-038_P2.png?04"
+    },
+    {
+      "number": "ST2-13",
+      "name": "ハンマースパーク",
+      "rarity": "C",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/ST2-13_P1.png?04"
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "id": "503208",
+  "name": "リミテッドカードパック FINAL CREST【LM-08】",
+  "code": "LM-08",
+  "cards": [
+    {
+      "number": "LM-057",
+      "name": "ウォール・トレーニング",
+      "rarity": "P",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/LM-057.png?04"
+    },
+    {
+      "number": "LM-058",
+      "name": "パルクール・トレーニング",
+      "rarity": "P",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/LM-058.png?04"
+    },
+    {
+      "number": "LM-059",
+      "name": "ヒート・トレーニング",
+      "rarity": "P",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/LM-059.png?04"
+    },
+    {
+      "number": "LM-060",
+      "name": "シャドー・トレーニング",
+      "rarity": "P",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/LM-060.png?04"
+    },
+    {
+      "number": "LM-061",
+      "name": "パンチング・トレーニング",
+      "rarity": "P",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/LM-061.png?04"
+    },
+    {
+      "number": "LM-062",
+      "name": "ブレッシング・トレーニング",
+      "rarity": "P",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/LM-062.png?04"
+    },
+    {
+      "number": "BT9-102",
+      "name": "重機動デジモンの進撃！！",
+      "rarity": "C",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT9-102_P1.png?04"
+    },
+    {
+      "number": "BT11-023",
+      "name": "ブイモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/BT11-023_P2.png?04"
+    },
+    {
+      "number": "BT11-112",
+      "name": "四ノ宮リナ",
+      "rarity": "SEC",
+      "type": "テイマー",
+      "parallel": true,
+      "variant": "p3",
+      "image": "https://digimoncard.com/images/cardlist/card/BT11-112_P3.png?04"
+    },
+    {
+      "number": "BT15-096",
+      "name": "至高のコネクション！！",
+      "rarity": "R",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT15-096_P1.png?04"
+    },
+    {
+      "number": "BT20-018",
+      "name": "オウリュウモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT20-018_P1.png?04"
+    },
+    {
+      "number": "BT20-037",
+      "name": "カオスモン：ヴァロドゥルアーム",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.7",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/BT20-037_P2.png?04"
+    },
+    {
+      "number": "BT20-061",
+      "name": "インプモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT20-061_P1.png?04"
+    },
+    {
+      "number": "BT20-060",
+      "name": "アルファモン：王竜剣ACE",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.7",
+      "parallel": true,
+      "variant": "p5",
+      "image": "https://digimoncard.com/images/cardlist/card/BT20-060_P5.png?04"
+    },
+    {
+      "number": "BT20-077",
+      "name": "ヘヴィーメタルドラモンACE",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p3",
+      "image": "https://digimoncard.com/images/cardlist/card/BT20-077_P3.png?04"
+    },
+    {
+      "number": "BT21-071",
+      "name": "スコープモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT21-071_P1.png?04"
+    },
+    {
+      "number": "BT22-008",
+      "name": "アグモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT22-008_P1.png?04"
+    },
+    {
+      "number": "BT22-017",
+      "name": "ガブモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT22-017_P1.png?04"
+    },
+    {
+      "number": "BT22-088",
+      "name": "城之崎有紗",
+      "rarity": "R",
+      "type": "テイマー",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT22-088_P1.png?04"
+    },
+    {
+      "number": "EX8-029",
+      "name": "イージスドラモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.7",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/EX8-029_P2.png?04"
+    },
+    {
+      "number": "EX8-074",
+      "name": "メディーバルデュークモン",
+      "rarity": "SEC",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p4",
+      "image": "https://digimoncard.com/images/cardlist/card/EX8-074_P4.png?04"
+    },
+    {
+      "number": "P-201",
+      "name": "ファスコモン",
+      "rarity": "P",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/P-201_P2.png?04"
+    },
+    {
+      "number": "P-202",
+      "name": "ティラノモン",
+      "rarity": "P",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/P-202_P2.png?04"
+    },
+    {
+      "number": "P-203",
+      "name": "ジャスティモン：アクセルアーム",
+      "rarity": "P",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/P-203_P2.png?04"
+    },
+    {
+      "number": "P-204",
+      "name": "封印されし騎士の解放！",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/P-204_P2.png?04"
+    },
+    {
+      "number": "P-205",
+      "name": "狂気の合成魔獣",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/P-205_P2.png?04"
+    },
+    {
+      "number": "P-206",
+      "name": "デジタルゲートオープン",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p3",
+      "image": "https://digimoncard.com/images/cardlist/card/P-206_P3.png?04"
+    },
+    {
+      "number": "P-214",
+      "name": "ベタモンX抗体",
+      "rarity": "P",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/P-214_P2.png?04"
+    },
+    {
+      "number": "P-215",
+      "name": "アイスモン",
+      "rarity": "P",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/P-215_P2.png?04"
+    },
+    {
+      "number": "P-216",
+      "name": "ワルもんざえモン",
+      "rarity": "P",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/P-216_P2.png?04"
+    },
+    {
+      "number": "P-217",
+      "name": "新海ハル",
+      "rarity": "P",
+      "type": "テイマー",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/P-217_P2.png?04"
+    },
+    {
+      "number": "P-218",
+      "name": "飛鳥虎次郎",
+      "rarity": "P",
+      "type": "テイマー",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/P-218_P2.png?04"
+    },
+    {
+      "number": "P-219",
+      "name": "フレイムインフェルノ",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/P-219_P2.png?04"
+    }
+  ]
+}

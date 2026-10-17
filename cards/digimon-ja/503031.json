@@ -1,0 +1,1315 @@
+{
+  "id": "503031",
+  "name": "エクストラブースター VERSUS MONSTERS【EX-09】",
+  "code": "EX-09",
+  "cards": [
+    {
+      "number": "EX9-001",
+      "name": "コロモン",
+      "rarity": "C",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-001.png?04"
+    },
+    {
+      "number": "EX9-001",
+      "name": "コロモン",
+      "rarity": "C",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-001_P1.png?04"
+    },
+    {
+      "number": "EX9-002",
+      "name": "ツノモン",
+      "rarity": "C",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-002.png?04"
+    },
+    {
+      "number": "EX9-002",
+      "name": "ツノモン",
+      "rarity": "C",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-002_P1.png?04"
+    },
+    {
+      "number": "EX9-003",
+      "name": "トコモン",
+      "rarity": "C",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-003.png?04"
+    },
+    {
+      "number": "EX9-003",
+      "name": "トコモン",
+      "rarity": "C",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-003_P1.png?04"
+    },
+    {
+      "number": "EX9-004",
+      "name": "タネモン",
+      "rarity": "C",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-004.png?04"
+    },
+    {
+      "number": "EX9-004",
+      "name": "タネモン",
+      "rarity": "C",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-004_P1.png?04"
+    },
+    {
+      "number": "EX9-005",
+      "name": "ネガーモン",
+      "rarity": "U",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-005.png?04"
+    },
+    {
+      "number": "EX9-005",
+      "name": "ネガーモン",
+      "rarity": "U",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-005_P1.png?04"
+    },
+    {
+      "number": "EX9-006",
+      "name": "パグモン",
+      "rarity": "C",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-006.png?04"
+    },
+    {
+      "number": "EX9-006",
+      "name": "パグモン",
+      "rarity": "C",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-006_P1.png?04"
+    },
+    {
+      "number": "EX9-007",
+      "name": "アグモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-007.png?04"
+    },
+    {
+      "number": "EX9-008",
+      "name": "ピヨモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-008.png?04"
+    },
+    {
+      "number": "EX9-008",
+      "name": "ピヨモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-008_P1.png?04"
+    },
+    {
+      "number": "EX9-009",
+      "name": "グレイモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-009.png?04"
+    },
+    {
+      "number": "EX9-009",
+      "name": "グレイモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-009_P1.png?04"
+    },
+    {
+      "number": "EX9-010",
+      "name": "タスクモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-010.png?04"
+    },
+    {
+      "number": "EX9-010",
+      "name": "タスクモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-010_P1.png?04"
+    },
+    {
+      "number": "EX9-011",
+      "name": "メタルグレイモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-011.png?04"
+    },
+    {
+      "number": "EX9-011",
+      "name": "メタルグレイモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-011_P1.png?04"
+    },
+    {
+      "number": "EX9-011",
+      "name": "メタルグレイモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-011_P2.png?04"
+    },
+    {
+      "number": "EX9-012",
+      "name": "メタルグレイモン：アルタラウスモード",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-012.png?04"
+    },
+    {
+      "number": "EX9-012",
+      "name": "メタルグレイモン：アルタラウスモード",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-012_P1.png?04"
+    },
+    {
+      "number": "EX9-013",
+      "name": "ブリッツグレイモンACE",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-013.png?04"
+    },
+    {
+      "number": "EX9-013",
+      "name": "ブリッツグレイモンACE",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-013_P1.png?04"
+    },
+    {
+      "number": "EX9-014",
+      "name": "ガブモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-014.png?04"
+    },
+    {
+      "number": "EX9-014",
+      "name": "ガブモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-014_P1.png?04"
+    },
+    {
+      "number": "EX9-015",
+      "name": "ギザモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-015.png?04"
+    },
+    {
+      "number": "EX9-015",
+      "name": "ギザモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-015_P1.png?04"
+    },
+    {
+      "number": "EX9-016",
+      "name": "ベタモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-016.png?04"
+    },
+    {
+      "number": "EX9-016",
+      "name": "ベタモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-016_P1.png?04"
+    },
+    {
+      "number": "EX9-017",
+      "name": "ガルルモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-017.png?04"
+    },
+    {
+      "number": "EX9-017",
+      "name": "ガルルモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-017_P1.png?04"
+    },
+    {
+      "number": "EX9-018",
+      "name": "メタルマメモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-018.png?04"
+    },
+    {
+      "number": "EX9-018",
+      "name": "メタルマメモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-018_P1.png?04"
+    },
+    {
+      "number": "EX9-018",
+      "name": "メタルマメモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-018_P2.png?04"
+    },
+    {
+      "number": "EX9-019",
+      "name": "ワーガルルモン：サジタリウスモード",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-019.png?04"
+    },
+    {
+      "number": "EX9-019",
+      "name": "ワーガルルモン：サジタリウスモード",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-019_P1.png?04"
+    },
+    {
+      "number": "EX9-020",
+      "name": "クーレスガルルモンACE",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-020.png?04"
+    },
+    {
+      "number": "EX9-020",
+      "name": "クーレスガルルモンACE",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-020_P1.png?04"
+    },
+    {
+      "number": "EX9-021",
+      "name": "オメガモン Alter-S",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.7",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-021.png?04"
+    },
+    {
+      "number": "EX9-021",
+      "name": "オメガモン Alter-S",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.7",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-021_P1.png?04"
+    },
+    {
+      "number": "EX9-022",
+      "name": "エレキモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-022.png?04"
+    },
+    {
+      "number": "EX9-022",
+      "name": "エレキモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-022_P1.png?04"
+    },
+    {
+      "number": "EX9-023",
+      "name": "パタモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-023.png?04"
+    },
+    {
+      "number": "EX9-023",
+      "name": "パタモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-023_P1.png?04"
+    },
+    {
+      "number": "EX9-024",
+      "name": "ハニモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-024.png?04"
+    },
+    {
+      "number": "EX9-024",
+      "name": "ハニモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-024_P1.png?04"
+    },
+    {
+      "number": "EX9-025",
+      "name": "エアドラモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-025.png?04"
+    },
+    {
+      "number": "EX9-025",
+      "name": "エアドラモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-025_P1.png?04"
+    },
+    {
+      "number": "EX9-026",
+      "name": "エンジェモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-026.png?04"
+    },
+    {
+      "number": "EX9-026",
+      "name": "エンジェモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-026_P1.png?04"
+    },
+    {
+      "number": "EX9-027",
+      "name": "コケシモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-027.png?04"
+    },
+    {
+      "number": "EX9-027",
+      "name": "コケシモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-027_P1.png?04"
+    },
+    {
+      "number": "EX9-028",
+      "name": "ナニモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-028.png?04"
+    },
+    {
+      "number": "EX9-028",
+      "name": "ナニモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-028_P1.png?04"
+    },
+    {
+      "number": "EX9-029",
+      "name": "ユニモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-029.png?04"
+    },
+    {
+      "number": "EX9-029",
+      "name": "ユニモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-029_P1.png?04"
+    },
+    {
+      "number": "EX9-030",
+      "name": "アンドロモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-030.png?04"
+    },
+    {
+      "number": "EX9-030",
+      "name": "アンドロモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-030_P1.png?04"
+    },
+    {
+      "number": "EX9-030",
+      "name": "アンドロモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-030_P2.png?04"
+    },
+    {
+      "number": "EX9-031",
+      "name": "エテモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-031.png?04"
+    },
+    {
+      "number": "EX9-032",
+      "name": "カラクルモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-032.png?04"
+    },
+    {
+      "number": "EX9-033",
+      "name": "カグヤモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-033.png?04"
+    },
+    {
+      "number": "EX9-033",
+      "name": "カグヤモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-033_P1.png?04"
+    },
+    {
+      "number": "EX9-034",
+      "name": "クネモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-034.png?04"
+    },
+    {
+      "number": "EX9-034",
+      "name": "クネモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-034_P1.png?04"
+    },
+    {
+      "number": "EX9-035",
+      "name": "パルモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-035.png?04"
+    },
+    {
+      "number": "EX9-035",
+      "name": "パルモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-035_P1.png?04"
+    },
+    {
+      "number": "EX9-036",
+      "name": "ポームモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-036.png?04"
+    },
+    {
+      "number": "EX9-036",
+      "name": "ポームモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-036_P1.png?04"
+    },
+    {
+      "number": "EX9-037",
+      "name": "カブテリモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-037.png?04"
+    },
+    {
+      "number": "EX9-037",
+      "name": "カブテリモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-037_P1.png?04"
+    },
+    {
+      "number": "EX9-038",
+      "name": "クワガーモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-038.png?04"
+    },
+    {
+      "number": "EX9-038",
+      "name": "クワガーモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-038_P1.png?04"
+    },
+    {
+      "number": "EX9-039",
+      "name": "ダークティラノモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-039.png?04"
+    },
+    {
+      "number": "EX9-039",
+      "name": "ダークティラノモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-039_P1.png?04"
+    },
+    {
+      "number": "EX9-040",
+      "name": "パラサウモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-040.png?04"
+    },
+    {
+      "number": "EX9-040",
+      "name": "パラサウモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-040_P1.png?04"
+    },
+    {
+      "number": "EX9-041",
+      "name": "エクスティラノモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-041.png?04"
+    },
+    {
+      "number": "EX9-042",
+      "name": "トロピアモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-042.png?04"
+    },
+    {
+      "number": "EX9-042",
+      "name": "トロピアモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-042_P1.png?04"
+    },
+    {
+      "number": "EX9-043",
+      "name": "メタルティラノモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-043.png?04"
+    },
+    {
+      "number": "EX9-043",
+      "name": "メタルティラノモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-043_P1.png?04"
+    },
+    {
+      "number": "EX9-043",
+      "name": "メタルティラノモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-043_P2.png?04"
+    },
+    {
+      "number": "EX9-044",
+      "name": "ヒュドラモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-044.png?04"
+    },
+    {
+      "number": "EX9-045",
+      "name": "ケルヌモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.7",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-045.png?04"
+    },
+    {
+      "number": "EX9-045",
+      "name": "ケルヌモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.7",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-045_P1.png?04"
+    },
+    {
+      "number": "EX9-046",
+      "name": "サウンドバードモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-046.png?04"
+    },
+    {
+      "number": "EX9-046",
+      "name": "サウンドバードモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-046_P1.png?04"
+    },
+    {
+      "number": "EX9-047",
+      "name": "アイズモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-047.png?04"
+    },
+    {
+      "number": "EX9-047",
+      "name": "アイズモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-047_P1.png?04"
+    },
+    {
+      "number": "EX9-048",
+      "name": "アイズモン：スキャッターモード",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-048.png?04"
+    },
+    {
+      "number": "EX9-048",
+      "name": "アイズモン：スキャッターモード",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-048_P1.png?04"
+    },
+    {
+      "number": "EX9-049",
+      "name": "スカモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-049.png?04"
+    },
+    {
+      "number": "EX9-049",
+      "name": "スカモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-049_P1.png?04"
+    },
+    {
+      "number": "EX9-050",
+      "name": "ヌメモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-050.png?04"
+    },
+    {
+      "number": "EX9-050",
+      "name": "ヌメモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-050_P1.png?04"
+    },
+    {
+      "number": "EX9-051",
+      "name": "モノクロモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-051.png?04"
+    },
+    {
+      "number": "EX9-051",
+      "name": "モノクロモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-051_P1.png?04"
+    },
+    {
+      "number": "EX9-052",
+      "name": "レアモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-052.png?04"
+    },
+    {
+      "number": "EX9-052",
+      "name": "レアモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-052_P1.png?04"
+    },
+    {
+      "number": "EX9-053",
+      "name": "マメモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-053.png?04"
+    },
+    {
+      "number": "EX9-054",
+      "name": "レアレアモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-054.png?04"
+    },
+    {
+      "number": "EX9-055",
+      "name": "アバドモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-055.png?04"
+    },
+    {
+      "number": "EX9-056",
+      "name": "ハイアンドロモンACE",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-056.png?04"
+    },
+    {
+      "number": "EX9-057",
+      "name": "アバドモンコア",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.7",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-057.png?04"
+    },
+    {
+      "number": "EX9-057",
+      "name": "アバドモンコア",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.7",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-057_P1.png?04"
+    },
+    {
+      "number": "EX9-058",
+      "name": "ガジモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-058.png?04"
+    },
+    {
+      "number": "EX9-058",
+      "name": "ガジモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-058_P1.png?04"
+    },
+    {
+      "number": "EX9-059",
+      "name": "オーガモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-059.png?04"
+    },
+    {
+      "number": "EX9-059",
+      "name": "オーガモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-059_P1.png?04"
+    },
+    {
+      "number": "EX9-060",
+      "name": "デビドラモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-060.png?04"
+    },
+    {
+      "number": "EX9-060",
+      "name": "デビドラモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-060_P1.png?04"
+    },
+    {
+      "number": "EX9-061",
+      "name": "デビモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-061.png?04"
+    },
+    {
+      "number": "EX9-061",
+      "name": "デビモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-061_P1.png?04"
+    },
+    {
+      "number": "EX9-062",
+      "name": "スカルグレイモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-062.png?04"
+    },
+    {
+      "number": "EX9-063",
+      "name": "デジタマモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-063.png?04"
+    },
+    {
+      "number": "EX9-064",
+      "name": "メガドラモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-064.png?04"
+    },
+    {
+      "number": "EX9-064",
+      "name": "メガドラモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-064_P1.png?04"
+    },
+    {
+      "number": "EX9-064",
+      "name": "メガドラモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-064_P2.png?04"
+    },
+    {
+      "number": "EX9-065",
+      "name": "タイタモンACE",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-065.png?04"
+    },
+    {
+      "number": "EX9-066",
+      "name": "八神太一＆石田ヤマト",
+      "rarity": "R",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-066.png?04"
+    },
+    {
+      "number": "EX9-066",
+      "name": "八神太一＆石田ヤマト",
+      "rarity": "R",
+      "type": "テイマー",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-066_P1.png?04"
+    },
+    {
+      "number": "EX9-067",
+      "name": "城之崎観来",
+      "rarity": "R",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-067.png?04"
+    },
+    {
+      "number": "EX9-067",
+      "name": "城之崎観来",
+      "rarity": "R",
+      "type": "テイマー",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-067_P1.png?04"
+    },
+    {
+      "number": "EX9-068",
+      "name": "アナログマン",
+      "rarity": "R",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-068.png?04"
+    },
+    {
+      "number": "EX9-068",
+      "name": "アナログマン",
+      "rarity": "R",
+      "type": "テイマー",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-068_P1.png?04"
+    },
+    {
+      "number": "EX9-069",
+      "name": "アナログの少年",
+      "rarity": "SR",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-069.png?04"
+    },
+    {
+      "number": "EX9-069",
+      "name": "アナログの少年",
+      "rarity": "SR",
+      "type": "テイマー",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-069_P1.png?04"
+    },
+    {
+      "number": "EX9-070",
+      "name": "肉",
+      "rarity": "R",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-070.png?04"
+    },
+    {
+      "number": "EX9-070",
+      "name": "肉",
+      "rarity": "R",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-070_P1.png?04"
+    },
+    {
+      "number": "EX9-071",
+      "name": "プロテイン",
+      "rarity": "U",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-071.png?04"
+    },
+    {
+      "number": "EX9-071",
+      "name": "プロテイン",
+      "rarity": "U",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-071_P1.png?04"
+    },
+    {
+      "number": "EX9-072",
+      "name": "ファイル島",
+      "rarity": "U",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-072.png?04"
+    },
+    {
+      "number": "EX9-072",
+      "name": "ファイル島",
+      "rarity": "U",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-072_P1.png?04"
+    },
+    {
+      "number": "EX9-073",
+      "name": "ムゲンドラモン",
+      "rarity": "SEC",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-073.png?04"
+    },
+    {
+      "number": "EX9-073",
+      "name": "ムゲンドラモン",
+      "rarity": "SEC",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-073_P1.png?04"
+    },
+    {
+      "number": "EX9-073",
+      "name": "ムゲンドラモン",
+      "rarity": "SEC",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-073_P2.png?04"
+    },
+    {
+      "number": "EX9-074",
+      "name": "キメラモン",
+      "rarity": "SEC",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-074.png?04"
+    },
+    {
+      "number": "EX9-074",
+      "name": "キメラモン",
+      "rarity": "SEC",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX9-074_P1.png?04"
+    },
+    {
+      "number": "BT20-007",
+      "name": "ドラコモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT20-007_P1.png?04"
+    },
+    {
+      "number": "BT20-008",
+      "name": "ハックモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT20-008_P1.png?04"
+    },
+    {
+      "number": "BT20-048",
+      "name": "ドルモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT20-048_P1.png?04"
+    },
+    {
+      "number": "EX6-007",
+      "name": "ズバモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX6-007_P1.png?04"
+    },
+    {
+      "number": "EX6-038",
+      "name": "ルドモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX6-038_P1.png?04"
+    }
+  ]
+}

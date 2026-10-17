@@ -1,0 +1,188 @@
+{
+  "id": "503124",
+  "name": "スタートデッキ DIGIMON SAVERS【ST-24】",
+  "code": "ST-24",
+  "cards": [
+    {
+      "number": "ST24-01",
+      "name": "コロモン",
+      "rarity": "C",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "image": "https://digimoncard.com/images/cardlist/card/ST24-01.png?04"
+    },
+    {
+      "number": "ST24-02",
+      "name": "ガオモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST24-02.png?04"
+    },
+    {
+      "number": "ST24-03",
+      "name": "ガオガモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST24-03.png?04"
+    },
+    {
+      "number": "ST24-04",
+      "name": "アグモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST24-04.png?04"
+    },
+    {
+      "number": "ST24-04",
+      "name": "アグモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/ST24-04_P1.png?04"
+    },
+    {
+      "number": "ST24-05",
+      "name": "ジオグレイモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST24-05.png?04"
+    },
+    {
+      "number": "ST24-06",
+      "name": "ライズグレイモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST24-06.png?04"
+    },
+    {
+      "number": "ST24-07",
+      "name": "シャイングレイモン",
+      "rarity": "SR",
+      "type": "デジモン/オプション",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST24-07.png?04"
+    },
+    {
+      "number": "ST24-08",
+      "name": "ララモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST24-08.png?04"
+    },
+    {
+      "number": "ST24-09",
+      "name": "サンフラウモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST24-09.png?04"
+    },
+    {
+      "number": "ST24-10",
+      "name": "ライラモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST24-10.png?04"
+    },
+    {
+      "number": "ST24-11",
+      "name": "ロゼモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST24-11.png?04"
+    },
+    {
+      "number": "ST24-12",
+      "name": "ファルコモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST24-12.png?04"
+    },
+    {
+      "number": "ST24-13",
+      "name": "大門大＆トーマ・H・ノルシュタイン",
+      "rarity": "R",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/ST24-13.png?04"
+    },
+    {
+      "number": "ST24-14",
+      "name": "藤枝淑乃＆イクト",
+      "rarity": "U",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/ST24-14.png?04"
+    },
+    {
+      "number": "ST24-15",
+      "name": "デジソウルチャージ",
+      "rarity": "C",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST24-15.png?04"
+    },
+    {
+      "number": "LM-033",
+      "name": "ガーネット・メモリーブースト！！",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/LM-033_P2.png?04"
+    },
+    {
+      "number": "LM-034",
+      "name": "ウィスタリア・メモリーブースト！！",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/LM-034_P2.png?04"
+    },
+    {
+      "number": "LM-035",
+      "name": "アンバー・メモリーブースト！！",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/LM-035_P2.png?04"
+    },
+    {
+      "number": "LM-036",
+      "name": "ジェイド・メモリーブースト！！",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/LM-036_P2.png?04"
+    },
+    {
+      "number": "LM-037",
+      "name": "セピア・メモリーブースト！！",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/LM-037_P2.png?04"
+    },
+    {
+      "number": "LM-038",
+      "name": "グレープ・メモリーブースト！！",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/LM-038_P2.png?04"
+    }
+  ]
+}

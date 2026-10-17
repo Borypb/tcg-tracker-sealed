@@ -1,0 +1,187 @@
+{
+  "id": "503121",
+  "name": "スタートデッキ HERO OF HOPE【ST-21】",
+  "code": "ST-21",
+  "cards": [
+    {
+      "number": "ST21-01",
+      "name": "ツノモン",
+      "rarity": "C",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "image": "https://digimoncard.com/images/cardlist/card/ST21-01.png?04"
+    },
+    {
+      "number": "ST21-02",
+      "name": "ゴマモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST21-02.png?04"
+    },
+    {
+      "number": "ST21-03",
+      "name": "イッカクモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST21-03.png?04"
+    },
+    {
+      "number": "ST21-04",
+      "name": "ズドモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST21-04.png?04"
+    },
+    {
+      "number": "ST21-05",
+      "name": "エンジェモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST21-05.png?04"
+    },
+    {
+      "number": "ST21-06",
+      "name": "ホーリーエンジェモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST21-06.png?04"
+    },
+    {
+      "number": "ST21-07",
+      "name": "パルモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST21-07.png?04"
+    },
+    {
+      "number": "ST21-08",
+      "name": "トゲモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST21-08.png?04"
+    },
+    {
+      "number": "ST21-09",
+      "name": "リリモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST21-09.png?04"
+    },
+    {
+      "number": "ST21-10",
+      "name": "ガブモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST21-10.png?04"
+    },
+    {
+      "number": "ST21-10",
+      "name": "ガブモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/ST21-10_P1.png?04"
+    },
+    {
+      "number": "ST21-11",
+      "name": "メタルガルルモンACE",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST21-11.png?04"
+    },
+    {
+      "number": "ST21-12",
+      "name": "城戸丈＆太刀川ミミ",
+      "rarity": "U",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/ST21-12.png?04"
+    },
+    {
+      "number": "ST21-13",
+      "name": "石田ヤマト＆高石タケル",
+      "rarity": "R",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/ST21-13.png?04"
+    },
+    {
+      "number": "ST21-14",
+      "name": "友情を信じて",
+      "rarity": "C",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST21-14.png?04"
+    },
+    {
+      "number": "ST21-15",
+      "name": "ゲンナイの家",
+      "rarity": "U",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST21-15.png?04"
+    },
+    {
+      "number": "LM-027",
+      "name": "レッド・スクランブル",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/LM-027_P2.png?04"
+    },
+    {
+      "number": "LM-028",
+      "name": "ブルー・スクランブル",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/LM-028_P2.png?04"
+    },
+    {
+      "number": "LM-029",
+      "name": "イエロー・スクランブル",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/LM-029_P2.png?04"
+    },
+    {
+      "number": "LM-030",
+      "name": "グリーン・スクランブル",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/LM-030_P2.png?04"
+    },
+    {
+      "number": "LM-031",
+      "name": "ブラック・スクランブル",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/LM-031_P2.png?04"
+    },
+    {
+      "number": "LM-032",
+      "name": "ヴァイオレット・スクランブル",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/LM-032_P2.png?04"
+    }
+  ]
+}

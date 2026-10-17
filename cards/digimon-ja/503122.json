@@ -1,0 +1,223 @@
+{
+  "id": "503122",
+  "name": "アドバンスデッキ 金剛界曼荼羅【ST-22】",
+  "code": "ST-22",
+  "cards": [
+    {
+      "number": "ST22-01",
+      "name": "ポコモン",
+      "rarity": "C",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "image": "https://digimoncard.com/images/cardlist/card/ST22-01.png?04"
+    },
+    {
+      "number": "ST22-02",
+      "name": "レナモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST22-02.png?04"
+    },
+    {
+      "number": "ST22-02",
+      "name": "レナモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/ST22-02_P1.png?04"
+    },
+    {
+      "number": "ST22-03",
+      "name": "キュウビモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST22-03.png?04"
+    },
+    {
+      "number": "ST22-04",
+      "name": "タオモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST22-04.png?04"
+    },
+    {
+      "number": "ST22-05",
+      "name": "サクヤモンACE",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST22-05.png?04"
+    },
+    {
+      "number": "ST22-06",
+      "name": "サクヤモン：巫女モード",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST22-06.png?04"
+    },
+    {
+      "number": "ST22-07",
+      "name": "牧野留姫",
+      "rarity": "R",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/ST22-07.png?04"
+    },
+    {
+      "number": "ST22-08",
+      "name": "攻撃プラグインV",
+      "rarity": "U",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST22-08.png?04"
+    },
+    {
+      "number": "ST22-09",
+      "name": "高速プラグインH",
+      "rarity": "U",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST22-09.png?04"
+    },
+    {
+      "number": "ST22-10",
+      "name": "金剛界曼荼羅",
+      "rarity": "SR",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST22-10.png?04"
+    },
+    {
+      "number": "ST22-11",
+      "name": "防御プラグインF",
+      "rarity": "U",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST22-11.png?04"
+    },
+    {
+      "number": "ST22-12",
+      "name": "ドガッチモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST22-12.png?04"
+    },
+    {
+      "number": "ST22-13",
+      "name": "グランゲイルモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST22-13.png?04"
+    },
+    {
+      "number": "ST22-14",
+      "name": "バルバモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST22-14.png?04"
+    },
+    {
+      "number": "ST22-TOKEN01",
+      "name": "管狐",
+      "type": "デジモン",
+      "image": "https://digimoncard.com/images/cardlist/card/ST22-TOKEN01.png?04"
+    },
+    {
+      "number": "ST22-TOKEN02",
+      "name": "宇迦之御魂",
+      "type": "デジモン",
+      "image": "https://digimoncard.com/images/cardlist/card/ST22-TOKEN02.png?04"
+    },
+    {
+      "number": "BT17-031",
+      "name": "レナモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/BT17-031_P2.png?04"
+    },
+    {
+      "number": "BT17-035",
+      "name": "タオモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/BT17-035_P2.png?04"
+    },
+    {
+      "number": "BT19-034",
+      "name": "キュウビモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT19-034_P1.png?04"
+    },
+    {
+      "number": "BT19-037",
+      "name": "タオモンACE",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "parallel": true,
+      "variant": "p3",
+      "image": "https://digimoncard.com/images/cardlist/card/BT19-037_P3.png?04"
+    },
+    {
+      "number": "BT19-083",
+      "name": "牧野留姫",
+      "rarity": "R",
+      "type": "テイマー",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/BT19-083_P2.png?04"
+    },
+    {
+      "number": "EX2-019",
+      "name": "レナモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/EX2-019_P2.png?04"
+    },
+    {
+      "number": "EX8-037",
+      "name": "サクヤモンX抗体",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/EX8-037_P2.png?04"
+    },
+    {
+      "number": "LM-029",
+      "name": "イエロー・スクランブル",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p3",
+      "image": "https://digimoncard.com/images/cardlist/card/LM-029_P3.png?04"
+    },
+    {
+      "number": "P-105",
+      "name": "フィジカル・トレーニング",
+      "rarity": "P",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p4",
+      "image": "https://digimoncard.com/images/cardlist/card/P-105_P4.png?04"
+    }
+  ]
+}

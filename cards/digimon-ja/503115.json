@@ -1,0 +1,132 @@
+{
+  "id": "503115",
+  "name": "スタートデッキ 勇気の戦竜【ST-15】",
+  "code": "ST-15",
+  "cards": [
+    {
+      "number": "ST15-01",
+      "name": "コロモン",
+      "rarity": "U",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "image": "https://digimoncard.com/images/cardlist/card/ST15-01.png?04"
+    },
+    {
+      "number": "ST15-02",
+      "name": "アグモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST15-02.png?04"
+    },
+    {
+      "number": "ST15-03",
+      "name": "クリアアグモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST15-03.png?04"
+    },
+    {
+      "number": "ST15-04",
+      "name": "ソーラーモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST15-04.png?04"
+    },
+    {
+      "number": "ST15-05",
+      "name": "トイアグモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST15-05.png?04"
+    },
+    {
+      "number": "ST15-06",
+      "name": "メカノリモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST15-06.png?04"
+    },
+    {
+      "number": "ST15-07",
+      "name": "タンクモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST15-07.png?04"
+    },
+    {
+      "number": "ST15-08",
+      "name": "グレイモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST15-08.png?04"
+    },
+    {
+      "number": "ST15-09",
+      "name": "ナイトモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST15-09.png?04"
+    },
+    {
+      "number": "ST15-10",
+      "name": "アンドロモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST15-10.png?04"
+    },
+    {
+      "number": "ST15-11",
+      "name": "メタルグレイモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST15-11.png?04"
+    },
+    {
+      "number": "ST15-12",
+      "name": "ウォーグレイモンACE",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST15-12.png?04"
+    },
+    {
+      "number": "ST15-13",
+      "name": "ハイアンドロモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST15-13.png?04"
+    },
+    {
+      "number": "ST15-14",
+      "name": "八神太一",
+      "rarity": "R",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/ST15-14.png?04"
+    },
+    {
+      "number": "ST15-15",
+      "name": "勇気の前進",
+      "rarity": "U",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST15-15.png?04"
+    },
+    {
+      "number": "ST15-16",
+      "name": "トライデントアーム",
+      "rarity": "C",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST15-16.png?04"
+    }
+  ]
+}

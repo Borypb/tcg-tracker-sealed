@@ -1,0 +1,132 @@
+{
+  "id": "503105",
+  "name": "スタートデッキ ムゲンブラック【ST-5】",
+  "code": "ST-5",
+  "cards": [
+    {
+      "number": "ST5-01",
+      "name": "カプリモン",
+      "rarity": "U",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "image": "https://digimoncard.com/images/cardlist/card/ST5-01.png?04"
+    },
+    {
+      "number": "ST5-02",
+      "name": "ジャザモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST5-02.png?04"
+    },
+    {
+      "number": "ST5-03",
+      "name": "アグモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST5-03.png?04"
+    },
+    {
+      "number": "ST5-04",
+      "name": "トイアグモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST5-04.png?04"
+    },
+    {
+      "number": "ST5-05",
+      "name": "コマンドラモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST5-05.png?04"
+    },
+    {
+      "number": "ST5-06",
+      "name": "グレイモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST5-06.png?04"
+    },
+    {
+      "number": "ST5-07",
+      "name": "ジャザードモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST5-07.png?04"
+    },
+    {
+      "number": "ST5-08",
+      "name": "ダークティラノモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST5-08.png?04"
+    },
+    {
+      "number": "ST5-09",
+      "name": "メタルグレイモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST5-09.png?04"
+    },
+    {
+      "number": "ST5-10",
+      "name": "メタルティラノモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST5-10.png?04"
+    },
+    {
+      "number": "ST5-11",
+      "name": "メガドラモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST5-11.png?04"
+    },
+    {
+      "number": "ST5-12",
+      "name": "ムゲンドラモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST5-12.png?04"
+    },
+    {
+      "number": "ST5-13",
+      "name": "ブリッツグレイモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST5-13.png?04"
+    },
+    {
+      "number": "ST5-14",
+      "name": "八神太一",
+      "rarity": "R",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/ST5-14.png?04"
+    },
+    {
+      "number": "ST5-15",
+      "name": "レーザーアイ",
+      "rarity": "C",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST5-15.png?04"
+    },
+    {
+      "number": "ST5-16",
+      "name": "ジェノサイドアタック",
+      "rarity": "U",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST5-16.png?04"
+    }
+  ]
+}

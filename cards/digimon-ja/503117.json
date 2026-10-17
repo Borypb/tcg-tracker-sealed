@@ -1,0 +1,301 @@
+{
+  "id": "503117",
+  "name": "アドバンスデッキ ダブルタイフーン【ST-17】",
+  "code": "ST-17",
+  "cards": [
+    {
+      "number": "ST17-01",
+      "name": "グミモン",
+      "rarity": "U",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "image": "https://digimoncard.com/images/cardlist/card/ST17-01.png?04"
+    },
+    {
+      "number": "ST17-02",
+      "name": "テリアモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST17-02.png?04"
+    },
+    {
+      "number": "ST17-02",
+      "name": "テリアモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/ST17-02_P1.png?04"
+    },
+    {
+      "number": "ST17-03",
+      "name": "ロップモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST17-03.png?04"
+    },
+    {
+      "number": "ST17-03",
+      "name": "ロップモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/ST17-03_P1.png?04"
+    },
+    {
+      "number": "ST17-04",
+      "name": "ウェンディモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST17-04.png?04"
+    },
+    {
+      "number": "ST17-04",
+      "name": "ウェンディモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/ST17-04_P1.png?04"
+    },
+    {
+      "number": "ST17-05",
+      "name": "ガルゴモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST17-05.png?04"
+    },
+    {
+      "number": "ST17-06",
+      "name": "ラピッドモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST17-06.png?04"
+    },
+    {
+      "number": "ST17-06",
+      "name": "ラピッドモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/ST17-06_P1.png?04"
+    },
+    {
+      "number": "ST17-07",
+      "name": "ラピッドモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST17-07.png?04"
+    },
+    {
+      "number": "ST17-07",
+      "name": "ラピッドモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/ST17-07_P1.png?04"
+    },
+    {
+      "number": "ST17-08",
+      "name": "セントガルゴモンACE",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST17-08.png?04"
+    },
+    {
+      "number": "ST17-08",
+      "name": "セントガルゴモンACE",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/ST17-08_P1.png?04"
+    },
+    {
+      "number": "ST17-09",
+      "name": "ケルビモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST17-09.png?04"
+    },
+    {
+      "number": "ST17-09",
+      "name": "ケルビモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/ST17-09_P1.png?04"
+    },
+    {
+      "number": "ST17-10",
+      "name": "李健良",
+      "rarity": "R",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/ST17-10.png?04"
+    },
+    {
+      "number": "ST17-11",
+      "name": "ダブルタイフーン",
+      "rarity": "R",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST17-11.png?04"
+    },
+    {
+      "number": "ST17-12",
+      "name": "ジャイアントミサイル",
+      "rarity": "U",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST17-12.png?04"
+    },
+    {
+      "number": "ST17-13",
+      "name": "マグナモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST17-13.png?04"
+    },
+    {
+      "number": "BT4-104",
+      "name": "絶光衝",
+      "rarity": "R",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/BT4-104_P2.png?04"
+    },
+    {
+      "number": "BT7-105",
+      "name": "プライド・メモリーブースト！！",
+      "rarity": "U",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT7-105_P1.png?04"
+    },
+    {
+      "number": "BT8-039",
+      "name": "ラピッドモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/BT8-039_P2.png?04"
+    },
+    {
+      "number": "BT8-091",
+      "name": "ウォレス",
+      "rarity": "R",
+      "type": "テイマー",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/BT8-091_P2.png?04"
+    },
+    {
+      "number": "BT8-108",
+      "name": "ミスト・メモリーブースト！！",
+      "rarity": "C",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/BT8-108_P1.png?04"
+    },
+    {
+      "number": "EX2-061",
+      "name": "李健良",
+      "rarity": "R",
+      "type": "テイマー",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/EX2-061_P2.png?04"
+    },
+    {
+      "number": "EX2-067",
+      "name": "ファイアーボール",
+      "rarity": "U",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX2-067_P1.png?04"
+    },
+    {
+      "number": "EX4-002",
+      "name": "チョコモン",
+      "rarity": "U",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX4-002_P1.png?04"
+    },
+    {
+      "number": "EX4-032",
+      "name": "テリアモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX4-032_P1.png?04"
+    },
+    {
+      "number": "EX4-033",
+      "name": "テリアモン助手",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p2",
+      "image": "https://digimoncard.com/images/cardlist/card/EX4-033_P2.png?04"
+    },
+    {
+      "number": "EX4-034",
+      "name": "ロップモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX4-034_P1.png?04"
+    },
+    {
+      "number": "EX4-057",
+      "name": "アンティラモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/EX4-057_P1.png?04"
+    },
+    {
+      "number": "ST2-15",
+      "name": "カイザーネイル",
+      "rarity": "C",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p1",
+      "image": "https://digimoncard.com/images/cardlist/card/ST2-15_P1.png?04"
+    }
+  ]
+}

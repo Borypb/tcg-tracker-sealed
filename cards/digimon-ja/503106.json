@@ -1,0 +1,132 @@
+{
+  "id": "503106",
+  "name": "スタートデッキ ヴェノムヴァイオレット【ST-6】",
+  "code": "ST-6",
+  "cards": [
+    {
+      "number": "ST6-01",
+      "name": "パグモン",
+      "rarity": "U",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "image": "https://digimoncard.com/images/cardlist/card/ST6-01.png?04"
+    },
+    {
+      "number": "ST6-02",
+      "name": "ピコデビモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST6-02.png?04"
+    },
+    {
+      "number": "ST6-03",
+      "name": "ガブモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST6-03.png?04"
+    },
+    {
+      "number": "ST6-04",
+      "name": "ドラクモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST6-04.png?04"
+    },
+    {
+      "number": "ST6-05",
+      "name": "エレキモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST6-05.png?04"
+    },
+    {
+      "number": "ST6-06",
+      "name": "ガルルモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST6-06.png?04"
+    },
+    {
+      "number": "ST6-07",
+      "name": "ヨウコモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST6-07.png?04"
+    },
+    {
+      "number": "ST6-08",
+      "name": "デビモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST6-08.png?04"
+    },
+    {
+      "number": "ST6-09",
+      "name": "キュウキモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST6-09.png?04"
+    },
+    {
+      "number": "ST6-10",
+      "name": "スカルサタモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST6-10.png?04"
+    },
+    {
+      "number": "ST6-11",
+      "name": "ワーガルルモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST6-11.png?04"
+    },
+    {
+      "number": "ST6-12",
+      "name": "ヴェノムヴァンデモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST6-12.png?04"
+    },
+    {
+      "number": "ST6-13",
+      "name": "クーレスガルルモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST6-13.png?04"
+    },
+    {
+      "number": "ST6-14",
+      "name": "石田ヤマト",
+      "rarity": "R",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/ST6-14.png?04"
+    },
+    {
+      "number": "ST6-15",
+      "name": "デスクロウ",
+      "rarity": "C",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST6-15.png?04"
+    },
+    {
+      "number": "ST6-16",
+      "name": "ネイルボーン",
+      "rarity": "U",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST6-16.png?04"
+    }
+  ]
+}

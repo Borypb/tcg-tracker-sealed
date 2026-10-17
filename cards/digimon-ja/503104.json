@@ -1,0 +1,132 @@
+{
+  "id": "503104",
+  "name": "スタートデッキ ギガグリーン【ST-4】",
+  "code": "ST-4",
+  "cards": [
+    {
+      "number": "ST4-01",
+      "name": "モチモン",
+      "rarity": "U",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "image": "https://digimoncard.com/images/cardlist/card/ST4-01.png?04"
+    },
+    {
+      "number": "ST4-02",
+      "name": "フローラモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST4-02.png?04"
+    },
+    {
+      "number": "ST4-03",
+      "name": "テントモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST4-03.png?04"
+    },
+    {
+      "number": "ST4-04",
+      "name": "パルモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST4-04.png?04"
+    },
+    {
+      "number": "ST4-05",
+      "name": "クネモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST4-05.png?04"
+    },
+    {
+      "number": "ST4-06",
+      "name": "トゲモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST4-06.png?04"
+    },
+    {
+      "number": "ST4-07",
+      "name": "クワガーモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST4-07.png?04"
+    },
+    {
+      "number": "ST4-08",
+      "name": "カブテリモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST4-08.png?04"
+    },
+    {
+      "number": "ST4-09",
+      "name": "オオクワモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST4-09.png?04"
+    },
+    {
+      "number": "ST4-10",
+      "name": "リリモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST4-10.png?04"
+    },
+    {
+      "number": "ST4-11",
+      "name": "アトラーカブテリモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST4-11.png?04"
+    },
+    {
+      "number": "ST4-12",
+      "name": "ロゼモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST4-12.png?04"
+    },
+    {
+      "number": "ST4-13",
+      "name": "ヘラクルカブテリモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST4-13.png?04"
+    },
+    {
+      "number": "ST4-14",
+      "name": "泉光子郎",
+      "rarity": "R",
+      "type": "テイマー",
+      "image": "https://digimoncard.com/images/cardlist/card/ST4-14.png?04"
+    },
+    {
+      "number": "ST4-15",
+      "name": "チクチクバンバン",
+      "rarity": "C",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST4-15.png?04"
+    },
+    {
+      "number": "ST4-16",
+      "name": "メガブラスター",
+      "rarity": "U",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST4-16.png?04"
+    }
+  ]
+}

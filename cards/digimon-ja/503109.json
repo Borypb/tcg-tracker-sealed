@@ -1,0 +1,134 @@
+{
+  "id": "503109",
+  "name": "スタートデッキ 究極の古代竜【ST-9】",
+  "code": "ST-9",
+  "cards": [
+    {
+      "number": "ST9-01",
+      "name": "ミノモン",
+      "rarity": "U",
+      "type": "デジタマ",
+      "level": "Lv.2",
+      "image": "https://digimoncard.com/images/cardlist/card/ST9-01.png?04"
+    },
+    {
+      "number": "ST9-02",
+      "name": "ブイモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST9-02.png?04"
+    },
+    {
+      "number": "ST9-03",
+      "name": "べタモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST9-03.png?04"
+    },
+    {
+      "number": "ST9-04",
+      "name": "エクスブイモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST9-04.png?04"
+    },
+    {
+      "number": "ST9-05",
+      "name": "パイルドラモン",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST9-05.png?04"
+    },
+    {
+      "number": "ST9-06",
+      "name": "インペリアルドラモン：ドラゴンモード",
+      "rarity": "SR",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST9-06.png?04"
+    },
+    {
+      "number": "ST9-07",
+      "name": "コカブテリモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST9-07.png?04"
+    },
+    {
+      "number": "ST9-08",
+      "name": "ワームモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.3",
+      "image": "https://digimoncard.com/images/cardlist/card/ST9-08.png?04"
+    },
+    {
+      "number": "ST9-09",
+      "name": "スティングモン",
+      "rarity": "U",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST9-09.png?04"
+    },
+    {
+      "number": "ST9-10",
+      "name": "スナイモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.4",
+      "image": "https://digimoncard.com/images/cardlist/card/ST9-10.png?04"
+    },
+    {
+      "number": "ST9-11",
+      "name": "ディノビーモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST9-11.png?04"
+    },
+    {
+      "number": "ST9-12",
+      "name": "ジュエルビーモン",
+      "rarity": "C",
+      "type": "デジモン",
+      "level": "Lv.5",
+      "image": "https://digimoncard.com/images/cardlist/card/ST9-12.png?04"
+    },
+    {
+      "number": "ST9-13",
+      "name": "グランクワガーモン",
+      "rarity": "R",
+      "type": "デジモン",
+      "level": "Lv.6",
+      "image": "https://digimoncard.com/images/cardlist/card/ST9-13.png?04"
+    },
+    {
+      "number": "ST9-14",
+      "name": "メガデス",
+      "rarity": "R",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST9-14.png?04"
+    },
+    {
+      "number": "ST9-15",
+      "name": "ヘルマスカレード",
+      "rarity": "U",
+      "type": "オプション",
+      "image": "https://digimoncard.com/images/cardlist/card/ST9-15.png?04"
+    },
+    {
+      "number": "BT1-110",
+      "name": "フラウカノン",
+      "rarity": "R",
+      "type": "オプション",
+      "parallel": true,
+      "variant": "p3",
+      "image": "https://digimoncard.com/images/cardlist/card/BT1-110_P3.png?04"
+    }
+  ]
+}

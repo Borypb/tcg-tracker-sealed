@@ -1,0 +1,40 @@
+name: probe-lang
+on:
+  push:
+    branches: [probe-lang]
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          mkdir out && cd out
+          UA="Mozilla/5.0 (compatible; Thothectio-catalog/1.0)"
+          g() { curl -sSL -m 60 -A "$UA" -o "$1" -w "$1 %{http_code} %{size_download} %{url_effective}\n" "$2" >> status.txt || echo "$1 FAIL" >> status.txt; }
+          g ygo_fr.json "https://db.ygoprodeck.com/api/v7/cardinfo.php?language=fr&name=Magicien%20Sombre"
+          g ygo_fr_sets.json "https://db.ygoprodeck.com/api/v7/cardinfo.php?language=fr&fname=Magicien&num=3&offset=0"
+          g ygores_card.json "https://db.ygoresources.com/data/card/4041"
+          g ygores_idx_ja.json "https://db.ygoresources.com/data/idx/card/name/ja"
+          g ygores_manifest.json "https://db.ygoresources.com/manifest/0"
+          g fw_en.html "https://www.dbs-cardgame.com/fw/en/cardlist/"
+          g fw_jp.html "https://www.dbs-cardgame.com/fw/jp/cardlist/"
+          g fw_fr.html "https://www.dbs-cardgame.com/fw/fr/cardlist/"
+          g fw_top.html "https://www.dbs-cardgame.com/fw/"
+          g rift_fr.html "https://riftbound.leagueoflegends.com/fr-fr/card-gallery/"
+          g lorcast_sets.json "https://api.lorcast.com/v0/sets"
+          g lorcana_data.json "https://api.github.com/repos/great-illuminary/lorcana-data/contents/data"
+          g op_tree.json "https://api.github.com/repos/buhbbl/punk-records/git/trees/main"
+          g scry_fr.json "https://api.scryfall.com/cards/search?q=%22Lightning%20Bolt%22%20lang%3Afr&unique=prints"
+          g scry_printed.json "https://api.scryfall.com/cards/search?q=Foudre%20lang%3Afr&unique=prints"
+          g pokeapi_species.csv "https://raw.githubusercontent.com/PokeAPI/pokeapi/master/data/v2/csv/pokemon_species_names.csv"
+          g pokeapi_langs.csv "https://raw.githubusercontent.com/PokeAPI/pokeapi/master/data/v2/csv/languages.csv"
+          g tcgdex_fr_card.json "https://api.tcgdex.net/v2/fr/cards/sv03-125"
+          g tcgdex_en_card.json "https://api.tcgdex.net/v2/en/cards/sv03-125"
+          cat status.txt
+      - run: |
+          cd out
+          git init -q && git checkout -q -b probe-lang-out
+          git config user.email probe@example.invalid && git config user.name probe
+          git add . && git commit -qm sonde
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}" probe-lang-out

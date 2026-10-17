@@ -9,7 +9,8 @@
       "rarity": "C",
       "type": "デジタマ",
       "level": "Lv.2",
-      "image": "https://digimoncard.com/images/cardlist/card/ST23-01.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST23-01.png?04",
+      "en": "Kekkomon"
     },
     {
       "number": "ST23-02",
@@ -17,7 +18,8 @@
       "rarity": "C",
       "type": "デジモン",
       "level": "Lv.3",
-      "image": "https://digimoncard.com/images/cardlist/card/ST23-02.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST23-02.png?04",
+      "en": "Liollmon"
     },
     {
       "number": "ST23-03",
@@ -25,7 +27,8 @@
       "rarity": "U",
       "type": "デジモン",
       "level": "Lv.4",
-      "image": "https://digimoncard.com/images/cardlist/card/ST23-03.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST23-03.png?04",
+      "en": "Cougarmon"
     },
     {
       "number": "ST23-04",
@@ -33,7 +36,8 @@
       "rarity": "U",
       "type": "デジモン",
       "level": "Lv.5",
-      "image": "https://digimoncard.com/images/cardlist/card/ST23-04.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST23-04.png?04",
+      "en": "Murasamemon"
     },
     {
       "number": "ST23-05",
@@ -41,7 +45,8 @@
       "rarity": "SR",
       "type": "デジモン",
       "level": "Lv.6",
-      "image": "https://digimoncard.com/images/cardlist/card/ST23-05.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST23-05.png?04",
+      "en": "Habakirimon"
     },
     {
       "number": "ST23-06",
@@ -49,7 +54,8 @@
       "rarity": "R",
       "type": "デジモン",
       "level": "Lv.3",
-      "image": "https://digimoncard.com/images/cardlist/card/ST23-06.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST23-06.png?04",
+      "en": "Gekkomon"
     },
     {
       "number": "ST23-06",
@@ -59,7 +65,8 @@
       "level": "Lv.3",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/ST23-06_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST23-06_P1.png?04",
+      "en": "Gekkomon"
     },
     {
       "number": "ST23-07",
@@ -67,7 +74,8 @@
       "rarity": "U",
       "type": "デジモン",
       "level": "Lv.4",
-      "image": "https://digimoncard.com/images/cardlist/card/ST23-07.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST23-07.png?04",
+      "en": "Armalizamon"
     },
     {
       "number": "ST23-08",
@@ -75,7 +83,8 @@
       "rarity": "R",
       "type": "デジモン",
       "level": "Lv.5",
-      "image": "https://digimoncard.com/images/cardlist/card/ST23-08.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST23-08.png?04",
+      "en": "Monarchlizamon"
     },
     {
       "number": "ST23-09",
@@ -83,7 +92,8 @@
       "rarity": "SR",
       "type": "デジモン/オプション",
       "level": "Lv.6",
-      "image": "https://digimoncard.com/images/cardlist/card/ST23-09.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST23-09.png?04",
+      "en": "Atratusmon // Eclipse Impact"
     },
     {
       "number": "ST23-10",
@@ -91,7 +101,8 @@
       "rarity": "C",
       "type": "デジモン",
       "level": "Lv.3",
-      "image": "https://digimoncard.com/images/cardlist/card/ST23-10.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST23-10.png?04",
+      "en": "Pristimon"
     },
     {
       "number": "ST23-11",
@@ -99,7 +110,8 @@
       "rarity": "U",
       "type": "デジモン",
       "level": "Lv.4",
-      "image": "https://digimoncard.com/images/cardlist/card/ST23-11.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST23-11.png?04",
+      "en": "Wolvermon"
     },
     {
       "number": "ST23-12",
@@ -107,28 +119,32 @@
       "rarity": "C",
       "type": "デジモン",
       "level": "Lv.3",
-      "image": "https://digimoncard.com/images/cardlist/card/ST23-12.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST23-12.png?04",
+      "en": "Chiropmon"
     },
     {
       "number": "ST23-13",
       "name": "天馬トモロウ&沢城キョウ",
       "rarity": "R",
       "type": "テイマー",
-      "image": "https://digimoncard.com/images/cardlist/card/ST23-13.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST23-13.png?04",
+      "en": "Tomoro Tenma & Kyo Sawashiro"
     },
     {
       "number": "ST23-14",
       "name": "咲夜レーナ&久遠寺マコト",
       "rarity": "U",
       "type": "テイマー",
-      "image": "https://digimoncard.com/images/cardlist/card/ST23-14.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST23-14.png?04",
+      "en": "Reina Sakuya & Makoto Kuonji"
     },
     {
       "number": "ST23-15",
       "name": "e-パルス",
       "rarity": "C",
       "type": "オプション",
-      "image": "https://digimoncard.com/images/cardlist/card/ST23-15.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST23-15.png?04",
+      "en": "e-Pulse"
     },
     {
       "number": "LM-033",
@@ -137,7 +153,8 @@
       "type": "オプション",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/LM-033_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/LM-033_P1.png?04",
+      "en": "Garnet Memory Boost!"
     },
     {
       "number": "LM-034",
@@ -146,7 +163,8 @@
       "type": "オプション",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/LM-034_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/LM-034_P1.png?04",
+      "en": "Wisteria Memory Boost!"
     },
     {
       "number": "LM-035",
@@ -155,7 +173,8 @@
       "type": "オプション",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/LM-035_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/LM-035_P1.png?04",
+      "en": "Amber Memory Boost!"
     },
     {
       "number": "LM-036",
@@ -164,7 +183,8 @@
       "type": "オプション",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/LM-036_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/LM-036_P1.png?04",
+      "en": "Jade Memory Boost!"
     },
     {
       "number": "LM-037",
@@ -173,7 +193,8 @@
       "type": "オプション",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/LM-037_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/LM-037_P1.png?04",
+      "en": "Sepia Memory Boost!"
     },
     {
       "number": "LM-038",
@@ -182,7 +203,8 @@
       "type": "オプション",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/LM-038_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/LM-038_P1.png?04",
+      "en": "Grape Memory Boost!"
     }
   ]
 }

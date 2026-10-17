@@ -9,7 +9,8 @@
       "rarity": "U",
       "type": "デジタマ",
       "level": "Lv.2",
-      "image": "https://digimoncard.com/images/cardlist/card/ST15-01.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST15-01.png?04",
+      "en": "Koromon"
     },
     {
       "number": "ST15-02",
@@ -17,7 +18,8 @@
       "rarity": "R",
       "type": "デジモン",
       "level": "Lv.3",
-      "image": "https://digimoncard.com/images/cardlist/card/ST15-02.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST15-02.png?04",
+      "en": "Agumon"
     },
     {
       "number": "ST15-03",
@@ -25,7 +27,8 @@
       "rarity": "U",
       "type": "デジモン",
       "level": "Lv.3",
-      "image": "https://digimoncard.com/images/cardlist/card/ST15-03.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST15-03.png?04",
+      "en": "ClearAgumon"
     },
     {
       "number": "ST15-04",
@@ -33,7 +36,8 @@
       "rarity": "C",
       "type": "デジモン",
       "level": "Lv.3",
-      "image": "https://digimoncard.com/images/cardlist/card/ST15-04.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST15-04.png?04",
+      "en": "Solarmon"
     },
     {
       "number": "ST15-05",
@@ -41,7 +45,8 @@
       "rarity": "C",
       "type": "デジモン",
       "level": "Lv.3",
-      "image": "https://digimoncard.com/images/cardlist/card/ST15-05.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST15-05.png?04",
+      "en": "ToyAgumon"
     },
     {
       "number": "ST15-06",
@@ -49,7 +54,8 @@
       "rarity": "C",
       "type": "デジモン",
       "level": "Lv.4",
-      "image": "https://digimoncard.com/images/cardlist/card/ST15-06.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST15-06.png?04",
+      "en": "Mekanorimon"
     },
     {
       "number": "ST15-07",
@@ -57,7 +63,8 @@
       "rarity": "C",
       "type": "デジモン",
       "level": "Lv.4",
-      "image": "https://digimoncard.com/images/cardlist/card/ST15-07.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST15-07.png?04",
+      "en": "Tankmon"
     },
     {
       "number": "ST15-08",
@@ -65,7 +72,8 @@
       "rarity": "SR",
       "type": "デジモン",
       "level": "Lv.4",
-      "image": "https://digimoncard.com/images/cardlist/card/ST15-08.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST15-08.png?04",
+      "en": "Greymon"
     },
     {
       "number": "ST15-09",
@@ -73,7 +81,8 @@
       "rarity": "C",
       "type": "デジモン",
       "level": "Lv.5",
-      "image": "https://digimoncard.com/images/cardlist/card/ST15-09.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST15-09.png?04",
+      "en": "Knightmon"
     },
     {
       "number": "ST15-10",
@@ -81,7 +90,8 @@
       "rarity": "U",
       "type": "デジモン",
       "level": "Lv.5",
-      "image": "https://digimoncard.com/images/cardlist/card/ST15-10.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST15-10.png?04",
+      "en": "Andromon"
     },
     {
       "number": "ST15-11",
@@ -89,7 +99,8 @@
       "rarity": "R",
       "type": "デジモン",
       "level": "Lv.5",
-      "image": "https://digimoncard.com/images/cardlist/card/ST15-11.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST15-11.png?04",
+      "en": "MetalGreymon"
     },
     {
       "number": "ST15-12",
@@ -97,7 +108,8 @@
       "rarity": "SR",
       "type": "デジモン",
       "level": "Lv.6",
-      "image": "https://digimoncard.com/images/cardlist/card/ST15-12.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST15-12.png?04",
+      "en": "WarGreymon ACE"
     },
     {
       "number": "ST15-13",
@@ -105,28 +117,32 @@
       "rarity": "U",
       "type": "デジモン",
       "level": "Lv.6",
-      "image": "https://digimoncard.com/images/cardlist/card/ST15-13.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST15-13.png?04",
+      "en": "HiAndromon"
     },
     {
       "number": "ST15-14",
       "name": "八神太一",
       "rarity": "R",
       "type": "テイマー",
-      "image": "https://digimoncard.com/images/cardlist/card/ST15-14.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST15-14.png?04",
+      "en": "Tai Kamiya"
     },
     {
       "number": "ST15-15",
       "name": "勇気の前進",
       "rarity": "U",
       "type": "オプション",
-      "image": "https://digimoncard.com/images/cardlist/card/ST15-15.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST15-15.png?04",
+      "en": "Breakthrough of Courage"
     },
     {
       "number": "ST15-16",
       "name": "トライデントアーム",
       "rarity": "C",
       "type": "オプション",
-      "image": "https://digimoncard.com/images/cardlist/card/ST15-16.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST15-16.png?04",
+      "en": "Trident Arm"
     }
   ]
 }

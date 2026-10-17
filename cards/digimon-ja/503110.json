@@ -9,7 +9,8 @@
       "rarity": "U",
       "type": "デジタマ",
       "level": "Lv.2",
-      "image": "https://digimoncard.com/images/cardlist/card/ST10-01.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST10-01.png?04",
+      "en": "Nyaromon"
     },
     {
       "number": "ST10-02",
@@ -17,7 +18,8 @@
       "rarity": "C",
       "type": "デジモン",
       "level": "Lv.3",
-      "image": "https://digimoncard.com/images/cardlist/card/ST10-02.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST10-02.png?04",
+      "en": "Salamon"
     },
     {
       "number": "ST10-03",
@@ -25,7 +27,8 @@
       "rarity": "C",
       "type": "デジモン",
       "level": "Lv.3",
-      "image": "https://digimoncard.com/images/cardlist/card/ST10-03.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST10-03.png?04",
+      "en": "Lopmon"
     },
     {
       "number": "ST10-04",
@@ -33,7 +36,8 @@
       "rarity": "SR",
       "type": "デジモン",
       "level": "Lv.4",
-      "image": "https://digimoncard.com/images/cardlist/card/ST10-04.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST10-04.png?04",
+      "en": "Gatomon"
     },
     {
       "number": "ST10-05",
@@ -41,7 +45,8 @@
       "rarity": "R",
       "type": "デジモン",
       "level": "Lv.5",
-      "image": "https://digimoncard.com/images/cardlist/card/ST10-05.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST10-05.png?04",
+      "en": "Angewomon"
     },
     {
       "number": "ST10-06",
@@ -49,7 +54,8 @@
       "rarity": "SR",
       "type": "デジモン",
       "level": "Lv.6",
-      "image": "https://digimoncard.com/images/cardlist/card/ST10-06.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST10-06.png?04",
+      "en": "Mastemon"
     },
     {
       "number": "ST10-07",
@@ -57,7 +63,8 @@
       "rarity": "C",
       "type": "デジモン",
       "level": "Lv.3",
-      "image": "https://digimoncard.com/images/cardlist/card/ST10-07.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST10-07.png?04",
+      "en": "Ghostmon"
     },
     {
       "number": "ST10-08",
@@ -65,7 +72,8 @@
       "rarity": "U",
       "type": "デジモン",
       "level": "Lv.3",
-      "image": "https://digimoncard.com/images/cardlist/card/ST10-08.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST10-08.png?04",
+      "en": "Tsukaimon"
     },
     {
       "number": "ST10-09",
@@ -73,7 +81,8 @@
       "rarity": "U",
       "type": "デジモン",
       "level": "Lv.4",
-      "image": "https://digimoncard.com/images/cardlist/card/ST10-09.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST10-09.png?04",
+      "en": "Witchmon"
     },
     {
       "number": "ST10-10",
@@ -81,7 +90,8 @@
       "rarity": "C",
       "type": "デジモン",
       "level": "Lv.4",
-      "image": "https://digimoncard.com/images/cardlist/card/ST10-10.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST10-10.png?04",
+      "en": "Wizardmon"
     },
     {
       "number": "ST10-11",
@@ -89,7 +99,8 @@
       "rarity": "C",
       "type": "デジモン",
       "level": "Lv.5",
-      "image": "https://digimoncard.com/images/cardlist/card/ST10-11.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST10-11.png?04",
+      "en": "Bastemon"
     },
     {
       "number": "ST10-12",
@@ -97,7 +108,8 @@
       "rarity": "R",
       "type": "デジモン",
       "level": "Lv.5",
-      "image": "https://digimoncard.com/images/cardlist/card/ST10-12.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST10-12.png?04",
+      "en": "LadyDevimon"
     },
     {
       "number": "ST10-13",
@@ -105,21 +117,24 @@
       "rarity": "U",
       "type": "デジモン",
       "level": "Lv.6",
-      "image": "https://digimoncard.com/images/cardlist/card/ST10-13.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST10-13.png?04",
+      "en": "Junomon"
     },
     {
       "number": "ST10-14",
       "name": "カオスディグレイド",
       "rarity": "R",
       "type": "オプション",
-      "image": "https://digimoncard.com/images/cardlist/card/ST10-14.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST10-14.png?04",
+      "en": "Chaos Degradation"
     },
     {
       "number": "ST10-15",
       "name": "ダークネスウェーブ",
       "rarity": "U",
       "type": "オプション",
-      "image": "https://digimoncard.com/images/cardlist/card/ST10-15.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST10-15.png?04",
+      "en": "Darkness Wave"
     },
     {
       "number": "BT2-108",
@@ -128,7 +143,8 @@
       "type": "オプション",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/BT2-108_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/BT2-108_P1.png?04",
+      "en": "Night Raid"
     }
   ]
 }

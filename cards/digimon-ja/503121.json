@@ -9,7 +9,8 @@
       "rarity": "C",
       "type": "デジタマ",
       "level": "Lv.2",
-      "image": "https://digimoncard.com/images/cardlist/card/ST21-01.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST21-01.png?04",
+      "en": "Tsunomon"
     },
     {
       "number": "ST21-02",
@@ -17,7 +18,8 @@
       "rarity": "U",
       "type": "デジモン",
       "level": "Lv.3",
-      "image": "https://digimoncard.com/images/cardlist/card/ST21-02.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST21-02.png?04",
+      "en": "Gomamon"
     },
     {
       "number": "ST21-03",
@@ -25,7 +27,8 @@
       "rarity": "C",
       "type": "デジモン",
       "level": "Lv.4",
-      "image": "https://digimoncard.com/images/cardlist/card/ST21-03.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST21-03.png?04",
+      "en": "Ikkakumon"
     },
     {
       "number": "ST21-04",
@@ -33,7 +36,8 @@
       "rarity": "U",
       "type": "デジモン",
       "level": "Lv.5",
-      "image": "https://digimoncard.com/images/cardlist/card/ST21-04.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST21-04.png?04",
+      "en": "Zudomon"
     },
     {
       "number": "ST21-05",
@@ -41,7 +45,8 @@
       "rarity": "C",
       "type": "デジモン",
       "level": "Lv.4",
-      "image": "https://digimoncard.com/images/cardlist/card/ST21-05.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST21-05.png?04",
+      "en": "Angemon"
     },
     {
       "number": "ST21-06",
@@ -49,7 +54,8 @@
       "rarity": "SR",
       "type": "デジモン",
       "level": "Lv.5",
-      "image": "https://digimoncard.com/images/cardlist/card/ST21-06.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST21-06.png?04",
+      "en": "MagnaAngemon"
     },
     {
       "number": "ST21-07",
@@ -57,7 +63,8 @@
       "rarity": "U",
       "type": "デジモン",
       "level": "Lv.3",
-      "image": "https://digimoncard.com/images/cardlist/card/ST21-07.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST21-07.png?04",
+      "en": "Palmon"
     },
     {
       "number": "ST21-08",
@@ -65,7 +72,8 @@
       "rarity": "C",
       "type": "デジモン",
       "level": "Lv.4",
-      "image": "https://digimoncard.com/images/cardlist/card/ST21-08.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST21-08.png?04",
+      "en": "Togemon"
     },
     {
       "number": "ST21-09",
@@ -73,7 +81,8 @@
       "rarity": "R",
       "type": "デジモン",
       "level": "Lv.5",
-      "image": "https://digimoncard.com/images/cardlist/card/ST21-09.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST21-09.png?04",
+      "en": "Lillymon"
     },
     {
       "number": "ST21-10",
@@ -81,7 +90,8 @@
       "rarity": "R",
       "type": "デジモン",
       "level": "Lv.3",
-      "image": "https://digimoncard.com/images/cardlist/card/ST21-10.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST21-10.png?04",
+      "en": "Gabumon"
     },
     {
       "number": "ST21-10",
@@ -91,7 +101,8 @@
       "level": "Lv.3",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/ST21-10_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST21-10_P1.png?04",
+      "en": "Gabumon"
     },
     {
       "number": "ST21-11",
@@ -99,35 +110,40 @@
       "rarity": "SR",
       "type": "デジモン",
       "level": "Lv.6",
-      "image": "https://digimoncard.com/images/cardlist/card/ST21-11.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST21-11.png?04",
+      "en": "MetalGarurumon ACE"
     },
     {
       "number": "ST21-12",
       "name": "城戸丈＆太刀川ミミ",
       "rarity": "U",
       "type": "テイマー",
-      "image": "https://digimoncard.com/images/cardlist/card/ST21-12.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST21-12.png?04",
+      "en": "Joe Kido & Mimi Tachikawa"
     },
     {
       "number": "ST21-13",
       "name": "石田ヤマト＆高石タケル",
       "rarity": "R",
       "type": "テイマー",
-      "image": "https://digimoncard.com/images/cardlist/card/ST21-13.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST21-13.png?04",
+      "en": "Matt Ishida & T.K. Takaishi"
     },
     {
       "number": "ST21-14",
       "name": "友情を信じて",
       "rarity": "C",
       "type": "オプション",
-      "image": "https://digimoncard.com/images/cardlist/card/ST21-14.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST21-14.png?04",
+      "en": "Believe in Our Friendship"
     },
     {
       "number": "ST21-15",
       "name": "ゲンナイの家",
       "rarity": "U",
       "type": "オプション",
-      "image": "https://digimoncard.com/images/cardlist/card/ST21-15.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST21-15.png?04",
+      "en": "Gennai's House"
     },
     {
       "number": "LM-027",
@@ -136,7 +152,8 @@
       "type": "オプション",
       "parallel": true,
       "variant": "p2",
-      "image": "https://digimoncard.com/images/cardlist/card/LM-027_P2.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/LM-027_P2.png?04",
+      "en": "Red Scramble"
     },
     {
       "number": "LM-028",
@@ -145,7 +162,8 @@
       "type": "オプション",
       "parallel": true,
       "variant": "p2",
-      "image": "https://digimoncard.com/images/cardlist/card/LM-028_P2.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/LM-028_P2.png?04",
+      "en": "Blue Scramble"
     },
     {
       "number": "LM-029",
@@ -154,7 +172,8 @@
       "type": "オプション",
       "parallel": true,
       "variant": "p2",
-      "image": "https://digimoncard.com/images/cardlist/card/LM-029_P2.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/LM-029_P2.png?04",
+      "en": "Yellow Scramble"
     },
     {
       "number": "LM-030",
@@ -163,7 +182,8 @@
       "type": "オプション",
       "parallel": true,
       "variant": "p2",
-      "image": "https://digimoncard.com/images/cardlist/card/LM-030_P2.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/LM-030_P2.png?04",
+      "en": "Green Scramble"
     },
     {
       "number": "LM-031",
@@ -172,7 +192,8 @@
       "type": "オプション",
       "parallel": true,
       "variant": "p2",
-      "image": "https://digimoncard.com/images/cardlist/card/LM-031_P2.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/LM-031_P2.png?04",
+      "en": "Black Scramble"
     },
     {
       "number": "LM-032",
@@ -181,7 +202,8 @@
       "type": "オプション",
       "parallel": true,
       "variant": "p2",
-      "image": "https://digimoncard.com/images/cardlist/card/LM-032_P2.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/LM-032_P2.png?04",
+      "en": "Purple Scramble"
     }
   ]
 }

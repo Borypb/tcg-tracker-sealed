@@ -70,6 +70,55 @@ function parseCards(html) {
   return [...new Map(out.map((c) => [`${c.number}|${c.variant ?? ""}`, c])).values()];
 }
 
+/** catalogue anglais (cards.mjs) : numéro → nom de la carte, sans les mentions ajoutées par TCGplayer */
+async function englishNames() {
+  const index = await readJson("cards/index.json", { games: {} });
+  const votes = new Map();
+  for (const set of index.games.digimon?.sets ?? []) {
+    const data = await readJson(set.file, null);
+    for (const c of data?.cards ?? []) {
+      const number = c.number?.split(/\s+/)[0]?.toUpperCase();
+      if (!number || !c.name) continue;
+      // « Devimon - ST6-08 [Online Champion] » → « Devimon »
+      const name = c.name.replace(/\s*\[[^\]]*\]\s*/g, " ").replace(/\s+-\s+[A-Z]{1,4}\d*-\d+.*$/, "").trim();
+      const m = votes.get(number) ?? new Map();
+      m.set(name, (m.get(name) ?? 0) + 1);
+      votes.set(number, m);
+    }
+  }
+  // le nom le plus fréquent sous ce numéro
+  return new Map([...votes].map(([n, m]) => [n, [...m.entries()].sort((a, b) => b[1] - a[1])[0][0]]));
+}
+
+/** noms anglais ajoutés aux cartes, puis index des noms (japonais et anglais) */
+export async function linkAndIndex(sets) {
+  // nom anglais de chaque carte (même numéro dans les deux langues, « BT13-040 ») : chercher « Magnamon » trouve マグナモン
+  const en = await englishNames();
+  let linked = 0;
+  for (const s of sets) {
+    const data = await readJson(s.file, null);
+    if (!data) continue;
+    let changed = false;
+    for (const c of data.cards) {
+      const name = en.get(c.number.toUpperCase());
+      if (name && c.en !== name) {
+        c.en = name;
+        changed = true;
+      }
+      if (c.en) linked++;
+    }
+    if (changed) await writeJson(s.file, data);
+  }
+  console.log(`digimon-ja : ${linked} impressions avec leur nom anglais`);
+  // index des noms (recherche de l'app) : nom japonais et nom anglais → produits où il figure
+  const names = new Map();
+  for (const [i, s] of sets.entries()) {
+    const data = await readJson(s.file, null);
+    for (const c of data?.cards ?? []) for (const n of [c.name, c.en].filter(Boolean)) names.set(n, new Set([...(names.get(n) ?? []), i]));
+  }
+  await writeJson(`${DIR}/names.json`, { groups: sets.map((s) => s.id), names: [...names.entries()].map(([n, l]) => [n, [...l]]) });
+}
+
 export async function digimonJa() {
   const list = await products();
   console.log(`digimoncard.com : ${list.length} produits`);
@@ -90,13 +139,7 @@ export async function digimonJa() {
     await sleep(600);
   }
   await writeJson(`${DIR}/index.json`, { updatedAt: new Date().toISOString().slice(0, 10), sets });
-  // index des noms (recherche de l'app) : nom → produits où il figure
-  const names = new Map();
-  for (const [i, s] of sets.entries()) {
-    const data = await readJson(s.file, null);
-    for (const c of data?.cards ?? []) names.set(c.name, new Set([...(names.get(c.name) ?? []), i]));
-  }
-  await writeJson(`${DIR}/names.json`, { groups: sets.map((s) => s.id), names: [...names.entries()].map(([n, l]) => [n, [...l]]) });
+  await linkAndIndex(sets);
   console.log(`digimon-ja : ${sets.length} produits, ${sets.reduce((n, s) => n + s.count, 0)} impressions (précédemment ${prev.sets.length} produits)`);
 }
 

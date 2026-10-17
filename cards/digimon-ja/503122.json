@@ -9,7 +9,8 @@
       "rarity": "C",
       "type": "デジタマ",
       "level": "Lv.2",
-      "image": "https://digimoncard.com/images/cardlist/card/ST22-01.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST22-01.png?04",
+      "en": "Viximon"
     },
     {
       "number": "ST22-02",
@@ -17,7 +18,8 @@
       "rarity": "SR",
       "type": "デジモン",
       "level": "Lv.3",
-      "image": "https://digimoncard.com/images/cardlist/card/ST22-02.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST22-02.png?04",
+      "en": "Renamon"
     },
     {
       "number": "ST22-02",
@@ -27,7 +29,8 @@
       "level": "Lv.3",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/ST22-02_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST22-02_P1.png?04",
+      "en": "Renamon"
     },
     {
       "number": "ST22-03",
@@ -35,7 +38,8 @@
       "rarity": "C",
       "type": "デジモン",
       "level": "Lv.4",
-      "image": "https://digimoncard.com/images/cardlist/card/ST22-03.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST22-03.png?04",
+      "en": "Kyubimon"
     },
     {
       "number": "ST22-04",
@@ -43,7 +47,8 @@
       "rarity": "R",
       "type": "デジモン",
       "level": "Lv.5",
-      "image": "https://digimoncard.com/images/cardlist/card/ST22-04.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST22-04.png?04",
+      "en": "Taomon"
     },
     {
       "number": "ST22-05",
@@ -51,7 +56,8 @@
       "rarity": "SR",
       "type": "デジモン",
       "level": "Lv.6",
-      "image": "https://digimoncard.com/images/cardlist/card/ST22-05.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST22-05.png?04",
+      "en": "Sakuyamon ACE"
     },
     {
       "number": "ST22-06",
@@ -59,42 +65,48 @@
       "rarity": "SR",
       "type": "デジモン",
       "level": "Lv.6",
-      "image": "https://digimoncard.com/images/cardlist/card/ST22-06.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST22-06.png?04",
+      "en": "Sakuyamon: Maid Mode"
     },
     {
       "number": "ST22-07",
       "name": "牧野留姫",
       "rarity": "R",
       "type": "テイマー",
-      "image": "https://digimoncard.com/images/cardlist/card/ST22-07.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST22-07.png?04",
+      "en": "Rika Nonaka"
     },
     {
       "number": "ST22-08",
       "name": "攻撃プラグインV",
       "rarity": "U",
       "type": "オプション",
-      "image": "https://digimoncard.com/images/cardlist/card/ST22-08.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST22-08.png?04",
+      "en": "Offensive Plug-In V"
     },
     {
       "number": "ST22-09",
       "name": "高速プラグインH",
       "rarity": "U",
       "type": "オプション",
-      "image": "https://digimoncard.com/images/cardlist/card/ST22-09.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST22-09.png?04",
+      "en": "High-Speed Plug-In H"
     },
     {
       "number": "ST22-10",
       "name": "金剛界曼荼羅",
       "rarity": "SR",
       "type": "オプション",
-      "image": "https://digimoncard.com/images/cardlist/card/ST22-10.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST22-10.png?04",
+      "en": "Amethyst Mandala"
     },
     {
       "number": "ST22-11",
       "name": "防御プラグインF",
       "rarity": "U",
       "type": "オプション",
-      "image": "https://digimoncard.com/images/cardlist/card/ST22-11.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST22-11.png?04",
+      "en": "Defense Plug-In F"
     },
     {
       "number": "ST22-12",
@@ -102,7 +114,8 @@
       "rarity": "SR",
       "type": "デジモン",
       "level": "Lv.4",
-      "image": "https://digimoncard.com/images/cardlist/card/ST22-12.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST22-12.png?04",
+      "en": "DoGatchmon"
     },
     {
       "number": "ST22-13",
@@ -110,7 +123,8 @@
       "rarity": "SR",
       "type": "デジモン",
       "level": "Lv.5",
-      "image": "https://digimoncard.com/images/cardlist/card/ST22-13.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST22-13.png?04",
+      "en": "GrandGalemon"
     },
     {
       "number": "ST22-14",
@@ -118,7 +132,8 @@
       "rarity": "SR",
       "type": "デジモン",
       "level": "Lv.6",
-      "image": "https://digimoncard.com/images/cardlist/card/ST22-14.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST22-14.png?04",
+      "en": "Barbamon"
     },
     {
       "number": "ST22-TOKEN01",
@@ -140,7 +155,8 @@
       "level": "Lv.3",
       "parallel": true,
       "variant": "p2",
-      "image": "https://digimoncard.com/images/cardlist/card/BT17-031_P2.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/BT17-031_P2.png?04",
+      "en": "Renamon"
     },
     {
       "number": "BT17-035",
@@ -150,7 +166,8 @@
       "level": "Lv.5",
       "parallel": true,
       "variant": "p2",
-      "image": "https://digimoncard.com/images/cardlist/card/BT17-035_P2.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/BT17-035_P2.png?04",
+      "en": "Taomon"
     },
     {
       "number": "BT19-034",
@@ -160,7 +177,8 @@
       "level": "Lv.4",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/BT19-034_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/BT19-034_P1.png?04",
+      "en": "Kyubimon"
     },
     {
       "number": "BT19-037",
@@ -170,7 +188,8 @@
       "level": "Lv.5",
       "parallel": true,
       "variant": "p3",
-      "image": "https://digimoncard.com/images/cardlist/card/BT19-037_P3.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/BT19-037_P3.png?04",
+      "en": "Taomon ACE"
     },
     {
       "number": "BT19-083",
@@ -179,7 +198,8 @@
       "type": "テイマー",
       "parallel": true,
       "variant": "p2",
-      "image": "https://digimoncard.com/images/cardlist/card/BT19-083_P2.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/BT19-083_P2.png?04",
+      "en": "Rika Nonaka"
     },
     {
       "number": "EX2-019",
@@ -189,7 +209,8 @@
       "level": "Lv.3",
       "parallel": true,
       "variant": "p2",
-      "image": "https://digimoncard.com/images/cardlist/card/EX2-019_P2.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/EX2-019_P2.png?04",
+      "en": "Renamon"
     },
     {
       "number": "EX8-037",
@@ -199,7 +220,8 @@
       "level": "Lv.6",
       "parallel": true,
       "variant": "p2",
-      "image": "https://digimoncard.com/images/cardlist/card/EX8-037_P2.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/EX8-037_P2.png?04",
+      "en": "Sakuyamon"
     },
     {
       "number": "LM-029",
@@ -208,7 +230,8 @@
       "type": "オプション",
       "parallel": true,
       "variant": "p3",
-      "image": "https://digimoncard.com/images/cardlist/card/LM-029_P3.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/LM-029_P3.png?04",
+      "en": "Yellow Scramble"
     },
     {
       "number": "P-105",
@@ -217,7 +240,8 @@
       "type": "オプション",
       "parallel": true,
       "variant": "p4",
-      "image": "https://digimoncard.com/images/cardlist/card/P-105_P4.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/P-105_P4.png?04",
+      "en": "Physical Training"
     }
   ]
 }

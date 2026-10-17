@@ -9,7 +9,8 @@
       "rarity": "U",
       "type": "デジタマ",
       "level": "Lv.2",
-      "image": "https://digimoncard.com/images/cardlist/card/ST5-01.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST5-01.png?04",
+      "en": "Kapurimon"
     },
     {
       "number": "ST5-02",
@@ -17,7 +18,8 @@
       "rarity": "C",
       "type": "デジモン",
       "level": "Lv.3",
-      "image": "https://digimoncard.com/images/cardlist/card/ST5-02.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST5-02.png?04",
+      "en": "Jazamon"
     },
     {
       "number": "ST5-03",
@@ -25,7 +27,8 @@
       "rarity": "U",
       "type": "デジモン",
       "level": "Lv.3",
-      "image": "https://digimoncard.com/images/cardlist/card/ST5-03.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST5-03.png?04",
+      "en": "Agumon"
     },
     {
       "number": "ST5-04",
@@ -33,7 +36,8 @@
       "rarity": "C",
       "type": "デジモン",
       "level": "Lv.3",
-      "image": "https://digimoncard.com/images/cardlist/card/ST5-04.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST5-04.png?04",
+      "en": "ToyAgumon"
     },
     {
       "number": "ST5-05",
@@ -41,7 +45,8 @@
       "rarity": "C",
       "type": "デジモン",
       "level": "Lv.3",
-      "image": "https://digimoncard.com/images/cardlist/card/ST5-05.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST5-05.png?04",
+      "en": "Commandramon"
     },
     {
       "number": "ST5-06",
@@ -49,7 +54,8 @@
       "rarity": "C",
       "type": "デジモン",
       "level": "Lv.4",
-      "image": "https://digimoncard.com/images/cardlist/card/ST5-06.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST5-06.png?04",
+      "en": "Greymon"
     },
     {
       "number": "ST5-07",
@@ -57,7 +63,8 @@
       "rarity": "C",
       "type": "デジモン",
       "level": "Lv.4",
-      "image": "https://digimoncard.com/images/cardlist/card/ST5-07.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST5-07.png?04",
+      "en": "Jazardmon"
     },
     {
       "number": "ST5-08",
@@ -65,7 +72,8 @@
       "rarity": "U",
       "type": "デジモン",
       "level": "Lv.4",
-      "image": "https://digimoncard.com/images/cardlist/card/ST5-08.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST5-08.png?04",
+      "en": "DarkTyrannomon"
     },
     {
       "number": "ST5-09",
@@ -73,7 +81,8 @@
       "rarity": "U",
       "type": "デジモン",
       "level": "Lv.5",
-      "image": "https://digimoncard.com/images/cardlist/card/ST5-09.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST5-09.png?04",
+      "en": "MetalGreymon"
     },
     {
       "number": "ST5-10",
@@ -81,7 +90,8 @@
       "rarity": "C",
       "type": "デジモン",
       "level": "Lv.5",
-      "image": "https://digimoncard.com/images/cardlist/card/ST5-10.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST5-10.png?04",
+      "en": "MetalTyrannomon"
     },
     {
       "number": "ST5-11",
@@ -89,7 +99,8 @@
       "rarity": "R",
       "type": "デジモン",
       "level": "Lv.5",
-      "image": "https://digimoncard.com/images/cardlist/card/ST5-11.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST5-11.png?04",
+      "en": "Megadramon"
     },
     {
       "number": "ST5-12",
@@ -97,7 +108,8 @@
       "rarity": "R",
       "type": "デジモン",
       "level": "Lv.6",
-      "image": "https://digimoncard.com/images/cardlist/card/ST5-12.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST5-12.png?04",
+      "en": "Machinedramon"
     },
     {
       "number": "ST5-13",
@@ -105,28 +117,32 @@
       "rarity": "SR",
       "type": "デジモン",
       "level": "Lv.6",
-      "image": "https://digimoncard.com/images/cardlist/card/ST5-13.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST5-13.png?04",
+      "en": "BlitzGreymon"
     },
     {
       "number": "ST5-14",
       "name": "八神太一",
       "rarity": "R",
       "type": "テイマー",
-      "image": "https://digimoncard.com/images/cardlist/card/ST5-14.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST5-14.png?04",
+      "en": "Tai Kamiya"
     },
     {
       "number": "ST5-15",
       "name": "レーザーアイ",
       "rarity": "C",
       "type": "オプション",
-      "image": "https://digimoncard.com/images/cardlist/card/ST5-15.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST5-15.png?04",
+      "en": "Laser Eye"
     },
     {
       "number": "ST5-16",
       "name": "ジェノサイドアタック",
       "rarity": "U",
       "type": "オプション",
-      "image": "https://digimoncard.com/images/cardlist/card/ST5-16.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST5-16.png?04",
+      "en": "Dark Side Attack"
     }
   ]
 }

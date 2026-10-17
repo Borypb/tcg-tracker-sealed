@@ -8,42 +8,48 @@
       "name": "ガーネット・メモリーブースト！！",
       "rarity": "P",
       "type": "オプション",
-      "image": "https://digimoncard.com/images/cardlist/card/LM-033.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/LM-033.png?04",
+      "en": "Garnet Memory Boost!"
     },
     {
       "number": "LM-034",
       "name": "ウィスタリア・メモリーブースト！！",
       "rarity": "P",
       "type": "オプション",
-      "image": "https://digimoncard.com/images/cardlist/card/LM-034.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/LM-034.png?04",
+      "en": "Wisteria Memory Boost!"
     },
     {
       "number": "LM-035",
       "name": "アンバー・メモリーブースト！！",
       "rarity": "P",
       "type": "オプション",
-      "image": "https://digimoncard.com/images/cardlist/card/LM-035.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/LM-035.png?04",
+      "en": "Amber Memory Boost!"
     },
     {
       "number": "LM-036",
       "name": "ジェイド・メモリーブースト！！",
       "rarity": "P",
       "type": "オプション",
-      "image": "https://digimoncard.com/images/cardlist/card/LM-036.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/LM-036.png?04",
+      "en": "Jade Memory Boost!"
     },
     {
       "number": "LM-037",
       "name": "セピア・メモリーブースト！！",
       "rarity": "P",
       "type": "オプション",
-      "image": "https://digimoncard.com/images/cardlist/card/LM-037.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/LM-037.png?04",
+      "en": "Sepia Memory Boost!"
     },
     {
       "number": "LM-038",
       "name": "グレープ・メモリーブースト！！",
       "rarity": "P",
       "type": "オプション",
-      "image": "https://digimoncard.com/images/cardlist/card/LM-038.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/LM-038.png?04",
+      "en": "Grape Memory Boost!"
     },
     {
       "number": "BT6-015",
@@ -53,7 +59,8 @@
       "level": "Lv.5",
       "parallel": true,
       "variant": "p2",
-      "image": "https://digimoncard.com/images/cardlist/card/BT6-015_P2.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/BT6-015_P2.png?04",
+      "en": "SaviorHuckmon"
     },
     {
       "number": "BT10-053",
@@ -63,7 +70,8 @@
       "level": "Lv.5",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/BT10-053_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/BT10-053_P1.png?04",
+      "en": "Ajatarmon"
     },
     {
       "number": "BT10-058",
@@ -73,7 +81,8 @@
       "level": "Lv.3",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/BT10-058_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/BT10-058_P1.png?04",
+      "en": "Monitamon"
     },
     {
       "number": "BT11-063",
@@ -83,7 +92,8 @@
       "level": "Lv.4",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/BT11-063_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/BT11-063_P1.png?04",
+      "en": "Geremon"
     },
     {
       "number": "BT13-008",
@@ -93,7 +103,8 @@
       "level": "Lv.3",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/BT13-008_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/BT13-008_P1.png?04",
+      "en": "Agumon"
     },
     {
       "number": "BT14-064",
@@ -103,7 +114,8 @@
       "level": "Lv.5",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/BT14-064_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/BT14-064_P1.png?04",
+      "en": "Cargodramon"
     },
     {
       "number": "BT15-063",
@@ -113,7 +125,8 @@
       "level": "Lv.5",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/BT15-063_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/BT15-063_P1.png?04",
+      "en": "Hisyaryumon"
     },
     {
       "number": "BT16-028",
@@ -123,7 +136,8 @@
       "level": "Lv.6",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/BT16-028_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/BT16-028_P1.png?04",
+      "en": "Imperialdramon: Dragon Mode"
     },
     {
       "number": "BT16-046",
@@ -133,7 +147,8 @@
       "level": "Lv.6",
       "parallel": true,
       "variant": "p2",
-      "image": "https://digimoncard.com/images/cardlist/card/BT16-046_P2.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/BT16-046_P2.png?04",
+      "en": "GranKuwagamon ACE"
     },
     {
       "number": "BT16-061",
@@ -143,7 +158,8 @@
       "level": "Lv.5",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/BT16-061_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/BT16-061_P1.png?04",
+      "en": "DoruGreymon"
     },
     {
       "number": "BT16-076",
@@ -153,7 +169,8 @@
       "level": "Lv.5",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/BT16-076_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/BT16-076_P1.png?04",
+      "en": "Soloogarmon"
     },
     {
       "number": "BT17-036",
@@ -163,7 +180,8 @@
       "level": "Lv.5",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/BT17-036_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/BT17-036_P1.png?04",
+      "en": "Boutmon"
     },
     {
       "number": "EX1-066",
@@ -172,7 +190,8 @@
       "type": "テイマー",
       "parallel": true,
       "variant": "p3",
-      "image": "https://digimoncard.com/images/cardlist/card/EX1-066_P3.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/EX1-066_P3.png?04",
+      "en": "Analog Youth"
     },
     {
       "number": "EX4-074",
@@ -182,7 +201,8 @@
       "level": "Lv.7",
       "parallel": true,
       "variant": "p2",
-      "image": "https://digimoncard.com/images/cardlist/card/EX4-074_P2.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/EX4-074_P2.png?04",
+      "en": "ShineGreymon: Ruin Mode"
     },
     {
       "number": "EX5-070",
@@ -191,7 +211,8 @@
       "type": "オプション",
       "parallel": true,
       "variant": "p2",
-      "image": "https://digimoncard.com/images/cardlist/card/EX5-070_P2.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/EX5-070_P2.png?04",
+      "en": "X Antibody Proto Form"
     },
     {
       "number": "LM-020",
@@ -201,7 +222,8 @@
       "level": "Lv.6",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/LM-020_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/LM-020_P1.png?04",
+      "en": "Quantumon"
     },
     {
       "number": "ST14-12",
@@ -210,7 +232,8 @@
       "type": "オプション",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/ST14-12_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST14-12_P1.png?04",
+      "en": "Rivals' Barrage"
     },
     {
       "number": "P-076",
@@ -220,7 +243,8 @@
       "level": "Lv.4",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/P-076_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/P-076_P1.png?04",
+      "en": "Deltamon"
     },
     {
       "number": "P-091",
@@ -230,7 +254,8 @@
       "level": "Lv.4",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/P-091_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/P-091_P1.png?04",
+      "en": "Saberdramon"
     },
     {
       "number": "P-143",
@@ -240,7 +265,8 @@
       "level": "Lv.4",
       "parallel": true,
       "variant": "p2",
-      "image": "https://digimoncard.com/images/cardlist/card/P-143_P2.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/P-143_P2.png?04",
+      "en": "Drimogemon"
     },
     {
       "number": "P-144",
@@ -250,7 +276,8 @@
       "level": "Lv.3",
       "parallel": true,
       "variant": "p2",
-      "image": "https://digimoncard.com/images/cardlist/card/P-144_P2.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/P-144_P2.png?04",
+      "en": "Gotsumon"
     },
     {
       "number": "P-145",
@@ -260,7 +287,8 @@
       "level": "Lv.5",
       "parallel": true,
       "variant": "p2",
-      "image": "https://digimoncard.com/images/cardlist/card/P-145_P2.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/P-145_P2.png?04",
+      "en": "Myotismon"
     },
     {
       "number": "P-146",
@@ -269,7 +297,8 @@
       "type": "オプション",
       "parallel": true,
       "variant": "p2",
-      "image": "https://digimoncard.com/images/cardlist/card/P-146_P2.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/P-146_P2.png?04",
+      "en": "Recharge Plug-In Q"
     },
     {
       "number": "P-148",
@@ -279,7 +308,8 @@
       "level": "Lv.2",
       "parallel": true,
       "variant": "p2",
-      "image": "https://digimoncard.com/images/cardlist/card/P-148_P2.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/P-148_P2.png?04",
+      "en": "Wanyamon"
     },
     {
       "number": "P-149",
@@ -289,7 +319,8 @@
       "level": "Lv.2",
       "parallel": true,
       "variant": "p2",
-      "image": "https://digimoncard.com/images/cardlist/card/P-149_P2.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/P-149_P2.png?04",
+      "en": "Minomon"
     },
     {
       "number": "P-150",
@@ -299,7 +330,8 @@
       "level": "Lv.4",
       "parallel": true,
       "variant": "p2",
-      "image": "https://digimoncard.com/images/cardlist/card/P-150_P2.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/P-150_P2.png?04",
+      "en": "Exermon"
     },
     {
       "number": "P-151",
@@ -308,7 +340,8 @@
       "type": "オプション",
       "parallel": true,
       "variant": "p3",
-      "image": "https://digimoncard.com/images/cardlist/card/P-151_P3.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/P-151_P3.png?04",
+      "en": "Digimon Liberator"
     }
   ]
 }

@@ -9,7 +9,8 @@
       "rarity": "U",
       "type": "デジタマ",
       "level": "Lv.2",
-      "image": "https://digimoncard.com/images/cardlist/card/ST7-01.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST7-01.png?04",
+      "en": "Gigimon"
     },
     {
       "number": "ST7-02",
@@ -17,7 +18,8 @@
       "rarity": "C",
       "type": "デジモン",
       "level": "Lv.3",
-      "image": "https://digimoncard.com/images/cardlist/card/ST7-02.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST7-02.png?04",
+      "en": "Agumon"
     },
     {
       "number": "ST7-03",
@@ -25,7 +27,8 @@
       "rarity": "SR",
       "type": "デジモン",
       "level": "Lv.3",
-      "image": "https://digimoncard.com/images/cardlist/card/ST7-03.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST7-03.png?04",
+      "en": "Guilmon"
     },
     {
       "number": "ST7-04",
@@ -33,7 +36,8 @@
       "rarity": "C",
       "type": "デジモン",
       "level": "Lv.3",
-      "image": "https://digimoncard.com/images/cardlist/card/ST7-04.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST7-04.png?04",
+      "en": "Biyomon"
     },
     {
       "number": "ST7-05",
@@ -41,7 +45,8 @@
       "rarity": "R",
       "type": "デジモン",
       "level": "Lv.4",
-      "image": "https://digimoncard.com/images/cardlist/card/ST7-05.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST7-05.png?04",
+      "en": "Growlmon"
     },
     {
       "number": "ST7-06",
@@ -49,7 +54,8 @@
       "rarity": "U",
       "type": "デジモン",
       "level": "Lv.4",
-      "image": "https://digimoncard.com/images/cardlist/card/ST7-06.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST7-06.png?04",
+      "en": "GeoGreymon"
     },
     {
       "number": "ST7-07",
@@ -57,7 +63,8 @@
       "rarity": "U",
       "type": "デジモン",
       "level": "Lv.5",
-      "image": "https://digimoncard.com/images/cardlist/card/ST7-07.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST7-07.png?04",
+      "en": "RizeGreymon"
     },
     {
       "number": "ST7-08",
@@ -65,7 +72,8 @@
       "rarity": "R",
       "type": "デジモン",
       "level": "Lv.5",
-      "image": "https://digimoncard.com/images/cardlist/card/ST7-08.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST7-08.png?04",
+      "en": "WarGrowlmon"
     },
     {
       "number": "ST7-09",
@@ -73,7 +81,8 @@
       "rarity": "SR",
       "type": "デジモン",
       "level": "Lv.6",
-      "image": "https://digimoncard.com/images/cardlist/card/ST7-09.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST7-09.png?04",
+      "en": "Gallantmon"
     },
     {
       "number": "ST7-10",
@@ -81,21 +90,24 @@
       "rarity": "R",
       "type": "デジモン",
       "level": "Lv.6",
-      "image": "https://digimoncard.com/images/cardlist/card/ST7-10.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST7-10.png?04",
+      "en": "ShineGreymon"
     },
     {
       "number": "ST7-11",
       "name": "ロイヤルセーバー",
       "rarity": "U",
       "type": "オプション",
-      "image": "https://digimoncard.com/images/cardlist/card/ST7-11.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST7-11.png?04",
+      "en": "Lightning Joust"
     },
     {
       "number": "ST7-12",
       "name": "アトミックブラスター",
       "rarity": "C",
       "type": "オプション",
-      "image": "https://digimoncard.com/images/cardlist/card/ST7-12.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST7-12.png?04",
+      "en": "Atomic Blaster"
     },
     {
       "number": "BT1-009",
@@ -105,7 +117,8 @@
       "level": "Lv.3",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/BT1-009_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/BT1-009_P1.png?04",
+      "en": "Monodramon"
     },
     {
       "number": "BT1-019",
@@ -115,7 +128,8 @@
       "level": "Lv.4",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/BT1-019_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/BT1-019_P1.png?04",
+      "en": "DarkTyrannomon"
     },
     {
       "number": "BT1-020",
@@ -125,7 +139,8 @@
       "level": "Lv.5",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/BT1-020_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/BT1-020_P1.png?04",
+      "en": "Groundramon"
     },
     {
       "number": "ST1-16",
@@ -134,7 +149,8 @@
       "type": "オプション",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/ST1-16_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST1-16_P1.png?04",
+      "en": "Gaia Force"
     }
   ]
 }

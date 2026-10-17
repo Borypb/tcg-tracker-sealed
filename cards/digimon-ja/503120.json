@@ -9,7 +9,8 @@
       "rarity": "C",
       "type": "デジタマ",
       "level": "Lv.2",
-      "image": "https://digimoncard.com/images/cardlist/card/ST20-01.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST20-01.png?04",
+      "en": "Koromon"
     },
     {
       "number": "ST20-02",
@@ -17,7 +18,8 @@
       "rarity": "U",
       "type": "デジモン",
       "level": "Lv.3",
-      "image": "https://digimoncard.com/images/cardlist/card/ST20-02.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST20-02.png?04",
+      "en": "Biyomon"
     },
     {
       "number": "ST20-03",
@@ -25,7 +27,8 @@
       "rarity": "C",
       "type": "デジモン",
       "level": "Lv.4",
-      "image": "https://digimoncard.com/images/cardlist/card/ST20-03.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST20-03.png?04",
+      "en": "Birdramon"
     },
     {
       "number": "ST20-04",
@@ -33,7 +36,8 @@
       "rarity": "R",
       "type": "デジモン",
       "level": "Lv.5",
-      "image": "https://digimoncard.com/images/cardlist/card/ST20-04.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST20-04.png?04",
+      "en": "Garudamon"
     },
     {
       "number": "ST20-05",
@@ -41,7 +45,8 @@
       "rarity": "C",
       "type": "デジモン",
       "level": "Lv.4",
-      "image": "https://digimoncard.com/images/cardlist/card/ST20-05.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST20-05.png?04",
+      "en": "Gatomon"
     },
     {
       "number": "ST20-06",
@@ -49,7 +54,8 @@
       "rarity": "SR",
       "type": "デジモン",
       "level": "Lv.5",
-      "image": "https://digimoncard.com/images/cardlist/card/ST20-06.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST20-06.png?04",
+      "en": "Angewomon"
     },
     {
       "number": "ST20-07",
@@ -57,7 +63,8 @@
       "rarity": "C",
       "type": "デジモン",
       "level": "Lv.3",
-      "image": "https://digimoncard.com/images/cardlist/card/ST20-07.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST20-07.png?04",
+      "en": "Tentomon"
     },
     {
       "number": "ST20-08",
@@ -65,7 +72,8 @@
       "rarity": "U",
       "type": "デジモン",
       "level": "Lv.4",
-      "image": "https://digimoncard.com/images/cardlist/card/ST20-08.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST20-08.png?04",
+      "en": "Kabuterimon"
     },
     {
       "number": "ST20-09",
@@ -73,7 +81,8 @@
       "rarity": "U",
       "type": "デジモン",
       "level": "Lv.5",
-      "image": "https://digimoncard.com/images/cardlist/card/ST20-09.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST20-09.png?04",
+      "en": "MegaKabuterimon"
     },
     {
       "number": "ST20-10",
@@ -81,7 +90,8 @@
       "rarity": "R",
       "type": "デジモン",
       "level": "Lv.3",
-      "image": "https://digimoncard.com/images/cardlist/card/ST20-10.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST20-10.png?04",
+      "en": "Agumon"
     },
     {
       "number": "ST20-10",
@@ -91,7 +101,8 @@
       "level": "Lv.3",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/ST20-10_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST20-10_P1.png?04",
+      "en": "Agumon"
     },
     {
       "number": "ST20-11",
@@ -99,35 +110,40 @@
       "rarity": "SR",
       "type": "デジモン",
       "level": "Lv.6",
-      "image": "https://digimoncard.com/images/cardlist/card/ST20-11.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST20-11.png?04",
+      "en": "WarGreymon ACE"
     },
     {
       "number": "ST20-12",
       "name": "武之内空＆八神ヒカリ",
       "rarity": "U",
       "type": "テイマー",
-      "image": "https://digimoncard.com/images/cardlist/card/ST20-12.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST20-12.png?04",
+      "en": "Sora Takenouchi & Kari Kamiya"
     },
     {
       "number": "ST20-13",
       "name": "八神太一＆泉光子郎",
       "rarity": "R",
       "type": "テイマー",
-      "image": "https://digimoncard.com/images/cardlist/card/ST20-13.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST20-13.png?04",
+      "en": "Tai Kamiya & Izzy Izumi"
     },
     {
       "number": "ST20-14",
       "name": "勇気をひとつに",
       "rarity": "C",
       "type": "オプション",
-      "image": "https://digimoncard.com/images/cardlist/card/ST20-14.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST20-14.png?04",
+      "en": "Our Courage United"
     },
     {
       "number": "ST20-15",
       "name": "冒険の島",
       "rarity": "U",
       "type": "オプション",
-      "image": "https://digimoncard.com/images/cardlist/card/ST20-15.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST20-15.png?04",
+      "en": "Island of Adventure"
     },
     {
       "number": "LM-027",
@@ -136,7 +152,8 @@
       "type": "オプション",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/LM-027_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/LM-027_P1.png?04",
+      "en": "Red Scramble"
     },
     {
       "number": "LM-028",
@@ -145,7 +162,8 @@
       "type": "オプション",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/LM-028_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/LM-028_P1.png?04",
+      "en": "Blue Scramble"
     },
     {
       "number": "LM-029",
@@ -154,7 +172,8 @@
       "type": "オプション",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/LM-029_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/LM-029_P1.png?04",
+      "en": "Yellow Scramble"
     },
     {
       "number": "LM-030",
@@ -163,7 +182,8 @@
       "type": "オプション",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/LM-030_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/LM-030_P1.png?04",
+      "en": "Green Scramble"
     },
     {
       "number": "LM-031",
@@ -172,7 +192,8 @@
       "type": "オプション",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/LM-031_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/LM-031_P1.png?04",
+      "en": "Black Scramble"
     },
     {
       "number": "LM-032",
@@ -181,7 +202,8 @@
       "type": "オプション",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/LM-032_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/LM-032_P1.png?04",
+      "en": "Purple Scramble"
     }
   ]
 }

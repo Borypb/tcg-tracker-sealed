@@ -9,7 +9,8 @@
       "rarity": "U",
       "type": "デジタマ",
       "level": "Lv.2",
-      "image": "https://digimoncard.com/images/cardlist/card/ST13-01.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST13-01.png?04",
+      "en": "Sakuttomon"
     },
     {
       "number": "ST13-02",
@@ -17,7 +18,8 @@
       "rarity": "U",
       "type": "デジモン",
       "level": "Lv.3",
-      "image": "https://digimoncard.com/images/cardlist/card/ST13-02.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST13-02.png?04",
+      "en": "Zubamon"
     },
     {
       "number": "ST13-03",
@@ -25,7 +27,8 @@
       "rarity": "C",
       "type": "デジモン",
       "level": "Lv.4",
-      "image": "https://digimoncard.com/images/cardlist/card/ST13-03.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST13-03.png?04",
+      "en": "ZubaEagermon"
     },
     {
       "number": "ST13-04",
@@ -33,7 +36,8 @@
       "rarity": "U",
       "type": "デジモン",
       "level": "Lv.5",
-      "image": "https://digimoncard.com/images/cardlist/card/ST13-04.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST13-04.png?04",
+      "en": "Duramon"
     },
     {
       "number": "ST13-05",
@@ -41,7 +45,8 @@
       "rarity": "SR",
       "type": "デジモン",
       "level": "Lv.6",
-      "image": "https://digimoncard.com/images/cardlist/card/ST13-05.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST13-05.png?04",
+      "en": "Durandamon"
     },
     {
       "number": "ST13-06",
@@ -49,7 +54,8 @@
       "rarity": "SR",
       "type": "デジモン",
       "level": "Lv.7",
-      "image": "https://digimoncard.com/images/cardlist/card/ST13-06.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST13-06.png?04",
+      "en": "RagnaLoardmon"
     },
     {
       "number": "ST13-07",
@@ -57,7 +63,8 @@
       "rarity": "C",
       "type": "デジモン",
       "level": "Lv.3",
-      "image": "https://digimoncard.com/images/cardlist/card/ST13-07.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST13-07.png?04",
+      "en": "Kotemon"
     },
     {
       "number": "ST13-08",
@@ -65,7 +72,8 @@
       "rarity": "C",
       "type": "デジモン",
       "level": "Lv.3",
-      "image": "https://digimoncard.com/images/cardlist/card/ST13-08.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST13-08.png?04",
+      "en": "Chikurimon"
     },
     {
       "number": "ST13-09",
@@ -73,7 +81,8 @@
       "rarity": "U",
       "type": "デジモン",
       "level": "Lv.3",
-      "image": "https://digimoncard.com/images/cardlist/card/ST13-09.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST13-09.png?04",
+      "en": "Ludomon"
     },
     {
       "number": "ST13-10",
@@ -81,7 +90,8 @@
       "rarity": "C",
       "type": "デジモン",
       "level": "Lv.4",
-      "image": "https://digimoncard.com/images/cardlist/card/ST13-10.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST13-10.png?04",
+      "en": "Gladimon"
     },
     {
       "number": "ST13-11",
@@ -89,7 +99,8 @@
       "rarity": "U",
       "type": "デジモン",
       "level": "Lv.4",
-      "image": "https://digimoncard.com/images/cardlist/card/ST13-11.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST13-11.png?04",
+      "en": "TiaLudomon"
     },
     {
       "number": "ST13-12",
@@ -97,7 +108,8 @@
       "rarity": "C",
       "type": "デジモン",
       "level": "Lv.5",
-      "image": "https://digimoncard.com/images/cardlist/card/ST13-12.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST13-12.png?04",
+      "en": "Knightmon"
     },
     {
       "number": "ST13-13",
@@ -105,7 +117,8 @@
       "rarity": "R",
       "type": "デジモン",
       "level": "Lv.5",
-      "image": "https://digimoncard.com/images/cardlist/card/ST13-13.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST13-13.png?04",
+      "en": "RaijiLudomon"
     },
     {
       "number": "ST13-14",
@@ -113,21 +126,24 @@
       "rarity": "R",
       "type": "デジモン",
       "level": "Lv.6",
-      "image": "https://digimoncard.com/images/cardlist/card/ST13-14.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST13-14.png?04",
+      "en": "BryweLudramon"
     },
     {
       "number": "ST13-15",
       "name": "ディレクトスマッシャー",
       "rarity": "R",
       "type": "オプション",
-      "image": "https://digimoncard.com/images/cardlist/card/ST13-15.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST13-15.png?04",
+      "en": "Direct Smasher"
     },
     {
       "number": "ST13-16",
       "name": "矛盾共闘",
       "rarity": "C",
       "type": "オプション",
-      "image": "https://digimoncard.com/images/cardlist/card/ST13-16.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST13-16.png?04",
+      "en": "Legend-Arms Alliance"
     },
     {
       "number": "BT3-093",
@@ -136,7 +152,8 @@
       "type": "テイマー",
       "parallel": true,
       "variant": "p4",
-      "image": "https://digimoncard.com/images/cardlist/card/BT3-093_P4.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/BT3-093_P4.png?04",
+      "en": "Davis Motomiya"
     },
     {
       "number": "BT3-094",
@@ -145,7 +162,8 @@
       "type": "テイマー",
       "parallel": true,
       "variant": "p2",
-      "image": "https://digimoncard.com/images/cardlist/card/BT3-094_P2.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/BT3-094_P2.png?04",
+      "en": "Ken Ichijoji"
     },
     {
       "number": "BT4-096",
@@ -154,7 +172,8 @@
       "type": "テイマー",
       "parallel": true,
       "variant": "p4",
-      "image": "https://digimoncard.com/images/cardlist/card/BT4-096_P4.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/BT4-096_P4.png?04",
+      "en": "Izzy Izumi"
     },
     {
       "number": "ST1-12",
@@ -163,7 +182,8 @@
       "type": "テイマー",
       "parallel": true,
       "variant": "p2",
-      "image": "https://digimoncard.com/images/cardlist/card/ST1-12_P2.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST1-12_P2.png?04",
+      "en": "Tai Kamiya"
     },
     {
       "number": "ST3-12",
@@ -172,7 +192,8 @@
       "type": "テイマー",
       "parallel": true,
       "variant": "p2",
-      "image": "https://digimoncard.com/images/cardlist/card/ST3-12_P2.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST3-12_P2.png?04",
+      "en": "T.K. Takaishi"
     },
     {
       "number": "ST6-14",
@@ -181,7 +202,8 @@
       "type": "テイマー",
       "parallel": true,
       "variant": "p2",
-      "image": "https://digimoncard.com/images/cardlist/card/ST6-14_P2.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST6-14_P2.png?04",
+      "en": "Matt Ishida"
     }
   ]
 }

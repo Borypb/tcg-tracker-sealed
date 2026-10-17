@@ -9,7 +9,8 @@
       "rarity": "U",
       "type": "デジタマ",
       "level": "Lv.2",
-      "image": "https://digimoncard.com/images/cardlist/card/ST14-01.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST14-01.png?04",
+      "en": "Yaamon"
     },
     {
       "number": "ST14-02",
@@ -17,7 +18,8 @@
       "rarity": "SR",
       "type": "デジモン",
       "level": "Lv.3",
-      "image": "https://digimoncard.com/images/cardlist/card/ST14-02.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST14-02.png?04",
+      "en": "Impmon"
     },
     {
       "number": "ST14-03",
@@ -25,7 +27,8 @@
       "rarity": "U",
       "type": "デジモン",
       "level": "Lv.3",
-      "image": "https://digimoncard.com/images/cardlist/card/ST14-03.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST14-03.png?04",
+      "en": "Candlemon"
     },
     {
       "number": "ST14-04",
@@ -33,7 +36,8 @@
       "rarity": "C",
       "type": "デジモン",
       "level": "Lv.3",
-      "image": "https://digimoncard.com/images/cardlist/card/ST14-04.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST14-04.png?04",
+      "en": "Phascomon"
     },
     {
       "number": "ST14-05",
@@ -41,7 +45,8 @@
       "rarity": "C",
       "type": "デジモン",
       "level": "Lv.4",
-      "image": "https://digimoncard.com/images/cardlist/card/ST14-05.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST14-05.png?04",
+      "en": "Porcupamon"
     },
     {
       "number": "ST14-06",
@@ -49,7 +54,8 @@
       "rarity": "U",
       "type": "デジモン",
       "level": "Lv.4",
-      "image": "https://digimoncard.com/images/cardlist/card/ST14-06.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST14-06.png?04",
+      "en": "Witchmon"
     },
     {
       "number": "ST14-07",
@@ -57,7 +63,8 @@
       "rarity": "R",
       "type": "デジモン",
       "level": "Lv.5",
-      "image": "https://digimoncard.com/images/cardlist/card/ST14-07.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST14-07.png?04",
+      "en": "Baalmon"
     },
     {
       "number": "ST14-08",
@@ -65,7 +72,8 @@
       "rarity": "SR",
       "type": "デジモン",
       "level": "Lv.6",
-      "image": "https://digimoncard.com/images/cardlist/card/ST14-08.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST14-08.png?04",
+      "en": "Beelzemon"
     },
     {
       "number": "ST14-08",
@@ -75,7 +83,8 @@
       "level": "Lv.6",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/ST14-08_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST14-08_P1.png?04",
+      "en": "Beelzemon"
     },
     {
       "number": "ST14-09",
@@ -83,7 +92,8 @@
       "rarity": "SR",
       "type": "デジモン",
       "level": "Lv.6",
-      "image": "https://digimoncard.com/images/cardlist/card/ST14-09.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST14-09.png?04",
+      "en": "BeelStarmon"
     },
     {
       "number": "ST14-10",
@@ -91,21 +101,24 @@
       "rarity": "SR",
       "type": "デジモン",
       "level": "Lv.7",
-      "image": "https://digimoncard.com/images/cardlist/card/ST14-10.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST14-10.png?04",
+      "en": "Beelzemon: Blast Mode"
     },
     {
       "number": "ST14-11",
       "name": "アイ＆マコト",
       "rarity": "R",
       "type": "テイマー",
-      "image": "https://digimoncard.com/images/cardlist/card/ST14-11.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST14-11.png?04",
+      "en": "Ai & Mako"
     },
     {
       "number": "ST14-12",
       "name": "犬猿の凶弾",
       "rarity": "R",
       "type": "オプション",
-      "image": "https://digimoncard.com/images/cardlist/card/ST14-12.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST14-12.png?04",
+      "en": "Rivals' Barrage"
     },
     {
       "number": "BT2-004",
@@ -115,7 +128,8 @@
       "level": "Lv.2",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/BT2-004_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/BT2-004_P1.png?04",
+      "en": "Argomon"
     },
     {
       "number": "BT2-068",
@@ -125,7 +139,8 @@
       "level": "Lv.3",
       "parallel": true,
       "variant": "p2",
-      "image": "https://digimoncard.com/images/cardlist/card/BT2-068_P2.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/BT2-068_P2.png?04",
+      "en": "Impmon"
     },
     {
       "number": "BT2-111",
@@ -135,7 +150,8 @@
       "level": "Lv.6",
       "parallel": true,
       "variant": "p2",
-      "image": "https://digimoncard.com/images/cardlist/card/BT2-111_P2.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/BT2-111_P2.png?04",
+      "en": "Beelzemon"
     },
     {
       "number": "BT4-105",
@@ -144,7 +160,8 @@
       "type": "オプション",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/BT4-105_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/BT4-105_P1.png?04",
+      "en": "Tactical Retreat!"
     },
     {
       "number": "BT8-079",
@@ -154,7 +171,8 @@
       "level": "Lv.5",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/BT8-079_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/BT8-079_P1.png?04",
+      "en": "SkullSatamon"
     },
     {
       "number": "BT9-109",
@@ -163,7 +181,8 @@
       "type": "オプション",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/BT9-109_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/BT9-109_P1.png?04",
+      "en": "X Antibody"
     },
     {
       "number": "EX2-039",
@@ -173,7 +192,8 @@
       "level": "Lv.3",
       "parallel": true,
       "variant": "p2",
-      "image": "https://digimoncard.com/images/cardlist/card/EX2-039_P2.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/EX2-039_P2.png?04",
+      "en": "Impmon"
     },
     {
       "number": "EX2-071",
@@ -182,7 +202,8 @@
       "type": "オプション",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/EX2-071_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/EX2-071_P1.png?04",
+      "en": "Death Slinger"
     },
     {
       "number": "ST6-01",
@@ -192,7 +213,8 @@
       "level": "Lv.2",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/ST6-01_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST6-01_P1.png?04",
+      "en": "Pagumon"
     },
     {
       "number": "ST7-03",
@@ -202,7 +224,8 @@
       "level": "Lv.3",
       "parallel": true,
       "variant": "p2",
-      "image": "https://digimoncard.com/images/cardlist/card/ST7-03_P2.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST7-03_P2.png?04",
+      "en": "Guilmon"
     },
     {
       "number": "ST8-04",
@@ -212,7 +235,8 @@
       "level": "Lv.3",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/ST8-04_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST8-04_P1.png?04",
+      "en": "Veemon"
     },
     {
       "number": "P-033",
@@ -222,7 +246,8 @@
       "level": "Lv.3",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/P-033_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/P-033_P1.png?04",
+      "en": "Sunarizamon"
     },
     {
       "number": "P-077",
@@ -232,7 +257,8 @@
       "level": "Lv.4",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/P-077_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/P-077_P1.png?04",
+      "en": "Wizardmon"
     }
   ]
 }

@@ -9,7 +9,8 @@
       "rarity": "U",
       "type": "デジタマ",
       "level": "Lv.2",
-      "image": "https://digimoncard.com/images/cardlist/card/ST8-01.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST8-01.png?04",
+      "en": "DemiVeemon"
     },
     {
       "number": "ST8-02",
@@ -17,7 +18,8 @@
       "rarity": "C",
       "type": "デジモン",
       "level": "Lv.3",
-      "image": "https://digimoncard.com/images/cardlist/card/ST8-02.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST8-02.png?04",
+      "en": "Gabumon"
     },
     {
       "number": "ST8-03",
@@ -25,7 +27,8 @@
       "rarity": "C",
       "type": "デジモン",
       "level": "Lv.3",
-      "image": "https://digimoncard.com/images/cardlist/card/ST8-03.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST8-03.png?04",
+      "en": "Dracomon"
     },
     {
       "number": "ST8-04",
@@ -33,7 +36,8 @@
       "rarity": "SR",
       "type": "デジモン",
       "level": "Lv.3",
-      "image": "https://digimoncard.com/images/cardlist/card/ST8-04.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST8-04.png?04",
+      "en": "Veemon"
     },
     {
       "number": "ST8-05",
@@ -41,7 +45,8 @@
       "rarity": "R",
       "type": "デジモン",
       "level": "Lv.4",
-      "image": "https://digimoncard.com/images/cardlist/card/ST8-05.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST8-05.png?04",
+      "en": "Veedramon"
     },
     {
       "number": "ST8-06",
@@ -49,7 +54,8 @@
       "rarity": "U",
       "type": "デジモン",
       "level": "Lv.4",
-      "image": "https://digimoncard.com/images/cardlist/card/ST8-06.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST8-06.png?04",
+      "en": "Coredramon"
     },
     {
       "number": "ST8-07",
@@ -57,7 +63,8 @@
       "rarity": "U",
       "type": "デジモン",
       "level": "Lv.5",
-      "image": "https://digimoncard.com/images/cardlist/card/ST8-07.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST8-07.png?04",
+      "en": "Wingdramon"
     },
     {
       "number": "ST8-08",
@@ -65,7 +72,8 @@
       "rarity": "R",
       "type": "デジモン",
       "level": "Lv.5",
-      "image": "https://digimoncard.com/images/cardlist/card/ST8-08.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST8-08.png?04",
+      "en": "AeroVeedramon"
     },
     {
       "number": "ST8-09",
@@ -73,7 +81,8 @@
       "rarity": "R",
       "type": "デジモン",
       "level": "Lv.6",
-      "image": "https://digimoncard.com/images/cardlist/card/ST8-09.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST8-09.png?04",
+      "en": "Slayerdramon"
     },
     {
       "number": "ST8-10",
@@ -81,21 +90,24 @@
       "rarity": "SR",
       "type": "デジモン",
       "level": "Lv.6",
-      "image": "https://digimoncard.com/images/cardlist/card/ST8-10.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST8-10.png?04",
+      "en": "UlforceVeedramon"
     },
     {
       "number": "ST8-11",
       "name": "アルフォースセイバー",
       "rarity": "U",
       "type": "オプション",
-      "image": "https://digimoncard.com/images/cardlist/card/ST8-11.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST8-11.png?04",
+      "en": "Victory Sword"
     },
     {
       "number": "ST8-12",
       "name": "Vウイングブレード",
       "rarity": "C",
       "type": "オプション",
-      "image": "https://digimoncard.com/images/cardlist/card/ST8-12.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST8-12.png?04",
+      "en": "V-Wing Blade"
     },
     {
       "number": "BT1-028",
@@ -105,7 +117,8 @@
       "level": "Lv.3",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/BT1-028_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/BT1-028_P1.png?04",
+      "en": "Elecmon"
     },
     {
       "number": "BT1-037",
@@ -115,7 +128,8 @@
       "level": "Lv.4",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/BT1-037_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/BT1-037_P1.png?04",
+      "en": "Gorillamon"
     },
     {
       "number": "BT1-038",
@@ -125,7 +139,8 @@
       "level": "Lv.5",
       "parallel": true,
       "variant": "p2",
-      "image": "https://digimoncard.com/images/cardlist/card/BT1-038_P2.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/BT1-038_P2.png?04",
+      "en": "Monzaemon"
     },
     {
       "number": "ST2-13",
@@ -134,7 +149,8 @@
       "type": "オプション",
       "parallel": true,
       "variant": "p1",
-      "image": "https://digimoncard.com/images/cardlist/card/ST2-13_P1.png?04"
+      "image": "https://digimoncard.com/images/cardlist/card/ST2-13_P1.png?04",
+      "en": "Hammer Spark"
     }
   ]
 }

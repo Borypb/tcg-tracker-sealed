@@ -1,6 +1,6 @@
 name: Index du scan à l'image
 
-# Empreintes visuelles des cartes (scan en ligne de TCG Tracker), publiées sur la branche « scan ».
+# Empreintes visuelles des cartes (scan en ligne de Thothectio), publiées sur la branche « scan ».
 # Incrémental : seules les nouvelles images sont traitées. La première fois, toutes les cartes ne
 # tiennent pas dans une passe : l'index se complète au fil des nuits (les plus récentes d'abord).
 on:

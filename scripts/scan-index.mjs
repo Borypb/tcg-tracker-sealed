@@ -1,5 +1,5 @@
 // Index du scan à l'image : empreinte visuelle et fiche de chaque carte, par licence et par langue.
-// TCG Tracker s'en sert pour reconnaître une carte à l'image sans rien télécharger d'avance ni rien enregistrer :
+// Thothectio s'en sert pour reconnaître une carte à l'image sans rien télécharger d'avance ni rien enregistrer :
 // l'index est lu en mémoire, la carte reconnue s'affiche aussitôt grâce à sa fiche.
 //
 // On ne publie pas les images. Pour chaque carte : l'adresse de son image, une clé pour la retrouver à sa source,

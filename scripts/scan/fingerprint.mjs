@@ -1,4 +1,4 @@
-// Empreinte visuelle d'une carte : copie conforme du calcul de l'app (src/lib/fingerprint.ts de TCG Tracker).
+// Empreinte visuelle d'une carte : copie conforme du calcul de l'app (src/lib/fingerprint.ts de Thothectio).
 // pHash 256 bits (DCT 64 × 64, 16 × 16 basses fréquences, seuil à la médiane), sur la carte entière
 // (bordure exclue) et sur l'illustration (zone selon la licence).
 // Toute modification doit être faite des deux côtés et changer FP_VERSION : `vector.json` le vérifie.

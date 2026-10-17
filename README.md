@@ -1,6 +1,6 @@
-# TCG Tracker – Produits scellés
+# Thothectio – Produits scellés
 
-Catalogue public des produits scellés (coffrets Dresseur d'Élite, displays, collections Ultra Premium, Pokébox…) utilisé par **TCG Tracker**, l'album TCG local-first.
+Catalogue public des produits scellés (coffrets Dresseur d'Élite, displays, collections Ultra Premium, Pokébox…) utilisé par **Thothectio**, l'album TCG local-first.
 
 L'app lit ce dépôt en lecture seule. Elle ne lui envoie rien, et ta collection reste sur ton appareil.
 
@@ -48,7 +48,7 @@ Les produits déduits portent un champ `derived` (nom anglais d'origine) ; ceux 
 
 ## Index du scan à l'image (branche `scan`)
 
-TCG Tracker reconnaît une carte à l'image **sans rien télécharger d'avance ni rien enregistrer** grâce à cet index,
+Thothectio reconnaît une carte à l'image **sans rien télécharger d'avance ni rien enregistrer** grâce à cet index,
 lu en mémoire par l'app. Une seconde Action (`.github/workflows/scan-index.yml`, chaque nuit après le catalogue,
 et à la demande avec un choix de licences et un temps maximal) le construit avec `scripts/scan-index.mjs` :
 

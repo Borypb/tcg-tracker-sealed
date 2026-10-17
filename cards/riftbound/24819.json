@@ -27,7 +27,11 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
+        },
+        {
+          "sub": "Foil",
+          "usd": 4.24
         }
       ]
     },
@@ -42,7 +46,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 13.51
+          "usd": 10.25
         }
       ]
     },
@@ -57,7 +61,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 8
+          "usd": 6.5
         }
       ]
     },
@@ -88,7 +92,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 200
+          "usd": 199.5
         }
       ]
     },
@@ -112,7 +116,12 @@
       "type": "Champion Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/721352_200w.jpg",
       "url": "https://www.tcgplayer.com/product/721352/riftbound-league-of-legends-trading-card-game-radiance-ezreal-dashing-heartsteel-overnumbered",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 2500
+        }
+      ]
     },
     {
       "id": 721354,
@@ -163,7 +172,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 19.99
+          "usd": 18.75
         }
       ]
     },
@@ -208,7 +217,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 4.99
+          "usd": 3.99
         }
       ]
     },
@@ -253,7 +262,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 4.99
+          "usd": 3.99
         }
       ]
     },
@@ -269,7 +278,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 21.5
+          "usd": 25
         }
       ]
     },
@@ -284,7 +293,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 49.24
+          "usd": 48.5
         }
       ]
     },
@@ -299,7 +308,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -314,7 +323,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 48.49
+          "usd": 48.25
         }
       ]
     },
@@ -329,7 +338,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -359,7 +368,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -374,7 +383,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 48.99
+          "usd": 48
         }
       ]
     },
@@ -404,7 +413,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 9
+          "usd": 4.99
         }
       ]
     },
@@ -419,7 +428,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 9
+          "usd": 4.99
         }
       ]
     },
@@ -434,7 +443,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 10
+          "usd": 9.25
         }
       ]
     },
@@ -449,7 +458,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 17.51
+          "usd": 13.25
         }
       ]
     },
@@ -480,7 +489,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 9
+          "usd": 4.99
         }
       ]
     },
@@ -495,7 +504,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 49.99
+          "usd": 45.23
         }
       ]
     },
@@ -526,7 +535,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 18.5
+          "usd": 14.74
         }
       ]
     },
@@ -541,7 +550,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 44.25
+          "usd": 40
         }
       ]
     },
@@ -556,7 +565,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -571,7 +580,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 9.5
+          "usd": 7
         }
       ]
     },
@@ -586,7 +595,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 9.5
+          "usd": 4.99
         }
       ]
     },
@@ -601,7 +610,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 9.5
+          "usd": 4.99
         }
       ]
     },
@@ -616,7 +625,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 16
+          "usd": 11.99
         }
       ]
     },
@@ -647,7 +656,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 18.26
+          "usd": 12
         }
       ]
     },
@@ -663,7 +672,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 24
+          "usd": 19.75
         }
       ]
     },
@@ -694,7 +703,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 29.99
+          "usd": 20.47
         }
       ]
     },
@@ -709,7 +718,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 8
+          "usd": 6
         }
       ]
     },
@@ -751,7 +760,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -763,7 +772,12 @@
       "type": "Rune",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/722315_200w.jpg",
       "url": "https://www.tcgplayer.com/product/722315/riftbound-league-of-legends-trading-card-game-radiance-mind-rune",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.99
+        }
+      ]
     },
     {
       "id": 722316,
@@ -777,7 +791,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 25
+          "usd": 20
         }
       ]
     },
@@ -792,7 +806,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -807,7 +821,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 40
+          "usd": 30.48
         }
       ]
     },
@@ -838,7 +852,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -868,7 +882,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 22
+          "usd": 19.74
         }
       ]
     },
@@ -910,7 +924,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 50
+          "usd": 40
         }
       ]
     },
@@ -925,7 +939,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -940,7 +954,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -955,7 +969,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -970,7 +984,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -982,7 +996,12 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/722330_200w.jpg",
       "url": "https://www.tcgplayer.com/product/722330/riftbound-league-of-legends-trading-card-game-radiance-reckless-innovator",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.24
+        }
+      ]
     },
     {
       "id": 722331,
@@ -995,7 +1014,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 40
+          "usd": 29.99
         }
       ]
     },
@@ -1010,7 +1029,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -1022,7 +1041,12 @@
       "type": "Gear",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/722333_200w.jpg",
       "url": "https://www.tcgplayer.com/product/722333/riftbound-league-of-legends-trading-card-game-radiance-runeblade-anvil",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.24
+        }
+      ]
     },
     {
       "id": 722334,
@@ -1035,7 +1059,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -1066,7 +1090,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 75
+          "usd": 60.24
         }
       ]
     },
@@ -1079,7 +1103,12 @@
       "type": "Champion Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/722337_200w.jpg",
       "url": "https://www.tcgplayer.com/product/722337/riftbound-league-of-legends-trading-card-game-radiance-seraphine-not-alone-k-da-special-art-card",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 299.99
+        }
+      ]
     },
     {
       "id": 722338,
@@ -1090,7 +1119,12 @@
       "type": "Legend",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/722338_200w.jpg",
       "url": "https://www.tcgplayer.com/product/722338/riftbound-league-of-legends-trading-card-game-radiance-seraphine-starry-eyed-songstress-overnumbered",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 899.69
+        }
+      ]
     },
     {
       "id": 722339,
@@ -1100,7 +1134,12 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/722339_200w.jpg",
       "url": "https://www.tcgplayer.com/product/722339/riftbound-league-of-legends-trading-card-game-radiance-stalwart-goatherd",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.24
+        }
+      ]
     },
     {
       "id": 722340,
@@ -1110,7 +1149,12 @@
       "type": "Spell",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/722340_200w.jpg",
       "url": "https://www.tcgplayer.com/product/722340/riftbound-league-of-legends-trading-card-game-radiance-supernova",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.24
+        }
+      ]
     },
     {
       "id": 722341,
@@ -1123,7 +1167,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -1168,7 +1212,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 7
+          "usd": 6.99
         }
       ]
     },
@@ -1194,7 +1238,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 15
+          "usd": 13.5
         }
       ]
     },
@@ -1236,7 +1280,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 9.99
+          "usd": 8.51
         }
       ]
     },
@@ -1252,7 +1296,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 400
+          "usd": 351.49
         }
       ]
     },
@@ -1267,7 +1311,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 13.51
+          "usd": 10.75
         }
       ]
     },
@@ -1280,7 +1324,12 @@
       "type": "Champion Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/722847_200w.jpg",
       "url": "https://www.tcgplayer.com/product/722847/riftbound-league-of-legends-trading-card-game-radiance-akali-brash-k-da-special-art-card",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 100
+        }
+      ]
     },
     {
       "id": 722848,
@@ -1293,7 +1342,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -1308,7 +1357,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 4.99
+          "usd": 4.24
         }
       ]
     },
@@ -1323,7 +1372,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 12
+          "usd": 8.49
         }
       ]
     },
@@ -1353,7 +1402,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 4.99
+          "usd": 4.24
         }
       ]
     },
@@ -1368,7 +1417,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -1384,7 +1433,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 25
+          "usd": 19.24
         }
       ]
     },
@@ -1399,7 +1448,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 4.99
+          "usd": 3.99
         }
       ]
     },
@@ -1425,7 +1474,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -1440,7 +1489,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 14.25
+          "usd": 13.51
         }
       ]
     },
@@ -1456,7 +1505,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 21.5
+          "usd": 18
         }
       ]
     },
@@ -1471,7 +1520,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 4.99
+          "usd": 3.99
         }
       ]
     },
@@ -1501,7 +1550,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -1562,7 +1611,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 29
+          "usd": 29.5
         }
       ]
     },
@@ -1577,7 +1626,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 25
+          "usd": 24.99
         }
       ]
     },
@@ -1607,7 +1656,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -1622,7 +1671,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 14.25
+          "usd": 13.51
         }
       ]
     },
@@ -1637,7 +1686,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 13.51
+          "usd": 13.5
         }
       ]
     },
@@ -1650,7 +1699,12 @@
       "type": "Champion Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/722872_200w.jpg",
       "url": "https://www.tcgplayer.com/product/722872/riftbound-league-of-legends-trading-card-game-radiance-evelynn-in-control-k-da-special-art-card",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 199.99
+        }
+      ]
     },
     {
       "id": 722873,
@@ -1664,7 +1718,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 29
+          "usd": 19
         }
       ]
     },
@@ -1679,7 +1733,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -1694,7 +1748,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 4.99
+          "usd": 4.24
         }
       ]
     },
@@ -1709,7 +1763,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -1740,7 +1794,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 4.99
+          "usd": 3.99
         }
       ]
     },
@@ -1755,7 +1809,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 9.99
+          "usd": 9.5
         }
       ]
     },
@@ -1770,7 +1824,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -1785,7 +1839,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -1800,7 +1854,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -1815,7 +1869,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -1845,7 +1899,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -1887,7 +1941,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 27
+          "usd": 25
         }
       ]
     },
@@ -1917,7 +1971,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -1932,7 +1986,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 25
+          "usd": 20.23
         }
       ]
     },
@@ -1947,7 +2001,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -1962,7 +2016,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 13.51
+          "usd": 9
         }
       ]
     },
@@ -1992,7 +2046,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -2007,7 +2061,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -2019,7 +2073,12 @@
       "type": "Rune",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/722897_200w.jpg",
       "url": "https://www.tcgplayer.com/product/722897/riftbound-league-of-legends-trading-card-game-radiance-order-rune",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.99
+        }
+      ]
     },
     {
       "id": 722898,
@@ -2045,7 +2104,12 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/722899_200w.jpg",
       "url": "https://www.tcgplayer.com/product/722899/riftbound-league-of-legends-trading-card-game-radiance-overloaded-traveler",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.99
+        }
+      ]
     },
     {
       "id": 722900,
@@ -2056,7 +2120,12 @@
       "type": "Battlefield",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/722900_200w.jpg",
       "url": "https://www.tcgplayer.com/product/722900/riftbound-league-of-legends-trading-card-game-radiance-packed-amphitheater-ultimate",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 4499
+        }
+      ]
     },
     {
       "id": 722901,
@@ -2069,7 +2138,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -2084,7 +2153,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 13.51
+          "usd": 9
         }
       ]
     },
@@ -2099,7 +2168,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -2114,7 +2183,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -2144,7 +2213,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -2159,7 +2228,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 13.5
+          "usd": 9
         }
       ]
     },
@@ -2172,7 +2241,12 @@
       "type": "Champion Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/722908_200w.jpg",
       "url": "https://www.tcgplayer.com/product/722908/riftbound-league-of-legends-trading-card-game-radiance-riven-broken-blade-alternate-art",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 31.33
+        }
+      ]
     },
     {
       "id": 722909,
@@ -2185,7 +2259,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -2200,7 +2274,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -2245,7 +2319,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -2260,7 +2334,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 13.51
+          "usd": 9
         }
       ]
     },
@@ -2275,7 +2349,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -2290,7 +2364,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -2305,7 +2379,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -2320,7 +2394,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 25
+          "usd": 20.25
         }
       ]
     },
@@ -2335,7 +2409,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -2350,7 +2424,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -2362,7 +2436,12 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/722921_200w.jpg",
       "url": "https://www.tcgplayer.com/product/722921/riftbound-league-of-legends-trading-card-game-radiance-trifarian-captain",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 9.99
+        }
+      ]
     },
     {
       "id": 722922,
@@ -2372,7 +2451,12 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/722922_200w.jpg",
       "url": "https://www.tcgplayer.com/product/722922/riftbound-league-of-legends-trading-card-game-radiance-watchful-curator",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.24
+        }
+      ]
     },
     {
       "id": 723201,
@@ -2385,7 +2469,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -2400,7 +2484,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -2430,7 +2514,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -2445,7 +2529,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 9.99
+          "usd": 7
         }
       ]
     },
@@ -2460,7 +2544,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 13.51
+          "usd": 13.5
         }
       ]
     },
@@ -2475,7 +2559,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 13.51
+          "usd": 9
         }
       ]
     },
@@ -2505,7 +2589,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 13.51
+          "usd": 6.99
         }
       ]
     },
@@ -2551,7 +2635,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 10
+          "usd": 8
         }
       ]
     },
@@ -2566,7 +2650,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 13.51
+          "usd": 6
         }
       ]
     },
@@ -2597,7 +2681,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -2609,7 +2693,12 @@
       "type": "Spell",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/723216_200w.jpg",
       "url": "https://www.tcgplayer.com/product/723216/riftbound-league-of-legends-trading-card-game-radiance-parallel-convergence",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.99
+        }
+      ]
     },
     {
       "id": 723217,
@@ -2622,7 +2711,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -2637,7 +2726,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -2683,7 +2772,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -2698,7 +2787,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -2713,7 +2802,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 2.99
         }
       ]
     },
@@ -2728,7 +2817,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 11.5
+          "usd": 8
         }
       ]
     },
@@ -2743,7 +2832,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -2758,7 +2847,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 5
+          "usd": 4.99
         }
       ]
     },
@@ -2774,7 +2863,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 24
+          "usd": 20.48
         }
       ]
     },
@@ -2789,7 +2878,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 13.51
+          "usd": 9
         }
       ]
     },
@@ -2815,7 +2904,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 60
+          "usd": 55
         }
       ]
     },
@@ -2830,7 +2919,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 4.99
+          "usd": 4.24
         }
       ]
     },
@@ -2845,7 +2934,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 4.99
+          "usd": 4.24
         }
       ]
     },
@@ -2860,7 +2949,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 4.99
+          "usd": 4
         }
       ]
     },
@@ -2875,7 +2964,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 4.99
+          "usd": 4.24
         }
       ]
     },
@@ -2890,7 +2979,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 4.99
+          "usd": 3.99
         }
       ]
     },
@@ -2905,7 +2994,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 4.99
+          "usd": 4.24
         }
       ]
     },
@@ -2920,7 +3009,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 4.99
+          "usd": 4.24
         }
       ]
     },
@@ -2935,7 +3024,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 22
+          "usd": 19.74
         }
       ]
     },
@@ -2947,7 +3036,12 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/723421_200w.jpg",
       "url": "https://www.tcgplayer.com/product/723421/riftbound-league-of-legends-trading-card-game-radiance-incorrigible-construct",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.24
+        }
+      ]
     },
     {
       "id": 723422,
@@ -2960,7 +3054,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 13.5
+          "usd": 12
         }
       ]
     },
@@ -2976,7 +3070,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 10
+          "usd": 30
         }
       ]
     },
@@ -2988,7 +3082,12 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/723424_200w.jpg",
       "url": "https://www.tcgplayer.com/product/723424/riftbound-league-of-legends-trading-card-game-radiance-pitiless-stalker",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 4.24
+        }
+      ]
     },
     {
       "id": 723425,
@@ -2998,7 +3097,12 @@
       "type": "Gear",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/723425_200w.jpg",
       "url": "https://www.tcgplayer.com/product/723425/riftbound-league-of-legends-trading-card-game-radiance-protectors-shield",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.99
+        }
+      ]
     },
     {
       "id": 723426,
@@ -3026,7 +3130,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 8
+          "usd": 6
         }
       ]
     },
@@ -3057,7 +3161,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 40
+          "usd": 35.25
         }
       ]
     },
@@ -3072,7 +3176,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 10
+          "usd": 8
         }
       ]
     },
@@ -3087,7 +3191,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 8
+          "usd": 6.5
         }
       ]
     },
@@ -3099,7 +3203,12 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/723432_200w.jpg",
       "url": "https://www.tcgplayer.com/product/723432/riftbound-league-of-legends-trading-card-game-radiance-stoic-ferryman",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.99
+        }
+      ]
     },
     {
       "id": 723433,
@@ -3109,7 +3218,12 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/723433_200w.jpg",
       "url": "https://www.tcgplayer.com/product/723433/riftbound-league-of-legends-trading-card-game-radiance-strigian-oracle",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.99
+        }
+      ]
     },
     {
       "id": 723434,
@@ -3122,7 +3236,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 9
+          "usd": 8.99
         }
       ]
     },
@@ -3145,7 +3259,12 @@
       "type": "Unit",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/723436_200w.jpg",
       "url": "https://www.tcgplayer.com/product/723436/riftbound-league-of-legends-trading-card-game-radiance-trinket-peddler",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Normal",
+          "usd": 3.99
+        }
+      ]
     },
     {
       "id": 723437,
@@ -3163,5 +3282,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-10-16"
+  "pricesAt": "2026-10-17"
 }

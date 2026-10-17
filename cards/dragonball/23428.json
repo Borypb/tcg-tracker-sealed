@@ -74,7 +74,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.63
+          "usd": 0.64
         }
       ]
     },
@@ -135,7 +135,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 1.09
+          "usd": 1.12
         }
       ]
     },
@@ -212,7 +212,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 4.58
+          "usd": 4.47
         }
       ]
     },
@@ -242,7 +242,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.39
+          "usd": 0.38
         }
       ]
     },
@@ -456,7 +456,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 79.05
+          "usd": 79.85
         }
       ]
     },
@@ -472,7 +472,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 13.59
+          "usd": 13.47
         }
       ]
     },
@@ -504,7 +504,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 13.76
+          "usd": 13.62
         }
       ]
     },
@@ -520,7 +520,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 7.44
+          "usd": 7.33
         }
       ]
     },
@@ -908,7 +908,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 268.49
+          "usd": 273.99
         }
       ]
     },
@@ -954,7 +954,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 0.86
+          "usd": 0.83
         }
       ]
     },
@@ -1146,7 +1146,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 21.19
+          "usd": 20.9
         }
       ]
     },
@@ -1194,7 +1194,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 15.12
+          "usd": 14.83
         }
       ]
     },
@@ -1210,7 +1210,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 26.1
+          "usd": 25.51
         }
       ]
     },
@@ -1351,7 +1351,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 4.81
+          "usd": 4.68
         }
       ]
     },
@@ -1383,7 +1383,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 21.06
+          "usd": 21.4
         }
       ]
     },
@@ -1460,7 +1460,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 41.58
+          "usd": 41.9
         }
       ]
     },
@@ -1507,7 +1507,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 52.03
+          "usd": 55.1
         }
       ]
     },
@@ -1523,7 +1523,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 43.5
+          "usd": 43.18
         }
       ]
     },
@@ -1602,7 +1602,7 @@
       "prices": [
         {
           "sub": "Holofoil",
-          "usd": 17.21
+          "usd": 16.51
         }
       ]
     },
@@ -1730,7 +1730,71 @@
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/712835_200w.jpg",
       "url": "https://www.tcgplayer.com/product/712835/dragon-ball-super-fusion-world-fusion-world-promotion-cards-and-packs-god-kamehameha-2nd-anniversary-set",
       "prices": []
+    },
+    {
+      "id": 723661,
+      "name": "Shallot",
+      "number": "FP-095",
+      "rarity": "Promo",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723661_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723661/dragon-ball-super-fusion-world-fusion-world-promotion-cards-and-packs-shallot-fp-095",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 25
+        }
+      ]
+    },
+    {
+      "id": 723662,
+      "name": "Shallot",
+      "label": "Release Event Winner",
+      "number": "FP-095",
+      "rarity": "Promo",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723662_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723662/dragon-ball-super-fusion-world-fusion-world-promotion-cards-and-packs-shallot-fp-095-release-event-winner",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 500
+        }
+      ]
+    },
+    {
+      "id": 723663,
+      "name": "Son Gohan : Future",
+      "number": "FP-102",
+      "rarity": "Promo",
+      "type": "Battle",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/723663_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/723663/dragon-ball-super-fusion-world-fusion-world-promotion-cards-and-packs-son-gohan-future-fp-102",
+      "prices": [
+        {
+          "sub": "Holofoil",
+          "usd": 25
+        }
+      ]
+    },
+    {
+      "id": 724320,
+      "name": "Son Goku",
+      "number": "FP-104",
+      "rarity": "Promo",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/724320_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/724320/dragon-ball-super-fusion-world-fusion-world-promotion-cards-and-packs-son-goku-fp-104",
+      "prices": []
+    },
+    {
+      "id": 724321,
+      "name": "Goku Black",
+      "number": "FP-105",
+      "rarity": "Promo",
+      "image": "https://tcgplayer-cdn.tcgplayer.com/product/724321_200w.jpg",
+      "url": "https://www.tcgplayer.com/product/724321/dragon-ball-super-fusion-world-fusion-world-promotion-cards-and-packs-goku-black-fp-105",
+      "prices": []
     }
   ],
-  "pricesAt": "2026-10-16"
+  "pricesAt": "2026-10-17"
 }

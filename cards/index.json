@@ -10,10 +10,20 @@
           "name": "Brightness of Hope",
           "code": "FB11",
           "releasedAt": "2026-10-16",
-          "modifiedOn": "2026-10-15T18:18:03.657",
+          "modifiedOn": "2026-10-16T14:15:59.65",
           "count": 162,
           "file": "cards/dragonball/24716.json",
           "version": "dd12d65afa21"
+        },
+        {
+          "groupId": 24874,
+          "name": "Brightness of Hope Release Event Cards",
+          "code": "FB11_PR",
+          "releasedAt": "2026-10-16",
+          "modifiedOn": "2026-10-16T14:10:47.287",
+          "count": 75,
+          "file": "cards/dragonball/24874.json",
+          "version": "1a9965baaf22"
         },
         {
           "groupId": 24680,
@@ -200,7 +210,7 @@
           "name": "Rivals Clash",
           "code": "FB06",
           "releasedAt": "2025-05-02",
-          "modifiedOn": "2026-09-21T17:52:41.49",
+          "modifiedOn": "2026-10-16T15:00:43.893",
           "count": 141,
           "file": "cards/dragonball/24247.json",
           "version": "4b2fe0d8f764"
@@ -490,10 +500,10 @@
           "name": "Fusion World Promotion Cards and Packs",
           "code": "DBSFW_PR",
           "releasedAt": "2024-02-14",
-          "modifiedOn": "2026-09-18T17:27:04.6",
-          "count": 114,
+          "modifiedOn": "2026-10-16T18:15:36.087",
+          "count": 119,
           "file": "cards/dragonball/23428.json",
-          "version": "2a4fc23ae7fb"
+          "version": "6e5468c6c76e"
         },
         {
           "groupId": 23429,
@@ -511,6 +521,16 @@
       "categoryId": 91,
       "category": "Palworld OFFICIAL CARD GAME",
       "sets": [
+        {
+          "groupId": 24908,
+          "name": "Sleeve and Card Sets",
+          "code": "ESS",
+          "releasedAt": "2026-10-16",
+          "modifiedOn": "2026-10-16T12:56:26.38",
+          "count": 10,
+          "file": "cards/palworld/24908.json",
+          "version": "ffcab8691962"
+        },
         {
           "groupId": 24842,
           "name": "BP01: Dawn of Palpagos",
@@ -572,10 +592,10 @@
           "name": "Ignition of X",
           "code": "BT27",
           "releasedAt": "2026-12-11",
-          "modifiedOn": "2026-10-14T12:43:49.213",
-          "count": 2,
+          "modifiedOn": "2026-10-16T19:47:13.987",
+          "count": 4,
           "file": "cards/digimon/24865.json",
-          "version": "8f1359de31b4"
+          "version": "7f23037eced0"
         },
         {
           "groupId": 24635,
@@ -1587,7 +1607,7 @@
           "name": "Radiance",
           "code": "RAD",
           "releasedAt": "2026-10-23",
-          "modifiedOn": "2026-10-15T17:15:02.44",
+          "modifiedOn": "2026-10-16T19:39:25.997",
           "count": 219,
           "file": "cards/riftbound/24819.json",
           "version": "853c4eac2ec1"
@@ -1677,7 +1697,7 @@
           "name": "Riftbound Promotional Cards",
           "code": "PR",
           "releasedAt": "2025-10-31",
-          "modifiedOn": "2026-09-09T18:45:41.583",
+          "modifiedOn": "2026-10-16T19:46:04.877",
           "count": 11,
           "file": "cards/riftbound/24343.json",
           "version": "ad2a6967fb41"
@@ -1705,5 +1725,5 @@
       ]
     }
   },
-  "updatedAt": "2026-10-16"
+  "updatedAt": "2026-10-17"
 }

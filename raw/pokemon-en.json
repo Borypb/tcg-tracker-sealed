@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "en",
   "categoryId": 3,
-  "harvestedAt": "2026-10-16T08:31:35.051Z",
+  "harvestedAt": "2026-10-17T01:15:40.759Z",
   "groups": {
     "604": {
       "name": "Base Set",
@@ -478,7 +478,7 @@
     "1373": {
       "name": "Team Rocket",
       "abbreviation": "TR",
-      "modifiedOn": "2026-09-10T17:45:53.167",
+      "modifiedOn": "2026-10-15T20:26:58.26",
       "publishedOn": "2000-04-24",
       "setCode": "base5",
       "products": [
@@ -2796,7 +2796,7 @@
     "1434": {
       "name": "Neo Discovery",
       "abbreviation": "N2",
-      "modifiedOn": "2026-08-14T17:34:23.45",
+      "modifiedOn": "2026-10-16T19:07:10.983",
       "publishedOn": "2001-06-01",
       "setCode": "neo2",
       "products": [
@@ -8194,7 +8194,7 @@
     "2374": {
       "name": "Miscellaneous Cards & Products",
       "abbreviation": "MCAP",
-      "modifiedOn": "2026-10-15T02:56:25.76",
+      "modifiedOn": "2026-10-16T05:23:05.84",
       "products": [
         {
           "tcgplayerId": 179376,
@@ -13597,7 +13597,7 @@
     "2545": {
       "name": "SWSH: Sword & Shield Promo Cards",
       "abbreviation": "SWSD",
-      "modifiedOn": "2026-10-13T02:55:27.247",
+      "modifiedOn": "2026-10-16T17:54:26.373",
       "publishedOn": "2019-11-15",
       "setCode": "swshp",
       "products": []
@@ -16196,7 +16196,7 @@
     "2906": {
       "name": "SWSH08: Fusion Strike",
       "abbreviation": "SWSH08",
-      "modifiedOn": "2026-10-12T17:50:49.83",
+      "modifiedOn": "2026-10-15T20:33:43.653",
       "publishedOn": "2021-11-12",
       "setCode": "swsh8",
       "products": [
@@ -18242,7 +18242,7 @@
     "22873": {
       "name": "SV01: Scarlet & Violet Base Set",
       "abbreviation": "SVI",
-      "modifiedOn": "2026-10-01T19:18:50.263",
+      "modifiedOn": "2026-10-15T20:24:39.313",
       "publishedOn": "2023-03-31",
       "setCode": "sv01",
       "products": [
@@ -18281,7 +18281,7 @@
         {
           "tcgplayerId": 478254,
           "name": "Scarlet & Violet Build & Battle Box Display",
-          "kind": "build_battle",
+          "kind": "case",
           "releasedOn": "2023-03-31",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/478254_200w.jpg",
           "url": "https://www.tcgplayer.com/product/478254/pokemon-sv01-scarlet-and-violet-base-set-scarlet-and-violet-build-and-battle-box-display"
@@ -18309,22 +18309,6 @@
           "releasedOn": "2023-03-31",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/478273_200w.jpg",
           "url": "https://www.tcgplayer.com/product/478273/pokemon-sv01-scarlet-and-violet-base-set-scarlet-and-violet-sleeved-booster-pack"
-        },
-        {
-          "tcgplayerId": 478274,
-          "name": "Scarlet & Violet Sleeved Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2023-03-31",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/478274_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/478274/pokemon-sv01-scarlet-and-violet-base-set-scarlet-and-violet-sleeved-booster-pack-art-bundle-set-of-4"
-        },
-        {
-          "tcgplayerId": 478275,
-          "name": "Scarlet & Violet Sleeved Booster Pack Bundle [Set of 8]",
-          "kind": "booster",
-          "releasedOn": "2023-03-31",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/478275_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/478275/pokemon-sv01-scarlet-and-violet-base-set-scarlet-and-violet-sleeved-booster-pack-bundle-set-of-8"
         },
         {
           "tcgplayerId": 478335,
@@ -18359,14 +18343,6 @@
           "url": "https://www.tcgplayer.com/product/478758/pokemon-sv01-scarlet-and-violet-base-set-scarlet-and-violet-pokemon-center-elite-trainer-box-exclusive-koraidon"
         },
         {
-          "tcgplayerId": 478759,
-          "name": "Scarlet & Violet Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2023-03-31",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/478759_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/478759/pokemon-sv01-scarlet-and-violet-base-set-scarlet-and-violet-booster-pack-art-bundle-set-of-4"
-        },
-        {
           "tcgplayerId": 478761,
           "name": "Scarlet & Violet 3 Pack Blister [Arcanine]",
           "kind": "blister",
@@ -18381,14 +18357,6 @@
           "releasedOn": "2023-03-31",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/478762_200w.jpg",
           "url": "https://www.tcgplayer.com/product/478762/pokemon-sv01-scarlet-and-violet-base-set-scarlet-and-violet-3-pack-blister-dondozo"
-        },
-        {
-          "tcgplayerId": 478763,
-          "name": "Scarlet & Violet 3 Pack Blister [Set of 2]",
-          "kind": "blister",
-          "releasedOn": "2023-03-31",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/478763_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/478763/pokemon-sv01-scarlet-and-violet-base-set-scarlet-and-violet-3-pack-blister-set-of-2"
         },
         {
           "tcgplayerId": 478765,
@@ -18407,14 +18375,6 @@
           "url": "https://www.tcgplayer.com/product/478766/pokemon-sv01-scarlet-and-violet-base-set-scarlet-and-violet-single-pack-blister-espathra"
         },
         {
-          "tcgplayerId": 478767,
-          "name": "Scarlet & Violet Single Pack Blister [Set of 2]",
-          "kind": "blister",
-          "releasedOn": "2023-03-31",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/478767_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/478767/pokemon-sv01-scarlet-and-violet-base-set-scarlet-and-violet-single-pack-blister-set-of-2"
-        },
-        {
           "tcgplayerId": 479328,
           "name": "Scarlet & Violet Premium Checklane Blister [Gengar]",
           "kind": "blister",
@@ -18431,28 +18391,12 @@
           "url": "https://www.tcgplayer.com/product/479330/pokemon-sv01-scarlet-and-violet-base-set-scarlet-and-violet-premium-checklane-blister-machamp"
         },
         {
-          "tcgplayerId": 479331,
-          "name": "Scarlet & Violet Premium Checklane Blister [Set of 2]",
-          "kind": "blister",
-          "releasedOn": "2023-03-31",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/479331_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/479331/pokemon-sv01-scarlet-and-violet-base-set-scarlet-and-violet-premium-checklane-blister-set-of-2"
-        },
-        {
           "tcgplayerId": 488776,
           "name": "Scarlet & Violet Elite Trainer Box Case",
           "kind": "case",
           "releasedOn": "2023-03-31",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/488776_200w.jpg",
           "url": "https://www.tcgplayer.com/product/488776/pokemon-sv01-scarlet-and-violet-base-set-scarlet-and-violet-elite-trainer-box-case"
-        },
-        {
-          "tcgplayerId": 489369,
-          "name": "Scarlet & Violet Elite Trainer Boxes [Set of 2]",
-          "kind": "etb",
-          "releasedOn": "2023-03-31",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/489369_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/489369/pokemon-sv01-scarlet-and-violet-base-set-scarlet-and-violet-elite-trainer-boxes-set-of-2"
         },
         {
           "tcgplayerId": 497166,
@@ -18481,7 +18425,7 @@
         {
           "tcgplayerId": 600076,
           "name": "Scarlet & Violet Sleeved Booster Case",
-          "kind": "booster",
+          "kind": "case",
           "releasedOn": "2023-03-31",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/600076_200w.jpg",
           "url": "https://www.tcgplayer.com/product/600076/pokemon-sv01-scarlet-and-violet-base-set-scarlet-and-violet-sleeved-booster-case"
@@ -18498,7 +18442,7 @@
     },
     "22880": {
       "name": "Prize Pack Series Cards",
-      "modifiedOn": "2026-10-09T20:41:44.517",
+      "modifiedOn": "2026-10-16T14:50:26.923",
       "publishedOn": "2022-11-30",
       "products": [
         {
@@ -20111,7 +20055,7 @@
     "23473": {
       "name": "SV06: Twilight Masquerade",
       "abbreviation": "TWM",
-      "modifiedOn": "2026-10-13T02:46:47.057",
+      "modifiedOn": "2026-10-15T20:11:12.313",
       "publishedOn": "2024-05-24",
       "setCode": "sv06",
       "products": [
@@ -20963,7 +20907,7 @@
     "23821": {
       "name": "SV: Prismatic Evolutions",
       "abbreviation": "PRE",
-      "modifiedOn": "2026-10-12T18:38:34.37",
+      "modifiedOn": "2026-10-15T20:22:55.687",
       "publishedOn": "2025-01-17",
       "setCode": "sv08.5",
       "products": [
@@ -21541,7 +21485,7 @@
     "24269": {
       "name": "SV10: Destined Rivals",
       "abbreviation": "DRI",
-      "modifiedOn": "2026-10-12T17:46:05.443",
+      "modifiedOn": "2026-10-15T20:13:36.807",
       "publishedOn": "2025-05-30",
       "setCode": "sv10",
       "products": [
@@ -22537,7 +22481,7 @@
     "24451": {
       "name": "ME: Mega Evolution Promo",
       "abbreviation": "MEP",
-      "modifiedOn": "2026-10-13T15:32:59.31",
+      "modifiedOn": "2026-10-16T17:32:44.313",
       "publishedOn": "2025-09-26",
       "setCode": "mep",
       "products": []
@@ -22565,7 +22509,7 @@
     "24541": {
       "name": "ME: Ascended Heroes",
       "abbreviation": "ASC",
-      "modifiedOn": "2026-10-01T19:30:44.77",
+      "modifiedOn": "2026-10-15T20:19:35.027",
       "publishedOn": "2026-01-30",
       "setCode": "me02.5",
       "products": [
@@ -22700,7 +22644,7 @@
         {
           "tcgplayerId": 672392,
           "name": "Ascended Heroes First Partners Deluxe Pin Collection Case",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2026-03-20",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/672392_200w.jpg",
           "url": "https://www.tcgplayer.com/product/672392/pokemon-me-ascended-heroes-ascended-heroes-first-partners-deluxe-pin-collection-case"
@@ -22740,7 +22684,7 @@
         {
           "tcgplayerId": 672737,
           "name": "Ascended Heroes Mega ex Boxes Case",
-          "kind": "other",
+          "kind": "case",
           "releasedOn": "2026-01-30",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/672737_200w.jpg",
           "url": "https://www.tcgplayer.com/product/672737/pokemon-me-ascended-heroes-ascended-heroes-mega-ex-boxes-case"
@@ -22748,7 +22692,7 @@
         {
           "tcgplayerId": 679556,
           "name": "Ascended Heroes Mini Tin Display",
-          "kind": "mini_tin",
+          "kind": "case",
           "releasedOn": "2026-02-20",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/679556_200w.jpg",
           "url": "https://www.tcgplayer.com/product/679556/pokemon-me-ascended-heroes-ascended-heroes-mini-tin-display"
@@ -22764,7 +22708,7 @@
         {
           "tcgplayerId": 681333,
           "name": "Mega Evolution: Ascended Heroes Tech Sticker Collection Case",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2026-01-30",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/681333_200w.jpg",
           "url": "https://www.tcgplayer.com/product/681333/pokemon-me-ascended-heroes-mega-evolution-ascended-heroes-tech-sticker-collection-case"
@@ -22780,7 +22724,7 @@
         {
           "tcgplayerId": 685000,
           "name": "Premium Poster Collection Case",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2026-01-30",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/685000_200w.jpg",
           "url": "https://www.tcgplayer.com/product/685000/pokemon-me-ascended-heroes-premium-poster-collection-case"
@@ -22788,7 +22732,7 @@
         {
           "tcgplayerId": 685195,
           "name": "Mega Evolution: Ascended Heroes Collection case",
-          "kind": "collection",
+          "kind": "case",
           "releasedOn": "2026-01-30",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/685195_200w.jpg",
           "url": "https://www.tcgplayer.com/product/685195/pokemon-me-ascended-heroes-mega-evolution-ascended-heroes-collection-case"
@@ -22812,7 +22756,7 @@
         {
           "tcgplayerId": 692362,
           "name": "Ascended Heroes Booster Bundle Display",
-          "kind": "bundle",
+          "kind": "case",
           "releasedOn": "2026-01-30",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/692362_200w.jpg",
           "url": "https://www.tcgplayer.com/product/692362/pokemon-me-ascended-heroes-ascended-heroes-booster-bundle-display"
@@ -22848,14 +22792,6 @@
           "releasedOn": "2026-08-28",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/702498_200w.jpg",
           "url": "https://www.tcgplayer.com/product/702498/pokemon-me-ascended-heroes-ascended-heroes-tin-mega-meganium-ex"
-        },
-        {
-          "tcgplayerId": 702500,
-          "name": "Ascended Heroes Tin [Set of 3]",
-          "kind": "tin",
-          "releasedOn": "2026-08-28",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/702500_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/702500/pokemon-me-ascended-heroes-ascended-heroes-tin-set-of-3"
         },
         {
           "tcgplayerId": 702501,
@@ -23174,7 +23110,7 @@
     "24655": {
       "name": "ME04: Chaos Rising",
       "abbreviation": "CRI",
-      "modifiedOn": "2026-10-07T17:29:05.26",
+      "modifiedOn": "2026-10-15T20:25:48.65",
       "publishedOn": "2026-05-22",
       "setCode": "me04",
       "products": [
@@ -23203,28 +23139,12 @@
           "url": "https://www.tcgplayer.com/product/684446/pokemon-me04-chaos-rising-chaos-rising-booster-pack"
         },
         {
-          "tcgplayerId": 684447,
-          "name": "Chaos Rising Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2026-05-22",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/684447_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/684447/pokemon-me04-chaos-rising-chaos-rising-booster-pack-art-bundle-set-of-4"
-        },
-        {
           "tcgplayerId": 684448,
           "name": "Chaos Rising Sleeved Booster Pack",
           "kind": "booster",
           "releasedOn": "2026-05-22",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/684448_200w.jpg",
           "url": "https://www.tcgplayer.com/product/684448/pokemon-me04-chaos-rising-chaos-rising-sleeved-booster-pack"
-        },
-        {
-          "tcgplayerId": 684449,
-          "name": "Chaos Rising Sleeved Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2026-05-22",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/684449_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/684449/pokemon-me04-chaos-rising-chaos-rising-sleeved-booster-pack-art-bundle-set-of-4"
         },
         {
           "tcgplayerId": 684450,
@@ -23269,7 +23189,7 @@
         {
           "tcgplayerId": 684455,
           "name": "Chaos Rising Build & Battle Display",
-          "kind": "build_battle",
+          "kind": "case",
           "releasedOn": "2026-06-05",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/684455_200w.jpg",
           "url": "https://www.tcgplayer.com/product/684455/pokemon-me04-chaos-rising-chaos-rising-build-and-battle-display"
@@ -23325,7 +23245,7 @@
         {
           "tcgplayerId": 690684,
           "name": "Chaos Rising Sleeved Booster Case",
-          "kind": "booster",
+          "kind": "case",
           "releasedOn": "2026-05-22",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/690684_200w.jpg",
           "url": "https://www.tcgplayer.com/product/690684/pokemon-me04-chaos-rising-chaos-rising-sleeved-booster-case"
@@ -23333,7 +23253,7 @@
         {
           "tcgplayerId": 695118,
           "name": "Chaos Rising 3-Pack Blister Case",
-          "kind": "blister",
+          "kind": "case",
           "releasedOn": "2026-05-22",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/695118_200w.jpg",
           "url": "https://www.tcgplayer.com/product/695118/pokemon-me04-chaos-rising-chaos-rising-3-pack-blister-case"
@@ -23367,7 +23287,7 @@
     "24688": {
       "name": "ME05: Pitch Black",
       "abbreviation": "PBL",
-      "modifiedOn": "2026-10-01T15:12:47.273",
+      "modifiedOn": "2026-10-16T04:31:35.74",
       "publishedOn": "2026-07-17",
       "setCode": "me05",
       "products": [
@@ -23426,14 +23346,6 @@
           "releasedOn": "2026-07-17",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/692944_200w.jpg",
           "url": "https://www.tcgplayer.com/product/692944/pokemon-me05-pitch-black-pitch-black-booster-pack"
-        },
-        {
-          "tcgplayerId": 692945,
-          "name": "Pitch Black Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2026-07-17",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/692945_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/692945/pokemon-me05-pitch-black-pitch-black-booster-pack-art-bundle-set-of-4"
         },
         {
           "tcgplayerId": 692946,
@@ -23518,7 +23430,7 @@
         {
           "tcgplayerId": 692956,
           "name": "Pitch Black Sleeved Booster Case",
-          "kind": "booster",
+          "kind": "case",
           "releasedOn": "2026-07-17",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/692956_200w.jpg",
           "url": "https://www.tcgplayer.com/product/692956/pokemon-me05-pitch-black-pitch-black-sleeved-booster-case"
@@ -23532,17 +23444,9 @@
           "url": "https://www.tcgplayer.com/product/692957/pokemon-me05-pitch-black-pitch-black-sleeved-booster-pack"
         },
         {
-          "tcgplayerId": 692958,
-          "name": "Pitch Black Sleeved Booster Pack Art Bundle [Set of 4]",
-          "kind": "booster",
-          "releasedOn": "2026-07-17",
-          "image": "https://tcgplayer-cdn.tcgplayer.com/product/692958_200w.jpg",
-          "url": "https://www.tcgplayer.com/product/692958/pokemon-me05-pitch-black-pitch-black-sleeved-booster-pack-art-bundle-set-of-4"
-        },
-        {
           "tcgplayerId": 693586,
           "name": "Pitch Black Build & Battle Box Display",
-          "kind": "build_battle",
+          "kind": "case",
           "releasedOn": "2026-07-31",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/693586_200w.jpg",
           "url": "https://www.tcgplayer.com/product/693586/pokemon-me05-pitch-black-pitch-black-build-and-battle-box-display"
@@ -23550,7 +23454,7 @@
         {
           "tcgplayerId": 693589,
           "name": "Pitch Black 3-Pack Blister Case",
-          "kind": "blister",
+          "kind": "case",
           "releasedOn": "2026-07-17",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/693589_200w.jpg",
           "url": "https://www.tcgplayer.com/product/693589/pokemon-me05-pitch-black-pitch-black-3-pack-blister-case"

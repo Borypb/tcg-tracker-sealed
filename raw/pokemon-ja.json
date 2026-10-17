@@ -2,7 +2,7 @@
   "game": "pokemon",
   "lang": "ja",
   "categoryId": 85,
-  "harvestedAt": "2026-10-16T08:31:37.670Z",
+  "harvestedAt": "2026-10-17T01:15:45.296Z",
   "groups": {
     "23598": {
       "name": "SV1a: Triplet Beat",
@@ -5425,7 +5425,7 @@
     "24423": {
       "name": "M-P Promotional Cards",
       "abbreviation": "M-P",
-      "modifiedOn": "2026-10-07T16:00:09.73",
+      "modifiedOn": "2026-10-16T15:14:51.32",
       "publishedOn": "2025-08-08",
       "products": [
         {
@@ -5435,6 +5435,78 @@
           "releasedOn": "2025-08-08",
           "image": "https://tcgplayer-cdn.tcgplayer.com/product/651131_200w.jpg",
           "url": "https://www.tcgplayer.com/product/651131/pokemon-japan-m-p-promotional-cards-mcdonalds-japan-promo-booster-2025"
+        },
+        {
+          "tcgplayerId": 723652,
+          "name": "30th Celebration Card Set: Bulbasaur, Charmander, & Squirtle",
+          "kind": "other",
+          "releasedOn": "2025-08-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/723652_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/723652/pokemon-japan-m-p-promotional-cards-30th-celebration-card-set-bulbasaur-charmander-and-squirtle"
+        },
+        {
+          "tcgplayerId": 723653,
+          "name": "30th Celebration Card Set: Chikorita, Cyndaquil, & Totodile",
+          "kind": "other",
+          "releasedOn": "2025-08-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/723653_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/723653/pokemon-japan-m-p-promotional-cards-30th-celebration-card-set-chikorita-cyndaquil-and-totodile"
+        },
+        {
+          "tcgplayerId": 723654,
+          "name": "30th Celebration Card Set: Treecko, Torchic, & Mudkip",
+          "kind": "other",
+          "releasedOn": "2025-08-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/723654_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/723654/pokemon-japan-m-p-promotional-cards-30th-celebration-card-set-treecko-torchic-and-mudkip"
+        },
+        {
+          "tcgplayerId": 723655,
+          "name": "30th Celebration Card Set: Turtwig, Chimchar, & Piplup",
+          "kind": "other",
+          "releasedOn": "2025-08-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/723655_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/723655/pokemon-japan-m-p-promotional-cards-30th-celebration-card-set-turtwig-chimchar-and-piplup"
+        },
+        {
+          "tcgplayerId": 723656,
+          "name": "30th Celebration Card Set: Snivy, Tepig, & Oshawott",
+          "kind": "other",
+          "releasedOn": "2025-08-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/723656_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/723656/pokemon-japan-m-p-promotional-cards-30th-celebration-card-set-snivy-tepig-and-oshawott"
+        },
+        {
+          "tcgplayerId": 723657,
+          "name": "30th Celebration Card Set: Chespin, Fennekin, & Froakie",
+          "kind": "other",
+          "releasedOn": "2025-08-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/723657_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/723657/pokemon-japan-m-p-promotional-cards-30th-celebration-card-set-chespin-fennekin-and-froakie"
+        },
+        {
+          "tcgplayerId": 723658,
+          "name": "30th Celebration Card Set: Rowlet, Litten, & Popplio",
+          "kind": "other",
+          "releasedOn": "2025-08-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/723658_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/723658/pokemon-japan-m-p-promotional-cards-30th-celebration-card-set-rowlet-litten-and-popplio"
+        },
+        {
+          "tcgplayerId": 723659,
+          "name": "30th Celebration Card Set: Grookey, Scorbunny, & Sobble",
+          "kind": "other",
+          "releasedOn": "2025-08-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/723659_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/723659/pokemon-japan-m-p-promotional-cards-30th-celebration-card-set-grookey-scorbunny-and-sobble"
+        },
+        {
+          "tcgplayerId": 723660,
+          "name": "30th Celebration Card Set: Sprigatito, Fuecoco, & Quaxly",
+          "kind": "other",
+          "releasedOn": "2025-08-08",
+          "image": "https://tcgplayer-cdn.tcgplayer.com/product/723660_200w.jpg",
+          "url": "https://www.tcgplayer.com/product/723660/pokemon-japan-m-p-promotional-cards-30th-celebration-card-set-sprigatito-fuecoco-and-quaxly"
         }
       ]
     },

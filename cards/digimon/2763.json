@@ -453,7 +453,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.09
+          "usd": 0.1
         }
       ]
     },
@@ -483,7 +483,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.06
+          "usd": 0.07
         }
       ]
     },
@@ -904,7 +904,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.06
+          "usd": 0.07
         }
       ]
     },
@@ -1465,7 +1465,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.41
+          "usd": 0.43
         }
       ]
     },
@@ -1511,7 +1511,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.69
+          "usd": 1.7
         }
       ]
     },
@@ -1526,7 +1526,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.13
+          "usd": 0.14
         }
       ]
     },
@@ -1677,7 +1677,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.16
+          "usd": 0.17
         }
       ]
     },
@@ -1844,7 +1844,7 @@
       "prices": [
         {
           "sub": "Normal",
-          "usd": 0.28
+          "usd": 0.27
         }
       ]
     },
@@ -2058,7 +2058,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 6.53
+          "usd": 6.65
         }
       ]
     },
@@ -2074,7 +2074,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.55
+          "usd": 0.54
         }
       ]
     },
@@ -2250,7 +2250,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 2.52
+          "usd": 2.51
         }
       ]
     },
@@ -2439,7 +2439,12 @@
       "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/276400_200w.jpg",
       "url": "https://www.tcgplayer.com/product/276400/digimon-card-game-great-legend-neodevimon-2022-championship-online-regional-online-champion",
-      "prices": []
+      "prices": [
+        {
+          "sub": "Foil",
+          "usd": 45.56
+        }
+      ]
     },
     {
       "id": 281970,
@@ -2485,7 +2490,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.21
+          "usd": 1.23
         }
       ]
     },
@@ -2619,10 +2624,10 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 8.13
+          "usd": 8.03
         }
       ]
     }
   ],
-  "pricesAt": "2026-10-16"
+  "pricesAt": "2026-10-17"
 }

@@ -162,7 +162,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 2.37
+          "usd": 2.31
         }
       ]
     },
@@ -177,7 +177,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.29
+          "usd": 0.34
         }
       ]
     },
@@ -237,7 +237,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.34
+          "usd": 1.45
         }
       ]
     },
@@ -387,7 +387,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.45
+          "usd": 0.46
         }
       ]
     },
@@ -444,12 +444,7 @@
       "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/588259_200w.jpg",
       "url": "https://www.tcgplayer.com/product/588259/digimon-card-game-release-special-booster-20-celebration-event-cards-machinedramon-bt18-073",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 2.25
-        }
-      ]
+      "prices": []
     },
     {
       "id": 588260,
@@ -687,7 +682,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.56
+          "usd": 0.55
         }
       ]
     },
@@ -702,7 +697,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.73
+          "usd": 1.79
         }
       ]
     },
@@ -863,7 +858,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.37
+          "usd": 1.4
         }
       ]
     },
@@ -878,7 +873,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 7.13
+          "usd": 6.79
         }
       ]
     },
@@ -938,7 +933,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 2.3
+          "usd": 2.25
         }
       ]
     },
@@ -998,7 +993,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 4.26
+          "usd": 4.35
         }
       ]
     },
@@ -1035,5 +1030,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-10-16"
+  "pricesAt": "2026-10-17"
 }

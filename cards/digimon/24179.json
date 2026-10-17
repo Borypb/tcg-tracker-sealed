@@ -42,7 +42,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.76
+          "usd": 0.56
         }
       ]
     },
@@ -57,7 +57,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.5
+          "usd": 0.31
         }
       ]
     },
@@ -117,7 +117,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.19
+          "usd": 1.33
         }
       ]
     },
@@ -132,7 +132,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.66
+          "usd": 0.71
         }
       ]
     },
@@ -292,7 +292,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.45
+          "usd": 0.35
         }
       ]
     },
@@ -307,7 +307,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.28
+          "usd": 0.29
         }
       ]
     },
@@ -487,7 +487,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 3.9
+          "usd": 4.47
         }
       ]
     },
@@ -502,7 +502,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 2.99
+          "usd": 2.97
         }
       ]
     },
@@ -578,7 +578,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 5.64
+          "usd": 5.63
         }
       ]
     },
@@ -624,7 +624,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 2.9
+          "usd": 3.09
         }
       ]
     },
@@ -654,7 +654,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 6.31
+          "usd": 7.34
         }
       ]
     },
@@ -684,7 +684,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 3.3
+          "usd": 3.31
         }
       ]
     },
@@ -756,12 +756,7 @@
       "type": "Digimon",
       "image": "https://tcgplayer-cdn.tcgplayer.com/product/618989_200w.jpg",
       "url": "https://www.tcgplayer.com/product/618989/digimon-card-game-release-special-booster-25-celebration-event-cards-grademon",
-      "prices": [
-        {
-          "sub": "Foil",
-          "usd": 6.27
-        }
-      ]
+      "prices": []
     },
     {
       "id": 618990,
@@ -985,7 +980,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 0.96
+          "usd": 1.13
         }
       ]
     },
@@ -1136,7 +1131,7 @@
       "prices": [
         {
           "sub": "Foil",
-          "usd": 1.49
+          "usd": 1.5
         }
       ]
     },
@@ -1188,5 +1183,5 @@
       ]
     }
   ],
-  "pricesAt": "2026-10-16"
+  "pricesAt": "2026-10-17"
 }
